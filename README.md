@@ -3,7 +3,8 @@ Cormorant is a free font family developed by Christian Thalmann ([Catharsis Font
 ###License and Download
  
 The Cormorant typeface and all its associated font files are free software under the [SIL Open Font License](https://github.com/CatharsisFonts/Cormorant/blob/master/LICENSE.md). Essentially, this gives you the right to download, use, and redistribute the fonts as you like, provided that 
-1. you acknowledge me (Christian Thalmann, Catharsis Fonts) as the creator of this software;
+
+1. you acknowledge me (Christian Thalmann, [Catharsis Fonts](https://www.myfonts.com/foundry/Catharsis_Fonts/)) as the creator of this software;
 2. you do not redistribute this software without this license information; and 
 3. you do not make any money off of redistributing this software (though you are allowed to sell them as part of a bundle containing commercial software).
 
