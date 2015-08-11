@@ -1,6 +1,6 @@
 ###Cormorant typeface
 
-Cormorant is a free type family developed by Christian Thalmann ([Catharsis Fonts](https://www.myfonts.com/foundry/Catharsis_Fonts/)).  For an illustrated presentation and description of the family, **please visit [its Bēhance page](https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family)**.
+Cormorant is a free display type family developed by Christian Thalmann ([Catharsis Fonts](https://www.myfonts.com/foundry/Catharsis_Fonts/)).  It comprises a total of 30 font files spanning 6 different styles (Roman, Italic, Upright Cursive, Roman Infant, Small Caps, Unicase) and 5 weights (Light, Regular, Medium, Semibold, Bold).  For an illustrated presentation and description of the family, **please visit [its Bēhance page](https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family)**.
 
 Cormorant is open source, and all its working files (in [Glyphs](https://glyphsapp.com/) format) are available from this repository. If you wish to work with Cormorant in a different font editor (which I wouldn't recommend), I can provide you with UFO versions of those files instead.
 
