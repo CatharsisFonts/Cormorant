@@ -1,4 +1,16 @@
-Cormorant is a free font family developed by Christian Thalmann ([Catharsis Fonts](https://www.myfonts.com/foundry/Catharsis_Fonts/)).  For an illustrated presentation and description of the family, please visit [its Bēhance page](https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family).
+###Cormorant typeface
+
+Cormorant is a free type family developed by Christian Thalmann ([Catharsis Fonts](https://www.myfonts.com/foundry/Catharsis_Fonts/)).  For an illustrated presentation and description of the family, please visit [its Bēhance page](https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family).
+
+Cormorant is open source, and all its working files (in Glyphs format) are available from this repository. If you wish to work with Cormorant in a different font editor (which I wouldn't recommend), I can provide you with UFO versions of those files instead.
+
+Any feedback, bug reports, test results, and suggestions for additions are very welcome.  You can contact me under `christian dot d dot thalmann at gmail dot com` or ping me on Twitter under `@CatharsisFonts`.  
+
+###Installation
+
+**If you wish to use the Cormorant type family on your computer, simply download [the ZIP file](https://github.com/CatharsisFonts/Cormorant/blob/master/Cormorant_OTF_Font_Family.zip), unpack it, and install the .otf files as appropriate for your operating system.**
+
+**If you wish to use the Cormorant type family on your website, please make use of the Google Fonts webfont directory.  _(This option is not yet available.)_**
 
 ###License and Download
  
