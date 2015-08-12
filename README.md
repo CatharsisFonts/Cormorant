@@ -14,7 +14,7 @@ If you wish to use the Cormorant type family on your computer, simply download [
 
 If you wish to use the Cormorant type family on your website, please make use of the Google Fonts webfont directory.  *(This option is not yet available.)*
 
-###License and Download
+###License
  
 The Cormorant typeface and all its associated font files are free software under the [SIL Open Font License](https://github.com/CatharsisFonts/Cormorant/blob/master/LICENSE.md). Essentially, this gives you the right to download, use, and redistribute the fonts as you like, provided that 
 
