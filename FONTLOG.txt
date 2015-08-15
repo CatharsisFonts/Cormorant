@@ -1,0 +1,58 @@
+FONTLOG for the Cormorant font family
+
+This file provides detailed information on the Cormorant Font Software.
+This information should be distributed along with the Cormorant fonts
+and any derivative works.
+
+Basic Font Information
+
+Cormorant is a Unicode display serif typeface encompassing the Adobe Latin
+4 range of characters.  It is inspired by Claude Garamont's timeless 
+designs.
+
+This release contains six styles:
+- Roman
+- Italic
+- Upright (an upright script version of the Italic)
+- Infant (a version of the Roman with single-storey /a/g/y)
+- SC (a small-caps version of the Roman)
+- Unicase (a small-caps version of the Roman mixed with some lowercase 
+  shape substitutions)
+
+Each style comes in five weights:
+- Light
+- Regular
+- Medium
+- Semibold
+- Bold
+  
+Documentation can be found at the Cormorant GitHub page:
+https://github.com/CatharsisFonts/Cormorant
+
+An illustrated presentation can be found at the Cormorant Behance page:
+https://www.behance.net/gallery/28579883/Cormorant-an-open-source-display-font-family
+
+To contribute to the project, contact Christian Thalmann (see below).
+
+
+
+ChangeLog
+
+2015-08-15: Added metadata to the fonts, added this fontlog.
+(Christian Thalmann)
+
+2015-08-11: First release on GitHub.
+(Christian Thalmann)
+
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Christian Thalmann (Catharsis Fonts)
+E: christian.d.thalmann@gmail.com
+W: http://www.myfonts.com/foundry/Catharsis_Fonts/
+D: Creator of the Cormorant font family
+
