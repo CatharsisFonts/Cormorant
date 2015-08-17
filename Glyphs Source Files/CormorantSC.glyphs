@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"?\U00BF/questiondown.case"
+);
 classes = (
 {
 automatic = 1;
@@ -100724,7 +100727,7 @@ unicode = 002E;
 {
 color = 3;
 glyphname = question;
-lastChange = "2015-03-29 20:12:49 +0000";
+lastChange = "2015-08-17 07:13:02 +0000";
 layers = (
 {
 background = {
@@ -100784,15 +100787,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"171 400 OFFCURVE",
-"191 376 OFFCURVE",
-"191 338 CURVE SMOOTH",
-"191 267 OFFCURVE",
-"108 267 OFFCURVE",
-"108 215 CURVE SMOOTH",
-"108 197 OFFCURVE",
-"116 166 OFFCURVE",
-"130 143 CURVE SMOOTH",
 "131 140 OFFCURVE",
 "139 143 OFFCURVE",
 "138 146 CURVE SMOOTH",
@@ -100816,7 +100810,16 @@ nodes = (
 "104 359 CURVE SMOOTH",
 "107 378 OFFCURVE",
 "111 400 OFFCURVE",
-"144 400 CURVE SMOOTH"
+"144 400 CURVE SMOOTH",
+"171 400 OFFCURVE",
+"191 376 OFFCURVE",
+"191 338 CURVE SMOOTH",
+"191 267 OFFCURVE",
+"108 267 OFFCURVE",
+"108 215 CURVE SMOOTH",
+"108 197 OFFCURVE",
+"116 166 OFFCURVE",
+"130 143 CURVE SMOOTH"
 );
 }
 );
@@ -100932,12 +100935,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"178 262 OFFCURVE",
-"108 266 OFFCURVE",
-"108 215 CURVE SMOOTH",
-"108 197 OFFCURVE",
-"116 166 OFFCURVE",
-"130 143 CURVE SMOOTH",
 "131 140 OFFCURVE",
 "142 143 OFFCURVE",
 "142 146 CURVE SMOOTH",
@@ -100964,7 +100961,13 @@ nodes = (
 "141 398 CURVE SMOOTH",
 "165 398 OFFCURVE",
 "178 368 OFFCURVE",
-"178 336 CURVE SMOOTH"
+"178 336 CURVE SMOOTH",
+"178 262 OFFCURVE",
+"108 266 OFFCURVE",
+"108 215 CURVE SMOOTH",
+"108 197 OFFCURVE",
+"116 166 OFFCURVE",
+"130 143 CURVE SMOOTH"
 );
 }
 );
@@ -101202,9 +101205,8 @@ rightMetricsKey = quotesingle;
 unicode = 0022;
 },
 {
-color = 3;
 glyphname = quotesingle;
-lastChange = "2015-03-29 20:12:49 +0000";
+lastChange = "2015-08-17 07:04:06 +0000";
 layers = (
 {
 background = {
@@ -101224,12 +101226,6 @@ nodes = (
 }
 );
 };
-components = (
-{
-name = quotesingle;
-transform = "{1, 0, 0, 1, 0, -40}";
-}
-);
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
 name = Regular;
 paths = (
@@ -101267,12 +101263,6 @@ nodes = (
 }
 );
 };
-components = (
-{
-name = quotesingle;
-transform = "{1, 0, 0, 1, 0, -40}";
-}
-);
 layerId = "894ACB46-AC6D-425B-AC8D-0A8BA8B88571";
 name = Bold;
 paths = (
@@ -104765,9 +104755,8 @@ rightMetricsKey = endash;
 unicode = 2013;
 },
 {
-color = 3;
 glyphname = hyphen;
-lastChange = "2015-03-29 20:12:49 +0000";
+lastChange = "2015-08-17 07:04:38 +0000";
 layers = (
 {
 anchors = (
@@ -104801,12 +104790,6 @@ nodes = (
 }
 );
 };
-components = (
-{
-name = hyphen;
-transform = "{1, 0, 0, 1, 0, 30}";
-}
-);
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
 name = Regular;
 paths = (
@@ -104858,12 +104841,6 @@ nodes = (
 }
 );
 };
-components = (
-{
-name = hyphen;
-transform = "{1, 0, 0, 1, 0, 30}";
-}
-);
 layerId = "894ACB46-AC6D-425B-AC8D-0A8BA8B88571";
 name = Bold;
 paths = (
@@ -105110,7 +105087,7 @@ rightKerningGroup = dash;
 {
 color = 3;
 glyphname = guillemetleft;
-lastChange = "2015-03-29 20:12:49 +0000";
+lastChange = "2015-08-17 07:05:18 +0000";
 layers = (
 {
 background = {
@@ -105125,12 +105102,6 @@ transform = "{1, 0, 0, 1, 122, 30}";
 }
 );
 };
-components = (
-{
-name = guillemetleft;
-transform = "{1, 0, 0, 1, -4, 30}";
-}
-);
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
 name = Regular;
 paths = (
@@ -105186,12 +105157,6 @@ transform = "{1, 0, 0, 1, 120, 30}";
 }
 );
 };
-components = (
-{
-name = guillemetleft;
-transform = "{1, 0, 0, 1, -6, 30}";
-}
-);
 layerId = "894ACB46-AC6D-425B-AC8D-0A8BA8B88571";
 name = Bold;
 paths = (
@@ -105420,7 +105385,7 @@ unicode = 2039;
 {
 color = 3;
 glyphname = guilsinglright;
-lastChange = "2015-03-29 20:12:49 +0000";
+lastChange = "2015-08-17 07:05:08 +0000";
 layers = (
 {
 background = {
@@ -105445,12 +105410,6 @@ nodes = (
 }
 );
 };
-components = (
-{
-name = guilsinglright;
-transform = "{1, 0, 0, 1, 0, 30}";
-}
-);
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
 name = Regular;
 paths = (
@@ -105498,12 +105457,6 @@ nodes = (
 }
 );
 };
-components = (
-{
-name = guilsinglright;
-transform = "{1, 0, 0, 1, 0, 30}";
-}
-);
 layerId = "894ACB46-AC6D-425B-AC8D-0A8BA8B88571";
 name = Bold;
 paths = (

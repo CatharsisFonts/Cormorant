@@ -1,7 +1,8 @@
 {
 DisplayStrings = (
 "Tt c m/odotbelow i n/uhorn/ohorngrave i sinh r /dcroat/ecircumflexgrave u /dcroat/uhorn/ohorndotbelow c t/uhorndotbelow  do \012v b\U00ECnh /dcroat n v/ecircumflexgrave  nhn phm v qu/ecircumflexgrave n l/ohorndotbelow i. \012M/odotbelow i con n/uhorn/ohorngrave i /dcroat/ecircumflexgrave u /dcroat/uhorn/ohorndotbelow c to h\U00F3 bn cho\012l tr\U00ED v l/uhorn/ohorn n tm v cn phi /dcroat/ocircumflexacute i x/uhornhookabove  v/ohornacute i \012nhu tron t\U00ECnh nh em. \012\012",
-Garamond
+Garamond,
+"?\U00BF/questiondown.case/question.sc/questiondown.sc"
 );
 classes = (
 {
@@ -176261,7 +176262,7 @@ rightKerningGroup = dash;
 },
 {
 glyphname = question.sc;
-lastChange = "2015-05-31 10:56:36 +0000";
+lastChange = "2015-08-17 07:15:15 +0000";
 layers = (
 {
 background = {
@@ -176321,15 +176322,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"171 400 OFFCURVE",
-"191 376 OFFCURVE",
-"191 338 CURVE SMOOTH",
-"191 267 OFFCURVE",
-"108 267 OFFCURVE",
-"108 215 CURVE SMOOTH",
-"108 197 OFFCURVE",
-"116 166 OFFCURVE",
-"130 143 CURVE SMOOTH",
 "131 140 OFFCURVE",
 "139 143 OFFCURVE",
 "138 146 CURVE SMOOTH",
@@ -176353,7 +176345,16 @@ nodes = (
 "104 359 CURVE SMOOTH",
 "107 378 OFFCURVE",
 "111 400 OFFCURVE",
-"144 400 CURVE SMOOTH"
+"144 400 CURVE SMOOTH",
+"171 400 OFFCURVE",
+"191 376 OFFCURVE",
+"191 338 CURVE SMOOTH",
+"191 267 OFFCURVE",
+"108 267 OFFCURVE",
+"108 215 CURVE SMOOTH",
+"108 197 OFFCURVE",
+"116 166 OFFCURVE",
+"130 143 CURVE SMOOTH"
 );
 }
 );
@@ -176469,12 +176470,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"178 262 OFFCURVE",
-"108 266 OFFCURVE",
-"108 215 CURVE SMOOTH",
-"108 197 OFFCURVE",
-"116 166 OFFCURVE",
-"130 143 CURVE SMOOTH",
 "131 140 OFFCURVE",
 "142 143 OFFCURVE",
 "142 146 CURVE SMOOTH",
@@ -176501,7 +176496,13 @@ nodes = (
 "141 398 CURVE SMOOTH",
 "165 398 OFFCURVE",
 "178 368 OFFCURVE",
-"178 336 CURVE SMOOTH"
+"178 336 CURVE SMOOTH",
+"178 262 OFFCURVE",
+"108 266 OFFCURVE",
+"108 215 CURVE SMOOTH",
+"108 197 OFFCURVE",
+"116 166 OFFCURVE",
+"130 143 CURVE SMOOTH"
 );
 }
 );
