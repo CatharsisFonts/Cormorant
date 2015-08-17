@@ -38,6 +38,12 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2015-08-17: Unified Roman, SC, Unicase, and Infant into a single Glyphs
+source file.  All four styles are now exported from CormorantRoman.glyphs.
+Run the "Cormorant Rename Glyphs Parameter.py" script to update the 
+derivation laws prior to export.
+(Christian Thalmann)
+
 2015-08-15: Added metadata to the fonts, added this fontlog.
 (Christian Thalmann)
 
