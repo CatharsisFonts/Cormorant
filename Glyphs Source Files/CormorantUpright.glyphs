@@ -30,7 +30,20 @@ code = "A Aacute Abreve Acaron Acircumflex Adieresis Agrave Amacron Aogonek Arin
 name = Kicker;
 }
 );
-date = "2014-11-19 09:21:20 +0000";
+copyright = "Created by Christian Thalmann with Glyphs in 2014\U20132015. ";
+customParameters = (
+{
+name = license;
+value = "Copyright (c) 2015, Christian Thalmann (christian.d.thalmann@gmail.com), OFL (SIL Open Font License)";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+}
+);
+date = "2015-08-15 08:21:20 +0000";
+designer = "Christian Thalmann (Catharsis Fonts)";
+designerURL = "https://github.com/CatharsisFonts/Cormorant";
 familyName = "Cormorant Upright";
 featurePrefixes = (
 {
