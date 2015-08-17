@@ -1,13 +1,4 @@
 {
-DisplayStrings = (
-"E/a.ss06 u de G/a.ss06 r/a.ss06 mond\012/a.ss06 ltern/a.ss06 te re/a.ss06 lities",
-"/f_f.a.liga a/f_f_t.a.liga/f_t.a.liga/f_b.liga/f_f.liga/f_f_b.liga/f_f_h.liga/f_f_i.liga/f_f_j.liga/f_f_k.liga/f_f_l.liga/f_f_thorn.liga/f_f_t.liga/f_h.liga/f_j.liga/f_k.liga/f_thorn.liga/f_t.liga \012/g_g.liga/g_y.liga/g_yacute.liga/g_ycircumflex.liga/g_ydieresis.liga/g_ygrave.liga/g_ymacron.liga/g_ytilde.liga/f_f.short.liga \012/longs_b.liga/longs_h.liga/longs_i.liga/longs_j.liga/longs_k.liga/longs_l.liga/longs_thorn.liga/longs_longs.liga/longs_longs_b.liga/longs_longs_h.liga/longs_longs_i.liga/longs_longs_j.liga/longs_longs_k.liga/longs_longs_l.liga/longs_longs_thorn.liga \012/g_j.ss01/g_u.ss01/g_uacute.ss01/g_ubreve.ss01/g_ucaron.ss01/g_ucircumflex.ss01/g_udieresis.ss01/g_udieresisacute.ss01/g_udieresiscaron.ss01/g_udieresisgrave.ss01/g_udieresismacron.ss01/g_ugrave.ss01/g_uhungarumlaut.ss01/g_umacron.ss01/g_uogonek.ss01/g_uring.ss01/g_utilde.ss01/gbreve_u.ss01/gbreve_udieresis.ss01/g_g.liga.ss01/g_y.liga.ss01/g_yacute.liga.ss01/g_ycircumflex.liga.ss01/g_ydieresis.liga.ss01/g_ygrave.liga.ss01/g_ymacron.liga.ss01/g_ytilde.liga.ss01 \012/f_f.a.liga.ss06/f_f_t.a.liga.ss06/f_t.a.liga.ss06 \U00AA\U00BA/nmod/ffxmaker/ssxmaker   ",
-/mu/pi,
-"MONUMENTAL\012HHHOQ\012HHHMHHHH",
-"O\U00D3/Obreve/Ocaron \U00D4/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde \U00D6/Odotbelow \U00D2/Ohookabove O/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Omacron/Oogonek \U00D8/Oslashacute \U00D5/OE \012Q/Q.long/Q.long.ss02/Q.long.ss03/Q.long.ss04/Odieresis.ss05",
-"f\U00B4/ij ns",
-g/gbreve/gcaron/gcircumflex/gcommaaccent/gdotaccent/gmacron/gsingle
-);
 classes = (
 {
 automatic = 1;

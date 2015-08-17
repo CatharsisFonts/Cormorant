@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-"Zw\U00F6lf Boxk\U00E4mpfer jagen Eva \012quer \U00FCber den Sylter Deich.      ",
-Quartalsbericht.
-);
 classes = (
 {
 automatic = 1;
@@ -222895,7 +222891,7 @@ width = 266;
 },
 {
 glyphname = tilde.narrow.case;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-08-17 09:14:45 +0000";
 layers = (
 {
 anchors = (
@@ -222904,14 +222900,39 @@ name = _top;
 position = "{118, 330}";
 }
 );
-components = (
-{
-name = tilde;
-transform = "{1, 0, 0, 1, 33, -20}";
-}
-);
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"26 403 OFFCURVE",
+"31 415 OFFCURVE",
+"54 415 CURVE SMOOTH",
+"98 415 OFFCURVE",
+"132 394 OFFCURVE",
+"171 394 CURVE SMOOTH",
+"191 394 OFFCURVE",
+"206 403 OFFCURVE",
+"229 443 CURVE SMOOTH",
+"231 446 OFFCURVE",
+"224 451 OFFCURVE",
+"222 449 CURVE SMOOTH",
+"214 438 OFFCURVE",
+"206 426 OFFCURVE",
+"184 426 CURVE SMOOTH",
+"141 426 OFFCURVE",
+"103 447 OFFCURVE",
+"73 447 CURVE SMOOTH",
+"44 447 OFFCURVE",
+"20 416 OFFCURVE",
+"9 398 CURVE SMOOTH",
+"8 395 OFFCURVE",
+"15 390 OFFCURVE",
+"16 392 CURVE SMOOTH"
+);
+}
+);
 width = 239;
 },
 {
@@ -222964,14 +222985,39 @@ name = _top;
 position = "{118, 330}";
 }
 );
-components = (
-{
-name = tilde;
-transform = "{1, 0, 0, 1, 33, -20}";
-}
-);
 layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
 name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"23 397 OFFCURVE",
+"27 405 OFFCURVE",
+"58 405 CURVE SMOOTH",
+"96 405 OFFCURVE",
+"138 384 OFFCURVE",
+"169 384 CURVE SMOOTH",
+"198 384 OFFCURVE",
+"213 397 OFFCURVE",
+"238 453 CURVE SMOOTH",
+"239 456 OFFCURVE",
+"232 461 OFFCURVE",
+"231 459 CURVE SMOOTH",
+"217 442 OFFCURVE",
+"206 436 OFFCURVE",
+"181 436 CURVE SMOOTH",
+"144 436 OFFCURVE",
+"97 457 OFFCURVE",
+"74 457 CURVE SMOOTH",
+"35 457 OFFCURVE",
+"13 413 OFFCURVE",
+"1 388 CURVE SMOOTH",
+"0 385 OFFCURVE",
+"7 380 OFFCURVE",
+"8 382 CURVE SMOOTH"
+);
+}
+);
 width = 239;
 }
 );

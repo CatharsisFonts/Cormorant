@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/tilde.narrow.case/Itilde
+);
 classes = (
 {
 automatic = 1;
@@ -137587,7 +137590,7 @@ width = 266;
 },
 {
 glyphname = tilde.narrow.case;
-lastChange = "2015-08-17 06:47:13 +0000";
+lastChange = "2015-08-17 09:13:14 +0000";
 layers = (
 {
 anchors = (
@@ -137602,15 +137605,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"188 426 OFFCURVE",
-"153 447 OFFCURVE",
-"123 447 CURVE SMOOTH",
-"94 447 OFFCURVE",
-"65 416 OFFCURVE",
-"51 398 CURVE SMOOTH",
-"49 395 OFFCURVE",
-"55 390 OFFCURVE",
-"57 392 CURVE SMOOTH",
 "68 403 OFFCURVE",
 "76 415 OFFCURVE",
 "99 415 CURVE SMOOTH",
@@ -137625,7 +137619,16 @@ nodes = (
 "273 449 CURVE SMOOTH",
 "263 438 OFFCURVE",
 "253 426 OFFCURVE",
-"231 426 CURVE SMOOTH"
+"231 426 CURVE SMOOTH",
+"188 426 OFFCURVE",
+"153 447 OFFCURVE",
+"123 447 CURVE SMOOTH",
+"94 447 OFFCURVE",
+"65 416 OFFCURVE",
+"51 398 CURVE SMOOTH",
+"49 395 OFFCURVE",
+"55 390 OFFCURVE",
+"57 392 CURVE SMOOTH"
 );
 }
 );
