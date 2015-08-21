@@ -40,7 +40,7 @@ value = "http://scripts.sil.org/OFL";
 date = "2015-08-15 08:21:20 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts/Cormorant";
-familyName = "Cormorant Upright";
+familyName = "Cormorant";
 featurePrefixes = (
 {
 automatic = 1;
@@ -227876,28 +227876,28 @@ width = 224;
 instances = (
 {
 interpolationWeight = 40;
-name = Light;
+name = "Upright Light";
 weightClass = Light;
 },
 {
 interpolationWeight = 48.2;
-name = Regular;
+name = "Upright Regular";
 },
 {
 interpolationWeight = 58.3;
-name = Medium;
+name = "Upright Medium";
 weightClass = Medium;
 },
 {
 interpolationWeight = 69.3;
-name = Semibold;
+name = "Upright Semibold";
 weightClass = SemiBold;
 },
 {
 interpolationWeight = 80;
 isBold = 1;
-linkStyle = Regular;
-name = Bold;
+linkStyle = "Upright Regular";
+name = "Upright Bold";
 weightClass = Bold;
 }
 );
