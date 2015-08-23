@@ -10,7 +10,7 @@ If you like Cormorant, please help spread the word via the social media of your 
 
 ### Installation
 
-If you wish to use the Cormorant type family on your computer, simply download the ZIP file from the [latest release][5], unpack it, and install the .otf files as appropriate for your operating system.
+If you wish to use the Cormorant type family on your computer, simply download the ZIP file from the [latest release][5], unpack it, and install the OpenType font files (.otf) as appropriate for your operating system.
 
 **Coming soon:** If you wish to use the Cormorant type family on your website, it will soon be available from [Google Fonts][10]. 
 
