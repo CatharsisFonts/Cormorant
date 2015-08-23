@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-Hn
+Hnj
 );
 classes = (
 {
@@ -255,13 +255,17 @@ value = "790";
 }
 );
 descender = -235;
+horizontalStems = (
+24,
+39
+);
 id = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
 userData = {
 noodleThickness = 15;
 };
 verticalStems = (
-24,
-46
+79,
+92
 );
 weight = Bold;
 weightValue = 80;
