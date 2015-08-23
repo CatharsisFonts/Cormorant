@@ -38,6 +38,11 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2015-08-22: Redefined the UPM scale to make the type appear larger at a 
+given point size, and to reduce the unnecessarily large line spacing.
+WARNING: Documents and webpages built with older versions of the fonts 
+may require some reformatting!
+
 2015-08-17: Unified Roman, SC, Unicase, and Infant into a single Glyphs
 source file.  All four styles are now exported from CormorantRoman.glyphs.
 Run the "Cormorant Rename Glyphs Parameter.py" script to update the 
