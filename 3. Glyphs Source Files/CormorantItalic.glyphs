@@ -103,7 +103,7 @@ name = dnom;
 },
 {
 automatic = 1;
-code = "sub one slash eight by oneeighth;\012sub one slash four by onequarter;\012sub three slash eight by threeeighths;\012sub one slash two by onehalf;\012sub five slash eight by fiveeighths;\012sub three slash four by threequarters;\012sub seven slash eight by seveneighths;\012";
+code = "lookup FRAC {\012\011sub slash by fraction;\012} FRAC;\012lookup UP {\012\011sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];\012} UP;\012lookup DOWN {\012\011sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012\011sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];\012} DOWN;\012";
 name = frac;
 },
 {
@@ -166,7 +166,7 @@ name = ss01;
 },
 {
 automatic = 1;
-code = "sub Q.long by Q.long.ss02;\012";
+code = "sub Q.long by Q.long.ss02;\012sub floralHeart by floralHeart.ss02;\012";
 name = ss02;
 },
 {
@@ -228210,7 +228210,7 @@ value = "1000";
 interpolationWeight = 69.3;
 isItalic = 1;
 linkStyle = Semibold;
-name = "Semibold Italic";
+name = "Semi Italic";
 weightClass = SemiBold;
 },
 {
