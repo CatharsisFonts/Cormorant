@@ -52,7 +52,7 @@ for thisInstance in Font.instances:
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss05"], "Remove Features" )
+		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss04", "ss05"], "Remove Features" )
 
 
 
