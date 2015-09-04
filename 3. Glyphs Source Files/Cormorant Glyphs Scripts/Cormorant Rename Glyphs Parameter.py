@@ -5,8 +5,8 @@
 import GlyphsApp
 
 
-
-instanceNamePart = "SC "
+        
+familyNamePart = "SC"
 Font = Glyphs.font
 
 suffix = ".liga.toBeDeleted"
@@ -21,7 +21,7 @@ renameGlyphs = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyph
 renameGlyphsParameterKey = "Rename Glyphs"
 
 for thisInstance in Font.instances:
-	if instanceNamePart in thisInstance.name:
+	if familyNamePart in thisInstance.familyName:
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
@@ -29,7 +29,7 @@ for thisInstance in Font.instances:
 
 
 
-instanceNamePart = "Unicase "
+familyNamePart = "Unicase"
 Font = Glyphs.font
 
 suffix = ".liga.toBeDeleted"
@@ -47,7 +47,7 @@ renameGlyphs = renameMundaneGlyphs + renameSS03Glyphs
 renameGlyphsParameterKey = "Rename Glyphs"
 
 for thisInstance in Font.instances:
-	if instanceNamePart in thisInstance.name:
+	if familyNamePart in thisInstance.familyName:
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
@@ -56,7 +56,7 @@ for thisInstance in Font.instances:
 
 
 
-instanceNamePart = "Infant "
+familyNamePart = "Infant"
 Font = Glyphs.font
 
 suffix = ".ss06"
@@ -65,7 +65,7 @@ renameGlyphs = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyph
 renameGlyphsParameterKey = "Rename Glyphs"
 
 for thisInstance in Font.instances:
-	if instanceNamePart in thisInstance.name:
+	if familyNamePart in thisInstance.familyName:
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
 
