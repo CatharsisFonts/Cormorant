@@ -5,8 +5,7 @@
 import GlyphsApp
 
 
-        
-familyNamePart = "SC"
+# SC        
 Font = Glyphs.font
 
 suffix = ".liga.toBeDeleted"
@@ -21,15 +20,20 @@ renameGlyphs = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyph
 renameGlyphsParameterKey = "Rename Glyphs"
 
 for thisInstance in Font.instances:
-	if familyNamePart in thisInstance.familyName:
+	parameterFamilyName = thisInstance.customValueForKey_("familyName")
+	if parameterFamilyName:
+		familyName = parameterFamilyName
+	else:
+		familyName = Font.familyName
+	if familyName.endswith("SC"):
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
+		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss03", "dlig", "liga"], "Remove Features" )
 
 
-
-familyNamePart = "Unicase"
+# Unicase
 Font = Glyphs.font
 
 suffix = ".liga.toBeDeleted"
@@ -38,34 +42,44 @@ removeGlyphs1 = [ "%s" % x for x in allSuffixedGlyphNames ]
 removeGlyphs2 = [ "%s" % x.replace(suffix,".liga") for x in allSuffixedGlyphNames ]
 removeGlyphsParameterKey = "Remove Glyphs"
 
-allSS03GlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(".ss03") ]
+allSS05GlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(".ss05") ]
 allSCGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(".sc") ]
-mundaneSCGlyphNames = [ x for x in allSCGlyphNames if x not in allSS03GlyphNames ]
+mundaneSCGlyphNames = [ x for x in allSCGlyphNames if x not in allSS05GlyphNames ]
 renameMundaneGlyphs = [ "%s=%s" % ( x, x.replace(".sc","") ) for x in mundaneSCGlyphNames ]
-renameSS03Glyphs = [ "%s=%s" % ( x, x.replace(".sc.ss03","") ) for x in allSS03GlyphNames ]
-renameGlyphs = renameMundaneGlyphs + renameSS03Glyphs
+renameSS05Glyphs = [ "%s=%s" % ( x, x.replace(".sc.ss05","") ) for x in allSS05GlyphNames ]
+renameGlyphs = renameMundaneGlyphs + renameSS05Glyphs
 renameGlyphsParameterKey = "Rename Glyphs"
 
 for thisInstance in Font.instances:
-	if familyNamePart in thisInstance.familyName:
+	parameterFamilyName = thisInstance.customValueForKey_("familyName")
+	if parameterFamilyName:
+		familyName = parameterFamilyName
+	else:
+		familyName = Font.familyName
+	if familyName.endswith("Unicase"):
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss04", "ss05"], "Remove Features" )
+		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss03", "dlig", "liga"], "Remove Features" )
 
 
 
-familyNamePart = "Infant"
+# Infant
 Font = Glyphs.font
 
-suffix = ".ss06"
+suffix = ".ss03"
 allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
 renameGlyphs = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
 renameGlyphsParameterKey = "Rename Glyphs"
 
 for thisInstance in Font.instances:
-	if familyNamePart in thisInstance.familyName:
+	parameterFamilyName = thisInstance.customValueForKey_("familyName")
+	if parameterFamilyName:
+		familyName = parameterFamilyName
+	else:
+		familyName = Font.familyName
+	if familyName.endswith("Infant"):
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
 
