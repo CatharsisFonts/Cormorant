@@ -228199,7 +228199,7 @@ value = "1000";
 );
 interpolationWeight = 69.3;
 isItalic = 1;
-linkStyle = Semibold;
+linkStyle = Semi;
 name = "Semi Italic";
 weightClass = SemiBold;
 },

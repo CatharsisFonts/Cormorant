@@ -223655,7 +223655,7 @@ width = 200;
 },
 {
 glyphname = circumflexcomb.case;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-09-06 23:39:29 +0000";
 layers = (
 {
 anchors = (
@@ -223665,7 +223665,7 @@ position = "{95, 534}";
 },
 {
 name = top;
-position = "{164, 567}";
+position = "{164, 577}";
 }
 );
 background = {
@@ -230150,7 +230150,7 @@ width = 338;
 {
 color = 9;
 glyphname = circumflexcomb_hookabovecomb.case;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-09-06 23:39:29 +0000";
 layers = (
 {
 anchors = (
@@ -230166,7 +230166,7 @@ position = "{43, 738}";
 components = (
 {
 name = circumflexcomb.case;
-transform = "{1, 0, 0, 1, 40, 0}";
+transform = "{1, 0, 0, 1, 40, -10}";
 },
 {
 name = hookabovecomb.mini;
