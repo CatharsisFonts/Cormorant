@@ -228211,8 +228211,8 @@ value = "1000";
 }
 );
 interpolationWeight = 80;
-isItalic = 1;
-linkStyle = Bold;
+isBold = 1;
+linkStyle = "Regular Italic";
 name = "Bold Italic";
 weightClass = Bold;
 }
