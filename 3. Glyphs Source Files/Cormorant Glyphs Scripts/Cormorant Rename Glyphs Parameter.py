@@ -25,7 +25,7 @@ for thisInstance in Font.instances:
 		familyName = parameterFamilyName
 	else:
 		familyName = Font.familyName
-	if familyName.endswith("SC"):
+	if familyName.startswith("Cormorant SC"):
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
@@ -56,7 +56,7 @@ for thisInstance in Font.instances:
 		familyName = parameterFamilyName
 	else:
 		familyName = Font.familyName
-	if familyName.endswith("Unicase"):
+	if familyName.startswith("Cormorant Unicase"):
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
@@ -79,7 +79,7 @@ for thisInstance in Font.instances:
 		familyName = parameterFamilyName
 	else:
 		familyName = Font.familyName
-	if familyName.endswith("Infant"):
+	if familyName.startswith("Cormorant Infant"):
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
 
