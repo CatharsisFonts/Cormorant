@@ -73,9 +73,9 @@ Font = Glyphs.font
 
 suffix = ".ss03"
 allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
-renameGlyphs1 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
+renameGlyphs = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
 renameGlyphsParameterKey = "Rename Glyphs"
-renameGlyphs2 = ["f_f.liga=uniFB00", "f_i.liga=uniFB01", "f_l.liga=uniFB02", "f_f_i.liga=uniFB03", "f_f_l.liga=uniFB04", "longs_t=uniFB05", "s_t=uniFB06"]
+#renameGlyphs2 = ["f_f.liga=uniFB00", "f_i.liga=uniFB01", "f_l.liga=uniFB02", "f_f_i.liga=uniFB03", "f_f_l.liga=uniFB04", "longs_t=uniFB05", "s_t=uniFB06"]
 
 for thisInstance in Font.instances:
 	parameterFamilyName = thisInstance.customValueForKey_("familyName")
@@ -85,5 +85,5 @@ for thisInstance in Font.instances:
 		familyName = Font.familyName
 	if familyName.startswith("Cormorant Infant"):
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
+		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
 

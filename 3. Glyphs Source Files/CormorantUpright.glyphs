@@ -110750,7 +110750,7 @@ leftKerningGroup = aaccent;
 },
 {
 glyphname = longs_t;
-lastChange = "2015-09-20 13:56:50 +0000";
+lastChange = "2015-09-20 15:22:41 +0000";
 layers = (
 {
 components = (
@@ -110784,6 +110784,7 @@ width = 491;
 leftKerningGroup = longs;
 leftMetricsKey = longs;
 rightMetricsKey = t;
+unicode = FB05;
 },
 {
 glyphname = r_t;
@@ -111703,7 +111704,7 @@ rightMetricsKey = "=p";
 },
 {
 glyphname = s_t;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-09-20 15:22:49 +0000";
 layers = (
 {
 anchors = (
@@ -112213,6 +112214,7 @@ width = 501;
 leftKerningGroup = s;
 leftMetricsKey = s;
 rightMetricsKey = t;
+unicode = FB06;
 },
 {
 color = 3;
@@ -116221,7 +116223,7 @@ rightMetricsKey = b;
 },
 {
 glyphname = f_f.liga;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-09-20 15:22:03 +0000";
 layers = (
 {
 components = (
@@ -116256,6 +116258,7 @@ leftKerningGroup = f;
 leftMetricsKey = f;
 rightKerningGroup = f;
 rightMetricsKey = "=f";
+unicode = FB00;
 },
 {
 glyphname = f_f_b.liga;
@@ -116339,7 +116342,7 @@ rightMetricsKey = h;
 },
 {
 glyphname = f_f_i.liga;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-09-20 15:22:26 +0000";
 layers = (
 {
 components = (
@@ -116377,6 +116380,7 @@ width = 694;
 leftKerningGroup = f;
 leftMetricsKey = f;
 rightMetricsKey = i;
+unicode = FB03;
 },
 {
 glyphname = f_f_j.liga;
@@ -116458,7 +116462,7 @@ rightMetricsKey = k;
 },
 {
 glyphname = f_f_l.liga;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-09-20 15:22:33 +0000";
 layers = (
 {
 components = (
@@ -116494,6 +116498,7 @@ width = 725;
 leftKerningGroup = f;
 leftMetricsKey = f;
 rightMetricsKey = l;
+unicode = FB04;
 },
 {
 glyphname = f_f_thorn.liga;
@@ -232577,6 +232582,7 @@ width = 224;
 );
 }
 );
+disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
