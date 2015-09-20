@@ -16,7 +16,10 @@ removeGlyphsParameterKey = "Remove Glyphs"
 
 suffix = ".sc"
 allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
-renameGlyphs = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
+renameGlyphs1 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
+suffix = ".sc.ss12"
+allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
+renameGlyphs2 = [ "%s=%s" % ( x, x.replace(suffix,".ss12") ) for x in allSuffixedGlyphNames ]
 renameGlyphsParameterKey = "Rename Glyphs"
 
 for thisInstance in Font.instances:
@@ -29,7 +32,7 @@ for thisInstance in Font.instances:
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
+		thisInstance.setCustomParameter_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss03", "dlig", "liga"], "Remove Features" )
 
 

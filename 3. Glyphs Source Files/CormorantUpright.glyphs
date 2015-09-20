@@ -48,7 +48,7 @@ value = "http://scripts.sil.org/OFL";
 date = "2015-09-19 22:11:31 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts/Cormorant";
-familyName = "Cormorant Upright v0.4";
+familyName = "Cormorant Upright v0.4.1";
 featurePrefixes = (
 {
 automatic = 1;
@@ -110747,6 +110747,43 @@ width = 827;
 }
 );
 leftKerningGroup = aaccent;
+},
+{
+glyphname = longs_t;
+lastChange = "2015-09-20 13:56:50 +0000";
+layers = (
+{
+components = (
+{
+name = longs;
+},
+{
+name = t;
+transform = "{1, 0, 0, 1, 207, 0}";
+}
+);
+layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
+name = Regular;
+width = 473;
+},
+{
+components = (
+{
+name = longs;
+},
+{
+name = t;
+transform = "{1, 0, 0, 1, 218, 0}";
+}
+);
+layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
+name = Bold;
+width = 491;
+}
+);
+leftKerningGroup = longs;
+leftMetricsKey = longs;
+rightMetricsKey = t;
 },
 {
 glyphname = r_t;
@@ -232592,7 +232629,6 @@ value = "1000";
 }
 );
 interpolationWeight = 80;
-isBold = 1;
 linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
