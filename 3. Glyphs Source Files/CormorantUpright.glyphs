@@ -1,4 +1,8 @@
 {
+DisplayStrings = (
+"/quotedblbase H/quotedblleft \012/quotedblbase O/quotedblleft \012/quotedblbase Wer?/quotedblleft \012/quotedblbase Y/quotedblleft \012/quotedblbase A/quotedblleft \012/quotedblbase X/quotedblleft",
+"Wrangler Vroom\012Won Von\012Wan Van\012Winter Vigilante V\U00EDo"
+);
 classes = (
 {
 automatic = 1;
@@ -276,7 +280,7 @@ glyphs = (
 {
 color = 3;
 glyphname = A;
-lastChange = "2015-06-04 10:39:30 +0000";
+lastChange = "2015-09-21 08:22:14 +0000";
 layers = (
 {
 anchors = (
@@ -27837,7 +27841,7 @@ unicode = 0056;
 {
 color = 3;
 glyphname = W;
-lastChange = "2015-06-04 10:52:05 +0000";
+lastChange = "2015-09-21 08:22:05 +0000";
 layers = (
 {
 anchors = (
@@ -28784,7 +28788,7 @@ unicode = 1E80;
 {
 color = 3;
 glyphname = X;
-lastChange = "2015-06-04 10:52:16 +0000";
+lastChange = "2015-09-21 08:22:18 +0000";
 layers = (
 {
 background = {
@@ -29801,7 +29805,7 @@ unicode = 0058;
 {
 color = 3;
 glyphname = Y;
-lastChange = "2015-06-04 10:52:32 +0000";
+lastChange = "2015-09-21 08:22:09 +0000";
 layers = (
 {
 anchors = (
@@ -39354,7 +39358,7 @@ rightKerningGroup = O;
 {
 color = 3;
 glyphname = a;
-lastChange = "2015-08-04 08:06:09 +0000";
+lastChange = "2015-09-21 08:33:02 +0000";
 layers = (
 {
 associatedMasterId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -54141,7 +54145,7 @@ unicode = 1E25;
 },
 {
 glyphname = i;
-lastChange = "2015-06-04 09:35:56 +0000";
+lastChange = "2015-09-21 08:33:11 +0000";
 layers = (
 {
 components = (
@@ -54172,6 +54176,7 @@ name = Bold;
 width = 222;
 }
 );
+leftKerningGroup = i;
 unicode = 0069;
 },
 {
@@ -54636,7 +54641,7 @@ unicode = 0131;
 },
 {
 glyphname = iacute;
-lastChange = "2015-06-04 15:06:22 +0000";
+lastChange = "2015-09-21 08:33:26 +0000";
 layers = (
 {
 components = (
@@ -54667,6 +54672,7 @@ name = Bold;
 width = 222;
 }
 );
+leftKerningGroup = i;
 unicode = 00ED;
 },
 {
@@ -66625,7 +66631,7 @@ unicode = 0071;
 {
 color = 3;
 glyphname = r;
-lastChange = "2015-08-04 08:07:25 +0000";
+lastChange = "2015-09-21 08:32:45 +0000";
 layers = (
 {
 associatedMasterId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -184626,7 +184632,7 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2015-06-03 14:35:35 +0000";
+lastChange = "2015-09-21 08:22:44 +0000";
 layers = (
 {
 components = (
@@ -184837,6 +184843,7 @@ nodes = (
 width = 280;
 }
 );
+rightKerningGroup = question;
 unicode = 003F;
 },
 {
@@ -188425,7 +188432,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2015-09-02 11:06:29 +0000";
+lastChange = "2015-09-21 08:22:55 +0000";
 layers = (
 {
 components = (
@@ -232752,6 +232759,7 @@ kerning = {
 "@MMK_R_s" = -40;
 "@MMK_R_v" = -30;
 "@MMK_R_y" = -40;
+"@MMK_R_i" = -20;
 };
 "@MMK_L_X" = {
 "@MMK_R_ampersand" = -20;
@@ -232802,7 +232810,7 @@ kerning = {
 "@MMK_L_comma" = {
 "@MMK_R_O" = -20;
 "@MMK_R_T" = -50;
-"@MMK_R_V" = -30;
+"@MMK_R_V" = -100;
 "@MMK_R_f" = -20;
 "@MMK_R_five" = -20;
 "@MMK_R_g" = -30;
@@ -232811,6 +232819,9 @@ kerning = {
 "@MMK_R_v" = -40;
 "@MMK_R_y" = -40;
 "@MMK_R_yaccent" = -50;
+"@MMK_R_Y" = -70;
+"@MMK_R_A" = 30;
+X = 20;
 };
 "@MMK_L_dash" = {
 "@MMK_R_T" = -60;
@@ -232890,6 +232901,9 @@ kerning = {
 };
 "@MMK_L_yaccent" = {
 "@MMK_R_comma" = -20;
+};
+"@MMK_L_question" = {
+"@MMK_R_quote" = 30;
 };
 };
 "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6" = {
@@ -232988,14 +233002,14 @@ kerning = {
 "@MMK_L_V" = {
 "@MMK_R_A" = -70;
 "@MMK_R_O" = -20;
-"@MMK_R_a" = -60;
+"@MMK_R_a" = -80;
 "@MMK_R_aaccent" = -30;
 "@MMK_R_ampersand" = -10;
 "@MMK_R_colon" = -20;
 "@MMK_R_comma" = -90;
 "@MMK_R_dash" = -40;
 "@MMK_R_g" = -65;
-"@MMK_R_n" = -40;
+"@MMK_R_n" = -50;
 "@MMK_R_o" = -55;
 "@MMK_R_oaccent" = -20;
 "@MMK_R_p" = -30;
@@ -233004,6 +233018,7 @@ kerning = {
 "@MMK_R_v" = -30;
 "@MMK_R_y" = -40;
 "@MMK_R_yaccent" = -20;
+"@MMK_R_i" = -20;
 };
 "@MMK_L_X" = {
 "@MMK_R_ampersand" = -20;
@@ -233053,7 +233068,7 @@ kerning = {
 "@MMK_L_comma" = {
 "@MMK_R_O" = -20;
 "@MMK_R_T" = -50;
-"@MMK_R_V" = -30;
+"@MMK_R_V" = -110;
 "@MMK_R_f" = -20;
 "@MMK_R_five" = -20;
 "@MMK_R_g" = -30;
@@ -233062,6 +233077,9 @@ kerning = {
 "@MMK_R_v" = -40;
 "@MMK_R_y" = -40;
 "@MMK_R_yaccent" = -50;
+"@MMK_R_Y" = -70;
+"@MMK_R_A" = 40;
+X = 30;
 };
 "@MMK_L_dash" = {
 "@MMK_R_T" = -60;
@@ -233140,6 +233158,9 @@ kerning = {
 };
 "@MMK_L_yaccent" = {
 "@MMK_R_comma" = -20;
+};
+"@MMK_L_question" = {
+"@MMK_R_quote" = 40;
 };
 };
 };
