@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+" Mutter sprach: /quotedblbase Vater sagte /quotesinglbase Gute Nacht!/quoteleft/quotedblleft \012 /quotedblleft Qapla'/quotedblright  "
+);
 classes = (
 {
 automatic = 1;
@@ -8813,7 +8816,7 @@ unicode = 0046;
 {
 color = 3;
 glyphname = G;
-lastChange = "2015-08-04 14:22:52 +0000";
+lastChange = "2015-09-22 14:22:24 +0000";
 layers = (
 {
 associatedMasterId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -188862,7 +188865,7 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2015-09-21 08:22:55 +0000";
+lastChange = "2015-09-22 14:21:58 +0000";
 layers = (
 {
 components = (
@@ -188893,13 +188896,13 @@ unicode = 201C;
 },
 {
 glyphname = quotedblright;
-lastChange = "2015-09-02 11:05:47 +0000";
+lastChange = "2015-09-22 14:21:20 +0000";
 layers = (
 {
 components = (
 {
 name = quotedblbase;
-transform = "{1, 0, 0, 1, 0, 489}";
+transform = "{1, 0, 0, 1, 0, 490}";
 }
 );
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -188910,7 +188913,7 @@ width = 252;
 components = (
 {
 name = quotedblbase;
-transform = "{1, 0, 0, 1, 0, 459}";
+transform = "{1, 0, 0, 1, 0, 445}";
 }
 );
 layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
@@ -188955,13 +188958,13 @@ unicode = 2018;
 },
 {
 glyphname = quoteright;
-lastChange = "2015-09-02 11:06:29 +0000";
+lastChange = "2015-09-22 14:21:25 +0000";
 layers = (
 {
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, -30, 489}";
+transform = "{1, 0, 0, 1, -30, 490}";
 }
 );
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -188972,7 +188975,7 @@ width = 132;
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, -9, 459}";
+transform = "{1, 0, 0, 1, -9, 444}";
 }
 );
 layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
@@ -189385,13 +189388,13 @@ rightMetricsKey = guilsinglright;
 },
 {
 glyphname = quotedblleft.case;
-lastChange = "2015-09-02 11:06:27 +0000";
+lastChange = "2015-09-22 14:20:16 +0000";
 layers = (
 {
 components = (
 {
 name = quotedblbase;
-transform = "{-1, 0, 0, -1, 252, 406}";
+transform = "{-1, 0, 0, -1, 252, 405}";
 }
 );
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -189445,13 +189448,13 @@ rightKerningGroup = quote;
 },
 {
 glyphname = quoteleft.case;
-lastChange = "2015-09-02 11:06:29 +0000";
+lastChange = "2015-09-22 14:20:19 +0000";
 layers = (
 {
 components = (
 {
 name = comma;
-transform = "{-1, 0, 0, -1, 162, 407}";
+transform = "{-1, 0, 0, -1, 162, 405}";
 }
 );
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -189505,13 +189508,13 @@ rightKerningGroup = quote;
 },
 {
 glyphname = quoteright.tf;
-lastChange = "2015-09-02 11:05:17 +0000";
+lastChange = "2015-09-22 14:21:10 +0000";
 layers = (
 {
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, -30, 489}";
+transform = "{1, 0, 0, 1, -30, 490}";
 }
 );
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
@@ -189522,7 +189525,7 @@ width = 132;
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, -20, 449}";
+transform = "{1, 0, 0, 1, -20, 445}";
 }
 );
 layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
@@ -189533,7 +189536,7 @@ width = 142;
 },
 {
 glyphname = quoteright.tosf;
-lastChange = "2015-08-10 21:25:59 +0000";
+lastChange = "2015-09-22 14:21:14 +0000";
 layers = (
 {
 components = (
@@ -189550,7 +189553,7 @@ width = 210;
 components = (
 {
 name = comma;
-transform = "{1, 0, 0, 1, 12, 449}";
+transform = "{1, 0, 0, 1, 12, 445}";
 }
 );
 layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
@@ -233541,7 +233544,7 @@ kerning = {
 };
 "@MMK_L_comma" = {
 "@MMK_R_A" = 30;
-"@MMK_R_O" = -20;
+"@MMK_R_O" = -10;
 "@MMK_R_T" = -50;
 "@MMK_R_V" = -100;
 "@MMK_R_Y" = -70;
@@ -233615,6 +233618,7 @@ X = 20;
 "@MMK_R_l" = 20;
 "@MMK_R_o" = -30;
 "@MMK_R_s" = -20;
+"@MMK_R_quote" = 40;
 };
 "@MMK_L_r" = {
 "@MMK_R_a" = -25;
@@ -233799,7 +233803,6 @@ X = 20;
 };
 "@MMK_L_comma" = {
 "@MMK_R_A" = 40;
-"@MMK_R_O" = -20;
 "@MMK_R_T" = -50;
 "@MMK_R_V" = -110;
 "@MMK_R_Y" = -70;
@@ -233872,6 +233875,7 @@ X = 30;
 "@MMK_R_l" = 20;
 "@MMK_R_o" = -30;
 "@MMK_R_s" = -20;
+"@MMK_R_quote" = 50;
 };
 "@MMK_L_r" = {
 "@MMK_R_a" = -35;
