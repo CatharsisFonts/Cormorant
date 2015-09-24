@@ -38,6 +38,11 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+
+2015-09-24: Release v0.5
+Tweaked alignment zones and stem definitions for better autohinting.  Changed all currency symbols to be at small-caps height by default.
+
+
 2015-09-20: Release v0.4
 Changed B and b.sc to harmonize better with the rest of the typeface; the original version is now in the calligraphic stylistic set SS01.  Small caps letters with crossbars (e.sc etc.) can now have serifs on their crossbar via SS12.  Added Hungarian localization to match angles of acute and double acute accents.  Fixed some kerning.
 

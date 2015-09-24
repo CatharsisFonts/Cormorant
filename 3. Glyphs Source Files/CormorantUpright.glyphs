@@ -45,10 +45,10 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 }
 );
-date = "2015-09-19 22:11:31 +0000";
+date = "2015-09-24 08:36:58 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts/Cormorant";
-familyName = "Cormorant Upright v0.4.1";
+familyName = "Cormorant Upright v0.5";
 featurePrefixes = (
 {
 automatic = 1;
@@ -219,6 +219,23 @@ value = "245";
 {
 name = winAscent;
 value = "790";
+},
+{
+name = TTFStems;
+value = (
+        {
+        Name = "Stem:0";
+        Width = 10;
+    },
+        {
+        Name = "Stem:1";
+        Width = 16;
+    },
+        {
+        Name = "Stem:2";
+        Width = 32;
+    }
+);
 }
 );
 descender = -235;
@@ -255,6 +272,23 @@ value = "245";
 {
 name = winAscent;
 value = "790";
+},
+{
+name = TTFStems;
+value = (
+        {
+        Name = "Stem:0";
+        Width = 10;
+    },
+        {
+        Name = "Stem:1";
+        Width = 24;
+    },
+        {
+        Name = "Stem:2";
+        Width = 45;
+    }
+);
 }
 );
 descender = -235;
@@ -235605,5 +235639,5 @@ oV = 80;
 };
 };
 versionMajor = 0;
-versionMinor = 4;
+versionMinor = 5;
 }
