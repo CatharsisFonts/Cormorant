@@ -13,8 +13,10 @@ Claude Garamont's timeless designs.
 This release contains six styles:
 - Roman
 - Italic
+- Infant (a version of the Roman with single-storey /a/g/y and lining 
+  figures)
+- Infant Italic
 - Upright (an upright script version of the Italic)
-- Infant (a version of the Roman with single-storey /a/g/y)
 - SC (a small-caps version of the Roman)
 - Unicase (a small-caps version of the Roman mixed with some lowercase 
   shape substitutions)
@@ -38,6 +40,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+
+2015-09-27: Release v0.6
+Changed CALT and LIGA features to provide acceptable results for sequences like /f/b even when LIGA is turned off. Added /tz character and /f_f_f ligature. Switched release package to using TrueType rather than OpenType fonts since the hinting seems to work better for the former.
+ 
 
 2015-09-24: Release v0.5
 Tweaked alignment zones and stem definitions for better autohinting.  Changed all currency symbols to be at small-caps height by default.

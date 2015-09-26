@@ -18,7 +18,7 @@ code = "a aacute abreve acaron acircumflex adieresis agrave amacron aogonek arin
 name = alike;
 },
 {
-code = "igrave icaron ibreve icircumflex idotaccent\012bracketright parenright braceright backslash\012jcircumflex \012hbar hcircumflex\012kacute kcaron kcommaaccent\012lacute lcaron lcommaaccent ldot lslash\012quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle\012ij acute";
+code = "igrave icaron ibreve icircumflex idotaccent ij\012bracketright parenright braceright bracketleft parenleft braceleft bar backslash\012jcircumflex \012hbar hcircumflex\012kacute kcaron kcommaaccent\012lacute lcaron lcommaaccent ldot lslash\012quotedblleft quotedblright quoteleft quoteright quotedbl quotesingle\012acute\012b h i j k l thorn\012";
 name = Stumper;
 },
 {
@@ -45,10 +45,10 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 }
 );
-date = "2015-09-24 08:36:58 +0000";
+date = "2015-09-26 22:18:03 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts/Cormorant";
-familyName = "Cormorant Upright v0.5";
+familyName = "Cormorant Upright v0.6";
 featurePrefixes = (
 {
 automatic = 1;
@@ -127,7 +127,7 @@ code = "sub zero.lf by zero;\012sub one.lf by one;\012sub two.lf by two;\012sub 
 name = onum;
 },
 {
-code = "lookup Qtail {\012\011sub Q' [U u] by Q.long;\012\011sub Q' [Umacron umacron] by Q.long;\012\011sub Q' [Uacute uacute] by Q.long;\012\011sub Q' [A a] by Q.long;\012\011sub Q' [Amacron amacron] by Q.long;\012\011sub Q' [Aacute aacute] by Q.long;\012\011sub Q' [E e] by Q.long;\012\011sub Q' [Emacron Emacron] by Q.long;\012\011sub Q' [Eacute Eacute] by Q.long;\012\011sub Q' [O o] by Q.long;\012\011sub Q' [Omacron omacron] by Q.long;\012\011sub Q' [Oacute oacute] by Q.long;\012\011sub Q' [Y] by Q.long;\012\011sub Q' [Ymacron] by Q.long;\012\011sub Q' [Yacute] by Q.long;\012\011sub Q' [W w V v] by Q.long;\012\011sub Q' [Wacute wacute] by Q.long;\012\011sub Q' [R r] by Q.long;\012} Qtail;\012\012lookup Germandbls {\012\011sub @Uppercase germandbls' @Uppercase by Germandbls;\012\011sub @Uppercase @Uppercase germandbls' by Germandbls;\012\011sub @Uppercase germandbls' space @Uppercase @Uppercase by Germandbls;\012} Germandbls;\012\012lookup UppercaseHyphen {\012\011sub @Uppercase hyphen' @Uppercase by hyphen.case;\012} UppercaseHyphen;\012\012lookup aFillerPrepPrep {\012\011sub f' f t @alike by f.a;\012} aFillerPrepPrep;\012\012lookup aFillerPrep {\012\011sub f' [f t] @alike by f.a;\012} aFillerPrep;\012\012lookup aFiller {\012\011sub [t f]' @alike by [t.a f.a];\012} aFiller;\012\012lookup fPrep {\012\011sub f' f @Stumper by f.short;\012} fPrep;\012\012lookup fShort {\012\011sub f' @Stumper by f.short;\012} fShort;\012\012lookup RShort {\012\011sub [R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow]' @Kicker by [R.short Racute.short Rcaron.short Rcommaaccent.short  Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short];\012} RShort;\012\012lookup ClipAscenders {\012\011sub [dcaron lcaron] @LeftAscender' by @ClippedAscender;\012} ClipAscenders;";
+code = "lookup Qtail {\012\011sub Q' [U u] by Q.long;\012\011sub Q' [Umacron umacron] by Q.long;\012\011sub Q' [Uacute uacute] by Q.long;\012\011sub Q' [A a] by Q.long;\012\011sub Q' [Amacron amacron] by Q.long;\012\011sub Q' [Aacute aacute] by Q.long;\012\011sub Q' [E e] by Q.long;\012\011sub Q' [Emacron Emacron] by Q.long;\012\011sub Q' [Eacute Eacute] by Q.long;\012\011sub Q' [O o] by Q.long;\012\011sub Q' [Omacron omacron] by Q.long;\012\011sub Q' [Oacute oacute] by Q.long;\012\011sub Q' [Y] by Q.long;\012\011sub Q' [Ymacron] by Q.long;\012\011sub Q' [Yacute] by Q.long;\012\011sub Q' [W w V v] by Q.long;\012\011sub Q' [Wacute wacute] by Q.long;\012\011sub Q' [R r] by Q.long;\012} Qtail;\012\012lookup Germandbls {\012\011sub @Uppercase germandbls' @Uppercase by Germandbls;\012\011sub @Uppercase @Uppercase germandbls' by Germandbls;\012\011sub @Uppercase germandbls' space @Uppercase @Uppercase by Germandbls;\012} Germandbls;\012\012lookup UppercaseHyphen {\012\011sub @Uppercase hyphen' @Uppercase by hyphen.case;\012} UppercaseHyphen;\012\012#lookup aFillerPrepPrep {\012#\011sub f' f [f t] @alike by f.a;\012#} aFillerPrepPrep;\012#\012#lookup aFillerPrep {\012#\011sub f' [f t] @alike by f.a;\012#} aFillerPrep;\012\012lookup aFiller {\012\011sub [t f]' @alike by [t.a f.a];\012} aFiller;\012\012#lookup fPrep {\012#\011sub f' f @Stumper by f.short;\012#} fPrep;\012\012lookup fShort {\012\011sub f' @Stumper by f.short;\012} fShort;\012\012lookup RShort {\012\011sub [R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow]' @Kicker by [R.short Racute.short Rcaron.short Rcommaaccent.short  Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short];\012} RShort;\012\012lookup ClipAscenders {\012\011sub [dcaron lcaron] @LeftAscender' by @ClippedAscender;\012} ClipAscenders;\012";
 name = calt;
 },
 {
@@ -146,8 +146,7 @@ code = "sub c t by c_t;\012sub g j by g_j;\012sub g u by g_u;\012sub g uacute by
 name = dlig;
 },
 {
-automatic = 1;
-code = "sub f i by fi;\012sub f l by fl;\012sub T T by T_T.liga;\012sub T h by T_h.liga;\012sub f.a f.a by f_f.a.liga;\012sub f.a f.a t.a by f_f_t.a.liga;\012sub f.a t.a by f_t.a.liga;\012sub f b by f_b.liga;\012sub f f by f_f.liga;\012sub f f b by f_f_b.liga;\012sub f f h by f_f_h.liga;\012sub f f i by f_f_i.liga;\012sub f f j by f_f_j.liga;\012sub f f k by f_f_k.liga;\012sub f f l by f_f_l.liga;\012sub f f thorn by f_f_thorn.liga;\012sub f f t by f_f_t.liga;\012sub f h by f_h.liga;\012sub f j by f_j.liga;\012sub f k by f_k.liga;\012sub f thorn by f_thorn.liga;\012sub f t by f_t.liga;\012sub g g by g_g.liga;\012sub g y by g_y.liga;\012sub g yacute by g_yacute.liga;\012sub g ycircumflex by g_ycircumflex.liga;\012sub g ydieresis by g_ydieresis.liga;\012sub g ygrave by g_ygrave.liga;\012sub g ymacron by g_ymacron.liga;\012sub g ytilde by g_ytilde.liga;\012sub f.short f.short by f_f.short.liga;\012sub longs b by longs_b.liga;\012sub longs h by longs_h.liga;\012sub longs i by longs_i.liga;\012sub longs j by longs_j.liga;\012sub longs k by longs_k.liga;\012sub longs l by longs_l.liga;\012sub longs thorn by longs_thorn.liga;\012sub longs longs by longs_longs.liga;\012sub longs longs b by longs_longs_b.liga;\012sub longs longs h by longs_longs_h.liga;\012sub longs longs i by longs_longs_i.liga;\012sub longs longs j by longs_longs_j.liga;\012sub longs longs k by longs_longs_k.liga;\012sub longs longs l by longs_longs_l.liga;\012sub longs longs thorn by longs_longs_thorn.liga;\012sub acute IJ by acute_IJ.liga;\012sub acute ij by acute_ij.liga;\012";
+code = "sub f f b by f_f_b.liga;\012sub f f f by f_f_f.liga;\012sub f f h by f_f_h.liga;\012sub f f i by f_f_i.liga;\012sub f f j by f_f_j.liga;\012sub f f k by f_f_k.liga;\012sub f f l by f_f_l.liga;\012sub f f thorn by f_f_thorn.liga;\012sub f f t by f_f_t.liga;\012sub f f f.a by f_f_f.a.liga;\012sub f f t.a by f_f_t.a.liga;\012\012sub f f.short b by f_f_b.liga;\012sub f f.short f by f_f_f.liga;\012sub f f.short h by f_f_h.liga;\012sub f f.short i by f_f_i.liga;\012sub f f.short j by f_f_j.liga;\012sub f f.short k by f_f_k.liga;\012sub f f.short l by f_f_l.liga;\012sub f f.short thorn by f_f_thorn.liga;\012sub f f t by f_f_t.liga;\012\012sub f i by fi;\012sub f l by fl;\012sub T T by T_T.liga;\012sub T h by T_h.liga;\012sub f f.a by f_f.a.liga;\012sub f t.a by f_t.a.liga;\012sub f b by f_b.liga;\012sub f f by f_f.liga;\012sub f f.short by f_f.short.liga;\012sub f h by f_h.liga;\012sub f j by f_j.liga;\012sub f k by f_k.liga;\012sub f thorn by f_thorn.liga;\012sub f t by f_t.liga;\012\012sub f.short i by fi;\012sub f.short l by fl;\012sub f.short b by f_b.liga;\012sub f.short f by f_f.liga;\012sub f.short f.short by f_f.short.liga;\012sub f.short h by f_h.liga;\012sub f.short j by f_j.liga;\012sub f.short k by f_k.liga;\012sub f.short thorn by f_thorn.liga;\012sub f.short t by f_t.liga;\012\012sub g g by g_g.liga;\012sub g y by g_y.liga;\012sub g yacute by g_yacute.liga;\012sub g ycircumflex by g_ycircumflex.liga;\012sub g ydieresis by g_ydieresis.liga;\012sub g ygrave by g_ygrave.liga;\012sub g ymacron by g_ymacron.liga;\012sub g ytilde by g_ytilde.liga;\012sub f.short f.short by f_f.short.liga;\012sub longs b by longs_b.liga;\012sub longs h by longs_h.liga;\012sub longs i by longs_i.liga;\012sub longs j by longs_j.liga;\012sub longs k by longs_k.liga;\012sub longs l by longs_l.liga;\012sub longs thorn by longs_thorn.liga;\012sub longs longs by longs_longs.liga;\012sub longs longs b by longs_longs_b.liga;\012sub longs longs h by longs_longs_h.liga;\012sub longs longs i by longs_longs_i.liga;\012sub longs longs j by longs_longs_j.liga;\012sub longs longs k by longs_longs_k.liga;\012sub longs longs l by longs_longs_l.liga;\012sub longs longs thorn by longs_longs_thorn.liga;\012sub acute IJ by acute_IJ.liga;\012sub acute ij by acute_ij.liga;\012";
 name = liga;
 },
 {
@@ -114886,6 +114885,189 @@ leftMetricsKey = f;
 rightMetricsKey = f.a;
 },
 {
+glyphname = f_f_f.a.liga;
+lastChange = "2015-09-26 22:15:55 +0000";
+layers = (
+{
+background = {
+components = (
+{
+name = f;
+}
+);
+};
+components = (
+{
+name = ffxmaker;
+transform = "{1, 0, 0, 1, 1, 0}";
+},
+{
+name = f.a;
+transform = "{1, 0, 0, 1, 456, 0}";
+}
+);
+layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"337 -235 OFFCURVE",
+"358 -181 OFFCURVE",
+"353 -18 CURVE SMOOTH",
+"340 375 LINE SMOOTH",
+"341 520 OFFCURVE",
+"376 599 OFFCURVE",
+"438 599 CURVE SMOOTH",
+"482 599 OFFCURVE",
+"528 564 OFFCURVE",
+"548 535 CURVE",
+"567 580 LINE",
+"543 594 OFFCURVE",
+"512 611 OFFCURVE",
+"458 611 CURVE SMOOTH",
+"365 611 OFFCURVE",
+"303 558 OFFCURVE",
+"299 357 CURVE SMOOTH",
+"299 328 OFFCURVE",
+"285 319 OFFCURVE",
+"238 319 CURVE SMOOTH",
+"235 319 OFFCURVE",
+"235 309 OFFCURVE",
+"240 309 CURVE SMOOTH",
+"295 309 OFFCURVE",
+"300 304 OFFCURVE",
+"302 262 CURVE SMOOTH",
+"312 -40 LINE SMOOTH",
+"318 -194 OFFCURVE",
+"312 -220 OFFCURVE",
+"289 -220 CURVE SMOOTH",
+"259 -220 OFFCURVE",
+"265 -177 OFFCURVE",
+"229 -177 CURVE SMOOTH",
+"210 -177 OFFCURVE",
+"200 -188 OFFCURVE",
+"202 -201 CURVE SMOOTH",
+"203 -218 OFFCURVE",
+"221 -235 OFFCURVE",
+"263 -235 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"549 314 LINE",
+"527 357 LINE",
+"527 333 OFFCURVE",
+"510 322 OFFCURVE",
+"480 321 CURVE SMOOTH",
+"444 320 OFFCURVE",
+"391 320 OFFCURVE",
+"318 320 CURVE",
+"320 304 LINE",
+"391 304 OFFCURVE",
+"443 303 OFFCURVE",
+"477 302 CURVE SMOOTH",
+"520 300 OFFCURVE",
+"527 300 OFFCURVE",
+"530 262 CURVE"
+);
+}
+);
+width = 674;
+},
+{
+background = {
+components = (
+{
+name = f;
+}
+);
+};
+components = (
+{
+name = ffxmaker;
+},
+{
+name = f.a;
+transform = "{1, 0, 0, 1, 504, 0}";
+}
+);
+layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"378 -235 OFFCURVE",
+"408 -182 OFFCURVE",
+"402 -18 CURVE SMOOTH",
+"390 375 LINE SMOOTH",
+"387 527 OFFCURVE",
+"412 585 OFFCURVE",
+"471 585 CURVE SMOOTH",
+"511 585 OFFCURVE",
+"544 558 OFFCURVE",
+"581 487 CURVE",
+"625 574 LINE",
+"590 591 OFFCURVE",
+"532 603 OFFCURVE",
+"490 603 CURVE SMOOTH",
+"370 603 OFFCURVE",
+"313 514 OFFCURVE",
+"310 357 CURVE SMOOTH",
+"309 321 OFFCURVE",
+"295 321 OFFCURVE",
+"255 321 CURVE SMOOTH",
+"251 321 OFFCURVE",
+"251 307 OFFCURVE",
+"255 307 CURVE SMOOTH",
+"302 307 OFFCURVE",
+"311 304 OFFCURVE",
+"313 262 CURVE SMOOTH",
+"323 -40 LINE SMOOTH",
+"328 -190 OFFCURVE",
+"328 -218 OFFCURVE",
+"310 -218 CURVE SMOOTH",
+"277 -218 OFFCURVE",
+"295 -152 OFFCURVE",
+"235 -152 CURVE SMOOTH",
+"215 -152 OFFCURVE",
+"197 -163 OFFCURVE",
+"199 -186 CURVE SMOOTH",
+"200 -213 OFFCURVE",
+"236 -235 OFFCURVE",
+"292 -235 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"584 314 LINE",
+"562 357 LINE",
+"563 334 OFFCURVE",
+"551 325 OFFCURVE",
+"508 323 CURVE SMOOTH",
+"476 322 OFFCURVE",
+"411 322 OFFCURVE",
+"346 322 CURVE",
+"348 302 LINE",
+"412 302 OFFCURVE",
+"492 301 OFFCURVE",
+"524 298 CURVE SMOOTH",
+"554 295 OFFCURVE",
+"564 287 OFFCURVE",
+"565 262 CURVE"
+);
+}
+);
+width = 725;
+}
+);
+leftMetricsKey = f;
+rightMetricsKey = f.a;
+},
+{
 glyphname = f_f_t.a.liga;
 lastChange = "2015-08-10 21:25:59 +0000";
 layers = (
@@ -116819,6 +117001,174 @@ leftKerningGroup = f;
 leftMetricsKey = f;
 rightKerningGroup = o;
 rightMetricsKey = b;
+},
+{
+glyphname = f_f_f.liga;
+lastChange = "2015-09-26 22:14:40 +0000";
+layers = (
+{
+components = (
+{
+name = ffxmaker;
+},
+{
+name = f;
+transform = "{1, 0, 0, 1, 456, 0}";
+}
+);
+layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"337 -235 OFFCURVE",
+"358 -181 OFFCURVE",
+"353 -18 CURVE SMOOTH",
+"340 375 LINE SMOOTH",
+"341 520 OFFCURVE",
+"376 599 OFFCURVE",
+"438 599 CURVE SMOOTH",
+"482 599 OFFCURVE",
+"528 564 OFFCURVE",
+"548 535 CURVE",
+"567 580 LINE",
+"543 594 OFFCURVE",
+"512 611 OFFCURVE",
+"458 611 CURVE SMOOTH",
+"365 611 OFFCURVE",
+"303 558 OFFCURVE",
+"299 357 CURVE SMOOTH",
+"299 328 OFFCURVE",
+"285 319 OFFCURVE",
+"238 319 CURVE SMOOTH",
+"235 319 OFFCURVE",
+"235 309 OFFCURVE",
+"240 309 CURVE SMOOTH",
+"295 309 OFFCURVE",
+"300 304 OFFCURVE",
+"302 262 CURVE SMOOTH",
+"312 -40 LINE SMOOTH",
+"318 -194 OFFCURVE",
+"312 -220 OFFCURVE",
+"289 -220 CURVE SMOOTH",
+"259 -220 OFFCURVE",
+"265 -177 OFFCURVE",
+"229 -177 CURVE SMOOTH",
+"210 -177 OFFCURVE",
+"200 -188 OFFCURVE",
+"202 -201 CURVE SMOOTH",
+"203 -218 OFFCURVE",
+"221 -235 OFFCURVE",
+"263 -235 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"549 314 LINE",
+"527 357 LINE",
+"527 333 OFFCURVE",
+"510 322 OFFCURVE",
+"480 321 CURVE SMOOTH",
+"444 320 OFFCURVE",
+"391 320 OFFCURVE",
+"318 320 CURVE",
+"320 304 LINE",
+"391 304 OFFCURVE",
+"443 303 OFFCURVE",
+"477 302 CURVE SMOOTH",
+"520 300 OFFCURVE",
+"527 300 OFFCURVE",
+"530 262 CURVE"
+);
+}
+);
+width = 689;
+},
+{
+components = (
+{
+name = ffxmaker;
+},
+{
+name = f;
+transform = "{1, 0, 0, 1, 504, 0}";
+}
+);
+layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
+name = Bold;
+paths = (
+{
+closed = 1;
+nodes = (
+"378 -235 OFFCURVE",
+"408 -182 OFFCURVE",
+"402 -18 CURVE SMOOTH",
+"390 375 LINE SMOOTH",
+"387 527 OFFCURVE",
+"412 585 OFFCURVE",
+"471 585 CURVE SMOOTH",
+"511 585 OFFCURVE",
+"544 558 OFFCURVE",
+"581 487 CURVE",
+"625 574 LINE",
+"590 591 OFFCURVE",
+"532 603 OFFCURVE",
+"490 603 CURVE SMOOTH",
+"370 603 OFFCURVE",
+"313 514 OFFCURVE",
+"310 357 CURVE SMOOTH",
+"309 321 OFFCURVE",
+"295 321 OFFCURVE",
+"255 321 CURVE SMOOTH",
+"251 321 OFFCURVE",
+"251 307 OFFCURVE",
+"255 307 CURVE SMOOTH",
+"302 307 OFFCURVE",
+"311 304 OFFCURVE",
+"313 262 CURVE SMOOTH",
+"323 -40 LINE SMOOTH",
+"328 -190 OFFCURVE",
+"328 -218 OFFCURVE",
+"310 -218 CURVE SMOOTH",
+"277 -218 OFFCURVE",
+"295 -152 OFFCURVE",
+"235 -152 CURVE SMOOTH",
+"215 -152 OFFCURVE",
+"197 -163 OFFCURVE",
+"199 -186 CURVE SMOOTH",
+"200 -213 OFFCURVE",
+"236 -235 OFFCURVE",
+"292 -235 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"584 314 LINE",
+"562 357 LINE",
+"563 334 OFFCURVE",
+"551 325 OFFCURVE",
+"508 323 CURVE SMOOTH",
+"476 322 OFFCURVE",
+"411 322 OFFCURVE",
+"346 322 CURVE",
+"348 302 LINE",
+"412 302 OFFCURVE",
+"492 301 OFFCURVE",
+"524 298 CURVE SMOOTH",
+"554 295 OFFCURVE",
+"564 287 OFFCURVE",
+"565 262 CURVE"
+);
+}
+);
+width = 746;
+}
+);
+leftMetricsKey = f;
+rightMetricsKey = f;
 },
 {
 glyphname = f_f_h.liga;
@@ -235838,5 +236188,5 @@ oV = 80;
 };
 };
 versionMajor = 0;
-versionMinor = 5;
+versionMinor = 6;
 }
