@@ -15444,7 +15444,7 @@ unicode = 0141;
 {
 color = 3;
 glyphname = M;
-lastChange = "2015-06-04 10:46:26 +0000";
+lastChange = "2015-09-27 10:37:32 +0000";
 layers = (
 {
 anchors = (
@@ -15454,7 +15454,7 @@ position = "{338, 0}";
 },
 {
 name = top;
-position = "{327, 534}";
+position = "{337, 534}";
 }
 );
 background = {
@@ -16053,7 +16053,7 @@ position = "{344, 0}";
 },
 {
 name = top;
-position = "{344, 534}";
+position = "{354, 534}";
 }
 );
 background = {
@@ -16248,6 +16248,41 @@ width = 687;
 }
 );
 unicode = 004D;
+},
+{
+glyphname = Mdotaccent;
+lastChange = "2015-09-27 10:37:32 +0000";
+layers = (
+{
+components = (
+{
+name = M;
+},
+{
+name = dotaccentcomb.case;
+transform = "{1, 0, 0, 1, 277, 0}";
+}
+);
+layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
+name = Regular;
+width = 676;
+},
+{
+components = (
+{
+name = M;
+},
+{
+name = dotaccentcomb.case;
+transform = "{1, 0, 0, 1, 292, 0}";
+}
+);
+layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
+name = Bold;
+width = 687;
+}
+);
+unicode = 1E40;
 },
 {
 color = 9;
@@ -59638,6 +59673,43 @@ leftMetricsKey = n;
 rightKerningGroup = n;
 rightMetricsKey = n;
 unicode = 006D;
+},
+{
+glyphname = mdotaccent;
+lastChange = "2015-09-27 10:37:17 +0000";
+layers = (
+{
+components = (
+{
+name = m;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 223, 0}";
+}
+);
+layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
+name = Regular;
+width = 576;
+},
+{
+components = (
+{
+name = m;
+},
+{
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 222, 0}";
+}
+);
+layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
+name = Bold;
+width = 586;
+}
+);
+leftKerningGroup = n;
+rightKerningGroup = n;
+unicode = 1E41;
 },
 {
 color = 9;
@@ -235880,6 +235952,9 @@ X = 20;
 "@MMK_L_idieresis" = {
 "@MMK_R_idiersis" = 10;
 };
+"@MMK_L_j" = {
+"@MMK_R_f" = 20;
+};
 "@MMK_L_n" = {
 "@MMK_R_g" = -5;
 "@MMK_R_o" = 5;
@@ -235936,9 +236011,6 @@ X = 20;
 };
 "@MMK_L_yaccent" = {
 "@MMK_R_comma" = -20;
-};
-"@MMK_L_j" = {
-"@MMK_R_f" = 20;
 };
 };
 "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6" = {
@@ -236141,6 +236213,9 @@ X = 30;
 "@MMK_L_idieresis" = {
 "@MMK_R_idiersis" = 40;
 };
+"@MMK_L_j" = {
+"@MMK_R_f" = 30;
+};
 "@MMK_L_n" = {
 "@MMK_R_g" = -5;
 "@MMK_R_o" = 5;
@@ -236197,9 +236272,6 @@ X = 30;
 };
 "@MMK_L_yaccent" = {
 "@MMK_R_comma" = -20;
-};
-"@MMK_L_j" = {
-"@MMK_R_f" = 30;
 };
 };
 };
