@@ -41,6 +41,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 ChangeLog
 
 
+2015-09-28: Version v0.7
+Trying to fix the font selection problems, in particular on Windows (wrong attribution of Italics and Bolds, etc.).  Removed OTF fonts from repo -- TTF seems to work better.
+
+
 2015-09-27: Release v0.6
 Changed CALT and LIGA features to provide acceptable results for sequences like /f/b even when LIGA is turned off. Added /tz character and /f_f_f ligature. Switched release package to using TrueType rather than OpenType fonts since the hinting seems to work better for the former.
  
