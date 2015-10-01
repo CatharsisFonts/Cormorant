@@ -24,9 +24,13 @@ This release contains six styles:
 Each style comes in five weights:
 - Light
 - Regular
-- Medium
+- Book
 - Semibold
 - Bold
+  
+Cormorant is made for large sizes; the larger, the better.  However, it 
+works well as a text face in high-resolution environments (do not try 
+this on a webpage!).
   
 Documentation can be found at the Cormorant GitHub page:
 https://github.com/CatharsisFonts/Cormorant
