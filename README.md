@@ -28,7 +28,7 @@ Cormorant was conceived, drawn, spaced, kerned, programmed, interpolated, and pr
  
 While this project was heavily inspired by [Claude Garamont][6]'s immortal legacy, I did not use any specific font as a starting point or direct reference for my designs. Most glyphs were drawn from scratch; when I needed guidance on a specific character, I searched [MyFonts](https://www.myfonts.com/) for the term «Garamond» and skimmed through the results for a general impression.
  
-I am very grateful to the creative souls on the [TypeDrawers][7] forum and the (late?) [Typophile][8] forum for teaching me all I know about type design in the first place, and for providing me with a large amount of excellent feedback on Cormorant in particular. Likewise, my gratitude goes to the tireless folks at [Glyphs][2] — in particular Rainer Erich Scheichelbauer (Mekka Blue, [Schriftlabor][9]) and Georg Seifert — for the creation and support of their magnificent engine. Special thanks go to Dave Crossland and [Google Fonts][10] for making the libre release of this font family possible through generous funding of the development process. 
+I am very grateful to the creative souls on the [TypeDrawers][7] forum, the [Typografie.info][11] forum, and the (late?) [Typophile][8] forum for teaching me all I know about type design in the first place, and for providing me with a large amount of excellent feedback on Cormorant in particular. Likewise, my gratitude goes to the tireless folks at [Glyphs][2] — in particular Rainer Erich Scheichelbauer (Mekka Blue, [Schriftlabor][9]) and Georg Seifert — for the creation and support of their magnificent engine. Special thanks go to Dave Crossland and [Google Fonts][10] for making the libre release of this font family possible through generous funding of the development process. 
 
 [1]: https://www.myfonts.com/foundry/Catharsis_Fonts
 [2]: https://glyphsapp.com
@@ -40,3 +40,4 @@ I am very grateful to the creative souls on the [TypeDrawers][7] forum and the (
 [8]: http://typophile.com
 [9]: http://schriftlabor.at
 [10]: http://scripts.sil.org/OFL
+[11]: http://typografie.info
