@@ -44,6 +44,7 @@ sub T h by T_h.liga;
 sub g g by g_g.liga;
 sub f.short f.short by f_f.short.liga;
 sub longs.short longs.short by longs_longs.short.liga;
+
 sub longs b by longs_b.liga;
 sub longs h by longs_h.liga;
 sub longs i by longs_i.liga;
@@ -59,6 +60,23 @@ sub longs longs j by longs_longs_j.liga;
 sub longs longs k by longs_longs_k.liga;
 sub longs longs l by longs_longs_l.liga;
 sub longs longs thorn by longs_longs_thorn.liga;
+
+sub longs.short b by longs_b.liga;
+sub longs.short h by longs_h.liga;
+sub longs.short i by longs_i.liga;
+sub longs.short j by longs_j.liga;
+sub longs.short k by longs_k.liga;
+sub longs.short l by longs_l.liga;
+sub longs.short thorn by longs_thorn.liga;
+sub longs.short longs by longs_longs.liga;
+sub longs.short longs.short b by longs_longs_b.liga;
+sub longs.short longs.short h by longs_longs_h.liga;
+sub longs.short longs.short i by longs_longs_i.liga;
+sub longs.short longs.short j by longs_longs_j.liga;
+sub longs.short longs.short k by longs_longs_k.liga;
+sub longs.short longs.short l by longs_longs_l.liga;
+sub longs.short longs.short thorn by longs_longs_thorn.liga;
+
 sub Aogonek acutecomb by Aogonek_acutecomb.liga;
 sub Eogonek acutecomb by Eogonek_acutecomb.liga;
 sub Iogonek acutecomb by Iogonek_acutecomb.liga;
