@@ -85,5 +85,3 @@ sub aogonek acutecomb by aogonek_acutecomb.liga;
 sub eogonek acutecomb by eogonek_acutecomb.liga;
 sub iogonek acutecomb by iogonek_acutecomb.liga;
 sub oogonek acutecomb by oogonek_acutecomb.liga;
-sub acute IJ by acute_IJ.liga;
-sub acute ij by acute_ij.liga;
