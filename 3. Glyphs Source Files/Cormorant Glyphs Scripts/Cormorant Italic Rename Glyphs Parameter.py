@@ -26,4 +26,5 @@ for thisInstance in Font.instances:
 	if familyName.startswith("Cormorant Infant"):
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
+		thisInstance.setCustomParameter_forKey_( ["onum", "ss03"], "Remove Features" )
 
