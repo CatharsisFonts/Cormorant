@@ -33,7 +33,7 @@ for thisInstance in Font.instances:
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig"], "Remove Features" )
+		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
 
 
 # Unicase
@@ -64,7 +64,7 @@ for thisInstance in Font.instances:
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig"], "Remove Features" )
+		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
 
 
 
