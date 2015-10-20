@@ -187058,6 +187058,53 @@ rightKerningGroup = quote;
 unicode = 002A;
 },
 {
+glyphname = asterism;
+lastChange = "2015-10-20 20:37:58 +0000";
+layers = (
+{
+components = (
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 171, 30}";
+},
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 0, -280}";
+},
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 350, -280}";
+}
+);
+layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
+name = Regular;
+width = 733;
+},
+{
+components = (
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 169, 30}";
+},
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 0, -280}";
+},
+{
+name = asterisk;
+transform = "{1, 0, 0, 1, 350, -280}";
+}
+);
+layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
+name = Bold;
+width = 733;
+}
+);
+leftMetricsKey = asterisk;
+rightMetricsKey = asterisk;
+unicode = 2042;
+},
+{
 glyphname = backslash;
 lastChange = "2015-06-03 14:35:35 +0000";
 layers = (
