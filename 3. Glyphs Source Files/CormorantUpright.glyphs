@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"HHBHHH\012OOBOOO"
-);
 classes = (
 {
 automatic = 1;
@@ -60272,7 +60269,7 @@ unicode = 006D;
 },
 {
 glyphname = mdotaccent;
-lastChange = "2015-09-27 10:37:17 +0000";
+lastChange = "2015-10-21 09:20:04 +0000";
 layers = (
 {
 components = (
@@ -60281,12 +60278,12 @@ name = m;
 },
 {
 name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 223, 0}";
+transform = "{1, 0, 0, 1, 247, 0}";
 }
 );
 layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
 name = Regular;
-width = 576;
+width = 624;
 },
 {
 components = (
@@ -101270,6 +101267,42 @@ name = a.ss07;
 {
 name = tilde;
 transform = "{1, 0, 0, 1, 53, 0}";
+}
+);
+layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
+name = Bold;
+width = 355;
+}
+);
+leftKerningGroup = oaccent;
+rightKerningGroup = aaccent;
+},
+{
+glyphname = aacute.loclHUN.ss07;
+lastChange = "2015-10-21 09:21:00 +0000";
+layers = (
+{
+components = (
+{
+name = a.ss07;
+},
+{
+name = acutecomb.loclHUN;
+transform = "{1, 0, 0, 1, 93, 0}";
+}
+);
+layerId = "4F72FD3A-2035-4A0E-9118-392C7E7754E7";
+name = Regular;
+width = 345;
+},
+{
+components = (
+{
+name = a.ss07;
+},
+{
+name = acutecomb.loclHUN;
+transform = "{1, 0, 0, 1, 109, 0}";
 }
 );
 layerId = "615D24FC-7BF8-448A-BCA8-48A4EAE2E9D6";
