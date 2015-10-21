@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+/dagger/daggerdbl
+);
 classes = (
 {
 automatic = 1;
@@ -180,7 +183,7 @@ name = ss04;
 },
 {
 automatic = 1;
-code = "sub a by a.ss07;\012sub f.a by f.a.ss07;\012sub t.a by t.a.ss07;\012sub aacute by aacute.ss07;\012sub abreve by abreve.ss07;\012sub abreveacute by abreveacute.ss07;\012sub abrevedotbelow by abrevedotbelow.ss07;\012sub abrevegrave by abrevegrave.ss07;\012sub abrevehookabove by abrevehookabove.ss07;\012sub abrevetilde by abrevetilde.ss07;\012sub acaron by acaron.ss07;\012sub acircumflex by acircumflex.ss07;\012sub acircumflexacute by acircumflexacute.ss07;\012sub acircumflexdotbelow by acircumflexdotbelow.ss07;\012sub acircumflexgrave by acircumflexgrave.ss07;\012sub acircumflexhookabove by acircumflexhookabove.ss07;\012sub acircumflextilde by acircumflextilde.ss07;\012sub adieresis by adieresis.ss07;\012sub adotbelow by adotbelow.ss07;\012sub agrave by agrave.ss07;\012sub ahookabove by ahookabove.ss07;\012sub amacron by amacron.ss07;\012sub aogonek by aogonek.ss07;\012sub aring by aring.ss07;\012sub aringacute by aringacute.ss07;\012sub atilde by atilde.ss07;\012sub f_f.a.liga by f_f.a.liga.ss07;\012sub f_f_t.a.liga by f_f_t.a.liga.ss07;\012sub f_t.a.liga by f_t.a.liga.ss07;\012";
+code = "sub a by a.ss07;\012sub f.a by f.a.ss07;\012sub t.a by t.a.ss07;\012sub aacute by aacute.ss07;\012sub abreve by abreve.ss07;\012sub abreveacute by abreveacute.ss07;\012sub abrevedotbelow by abrevedotbelow.ss07;\012sub abrevegrave by abrevegrave.ss07;\012sub abrevehookabove by abrevehookabove.ss07;\012sub abrevetilde by abrevetilde.ss07;\012sub acaron by acaron.ss07;\012sub acircumflex by acircumflex.ss07;\012sub acircumflexacute by acircumflexacute.ss07;\012sub acircumflexdotbelow by acircumflexdotbelow.ss07;\012sub acircumflexgrave by acircumflexgrave.ss07;\012sub acircumflexhookabove by acircumflexhookabove.ss07;\012sub acircumflextilde by acircumflextilde.ss07;\012sub adieresis by adieresis.ss07;\012sub adotbelow by adotbelow.ss07;\012sub agrave by agrave.ss07;\012sub ahookabove by ahookabove.ss07;\012sub amacron by amacron.ss07;\012sub aogonek by aogonek.ss07;\012sub aring by aring.ss07;\012sub aringacute by aringacute.ss07;\012sub atilde by atilde.ss07;\012sub aacute.loclHUN by aacute.loclHUN.ss07;\012sub f_f.a.liga by f_f.a.liga.ss07;\012sub f_f_t.a.liga by f_f_t.a.liga.ss07;\012sub f_t.a.liga by f_t.a.liga.ss07;\012";
 name = ss07;
 },
 {
