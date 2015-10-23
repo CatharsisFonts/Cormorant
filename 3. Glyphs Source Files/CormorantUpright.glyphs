@@ -45,10 +45,10 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 }
 );
-date = "2015-09-28 19:47:33 +0000";
+date = "2015-10-22 08:37:29 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts/Cormorant";
-familyName = "Cormorant Upright 0007";
+familyName = "Cormorant Upright 0008";
 featurePrefixes = (
 {
 automatic = 1;
@@ -238400,5 +238400,5 @@ oV = 80;
 };
 };
 versionMajor = 0;
-versionMinor = 7;
+versionMinor = 8;
 }

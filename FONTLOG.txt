@@ -16,6 +16,9 @@ This release contains six styles:
 - Infant (a version of the Roman with single-storey /a/g/y and lining 
   figures)
 - Infant Italic
+- Garamond (a version of the Roman where several characters that notably
+  differ from Garamond tradition are replaced by more traditional forms)
+- Garamond Italic
 - Upright (an upright script version of the Italic)
 - SC (a small-caps version of the Roman)
 - Unicase (a small-caps version of the Roman mixed with some lowercase 
@@ -43,6 +46,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 
 ChangeLog
+
+
+2015-10-22: Release v0.8
+Now exporting the new "Cormorant Garamond" font family, which has the stylistic set SS02 activated by default.  The release now includes an "Essentials" package to minimize the font bloat for casual users, containing only the basic Roman, Italic, and SC fonts.  Lots and lots of bug fixes (mostly concerning the interaction between different OpenType features) thanks to Þorsten from the typografie.info forums. Thanks!
 
 
 2015-09-28: Version v0.7
