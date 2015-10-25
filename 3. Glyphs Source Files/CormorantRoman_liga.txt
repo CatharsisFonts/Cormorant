@@ -8,15 +8,15 @@ sub f f l by f_f_l.liga;
 sub f f thorn by f_f_thorn.liga;
 sub f f t by f_f_t.liga;
 
-sub f.extrashort f.short b by f_f_b.liga;
-sub f.extrashort f.short f by f_f_f.liga;
-sub f.extrashort f.short h by f_f_h.liga;
-sub f.extrashort f.short i by f_f_i.liga;
-sub f.extrashort f.short j by f_f_j.liga;
-sub f.extrashort f.short k by f_f_k.liga;
-sub f.extrashort f.short l by f_f_l.liga;
-sub f.extrashort f.short thorn by f_f_thorn.liga;
-sub f.extrashort f t by f_f_t.liga;
+sub f.short f.short b by f_f_b.liga;
+sub f.short f.short f by f_f_f.liga;
+sub f.short f.short h by f_f_h.liga;
+sub f.short f.short i by f_f_i.liga;
+sub f.short f.short j by f_f_j.liga;
+sub f.short f.short k by f_f_k.liga;
+sub f.short f.short l by f_f_l.liga;
+sub f.short f.short thorn by f_f_thorn.liga;
+sub f.short f t by f_f_t.liga;
 
 sub f b by f_b.liga;
 sub f f by f_f.liga;
@@ -85,3 +85,4 @@ sub aogonek acutecomb by aogonek_acutecomb.liga;
 sub eogonek acutecomb by eogonek_acutecomb.liga;
 sub iogonek acutecomb by iogonek_acutecomb.liga;
 sub oogonek acutecomb by oogonek_acutecomb.liga;
+
