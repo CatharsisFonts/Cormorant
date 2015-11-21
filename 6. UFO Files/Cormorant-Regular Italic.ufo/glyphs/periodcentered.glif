@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered" format="1">
+  <advance width="169"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <component base="period" xOffset="28" yOffset="147"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>period</string>
+    </dict>
+  </lib>
+</glyph>

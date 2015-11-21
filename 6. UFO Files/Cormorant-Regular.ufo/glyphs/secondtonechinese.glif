@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="secondtonechinese" format="1">
+  <advance width="235"/>
+  <unicode hex="02CA"/>
+  <outline>
+    <component base="acute.case"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>acute.case</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obarred-cy.sc" format="1">
+  <advance width="485"/>
+  <outline>
+    <contour>
+      <point x="392" y="191" type="line"/>
+      <point x="392" y="213" type="line"/>
+      <point x="102" y="213" type="line"/>
+      <point x="102" y="191" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+</glyph>

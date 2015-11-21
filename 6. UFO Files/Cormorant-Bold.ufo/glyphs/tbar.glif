@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="290"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="239" y="170" type="line" smooth="yes"/>
+      <point x="244" y="170"/>
+      <point x="244" y="194"/>
+      <point x="239" y="194" type="curve" smooth="yes"/>
+      <point x="44" y="194" type="line" smooth="yes"/>
+      <point x="39" y="194"/>
+      <point x="39" y="170"/>
+      <point x="44" y="170" type="curve" smooth="yes"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+</glyph>

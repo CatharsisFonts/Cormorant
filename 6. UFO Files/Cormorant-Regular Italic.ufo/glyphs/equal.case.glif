@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal.case" format="1">
+  <advance width="421"/>
+  <outline>
+    <contour>
+      <point x="402" y="322" type="line" smooth="yes"/>
+      <point x="407" y="322"/>
+      <point x="407" y="354"/>
+      <point x="402" y="354" type="curve" smooth="yes"/>
+      <point x="59" y="354" type="line" smooth="yes"/>
+      <point x="55" y="354"/>
+      <point x="55" y="322"/>
+      <point x="60" y="322" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="402" y="202" type="line" smooth="yes"/>
+      <point x="407" y="202"/>
+      <point x="407" y="234"/>
+      <point x="402" y="234" type="curve" smooth="yes"/>
+      <point x="59" y="234" type="line" smooth="yes"/>
+      <point x="55" y="234"/>
+      <point x="55" y="202"/>
+      <point x="60" y="202" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>endash</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>endash</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>endash.case</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>31</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>equal.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>421</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.dieresis" format="1">
+  <advance width="235"/>
+  <outline>
+    <component base="dieresis" xOffset="-2" yOffset="-20"/>
+    <component base="macron" xOffset="-30" yOffset="80"/>
+    <contour>
+      <point x="118" y="330" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

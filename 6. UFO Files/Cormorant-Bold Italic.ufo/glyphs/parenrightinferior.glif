@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenrightinferior" format="1">
+  <advance width="124"/>
+  <unicode hex="208E"/>
+  <outline>
+    <contour>
+      <point x="36" y="-108"/>
+      <point x="79" y="-52"/>
+      <point x="90" y="12" type="curve" smooth="yes"/>
+      <point x="101" y="76"/>
+      <point x="79" y="132"/>
+      <point x="27" y="157" type="curve" smooth="yes"/>
+      <point x="26" y="158"/>
+      <point x="19" y="152"/>
+      <point x="22" y="150" type="curve" smooth="yes"/>
+      <point x="44" y="118"/>
+      <point x="47" y="72"/>
+      <point x="37" y="12" type="curve" smooth="yes"/>
+      <point x="26" y="-48"/>
+      <point x="6" y="-94"/>
+      <point x="-27" y="-126" type="curve" smooth="yes"/>
+      <point x="-30" y="-128"/>
+      <point x="-26" y="-134"/>
+      <point x="-24" y="-133" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|parenleftsuperior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|parenleftsuperior</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

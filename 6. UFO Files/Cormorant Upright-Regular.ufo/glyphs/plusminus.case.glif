@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus.case" format="1">
+  <advance width="390"/>
+  <outline>
+    <component base="endash.case" yOffset="30"/>
+    <component base="endash.case" xOffset="473" yOffset="113" xScale="0" yScale="0" xyScale="1" yxScale="-1"/>
+    <component base="endash.case" yOffset="-200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>plus</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>endash.case</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>endash.case</string>
+              <key>transformation</key>
+              <array>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-1</integer>
+                <integer>0</integer>
+                <integer>473</integer>
+                <integer>83</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>plusminus.case</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>390</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

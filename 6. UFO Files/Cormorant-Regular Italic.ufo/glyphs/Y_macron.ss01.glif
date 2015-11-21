@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ymacron.ss01" format="1">
+  <advance width="466"/>
+  <outline>
+    <component base="Y.ss01"/>
+    <component base="macroncomb" xOffset="149" yOffset="204"/>
+  </outline>
+</glyph>

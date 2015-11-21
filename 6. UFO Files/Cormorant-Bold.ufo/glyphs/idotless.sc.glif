@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless.sc" format="1">
+  <advance width="259"/>
+  <outline>
+    <component base="i.sc"/>
+    <contour>
+      <point x="214" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="118" y="330" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

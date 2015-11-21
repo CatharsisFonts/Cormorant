@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis.ss04" format="1">
+  <advance width="655"/>
+  <outline>
+    <component base="O"/>
+    <component base="dieresis.case.ss04" xOffset="254" yOffset="-56"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacron.ss02" format="1">
+  <advance width="357"/>
+  <outline>
+    <component base="e.ss02"/>
+    <component base="macroncomb" xOffset="53"/>
+  </outline>
+</glyph>

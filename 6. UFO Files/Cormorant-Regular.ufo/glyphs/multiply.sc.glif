@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply.sc" format="1">
+  <advance width="323"/>
+  <outline>
+    <component base="multiply" yOffset="28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>endash</string>
+              <key>transformation</key>
+              <array>
+                <real>0.707</real>
+                <real>0.707</real>
+                <real>-0.707</real>
+                <real>0.707</real>
+                <integer>164</integer>
+                <integer>-43</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>endash</string>
+              <key>transformation</key>
+              <array>
+                <real>0.707</real>
+                <real>-0.707</real>
+                <real>0.707</real>
+                <real>0.707</real>
+                <integer>-65</integer>
+                <integer>198</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>multiply.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>323</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

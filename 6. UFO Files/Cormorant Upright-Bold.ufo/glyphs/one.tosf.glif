@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tosf" format="1">
+  <advance width="420"/>
+  <outline>
+    <component base="one" xOffset="70"/>
+    <contour>
+      <point x="142" y="566" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="147" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="229" y="330" type="move" name="topright"/>
+    </contour>
+  </outline>
+</glyph>

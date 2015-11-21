@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_longs.short.liga.ss02" format="1">
+  <advance width="521"/>
+  <outline>
+    <component base="longs.short.ss02"/>
+    <component base="longs.short.ss02" xOffset="241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==longs.ss02</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==longs.short</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>longs.short</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>longs.short</string>
+    </dict>
+  </lib>
+</glyph>

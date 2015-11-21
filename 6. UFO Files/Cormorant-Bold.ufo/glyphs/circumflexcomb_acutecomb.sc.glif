@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb.sc" format="1">
+  <advance width="348"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="11" yOffset="10"/>
+    <component base="acute.mini" xOffset="161" yOffset="273"/>
+    <contour>
+      <point x="176" y="749" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="129" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

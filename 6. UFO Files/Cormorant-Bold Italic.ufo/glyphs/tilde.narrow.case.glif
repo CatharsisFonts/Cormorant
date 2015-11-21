@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.narrow.case" format="1">
+  <advance width="239"/>
+  <outline>
+    <component base="tilde" yOffset="-20"/>
+    <contour>
+      <point x="147" y="330" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetright.case" format="1">
+  <advance width="386"/>
+  <outline>
+    <contour>
+      <point x="187" y="419"/>
+      <point x="182" y="413"/>
+      <point x="183" y="411" type="curve" smooth="yes"/>
+      <point x="294" y="278" type="line"/>
+      <point x="183" y="146" type="line" smooth="yes"/>
+      <point x="181" y="143"/>
+      <point x="187" y="138"/>
+      <point x="189" y="141" type="curve" smooth="yes"/>
+      <point x="338" y="269" type="line" smooth="yes"/>
+      <point x="343" y="274"/>
+      <point x="343" y="283"/>
+      <point x="338" y="288" type="curve" smooth="yes"/>
+      <point x="189" y="416" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="61" y="419"/>
+      <point x="56" y="413"/>
+      <point x="57" y="411" type="curve" smooth="yes"/>
+      <point x="168" y="278" type="line"/>
+      <point x="57" y="146" type="line" smooth="yes"/>
+      <point x="55" y="143"/>
+      <point x="61" y="138"/>
+      <point x="63" y="141" type="curve" smooth="yes"/>
+      <point x="212" y="269" type="line" smooth="yes"/>
+      <point x="217" y="274"/>
+      <point x="217" y="283"/>
+      <point x="212" y="288" type="curve" smooth="yes"/>
+      <point x="63" y="416" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>guilsinglright</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>guilsinglright</string>
+    </dict>
+  </lib>
+</glyph>

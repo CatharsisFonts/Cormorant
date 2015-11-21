@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl.tosf" format="1">
+  <advance width="210"/>
+  <outline>
+    <component base="quotesingle" xOffset="-21"/>
+    <component base="quotesingle" xOffset="89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quotesingle</string>
+    </dict>
+  </lib>
+</glyph>

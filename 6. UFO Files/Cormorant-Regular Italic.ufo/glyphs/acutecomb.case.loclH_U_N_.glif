@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case.loclHUN" format="1">
+  <advance width="181"/>
+  <outline>
+    <contour>
+      <point x="86" y="402"/>
+      <point x="131" y="433"/>
+      <point x="179" y="452" type="curve" smooth="yes"/>
+      <point x="191" y="455"/>
+      <point x="129" y="473"/>
+      <point x="122" y="469" type="curve" smooth="yes"/>
+      <point x="96" y="444"/>
+      <point x="73" y="411"/>
+      <point x="45" y="385" type="curve" smooth="yes"/>
+      <point x="41" y="383"/>
+      <point x="44" y="374"/>
+      <point x="49" y="376" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="87" y="470" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="67" y="330" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

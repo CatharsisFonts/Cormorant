@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon.sc" format="1">
+  <advance width="190"/>
+  <outline>
+    <component base="comma"/>
+    <component base="period" xOffset="2" yOffset="290"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==comma</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>comma</string>
+    </dict>
+  </lib>
+</glyph>

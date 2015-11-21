@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.sups" format="1">
+  <advance width="239"/>
+  <outline>
+    <component base="zero.sinf" xOffset="82" yOffset="464"/>
+    <contour>
+      <point x="127" y="674" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

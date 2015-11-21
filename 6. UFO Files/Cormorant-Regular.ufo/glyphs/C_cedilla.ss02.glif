@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ccedilla.ss02" format="1">
+  <advance width="587"/>
+  <outline>
+    <component base="C.ss02"/>
+    <component base="cedilla" xOffset="255"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha-cy.loclBGR.sc" format="1">
+  <advance width="781"/>
+  <outline>
+    <component base="sha-cy.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>pe-cy</string>
+    </dict>
+  </lib>
+</glyph>

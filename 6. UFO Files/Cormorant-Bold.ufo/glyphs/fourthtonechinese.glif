@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fourthtonechinese" format="1">
+  <advance width="234"/>
+  <unicode hex="02CB"/>
+  <outline>
+    <component base="grave.mini"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>grave.case</string>
+    </dict>
+  </lib>
+</glyph>

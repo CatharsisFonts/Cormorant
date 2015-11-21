@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_longs_thorn.liga" format="1">
+  <advance width="913"/>
+  <outline>
+    <component base="ssxmaker"/>
+    <component base="longs_thorn.liga" xOffset="259"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>longs</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>thorn</string>
+    </dict>
+  </lib>
+</glyph>

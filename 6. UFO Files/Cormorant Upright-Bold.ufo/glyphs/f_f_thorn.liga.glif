@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_thorn.liga" format="1">
+  <advance width="893"/>
+  <outline>
+    <component base="ffxmaker"/>
+    <component base="f_thorn.liga" xOffset="252"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==thorn</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>thorn</string>
+    </dict>
+  </lib>
+</glyph>

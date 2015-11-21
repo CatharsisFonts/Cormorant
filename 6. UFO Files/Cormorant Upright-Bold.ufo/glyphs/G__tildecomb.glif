@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G_tildecomb" format="1">
+  <advance width="585"/>
+  <outline>
+    <component base="G"/>
+    <component base="tildecomb" xOffset="210" yOffset="204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>G</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>G</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

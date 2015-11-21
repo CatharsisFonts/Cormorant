@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upDownArrow" format="1">
+  <advance width="373"/>
+  <unicode hex="2195"/>
+  <outline>
+    <component base="leftRightArrow" xOffset="25" yOffset="579" xScale="0" yScale="0" xyScale="-1" yxScale="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>arrowup</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>arrowup</string>
+    </dict>
+  </lib>
+</glyph>

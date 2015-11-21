@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numero" format="1">
+  <advance width="736"/>
+  <unicode hex="2116"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="ordmasculine" xOffset="458" yOffset="-204"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ordmasculine</string>
+    </dict>
+  </lib>
+</glyph>

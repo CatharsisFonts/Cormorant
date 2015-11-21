@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="310"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="266" y="-64" type="line" smooth="yes"/>
+      <point x="271" y="-64"/>
+      <point x="271" y="-32"/>
+      <point x="266" y="-32" type="curve" smooth="yes"/>
+      <point x="-7" y="-32" type="line" smooth="yes"/>
+      <point x="-11" y="-32"/>
+      <point x="-11" y="-64"/>
+      <point x="-6" y="-64" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>endash</string>
+    </dict>
+  </lib>
+</glyph>

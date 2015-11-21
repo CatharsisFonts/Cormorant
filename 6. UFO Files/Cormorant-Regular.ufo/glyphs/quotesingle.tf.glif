@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle.tf" format="1">
+  <advance width="210"/>
+  <outline>
+    <component base="quotesingle" xOffset="39"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==period</string>
+    </dict>
+  </lib>
+</glyph>

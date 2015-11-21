@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q_ymacron" format="1">
+  <advance width="1065"/>
+  <outline>
+    <component base="Q_y"/>
+    <component base="macron" xOffset="744"/>
+    <contour>
+      <point x="844" y="330" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Q</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>y</string>
+    </dict>
+  </lib>
+</glyph>

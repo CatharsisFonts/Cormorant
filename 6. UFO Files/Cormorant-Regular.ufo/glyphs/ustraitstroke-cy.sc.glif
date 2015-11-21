@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustraitstroke-cy.sc" format="1">
+  <advance width="398"/>
+  <outline>
+    <contour>
+      <point x="290" y="185" type="line" smooth="yes"/>
+      <point x="295" y="185"/>
+      <point x="295" y="199"/>
+      <point x="290" y="199" type="curve" smooth="yes"/>
+      <point x="105" y="199" type="line" smooth="yes"/>
+      <point x="100" y="199"/>
+      <point x="100" y="185"/>
+      <point x="105" y="185" type="curve" smooth="yes"/>
+    </contour>
+    <component base="y.sc"/>
+  </outline>
+</glyph>

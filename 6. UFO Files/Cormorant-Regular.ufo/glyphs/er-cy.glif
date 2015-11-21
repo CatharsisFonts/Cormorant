@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="er-cy" format="1">
+  <advance width="437"/>
+  <unicode hex="0440"/>
+  <outline>
+    <contour>
+      <point x="44" y="-235"/>
+      <point x="75" y="-233"/>
+      <point x="108" y="-233" type="curve" smooth="yes"/>
+      <point x="148" y="-233"/>
+      <point x="185" y="-235"/>
+      <point x="215" y="-235" type="curve" smooth="yes"/>
+      <point x="218" y="-235"/>
+      <point x="218" y="-225"/>
+      <point x="215" y="-225" type="curve" smooth="yes"/>
+      <point x="141" y="-225"/>
+      <point x="129" y="-215"/>
+      <point x="129" y="-166" type="curve" smooth="yes"/>
+      <point x="129" y="307" type="line" smooth="yes"/>
+      <point x="129" y="326"/>
+      <point x="126" y="330"/>
+      <point x="113" y="330" type="curve" smooth="yes"/>
+      <point x="93" y="330"/>
+      <point x="59" y="330"/>
+      <point x="11" y="330" type="curve" smooth="yes"/>
+      <point x="8" y="330"/>
+      <point x="8" y="320"/>
+      <point x="11" y="320" type="curve" smooth="yes"/>
+      <point x="73" y="320"/>
+      <point x="87" y="309"/>
+      <point x="87" y="261" type="curve" smooth="yes"/>
+      <point x="87" y="-166" type="line" smooth="yes"/>
+      <point x="87" y="-215"/>
+      <point x="76" y="-225"/>
+      <point x="21" y="-225" type="curve" smooth="yes"/>
+      <point x="18" y="-225"/>
+      <point x="18" y="-235"/>
+      <point x="21" y="-235" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="294" y="-11"/>
+      <point x="405" y="48"/>
+      <point x="405" y="184" type="curve" smooth="yes"/>
+      <point x="405" y="284"/>
+      <point x="344" y="341"/>
+      <point x="275" y="341" type="curve" smooth="yes"/>
+      <point x="220" y="341"/>
+      <point x="168" y="311"/>
+      <point x="110" y="244" type="curve"/>
+      <point x="117" y="238" type="line"/>
+      <point x="154" y="279"/>
+      <point x="192" y="313"/>
+      <point x="244" y="313" type="curve" smooth="yes"/>
+      <point x="308" y="313"/>
+      <point x="358" y="258"/>
+      <point x="358" y="157" type="curve" smooth="yes"/>
+      <point x="358" y="62"/>
+      <point x="310" y="6"/>
+      <point x="250" y="6" type="curve" smooth="yes"/>
+      <point x="185" y="6"/>
+      <point x="149" y="35"/>
+      <point x="117" y="75" type="curve"/>
+      <point x="109" y="30" type="line"/>
+      <point x="148" y="-2"/>
+      <point x="178" y="-11"/>
+      <point x="222" y="-11" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Regular Sep 7 15, 22:39</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>p</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>er-cy</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>437</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

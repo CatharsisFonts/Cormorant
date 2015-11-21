@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e-cy" format="1">
+  <advance width="363"/>
+  <unicode hex="0454"/>
+  <outline>
+    <contour>
+      <point x="259" y="141"/>
+      <point x="261" y="185"/>
+      <point x="252" y="184" type="curve" smooth="yes"/>
+      <point x="200" y="179"/>
+      <point x="139" y="177"/>
+      <point x="73" y="177" type="curve"/>
+      <point x="73" y="155" type="line"/>
+      <point x="139" y="155"/>
+      <point x="200" y="152"/>
+      <point x="251" y="143" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="257" y="-10"/>
+      <point x="296" y="10"/>
+      <point x="336" y="47" type="curve" smooth="yes"/>
+      <point x="339" y="50"/>
+      <point x="333" y="56"/>
+      <point x="330" y="54" type="curve" smooth="yes"/>
+      <point x="301" y="40"/>
+      <point x="282" y="32"/>
+      <point x="248" y="32" type="curve" smooth="yes"/>
+      <point x="150" y="32"/>
+      <point x="115" y="101"/>
+      <point x="115" y="187" type="curve" smooth="yes"/>
+      <point x="115" y="266"/>
+      <point x="146" y="320"/>
+      <point x="196" y="320" type="curve" smooth="yes"/>
+      <point x="227" y="320"/>
+      <point x="236" y="300"/>
+      <point x="245" y="281" type="curve" smooth="yes"/>
+      <point x="254" y="261"/>
+      <point x="263" y="242"/>
+      <point x="293" y="242" type="curve" smooth="yes"/>
+      <point x="323" y="242"/>
+      <point x="336" y="260"/>
+      <point x="336" y="277" type="curve" smooth="yes"/>
+      <point x="336" y="313"/>
+      <point x="282" y="338"/>
+      <point x="229" y="338" type="curve" smooth="yes"/>
+      <point x="135" y="338"/>
+      <point x="27" y="273"/>
+      <point x="27" y="159" type="curve" smooth="yes"/>
+      <point x="27" y="78"/>
+      <point x="81" y="-10"/>
+      <point x="200" y="-10" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="212" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="195" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>c</string>
+    </dict>
+  </lib>
+</glyph>

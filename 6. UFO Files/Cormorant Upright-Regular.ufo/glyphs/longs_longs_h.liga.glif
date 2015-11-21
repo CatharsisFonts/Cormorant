@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_longs_h.liga" format="1">
+  <advance width="878"/>
+  <outline>
+    <component base="ssxmaker"/>
+    <component base="longs_h.liga" xOffset="226"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>longs</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utilde.ss01" format="1">
+  <advance width="653"/>
+  <outline>
+    <component base="U.ss01"/>
+    <component base="tilde.case" xOffset="166" yOffset="204"/>
+  </outline>
+</glyph>

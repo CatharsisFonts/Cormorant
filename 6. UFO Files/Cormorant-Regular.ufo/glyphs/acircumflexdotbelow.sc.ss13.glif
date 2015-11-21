@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflexdotbelow.sc.ss13" format="1">
+  <advance width="479"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="dotbelowcomb" xOffset="178"/>
+    <component base="circumflexcomb.sc.ss13" xOffset="114"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

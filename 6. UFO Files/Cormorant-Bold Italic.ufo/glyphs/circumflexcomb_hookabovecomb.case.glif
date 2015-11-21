@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb.case" format="1">
+  <advance width="303"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="11"/>
+    <component base="hookabovecomb.mini" xOffset="91" yOffset="59"/>
+    <contour>
+      <point x="153" y="734" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="163" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

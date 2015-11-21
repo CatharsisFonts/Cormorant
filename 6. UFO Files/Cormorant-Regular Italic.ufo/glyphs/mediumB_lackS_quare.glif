@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mediumBlackSquare" format="1">
+  <advance width="522"/>
+  <unicode hex="25FC"/>
+  <outline>
+    <contour>
+      <point x="461" y="0" type="line"/>
+      <point x="461" y="400" type="line"/>
+      <point x="61" y="400" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

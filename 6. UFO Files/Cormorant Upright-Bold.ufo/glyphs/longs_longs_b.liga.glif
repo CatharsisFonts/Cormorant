@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_longs_b.liga" format="1">
+  <advance width="931"/>
+  <outline>
+    <component base="ssxmaker"/>
+    <component base="longs_b.liga" xOffset="246"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==b</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>longs</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>b</string>
+    </dict>
+  </lib>
+</glyph>

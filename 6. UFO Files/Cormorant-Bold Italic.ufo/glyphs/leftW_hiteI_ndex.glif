@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftWhiteIndex" format="1">
+  <advance width="924"/>
+  <unicode hex="261C"/>
+  <outline>
+    <component base="rightWhiteIndex" xOffset="924" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=|rightWhitePointingindex</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=|rightWhitePointingindex</string>
+    </dict>
+  </lib>
+</glyph>

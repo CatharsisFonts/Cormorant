@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterism" format="1">
+  <advance width="733"/>
+  <unicode hex="2042"/>
+  <outline>
+    <component base="asterisk" xOffset="159" yOffset="30"/>
+    <component base="asterisk" xOffset="-10" yOffset="-280"/>
+    <component base="asterisk" xOffset="340" yOffset="-280"/>
+  </outline>
+</glyph>

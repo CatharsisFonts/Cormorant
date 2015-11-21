@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot.case" format="1">
+  <advance width="338"/>
+  <outline>
+    <contour>
+      <point x="331" y="306" type="line"/>
+      <point x="331" y="338" type="line"/>
+      <point x="48" y="338" type="line" smooth="yes"/>
+      <point x="44" y="338"/>
+      <point x="44" y="306"/>
+      <point x="49" y="306" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="299" y="171"/>
+      <point x="331" y="171"/>
+      <point x="331" y="176" type="curve" smooth="yes"/>
+      <point x="331" y="338" type="line"/>
+      <point x="299" y="338" type="line"/>
+      <point x="299" y="175" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>logicalnot</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>logicalnot</string>
+    </dict>
+  </lib>
+</glyph>

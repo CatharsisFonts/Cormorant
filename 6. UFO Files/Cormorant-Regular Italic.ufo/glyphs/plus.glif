@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="340"/>
+  <unicode hex="002B"/>
+  <outline>
+    <component base="endash"/>
+    <component base="endash" xOffset="332" yOffset="-8" xScale="0" yScale="0" xyScale="1" yxScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==endash</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>dash</string>
+    </dict>
+  </lib>
+</glyph>

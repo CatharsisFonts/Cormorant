@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneinferior" format="1">
+  <advance width="224"/>
+  <unicode hex="2081"/>
+  <outline>
+    <contour>
+      <point x="55" y="-119"/>
+      <point x="86" y="-117"/>
+      <point x="118" y="-117" type="curve" smooth="yes"/>
+      <point x="149" y="-117"/>
+      <point x="176" y="-119"/>
+      <point x="199" y="-119" type="curve" smooth="yes"/>
+      <point x="202" y="-119"/>
+      <point x="202" y="-109"/>
+      <point x="199" y="-109" type="curve" smooth="yes"/>
+      <point x="152" y="-109"/>
+      <point x="148" y="-104"/>
+      <point x="148" y="-50" type="curve" smooth="yes"/>
+      <point x="148" y="153" type="line" smooth="yes"/>
+      <point x="148" y="156"/>
+      <point x="144" y="161"/>
+      <point x="139" y="159" type="curve" smooth="yes"/>
+      <point x="23" y="108" type="line" smooth="yes"/>
+      <point x="20" y="107"/>
+      <point x="24" y="97"/>
+      <point x="28" y="99" type="curve" smooth="yes"/>
+      <point x="80" y="122"/>
+      <point x="86" y="117"/>
+      <point x="86" y="51" type="curve" smooth="yes"/>
+      <point x="86" y="-50" type="line" smooth="yes"/>
+      <point x="86" y="-104"/>
+      <point x="81" y="-109"/>
+      <point x="32" y="-109" type="curve" smooth="yes"/>
+      <point x="29" y="-109"/>
+      <point x="29" y="-119"/>
+      <point x="32" y="-119" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>one.sups</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>one.sups</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocaron" format="1">
+  <advance width="624"/>
+  <unicode hex="01D1"/>
+  <outline>
+    <component base="O"/>
+    <component base="caron.case" xOffset="211" yOffset="204"/>
+  </outline>
+</glyph>

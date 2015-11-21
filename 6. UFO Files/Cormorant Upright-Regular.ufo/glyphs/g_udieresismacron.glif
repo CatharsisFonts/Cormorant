@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_udieresismacron" format="1">
+  <advance width="796"/>
+  <outline>
+    <component base="g_u"/>
+    <component base="macron.dieresis" xOffset="462"/>
+  </outline>
+</glyph>

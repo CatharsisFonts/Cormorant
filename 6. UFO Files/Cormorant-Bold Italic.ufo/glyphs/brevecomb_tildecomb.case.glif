@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_tildecomb.case" format="1">
+  <advance width="288"/>
+  <outline>
+    <component base="brevecomb.case" xOffset="40"/>
+    <component base="tilde.case" xOffset="79" yOffset="306"/>
+    <contour>
+      <point x="261" y="740" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="215" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

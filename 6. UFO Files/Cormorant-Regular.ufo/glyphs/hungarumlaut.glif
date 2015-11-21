@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="261"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="61" y="422"/>
+      <point x="106" y="453"/>
+      <point x="154" y="472" type="curve" smooth="yes"/>
+      <point x="166" y="475"/>
+      <point x="104" y="493"/>
+      <point x="97" y="489" type="curve" smooth="yes"/>
+      <point x="71" y="464"/>
+      <point x="48" y="431"/>
+      <point x="20" y="405" type="curve" smooth="yes"/>
+      <point x="16" y="403"/>
+      <point x="19" y="394"/>
+      <point x="24" y="396" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="161" y="422"/>
+      <point x="206" y="453"/>
+      <point x="254" y="472" type="curve" smooth="yes"/>
+      <point x="266" y="475"/>
+      <point x="204" y="493"/>
+      <point x="197" y="489" type="curve" smooth="yes"/>
+      <point x="171" y="464"/>
+      <point x="148" y="431"/>
+      <point x="120" y="405" type="curve" smooth="yes"/>
+      <point x="116" y="403"/>
+      <point x="119" y="394"/>
+      <point x="124" y="396" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="101" y="330" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==acute</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>acute</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Regular Sep 19 15, 23:17</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+            <dict>
+              <key>name</key>
+              <string>_top</string>
+              <key>x</key>
+              <integer>102</integer>
+              <key>y</key>
+              <integer>330</integer>
+            </dict>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>acute</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-10</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>acute</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>90</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>261</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

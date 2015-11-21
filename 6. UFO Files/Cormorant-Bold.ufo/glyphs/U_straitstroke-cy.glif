@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraitstroke-cy" format="1">
+  <advance width="529"/>
+  <unicode hex="04B0"/>
+  <outline>
+    <contour>
+      <point x="410" y="237" type="line" smooth="yes"/>
+      <point x="415" y="237"/>
+      <point x="415" y="261"/>
+      <point x="410" y="261" type="curve" smooth="yes"/>
+      <point x="116" y="261" type="line" smooth="yes"/>
+      <point x="111" y="261"/>
+      <point x="111" y="237"/>
+      <point x="116" y="237" type="curve" smooth="yes"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+</glyph>

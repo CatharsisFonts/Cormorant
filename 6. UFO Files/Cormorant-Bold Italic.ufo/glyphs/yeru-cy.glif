@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeru-cy" format="1">
+  <advance width="509"/>
+  <unicode hex="044B"/>
+  <outline>
+    <contour>
+      <point x="419" y="-8"/>
+      <point x="450" y="12"/>
+      <point x="491" y="61" type="curve" smooth="yes"/>
+      <point x="495" y="65"/>
+      <point x="488" y="73"/>
+      <point x="484" y="68" type="curve" smooth="yes"/>
+      <point x="463" y="45"/>
+      <point x="446" y="34"/>
+      <point x="435" y="34" type="curve" smooth="yes"/>
+      <point x="422" y="34"/>
+      <point x="417" y="48"/>
+      <point x="422" y="76" type="curve" smooth="yes"/>
+      <point x="457" y="267" type="line" smooth="yes"/>
+      <point x="462" y="297"/>
+      <point x="470" y="326"/>
+      <point x="470" y="330" type="curve" smooth="yes"/>
+      <point x="470" y="333"/>
+      <point x="464" y="337"/>
+      <point x="442" y="337" type="curve" smooth="yes"/>
+      <point x="412" y="337"/>
+      <point x="396" y="330"/>
+      <point x="394" y="320" type="curve" smooth="yes"/>
+      <point x="349" y="66" type="line" smooth="yes"/>
+      <point x="341" y="19"/>
+      <point x="350" y="-8"/>
+      <point x="387" y="-8" type="curve" smooth="yes"/>
+    </contour>
+    <component base="softsign-cy"/>
+    <contour>
+      <point x="284" y="330" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>softsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>en-cy</string>
+    </dict>
+  </lib>
+</glyph>

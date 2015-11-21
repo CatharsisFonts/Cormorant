@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs_longs.short.liga" format="1">
+  <advance width="522"/>
+  <outline>
+    <component base="longs.short"/>
+    <component base="longs.short" xOffset="241"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==longs.short</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>longs.short</string>
+    </dict>
+  </lib>
+</glyph>

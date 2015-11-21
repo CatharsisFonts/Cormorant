@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_udieresismacron.ss02" format="1">
+  <advance width="768"/>
+  <outline>
+    <component base="g_u.ss02"/>
+    <component base="macron.dieresis" xOffset="419"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.case" format="1">
+  <advance width="257"/>
+  <outline>
+    <component base="bullet" xOffset="19" yOffset="107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>bullet</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>bullet</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kcaron" format="1">
+  <advance width="387"/>
+  <unicode hex="01E9"/>
+  <outline>
+    <component base="k"/>
+    <component base="caron.case" xOffset="16" yOffset="264"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>k</string>
+    </dict>
+  </lib>
+</glyph>

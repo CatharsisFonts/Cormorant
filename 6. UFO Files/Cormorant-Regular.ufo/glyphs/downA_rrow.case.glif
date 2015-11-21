@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downArrow.case" format="1">
+  <advance width="434"/>
+  <outline>
+    <contour>
+      <point x="211" y="-10"/>
+      <point x="224" y="-10"/>
+      <point x="231" y="-3" type="curve" smooth="yes"/>
+      <point x="412" y="210" type="line" smooth="yes"/>
+      <point x="417" y="213"/>
+      <point x="409" y="221"/>
+      <point x="405" y="218" type="curve" smooth="yes"/>
+      <point x="218" y="53" type="line"/>
+      <point x="28" y="218" type="line" smooth="yes"/>
+      <point x="26" y="220"/>
+      <point x="17" y="213"/>
+      <point x="21" y="210" type="curve" smooth="yes"/>
+      <point x="204" y="-3" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="201" y="1"/>
+      <point x="233" y="1"/>
+      <point x="233" y="6" type="curve" smooth="yes"/>
+      <point x="233" y="536" type="line" smooth="yes"/>
+      <point x="233" y="541"/>
+      <point x="201" y="540"/>
+      <point x="201" y="536" type="curve" smooth="yes"/>
+      <point x="201" y="6" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>upArrow.case</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>upArrow.case</string>
+    </dict>
+  </lib>
+</glyph>

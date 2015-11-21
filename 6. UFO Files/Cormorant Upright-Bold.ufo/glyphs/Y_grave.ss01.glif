@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ygrave.ss01" format="1">
+  <advance width="525"/>
+  <outline>
+    <component base="Y.ss01"/>
+    <component base="gravecomb.case" xOffset="182" yOffset="204"/>
+  </outline>
+</glyph>

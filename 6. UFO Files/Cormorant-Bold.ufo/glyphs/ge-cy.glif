@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ge-cy" format="1">
+  <advance width="320"/>
+  <unicode hex="0433"/>
+  <outline>
+    <contour>
+      <point x="28" y="330" type="line" smooth="yes"/>
+      <point x="25" y="330"/>
+      <point x="25" y="320"/>
+      <point x="28" y="320" type="curve" smooth="yes"/>
+      <point x="67" y="320"/>
+      <point x="74" y="310"/>
+      <point x="74" y="261" type="curve" smooth="yes"/>
+      <point x="74" y="69" type="line" smooth="yes"/>
+      <point x="74" y="20"/>
+      <point x="67" y="10"/>
+      <point x="27" y="10" type="curve" smooth="yes"/>
+      <point x="24" y="10"/>
+      <point x="24" y="0"/>
+      <point x="27" y="0" type="curve" smooth="yes"/>
+      <point x="52" y="0"/>
+      <point x="83" y="2"/>
+      <point x="115" y="2" type="curve" smooth="yes"/>
+      <point x="146" y="2"/>
+      <point x="176" y="0"/>
+      <point x="200" y="0" type="curve" smooth="yes"/>
+      <point x="203" y="0"/>
+      <point x="203" y="10"/>
+      <point x="200" y="10" type="curve" smooth="yes"/>
+      <point x="161" y="10"/>
+      <point x="154" y="20"/>
+      <point x="154" y="69" type="curve" smooth="yes"/>
+      <point x="154" y="259" type="line" smooth="yes"/>
+      <point x="154" y="299"/>
+      <point x="161" y="315"/>
+      <point x="188" y="315" type="curve" smooth="yes"/>
+      <point x="225" y="315"/>
+      <point x="261" y="288"/>
+      <point x="284" y="219" type="curve" smooth="yes"/>
+      <point x="285" y="216"/>
+      <point x="294" y="216"/>
+      <point x="294" y="219" type="curve" smooth="yes"/>
+      <point x="294" y="241"/>
+      <point x="297" y="288"/>
+      <point x="298" y="322" type="curve" smooth="yes"/>
+      <point x="298" y="329"/>
+      <point x="298" y="330"/>
+      <point x="291" y="330" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="170" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="310" y="0" type="move" name="bottomright"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>en-cy</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ge-cy</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>320</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

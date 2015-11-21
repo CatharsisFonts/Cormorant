@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign.case" format="1">
+  <advance width="353"/>
+  <outline>
+    <component base="numbersign" yOffset="95"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>numbersign</string>
+    </dict>
+  </lib>
+</glyph>

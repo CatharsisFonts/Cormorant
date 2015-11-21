@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.narrow" format="1">
+  <advance width="228"/>
+  <outline>
+    <contour>
+      <point x="36" y="413"/>
+      <point x="44" y="425"/>
+      <point x="72" y="425" type="curve" smooth="yes"/>
+      <point x="101" y="425"/>
+      <point x="124" y="404"/>
+      <point x="149" y="404" type="curve" smooth="yes"/>
+      <point x="172" y="404"/>
+      <point x="188" y="417"/>
+      <point x="214" y="473" type="curve" smooth="yes"/>
+      <point x="215" y="476"/>
+      <point x="208" y="481"/>
+      <point x="207" y="479" type="curve" smooth="yes"/>
+      <point x="197" y="468"/>
+      <point x="186" y="456"/>
+      <point x="159" y="456" type="curve" smooth="yes"/>
+      <point x="132" y="456"/>
+      <point x="106" y="477"/>
+      <point x="87" y="477" type="curve" smooth="yes"/>
+      <point x="54" y="477"/>
+      <point x="29" y="433"/>
+      <point x="17" y="408" type="curve" smooth="yes"/>
+      <point x="16" y="405"/>
+      <point x="23" y="400"/>
+      <point x="24" y="402" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="116" y="330" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

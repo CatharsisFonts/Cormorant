@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_ucaron" format="1">
+  <advance width="796"/>
+  <outline>
+    <component base="g_u"/>
+    <component base="caron" xOffset="480"/>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute_ij.liga" format="1">
+  <advance width="455"/>
+  <outline>
+    <component base="iacute_j.dlig"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>IJ</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>IJ</string>
+    </dict>
+  </lib>
+</glyph>

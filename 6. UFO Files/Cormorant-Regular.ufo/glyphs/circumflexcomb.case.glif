@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb.case" format="1">
+  <advance width="224"/>
+  <outline>
+    <contour>
+      <point x="17" y="558"/>
+      <point x="23" y="553"/>
+      <point x="25" y="554" type="curve" smooth="yes"/>
+      <point x="118" y="607" type="line"/>
+      <point x="210" y="554" type="line" smooth="yes"/>
+      <point x="213" y="552"/>
+      <point x="218" y="558"/>
+      <point x="215" y="560" type="curve" smooth="yes"/>
+      <point x="127" y="639" type="line" smooth="yes"/>
+      <point x="122" y="644"/>
+      <point x="113" y="644"/>
+      <point x="108" y="639" type="curve" smooth="yes"/>
+      <point x="20" y="560" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="220" y="568" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="118" y="534" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>==acute</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==acute</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>acute</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>acute</string>
+    </dict>
+  </lib>
+</glyph>

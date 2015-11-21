@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g_uogonek.ss03" format="1">
+  <advance width="742"/>
+  <outline>
+    <component base="g.ss03"/>
+    <component base="uogonek" xOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>uogonek</string>
+    </dict>
+  </lib>
+</glyph>

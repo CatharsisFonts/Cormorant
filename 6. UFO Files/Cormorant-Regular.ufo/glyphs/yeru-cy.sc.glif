@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeru-cy.sc" format="1">
+  <advance width="640"/>
+  <outline>
+    <component base="softsign-cy.sc"/>
+    <component base="i.sc" xOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>en-cy</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guarani.lf" format="1">
+  <advance width="615"/>
+  <outline>
+    <contour>
+      <point x="291" y="-100"/>
+      <point x="315" y="-100"/>
+      <point x="315" y="-92" type="curve" smooth="yes"/>
+      <point x="315" y="615" type="line" smooth="yes"/>
+      <point x="315" y="623"/>
+      <point x="291" y="623"/>
+      <point x="291" y="615" type="curve" smooth="yes"/>
+      <point x="291" y="-92" type="line" smooth="yes"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>g.sc</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

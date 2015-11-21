@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon.tosf" format="1">
+  <advance width="210"/>
+  <outline>
+    <component base="period" xOffset="21"/>
+    <component base="period" xOffset="21" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>==period</string>
+    </dict>
+  </lib>
+</glyph>

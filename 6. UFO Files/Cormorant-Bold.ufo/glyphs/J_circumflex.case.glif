@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Jcircumflex.case" format="1">
+  <advance width="286"/>
+  <outline>
+    <component base="J.case"/>
+    <component base="circumflex.case" xOffset="29" yOffset="204"/>
+  </outline>
+</glyph>

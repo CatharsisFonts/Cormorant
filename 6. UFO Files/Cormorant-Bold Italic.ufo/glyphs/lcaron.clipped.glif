@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.clipped" format="1">
+  <advance width="221"/>
+  <outline>
+    <component base="l.clipped"/>
+    <component base="caron.alt" xOffset="127"/>
+  </outline>
+</glyph>
