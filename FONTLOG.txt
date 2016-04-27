@@ -47,6 +47,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2015-12-14: Release v2.1
+Fixed a wrong internal weight value for Garamond Bold.
+
+
 2015-11-17: Release v2.0
 THIS IS INTENDED AS THE FIRST OFFICIAL "FULL VERSION" OF CORMORANT.  I set the version number to 2.0 rather than 1.0 because early test versions of the fonts had the version number 1.0 in their metadata, and I wanted to make sure the current version is unambiguously marked as the newest.
 
