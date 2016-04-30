@@ -16,6 +16,10 @@ suffix = ".lf"
 allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
 renameGlyphs2 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
 
+suffix = ".ss10"
+allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
+renameGlyphs3 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
+
 
 for thisInstance in Font.instances:
 	parameterFamilyName = thisInstance.customValueForKey_("familyName")
@@ -25,7 +29,7 @@ for thisInstance in Font.instances:
 		familyName = Font.familyName
 	if familyName.startswith("Cormorant Infant"):
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
+		thisInstance.setCustomParameter_forKey_( renameGlyphs1 + renameGlyphs2 + renameGlyphs3, renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( ["onum", "ss03"], "Remove Features" )
 
 
