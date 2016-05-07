@@ -7,7 +7,7 @@ and any derivative works.
 Basic Font Information
 
 Cormorant is a Unicode display serif typeface encompassing the Adobe Latin
-4 range of characters as well as the Cyrillic support.  It is inspired by 
+4 range of characters as well as the Cyrillic script.  It is inspired by 
 Claude Garamont's timeless designs.
 
 This release contains six styles:
@@ -46,6 +46,11 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 
 ChangeLog
+
+
+2016-05-06: Release v2.2
+The Cyrillic in the Garamond style is now distinct from the default style, with triangular counters for Cyrillic /de and /el and serifless apices for /i and /em.  This new style is a better match for the Garamond heritage in Cormorant, whereas the default forms remain closer to Cyrillic tradition.  Also added a lot of new Cyrillic kerning pairs, and adjusted the design of a few Latin letters and figures.  Hopefully the last update before inclusion into Google Fonts!  Thanks to orthoxerox on GitHub for all the help with Cyrillic.
+
 
 2015-12-14: Release v2.1
 Fixed a wrong internal weight value for Garamond Bold.
