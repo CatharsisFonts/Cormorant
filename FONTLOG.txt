@@ -48,6 +48,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 ChangeLog
 
 
+2016-05-09: Release v2.3
+Fixed some remaining issues with locl features (Hungarian, Polish, Macedonian).  Re-releasing so as to get these fixed into Google Fonts in time.
+
+
 2016-05-06: Release v2.2
 The Cyrillic in the Garamond style is now distinct from the default style, with triangular counters for Cyrillic /de and /el and serifless apices for /i and /em.  This new style is a better match for the Garamond heritage in Cormorant, whereas the default forms remain closer to Cyrillic tradition.  Also added a lot of new Cyrillic kerning pairs, and adjusted the design of a few Latin letters and figures.  Hopefully the last update before inclusion into Google Fonts!  Thanks to orthoxerox on GitHub for all the help with Cyrillic.
 
