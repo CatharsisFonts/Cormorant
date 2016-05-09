@@ -50,10 +50,10 @@ ChangeLog
 
 
 2016-05-09: Release v2.4
-One more thing before the big Google Fonts deadline!  Fixed Navajo support.
+Release v2.3 produced corrupted font files for the Roman cut!  Fixed thanks to Georg Seifert (Glyphs app).  Also, fixed Navajo support.
 
 
-2016-05-09: Release v2.3
+2016-05-09: Release v2.3 -- CORRUPTED
 Fixed some remaining issues with locl features (Hungarian, Polish, Macedonian).  Re-releasing so as to get these fixed into Google Fonts in time.
 
 
