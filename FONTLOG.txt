@@ -48,6 +48,9 @@ To contribute to the project, contact Christian Thalmann (see below).
 ChangeLog
 
 
+2016-05-16: Release v2.5
+Cleaned up some bad glyphs in Unicase.  Improved handling of /IJ, /ij and accented versions.
+
 
 2016-05-09: Release v2.4
 Release v2.3 produced corrupted font files for the Roman cut!  Fixed thanks to Georg Seifert (Glyphs app).  Also, fixed Navajo support.
