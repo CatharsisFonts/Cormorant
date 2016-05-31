@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute.ss03" format="1">
+  <advance width="696"/>
+  <outline>
+    <component base="W.ss03"/>
+    <component base="acutecomb.case" xOffset="320"/>
+  </outline>
+</glyph>

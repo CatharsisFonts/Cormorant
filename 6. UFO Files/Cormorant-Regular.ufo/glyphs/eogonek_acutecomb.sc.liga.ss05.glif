@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eogonek_acutecomb.sc.liga.ss05" format="1">
+  <advance width="373"/>
+  <outline>
+    <component base="e.sc.ss05"/>
+    <component base="ogonek" xOffset="131"/>
+    <component base="acutecomb.case" xOffset="110" yOffset="-134"/>
+    <contour>
+      <point x="187" y="400" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

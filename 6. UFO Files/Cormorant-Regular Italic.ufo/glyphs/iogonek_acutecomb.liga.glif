@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek_acutecomb.liga" format="1">
+  <advance width="211"/>
+  <outline>
+    <contour>
+      <point x="91" y="-235"/>
+      <point x="115" y="-224"/>
+      <point x="142" y="-204" type="curve" smooth="yes"/>
+      <point x="145" y="-201"/>
+      <point x="139" y="-194"/>
+      <point x="136" y="-196" type="curve" smooth="yes"/>
+      <point x="125" y="-204"/>
+      <point x="113" y="-212"/>
+      <point x="93" y="-212" type="curve" smooth="yes"/>
+      <point x="46" y="-212"/>
+      <point x="30" y="-173"/>
+      <point x="40" y="-128" type="curve" smooth="yes"/>
+      <point x="55" y="-61"/>
+      <point x="125" y="-10"/>
+      <point x="192" y="59" type="curve" smooth="yes"/>
+      <point x="195" y="62"/>
+      <point x="188" y="69"/>
+      <point x="185" y="66" type="curve" smooth="yes"/>
+      <point x="160" y="40"/>
+      <point x="139" y="24"/>
+      <point x="126" y="24" type="curve" smooth="yes"/>
+      <point x="111" y="24"/>
+      <point x="105" y="41"/>
+      <point x="111" y="76" type="curve" smooth="yes"/>
+      <point x="143" y="254" type="line" smooth="yes"/>
+      <point x="154" y="316"/>
+      <point x="149" y="338"/>
+      <point x="122" y="338" type="curve" smooth="yes"/>
+      <point x="93" y="338"/>
+      <point x="62" y="316"/>
+      <point x="24" y="273" type="curve" smooth="yes"/>
+      <point x="20" y="269"/>
+      <point x="27" y="262"/>
+      <point x="31" y="266" type="curve" smooth="yes"/>
+      <point x="56" y="292"/>
+      <point x="79" y="306"/>
+      <point x="92" y="306" type="curve" smooth="yes"/>
+      <point x="107" y="306"/>
+      <point x="113" y="289"/>
+      <point x="107" y="254" type="curve" smooth="yes"/>
+      <point x="74" y="76" type="line" smooth="yes"/>
+      <point x="63" y="14"/>
+      <point x="69" y="-8"/>
+      <point x="96" y="-8" type="curve" smooth="yes"/>
+      <point x="106" y="-8"/>
+      <point x="113" y="-5"/>
+      <point x="121" y="-1" type="curve"/>
+      <point x="135" y="18" type="line"/>
+      <point x="70" y="-40"/>
+      <point x="15" y="-98"/>
+      <point x="4" y="-153" type="curve" smooth="yes"/>
+      <point x="-5" y="-197"/>
+      <point x="18" y="-235"/>
+      <point x="67" y="-235" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="203" y="622" type="line" smooth="yes"/>
+      <point x="206" y="630"/>
+      <point x="161" y="619"/>
+      <point x="159" y="612" type="curve" smooth="yes"/>
+      <point x="111" y="407" type="line" smooth="yes"/>
+      <point x="110" y="404"/>
+      <point x="119" y="402"/>
+      <point x="120" y="405" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="159" y="625" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="122" y="330" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>idotless</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>ogonek.narrow</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>10</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>acutecomb</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>iogonek_acutecomb.liga</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>211</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

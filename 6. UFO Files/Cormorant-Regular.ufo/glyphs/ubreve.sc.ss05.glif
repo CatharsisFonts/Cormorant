@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ubreve.sc.ss05" format="1">
+  <advance width="530"/>
+  <outline>
+    <component base="u.sc.ss01"/>
+    <component base="breve.sc" xOffset="147" yOffset="70"/>
+  </outline>
+</glyph>
