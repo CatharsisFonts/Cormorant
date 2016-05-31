@@ -47,6 +47,9 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2016-05-31: Release v3.0
+First official Google Fonts version!  :)  I had to change the naming of the Book and Semibold weights to Medium and SemiBold, respectively.  Users of the previous releases might have to make a few changes to existing documents for backward-compatibility. 
+
 
 2016-05-30: Release v2.7
 Raised arrows and bullet to work better with mixed case.  Improved /apostrophemod.
