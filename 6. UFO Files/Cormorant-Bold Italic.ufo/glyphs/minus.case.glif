@@ -2,12 +2,19 @@
 <glyph name="minus.case" format="1">
   <advance width="390"/>
   <outline>
-    <component base="endash.case"/>
+    <contour>
+      <point x="382" y="257" type="line" smooth="yes"/>
+      <point x="387" y="257"/>
+      <point x="387" y="299"/>
+      <point x="382" y="299" type="curve" smooth="yes"/>
+      <point x="49" y="299" type="line" smooth="yes"/>
+      <point x="45" y="299"/>
+      <point x="45" y="257"/>
+      <point x="50" y="257" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>endash</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>endash</string>
     </dict>

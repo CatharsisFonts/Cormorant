@@ -135,6 +135,21 @@
       <point x="481" y="-11"/>
       <point x="525" y="-11" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="371" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="185" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="185" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="556" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="556" y="0" type="move" name="bottom_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

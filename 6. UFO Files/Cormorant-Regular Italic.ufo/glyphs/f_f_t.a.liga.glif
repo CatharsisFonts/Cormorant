@@ -5,13 +5,37 @@
     <component base="ffxmaker"/>
     <component base="f_t.a.liga" xOffset="207"/>
     <contour>
-      <point x="613" y="165" type="move" name="center"/>
-    </contour>
-    <contour>
       <point x="633" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="80" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="613" y="165" type="move" name="center"/>
+    </contour>
+    <contour>
       <point x="638" y="330" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="357" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="437" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="517" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="138" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="299" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="575" y="330" type="move" name="top_3"/>
     </contour>
   </outline>
   <lib>

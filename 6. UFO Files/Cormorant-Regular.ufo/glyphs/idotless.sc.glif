@@ -9,6 +9,12 @@
     <contour>
       <point x="118" y="330" type="move" name="top"/>
     </contour>
+    <contour>
+      <point x="20" y="400" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

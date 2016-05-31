@@ -5,10 +5,25 @@
     <component base="g.ss03"/>
     <component base="yacute.ss03" xOffset="363"/>
     <contour>
+      <point x="141" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="158" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="590" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="374" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="571" y="330" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="141" y="0" type="move" name="bottom"/>
+      <point x="216" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="532" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

@@ -38,13 +38,28 @@
     </contour>
     <component base="idotless" xOffset="218"/>
     <contour>
-      <point x="494" y="10" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="198" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="78" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="494" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="351" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="215" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="231" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="136" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="293" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

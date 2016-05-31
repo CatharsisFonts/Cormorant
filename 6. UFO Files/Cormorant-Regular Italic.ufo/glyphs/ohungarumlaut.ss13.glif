@@ -3,6 +3,6 @@
   <advance width="339"/>
   <outline>
     <component base="o"/>
-    <component base="hungarumlautcomb" xOffset="69"/>
+    <component base="hungarumlautcomb.case.ss13" xOffset="57" yOffset="-204"/>
   </outline>
 </glyph>

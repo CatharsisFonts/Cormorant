@@ -48,13 +48,16 @@
       <point x="141" y="330" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="140" y="400" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="227" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="140" y="400" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="336" y="330" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="198" y="200" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

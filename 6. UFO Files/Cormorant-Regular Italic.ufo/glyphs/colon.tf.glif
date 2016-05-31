@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon.tf" format="1">
-  <advance width="210"/>
+  <advance width="177"/>
   <outline>
-    <component base="colon.tosf"/>
+    <component base="period" xOffset="5"/>
+    <component base="period" xOffset="37" yOffset="240"/>
   </outline>
 </glyph>

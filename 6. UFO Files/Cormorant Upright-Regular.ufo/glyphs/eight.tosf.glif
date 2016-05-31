@@ -831,6 +831,17 @@
           <integer>420</integer>
         </dict>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>eight</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

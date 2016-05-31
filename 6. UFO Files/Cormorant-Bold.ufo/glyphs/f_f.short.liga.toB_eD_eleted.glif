@@ -69,6 +69,9 @@
       <point x="330" y="262" type="curve"/>
     </contour>
     <component base="f.short" xOffset="256"/>
+    <contour>
+      <point x="279" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
   <lib>
     <dict>

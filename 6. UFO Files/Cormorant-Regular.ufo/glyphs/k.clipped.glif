@@ -78,13 +78,14 @@
       <point x="108" y="147" type="line"/>
     </contour>
     <contour>
+      <point x="101" y="597" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="210" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>h</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Regular Nov 26 14, 13:50</key>

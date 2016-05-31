@@ -4,13 +4,16 @@
   <outline>
     <component base="t"/>
     <contour>
-      <point x="105" y="165" type="move" name="center"/>
-    </contour>
-    <contour>
       <point x="103" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="155" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="157" y="310" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="105" y="165" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

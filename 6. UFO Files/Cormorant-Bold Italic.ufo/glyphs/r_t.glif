@@ -74,10 +74,25 @@
     </contour>
     <component base="r"/>
     <contour>
+      <point x="472" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="108" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
       <point x="452" y="165" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="472" y="0" type="move" name="bottom"/>
+      <point x="441" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="275" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="166" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="383" y="0" type="move" name="bottom_2"/>
     </contour>
     <contour>
       <point x="477" y="330" type="move" name="topright"/>

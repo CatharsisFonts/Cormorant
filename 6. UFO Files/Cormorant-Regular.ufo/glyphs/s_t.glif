@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s_t" format="1">
   <advance width="568"/>
-  <unicode hex="FB06"/>
   <outline>
     <contour>
       <point x="474" y="-10"/>
@@ -116,7 +115,10 @@
       <point x="519" y="289" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="155" y="0" type="move" name="bottom"/>
+      <point x="284" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="444" y="165" type="move" name="center"/>
     </contour>
     <contour>
       <point x="150" y="330" type="move" name="top"/>
@@ -125,7 +127,7 @@
       <point x="469" y="330" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="444" y="165" type="move" name="center"/>
+      <point x="155" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

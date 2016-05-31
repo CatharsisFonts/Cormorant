@@ -78,13 +78,14 @@
       <point x="113" y="127" type="line"/>
     </contour>
     <contour>
+      <point x="109" y="585" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="215" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>h</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Bold Jan 20 15, 00:13</key>

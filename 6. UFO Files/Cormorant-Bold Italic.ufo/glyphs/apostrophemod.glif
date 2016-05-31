@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="apostrophemod" format="1">
-  <advance width="186"/>
+  <advance width="138"/>
   <unicode hex="02BC"/>
   <outline>
-    <component base="commaaccentcomb" yOffset="626"/>
-    <contour>
-      <point x="91" y="330" type="move" name="_bottom"/>
-    </contour>
+    <component base="quoteright" xOffset="5"/>
   </outline>
   <lib>
     <dict>
@@ -14,6 +11,17 @@
       <integer>9</integer>
       <key>public.markColor</key>
       <string>0.98,0.36,0.67,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>quoteright</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

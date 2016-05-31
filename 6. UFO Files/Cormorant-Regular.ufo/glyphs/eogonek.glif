@@ -28,5 +28,8 @@
       <point x="237" y="-235" type="curve" smooth="yes"/>
     </contour>
     <component base="e"/>
+    <contour>
+      <point x="173" y="330" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

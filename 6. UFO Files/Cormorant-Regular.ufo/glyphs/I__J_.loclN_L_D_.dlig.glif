@@ -83,7 +83,34 @@
       <point x="188" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
+      <point x="147" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="topleft_1"/>
+    </contour>
+    <contour>
+      <point x="441" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="ogonek_2"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="topleft_2"/>
+    </contour>
+    <contour>
+      <point x="294" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="ogonek_1"/>
+    </contour>
+    <contour>
       <point x="403" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="441" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="147" y="330" type="move" name="top_1"/>
     </contour>
   </outline>
   <lib>

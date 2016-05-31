@@ -115,13 +115,28 @@
       <point x="471" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="368" y="566" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="455" y="330" type="move" name="topright"/>
+      <point x="119" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
       <point x="474" y="165" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="473" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="296" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="368" y="566" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="177" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="415" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="455" y="330" type="move" name="topright"/>
     </contour>
   </outline>
   <lib>

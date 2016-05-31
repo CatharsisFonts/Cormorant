@@ -4,5 +4,8 @@
   <outline>
     <component base="oogonek"/>
     <component base="acutecomb" xOffset="143"/>
+    <contour>
+      <point x="204" y="330" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

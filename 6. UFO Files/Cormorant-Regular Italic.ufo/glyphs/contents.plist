@@ -72,6 +72,10 @@
 	<string>A_macron.glif</string>
 	<key>Aogonek</key>
 	<string>A_ogonek.glif</string>
+	<key>Aogonek_acutecomb.liga</key>
+	<string>A_ogonek_acutecomb.liga.glif</string>
+	<key>Aogonek_acutecomb.liga.ss13</key>
+	<string>A_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Aring</key>
 	<string>A_ring.glif</string>
 	<key>Aringacute</key>
@@ -120,6 +124,12 @@
 	<string>D_dotbelow.glif</string>
 	<key>De-cy</key>
 	<string>D_e-cy.glif</string>
+	<key>De-cy.loclBGR</key>
+	<string>D_e-cy.loclB_G_R_.glif</string>
+	<key>De-cy.ss02</key>
+	<string>D_e-cy.ss02.glif</string>
+	<key>De-cy.ss10</key>
+	<string>D_e-cy.ss10.glif</string>
 	<key>Delta</key>
 	<string>D_elta.glif</string>
 	<key>Dje-cy</key>
@@ -186,6 +196,8 @@
 	<string>E_l-cy.glif</string>
 	<key>El-cy.loclBGR</key>
 	<string>E_l-cy.loclB_G_R_.glif</string>
+	<key>El-cy.ss02</key>
+	<string>E_l-cy.ss02.glif</string>
 	<key>El-cy.ss10</key>
 	<string>E_l-cy.ss10.glif</string>
 	<key>Em-cy</key>
@@ -200,6 +212,10 @@
 	<string>E_ng.glif</string>
 	<key>Eogonek</key>
 	<string>E_ogonek.glif</string>
+	<key>Eogonek_acutecomb.liga</key>
+	<string>E_ogonek_acutecomb.liga.glif</string>
+	<key>Eogonek_acutecomb.liga.ss13</key>
+	<string>E_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Er-cy</key>
 	<string>E_r-cy.glif</string>
 	<key>Ereversed-cy</key>
@@ -272,6 +288,10 @@
 	<string>I_.loclN_L_D_.glif</string>
 	<key>IJ</key>
 	<string>I_J_.glif</string>
+	<key>IJ_acutecomb.liga</key>
+	<string>I_J__acutecomb.liga.glif</string>
+	<key>IJ_acutecomb.liga.ss13</key>
+	<string>I_J__acutecomb.liga.ss13.glif</string>
 	<key>I_J.loclNLD.dlig</key>
 	<string>I__J_.loclN_L_D_.dlig.glif</string>
 	<key>Ia-cy</key>
@@ -288,6 +308,10 @@
 	<string>I_acute_J_.dlig.glif</string>
 	<key>Iacute_J.dlig.ss13</key>
 	<string>I_acute_J_.dlig.ss13.glif</string>
+	<key>Iacute_J_acutecomb</key>
+	<string>I_acute_J__acutecomb.glif</string>
+	<key>Iacute_J_acutecomb.ss13</key>
+	<string>I_acute_J__acutecomb.ss13.glif</string>
 	<key>Ibreve</key>
 	<string>I_breve.glif</string>
 	<key>Icaron</key>
@@ -314,16 +338,38 @@
 	<string>I_hookabove.glif</string>
 	<key>Ii-cy</key>
 	<string>I_i-cy.glif</string>
+	<key>Ii-cy.loclBGR</key>
+	<string>I_i-cy.loclB_G_R_.glif</string>
+	<key>Ii-cy.ss02</key>
+	<string>I_i-cy.ss02.glif</string>
+	<key>Ii-cy.ss10</key>
+	<string>I_i-cy.ss10.glif</string>
 	<key>Iishort-cy</key>
 	<string>I_ishort-cy.glif</string>
+	<key>Iishort-cy.loclBGR</key>
+	<string>I_ishort-cy.loclB_G_R_.glif</string>
+	<key>Iishort-cy.ss02</key>
+	<string>I_ishort-cy.ss02.glif</string>
+	<key>Iishort-cy.ss10</key>
+	<string>I_ishort-cy.ss10.glif</string>
 	<key>Imacron</key>
 	<string>I_macron.glif</string>
 	<key>Imacron-cy</key>
 	<string>I_macron-cy.glif</string>
+	<key>Imacron-cy.loclBGR</key>
+	<string>I_macron-cy.loclB_G_R_.glif</string>
+	<key>Imacron-cy.ss02</key>
+	<string>I_macron-cy.ss02.glif</string>
+	<key>Imacron-cy.ss10</key>
+	<string>I_macron-cy.ss10.glif</string>
 	<key>Io-cy</key>
 	<string>I_o-cy.glif</string>
 	<key>Iogonek</key>
 	<string>I_ogonek.glif</string>
+	<key>Iogonek_acutecomb.liga</key>
+	<string>I_ogonek_acutecomb.liga.glif</string>
+	<key>Iogonek_acutecomb.liga.ss13</key>
+	<string>I_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Itilde</key>
 	<string>I_tilde.glif</string>
 	<key>Iu-cy</key>
@@ -336,6 +382,10 @@
 	<string>J_.acute.glif</string>
 	<key>J.loclNLD</key>
 	<string>J_.loclN_L_D_.glif</string>
+	<key>J_acutecomb.liga</key>
+	<string>J__acutecomb.liga.glif</string>
+	<key>J_acutecomb.liga.ss13</key>
+	<string>J__acutecomb.liga.ss13.glif</string>
 	<key>Jcircumflex</key>
 	<string>J_circumflex.glif</string>
 	<key>Jcircumflex.ss13</key>
@@ -378,6 +428,8 @@
 	<string>L_dotbelowmacron.glif</string>
 	<key>Lje-cy</key>
 	<string>L_je-cy.glif</string>
+	<key>Lje-cy.ss02</key>
+	<string>L_je-cy.ss02.glif</string>
 	<key>Llinebelow</key>
 	<string>L_linebelow.glif</string>
 	<key>Lslash</key>
@@ -494,6 +546,10 @@
 	<string>O_mega.glif</string>
 	<key>Oogonek</key>
 	<string>O_ogonek.glif</string>
+	<key>Oogonek_acutecomb.liga</key>
+	<string>O_ogonek_acutecomb.liga.glif</string>
+	<key>Oogonek_acutecomb.liga.ss13</key>
+	<string>O_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
 	<key>Oslashacute</key>
@@ -848,18 +904,28 @@
 	<string>V_e-cy.glif</string>
 	<key>W</key>
 	<string>W_.glif</string>
+	<key>W.ss03</key>
+	<string>W_.ss03.glif</string>
 	<key>Wacute</key>
 	<string>W_acute.glif</string>
+	<key>Wacute.ss03</key>
+	<string>W_acute.ss03.glif</string>
 	<key>Wacute.ss13</key>
 	<string>W_acute.ss13.glif</string>
 	<key>Wcircumflex</key>
 	<string>W_circumflex.glif</string>
+	<key>Wcircumflex.ss03</key>
+	<string>W_circumflex.ss03.glif</string>
 	<key>Wcircumflex.ss13</key>
 	<string>W_circumflex.ss13.glif</string>
 	<key>Wdieresis</key>
 	<string>W_dieresis.glif</string>
+	<key>Wdieresis.ss03</key>
+	<string>W_dieresis.ss03.glif</string>
 	<key>Wgrave</key>
 	<string>W_grave.glif</string>
+	<key>Wgrave.ss03</key>
+	<string>W_grave.ss03.glif</string>
 	<key>Wgrave.ss13</key>
 	<string>W_grave.ss13.glif</string>
 	<key>X</key>
@@ -1068,6 +1134,10 @@
 	<string>aogonek.glif</string>
 	<key>aogonek.ss07</key>
 	<string>aogonek.ss07.glif</string>
+	<key>aogonek_acutecomb.liga</key>
+	<string>aogonek_acutecomb.liga.glif</string>
+	<key>aogonek_acutecomb.liga.ss07</key>
+	<string>aogonek_acutecomb.liga.ss07.glif</string>
 	<key>apostrophemod</key>
 	<string>apostrophemod.glif</string>
 	<key>approxequal</key>
@@ -1154,6 +1224,8 @@
 	<string>brevecomb.glif</string>
 	<key>brevecomb-cy</key>
 	<string>brevecomb-cy.glif</string>
+	<key>brevecomb-cy.case</key>
+	<string>brevecomb-cy.case.glif</string>
 	<key>brevecomb.case</key>
 	<string>brevecomb.case.glif</string>
 	<key>brevecomb_acutecomb</key>
@@ -1260,10 +1332,6 @@
 	<string>colonsign.lf.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
-	<key>comma.tf</key>
-	<string>comma.tf.glif</string>
-	<key>comma.tosf</key>
-	<string>comma.tosf.glif</string>
 	<key>commaaccentcomb</key>
 	<string>commaaccentcomb.glif</string>
 	<key>commaturnedmod</key>
@@ -1448,6 +1516,8 @@
 	<string>enspace.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
+	<key>eogonek_acutecomb.liga</key>
+	<string>eogonek_acutecomb.liga.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>equal.case</key>
@@ -1862,6 +1932,8 @@
 	<string>iacute.loclH_U_N_.ss13.glif</string>
 	<key>iacute_j.dlig</key>
 	<string>iacute_j.dlig.glif</string>
+	<key>iacute_j_acutecomb</key>
+	<string>iacute_j_acutecomb.glif</string>
 	<key>ibreve</key>
 	<string>ibreve.glif</string>
 	<key>icaron</key>
@@ -1888,6 +1960,8 @@
 	<string>iishort-cy.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
+	<key>ij_acutecomb.liga</key>
+	<string>ij_acutecomb.liga.glif</string>
 	<key>imacron</key>
 	<string>imacron.glif</string>
 	<key>imacron-cy</key>
@@ -1900,6 +1974,8 @@
 	<string>io-cy.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
+	<key>iogonek_acutecomb.liga</key>
+	<string>iogonek_acutecomb.liga.glif</string>
 	<key>itilde</key>
 	<string>itilde.glif</string>
 	<key>iu-cy</key>
@@ -1916,6 +1992,8 @@
 	<string>j.acute.glif</string>
 	<key>j.loclNLD</key>
 	<string>j.loclN_L_D_.glif</string>
+	<key>j_acutecomb.liga</key>
+	<string>j_acutecomb.liga.glif</string>
 	<key>jcircumflex</key>
 	<string>jcircumflex.glif</string>
 	<key>jdotless</key>
@@ -2090,6 +2168,8 @@
 	<string>minute.glif</string>
 	<key>minute.tf</key>
 	<string>minute.tf.glif</string>
+	<key>minute.tosf</key>
+	<string>minute.tosf.glif</string>
 	<key>mu</key>
 	<string>mu.glif</string>
 	<key>multiply</key>
@@ -2162,10 +2242,6 @@
 	<string>numbersign.glif</string>
 	<key>numbersign.case</key>
 	<string>numbersign.case.glif</string>
-	<key>numbersign.tf</key>
-	<string>numbersign.tf.glif</string>
-	<key>numbersign.tosf</key>
-	<string>numbersign.tosf.glif</string>
 	<key>numero</key>
 	<string>numero.glif</string>
 	<key>numero.lf</key>
@@ -2262,6 +2338,8 @@
 	<string>onesuperior.glif</string>
 	<key>oogonek</key>
 	<string>oogonek.glif</string>
+	<key>oogonek_acutecomb.liga</key>
+	<string>oogonek_acutecomb.liga.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
 	<key>ordmasculine</key>
@@ -2358,10 +2436,6 @@
 	<string>questiondown.case.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
-	<key>quotedbl.tf</key>
-	<string>quotedbl.tf.glif</string>
-	<key>quotedbl.tosf</key>
-	<string>quotedbl.tosf.glif</string>
 	<key>quotedblbase</key>
 	<string>quotedblbase.glif</string>
 	<key>quotedblleft</key>
@@ -2380,18 +2454,10 @@
 	<string>quoteright.glif</string>
 	<key>quoteright.case</key>
 	<string>quoteright.case.glif</string>
-	<key>quoteright.tf</key>
-	<string>quoteright.tf.glif</string>
-	<key>quoteright.tosf</key>
-	<string>quoteright.tosf.glif</string>
 	<key>quotesinglbase</key>
 	<string>quotesinglbase.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
-	<key>quotesingle.tf</key>
-	<string>quotesingle.tf.glif</string>
-	<key>quotesingle.tosf</key>
-	<string>quotesingle.tosf.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>r_t</key>
@@ -2470,6 +2536,8 @@
 	<string>second.glif</string>
 	<key>second.tf</key>
 	<string>second.tf.glif</string>
+	<key>second.tosf</key>
+	<string>second.tosf.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>section.case</key>
@@ -2552,10 +2620,6 @@
 	<string>southW_estA_rrow.case.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
-	<key>space.tf</key>
-	<string>space.tf.glif</string>
-	<key>space.tosf</key>
-	<string>space.tosf.glif</string>
 	<key>ssxmaker</key>
 	<string>ssxmaker.glif</string>
 	<key>sterling</key>
@@ -2734,6 +2798,8 @@
 	<string>upB_lackT_riangle.glif</string>
 	<key>upDownArrow</key>
 	<string>upD_ownA_rrow.glif</string>
+	<key>upDownArrow.case</key>
+	<string>upD_ownA_rrow.case.glif</string>
 	<key>upWhiteTriangle</key>
 	<string>upW_hiteT_riangle.glif</string>
 	<key>uring</key>
@@ -2844,6 +2910,10 @@
 	<string>zdotbelow.glif</string>
 	<key>ze-cy</key>
 	<string>ze-cy.glif</string>
+	<key>ze-cy.loclBGR</key>
+	<string>ze-cy.loclB_G_R_.glif</string>
+	<key>ze-cy.ss10</key>
+	<string>ze-cy.ss10.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
 	<key>zero.dnom</key>

@@ -4,6 +4,15 @@
   <outline>
     <component base="i"/>
     <component base="j" xOffset="230"/>
+    <contour>
+      <point x="341" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="228" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -15,6 +24,17 @@
       <string>=j</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>j</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

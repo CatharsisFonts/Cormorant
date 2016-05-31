@@ -115,16 +115,31 @@
       <point x="570" y="102" type="line"/>
     </contour>
     <contour>
+      <point x="471" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
       <point x="677" y="41" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="510" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="340" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
       <point x="460" y="330" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="660" y="330" type="move" name="topright"/>
+      <point x="170" y="330" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="471" y="0" type="move" name="bottom"/>
+      <point x="510" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="660" y="330" type="move" name="topright"/>
     </contour>
   </outline>
   <lib>

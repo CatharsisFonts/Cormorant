@@ -1,21 +1,5 @@
-# Prefix: Languagesystems
 # automatic
-languagesystem DFLT dflt;
-languagesystem latn dflt;
-languagesystem latn TRK;
-languagesystem latn AZE;
-languagesystem latn CRT;
-languagesystem latn HUN;
-languagesystem latn NLD;
-languagesystem latn TAT;
-languagesystem latn CAT;
-languagesystem latn KAZ;
-languagesystem latn MOL;
-languagesystem latn ROM;
-languagesystem latn PLK;
-
-# automatic
-@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kacute Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Llinebelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow J.acute Q.cv01 Q.cv02 Q.cv03 Q.cv04 Aacute.loclHUN Eacute.loclHUN Iacute.loclHUN Oacute.loclHUN Uacute.loclHUN I.loclNLD J.loclNLD Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Q.long F.short R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short Y.ss01 Yacute.ss01 Ycircumflex.ss01 Ydieresis.ss01 Ydotaccent.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ymacron.ss01 Ytilde.ss01 Q.long.ss01 Q.long.ss03 Adieresis.ss04 Odieresis.ss04 Udieresis.ss04 Q.long.ss08 Aacute.ss13 Acaron.ss13 Acircumflex.ss13 Acircumflexdotbelow.ss13 Agrave.ss13 AEacute.ss13 Cacute.ss13 Ccaron.ss13 Ccircumflex.ss13 Dcaron.ss13 Eacute.ss13 Ecaron.ss13 Ecircumflex.ss13 Ecircumflexdotbelow.ss13 Egrave.ss13 Gcaron.ss13 Gcircumflex.ss13 Hcircumflex.ss13 Iacute.ss13 Icaron.ss13 Icircumflex.ss13 Igrave.ss13 Jcircumflex.ss13 Kacute.ss13 Kcaron.ss13 Lacute.ss13 Nacute.ss13 Ncaron.ss13 Oacute.ss13 Ocaron.ss13 Ocircumflex.ss13 Ocircumflexdotbelow.ss13 Ograve.ss13 Ohornacute.ss13 Ohorngrave.ss13 Ohungarumlaut.ss13 Oslashacute.ss13 Racute.ss13 Rcaron.ss13 Sacute.ss13 Scaron.ss13 Scircumflex.ss13 Tcaron.ss13 Uacute.ss13 Ucaron.ss13 Ucircumflex.ss13 Ugrave.ss13 Uhorngrave.ss13 Uhungarumlaut.ss13 Wacute.ss13 Wcircumflex.ss13 Wgrave.ss13 Yacute.ss13 Ycircumflex.ss13 Ygrave.ss13 Zacute.ss13 Zcaron.ss13 Aacute.loclHUN.ss13 Eacute.loclHUN.ss13 Iacute.loclHUN.ss13 Oacute.loclHUN.ss13 Uacute.loclHUN.ss13 Cacute.loclPLK.ss13 Nacute.loclPLK.ss13 Oacute.loclPLK.ss13 Sacute.loclPLK.ss13 Zacute.loclPLK.ss13 Racute.short.ss13 Rcaron.short.ss13 Delta Omega ];
+@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kacute Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Llinebelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Aacute.ss13.001 J.acute Q.cv01 Q.cv02 Q.cv03 Q.cv04 Aacute.loclHUN Eacute.loclHUN Iacute.loclHUN Oacute.loclHUN Uacute.loclHUN I.loclNLD J.loclNLD Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Q.long F.short R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short Y.ss01 Yacute.ss01 Ycircumflex.ss01 Ydieresis.ss01 Ydotaccent.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ymacron.ss01 Ytilde.ss01 Q.long.ss01 Q.long.ss03 Adieresis.ss04 Odieresis.ss04 Udieresis.ss04 Q.long.ss08 Aacute.ss13 Acaron.ss13 Acircumflex.ss13 Acircumflexdotbelow.ss13 Agrave.ss13 AEacute.ss13 Cacute.ss13 Ccaron.ss13 Ccircumflex.ss13 Dcaron.ss13 Eacute.ss13 Ecaron.ss13 Ecircumflex.ss13 Ecircumflexdotbelow.ss13 Egrave.ss13 Gcaron.ss13 Gcircumflex.ss13 Hcircumflex.ss13 Iacute.ss13 Icaron.ss13 Icircumflex.ss13 Igrave.ss13 Jcircumflex.ss13 Kacute.ss13 Kcaron.ss13 Lacute.ss13 Nacute.ss13 Ncaron.ss13 Oacute.ss13 Ocaron.ss13 Ocircumflex.ss13 Ocircumflexdotbelow.ss13 Ograve.ss13 Ohornacute.ss13 Ohorngrave.ss13 Ohungarumlaut.ss13 Oslashacute.ss13 Racute.ss13 Rcaron.ss13 Sacute.ss13 Scaron.ss13 Scircumflex.ss13 Tcaron.ss13 Uacute.ss13 Ucaron.ss13 Ucircumflex.ss13 Ugrave.ss13 Uhorngrave.ss13 Uhungarumlaut.ss13 Wacute.ss13 Wcircumflex.ss13 Wgrave.ss13 Yacute.ss13 Ycircumflex.ss13 Ygrave.ss13 Zacute.ss13 Zcaron.ss13 Aacute.loclHUN.ss13 Eacute.loclHUN.ss13 Iacute.loclHUN.ss13 Oacute.loclHUN.ss13 Uacute.loclHUN.ss13 Cacute.loclPLK.ss13 Nacute.loclPLK.ss13 Oacute.loclPLK.ss13 Sacute.loclPLK.ss13 Zacute.loclPLK.ss13 Racute.short.ss13 Rcaron.short.ss13 Delta Omega ];
 
 @Tlike = [ T Tbar Tcaron Tcedilla Tcommaaccent 
  ];
@@ -45,6 +29,22 @@ R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow ];
 
 @ClippedAscender = [ b.clipped h.clipped hbar.clipped hbrevebelow.clipped hcircumflex.clipped hdotbelow.clipped k.clipped kacute.clipped kcaron.clipped kcommaaccent.clipped l.clipped lacute.clipped lcaron.clipped lcommaaccent.clipped ldot.clipped ldotbelow.clipped ldotbelowmacron.clipped llinebelow.clipped lslash.clipped thorn.clipped ];
 
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TRK;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn HUN;
+languagesystem latn NLD;
+languagesystem latn TAT;
+languagesystem latn CAT;
+languagesystem latn KAZ;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn PLK;
+
 feature aalt {
 # automatic
 feature ccmp;
@@ -60,6 +60,7 @@ feature lnum;
 feature pnum;
 feature tnum;
 feature onum;
+feature case;
 feature hlig;
 feature cv01;
 feature cv02;
@@ -67,7 +68,6 @@ feature cv03;
 feature cv04;
 feature cv05;
 feature calt;
-feature case;
 feature zero;
 feature salt;
 feature ss01;
@@ -81,18 +81,40 @@ feature ss13;
 
 feature ccmp {
 # automatic
-lookup latn_comb1 {
+lookup ccmp_latn_1 {
 	script latn;
-@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
-@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
-} latn_comb1;
+	@Markscomb = [dotaccentcomb gravecomb acutecomb circumflexcomb brevecomb hookabovecomb acute breve caron circumflex dotaccent grave hungarumlaut tilde.narrow ring tilde brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];
+	@MarkscombCase = [dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case brevecomb.case hookabovecomb.case acute.case breve.case caron.case circumflex.case dotaccent.case grave.case hungarumlaut.case tilde.narrow.case ring.case tilde.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
+} ccmp_latn_1;
 
-lookup latn_comb {
+lookup ccmp_latn_2 {
+	script latn;
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_latn_2;
+
+lookup ccmp_latn_3 {
 	script latn;
 	lookupflag 0;
 	sub G tildecomb by G_tildecomb;
+	sub Aogonek acutecomb by Aogonek_acutecomb.liga;
+	sub Eogonek acutecomb by Eogonek_acutecomb.liga;
+	sub IJ acutecomb by IJ_acutecomb.liga;
+	sub Iogonek acutecomb by Iogonek_acutecomb.liga;
+	sub J acutecomb by J_acutecomb.liga;
+	sub Oogonek acutecomb by Oogonek_acutecomb.liga;
+	sub aogonek acutecomb by aogonek_acutecomb.liga;
+	sub eogonek acutecomb by eogonek_acutecomb.liga;
+	sub ij acutecomb by ij_acutecomb.liga;
+	sub iogonek acutecomb by iogonek_acutecomb.liga;
+	sub j acutecomb by j_acutecomb.liga;
+	sub oogonek acutecomb by oogonek_acutecomb.liga;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
 	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
@@ -107,7 +129,7 @@ lookup latn_comb {
 	sub circumflexcomb.case acutecomb.case by circumflexcomb_acutecomb.case;
 	sub circumflexcomb.case gravecomb.case by circumflexcomb_gravecomb.case;
 	sub circumflexcomb.case hookabovecomb.case by circumflexcomb_hookabovecomb.case;
-} latn_comb;
+} ccmp_latn_3;
 } ccmp;
 
 feature locl {
@@ -311,53 +333,37 @@ sub seven.tosf by seven;
 sub eight.tosf by eight;
 sub nine.tosf by nine;
 sub colon.tosf by colon;
-sub comma.tosf by comma;
-sub numbersign.tosf by numbersign;
 sub period.tosf by period;
-sub quotedbl.tosf by quotedbl;
-sub quotesingle.tosf by quotesingle;
-sub quoteright.tosf by quoteright;
-sub space.tosf by space;
+sub minute.tosf by minute;
+sub second.tosf by second;
 } pnum;
 
 feature tnum {
-sub zero by zero.tf;
-sub one by one.tf;
-sub two by two.tf;
-sub three by three.tf;
-sub four by four.tf;
-sub five by five.tf;
-sub six by six.tf;
-sub seven by seven.tf;
-sub eight by eight.tf;
-sub nine by nine.tf;
-sub colon by colon.tf;
-sub comma by comma.tf;
-sub numbersign by numbersign.tf;
-sub period by period.tf;
-sub quotedbl by quotedbl.tf;
-sub quotesingle by quotesingle.tf;
-sub quoteright by quoteright.tf;
-sub space by space.tf;
-sub minute by minute.tf;
-sub second by second.tf;
-sub cedi by cedi.lf;
-sub cent by cent.lf;
-sub colonsign by colonsign.lf;
-sub dollar by dollar.lf;
-sub dong by dong.lf;
-sub euro by euro.lf;
-sub guarani by guarani.lf;
-sub lira by lira.lf;
-sub liraTurkish by liraTurkish.lf;
-sub naira by naira.lf;
-sub peseta by peseta.lf;
-sub peso by peso.lf;
-sub ruble by ruble.lf;
-sub rupeeIndian by rupeeIndian.lf;
-sub sterling by sterling.lf;
-sub yen by yen.lf;
-sub numero by numero.lf;
+# automatic
+sub zero.lf by zero.tf;
+sub one.lf by one.tf;
+sub two.lf by two.tf;
+sub three.lf by three.tf;
+sub four.lf by four.tf;
+sub five.lf by five.tf;
+sub six.lf by six.tf;
+sub seven.lf by seven.tf;
+sub eight.lf by eight.tf;
+sub nine.lf by nine.tf;
+sub zero by zero.tosf;
+sub one by one.tosf;
+sub two by two.tosf;
+sub three by three.tosf;
+sub four by four.tosf;
+sub five by five.tosf;
+sub six by six.tosf;
+sub seven by seven.tosf;
+sub eight by eight.tosf;
+sub nine by nine.tosf;
+sub colon by colon.tosf;
+sub period by period.tosf;
+sub minute by minute.tosf;
+sub second by second.tosf;
 } tnum;
 
 feature onum {
@@ -400,13 +406,9 @@ sub seven.tf by seven.tosf;
 sub eight.tf by eight.tosf;
 sub nine.tf by nine.tosf;
 sub colon.tf by colon.tosf;
-sub comma.tf by comma.tosf;
-sub numbersign.tf by numbersign.tosf;
 sub period.tf by period.tosf;
-sub quotedbl.tf by quotedbl.tosf;
-sub quotesingle.tf by quotesingle.tosf;
-sub quoteright.tf by quoteright.tosf;
-sub space.tf by space.tosf;
+sub minute.tf by minute.tosf;
+sub second.tf by second.tosf;
 } onum;
 
 feature case {
@@ -435,21 +437,21 @@ sub quotedblleft by quotedblleft.case;
 sub quotedblright by quotedblright.case;
 sub quoteleft by quoteleft.case;
 sub quoteright by quoteright.case;
-sub asciitilde by asciitilde.case;
-sub divide by divide.case;
-sub equal by equal.case;
-sub greater by greater.case;
-sub greaterequal by greaterequal.case;
-sub less by less.case;
-sub lessequal by lessequal.case;
-sub logicalnot by logicalnot.case;
+sub plus by plus.case;
 sub minus by minus.case;
 sub multiply by multiply.case;
+sub divide by divide.case;
+sub equal by equal.case;
 sub notequal by notequal.case;
+sub greater by greater.case;
+sub less by less.case;
+sub greaterequal by greaterequal.case;
+sub lessequal by lessequal.case;
+sub plusminus by plusminus.case;
+sub asciitilde by asciitilde.case;
+sub logicalnot by logicalnot.case;
 sub percent by percent.case;
 sub perthousand by perthousand.case;
-sub plus by plus.case;
-sub plusminus by plusminus.case;
 sub upArrow by upArrow.case;
 sub northEastArrow by northEastArrow.case;
 sub rightArrow by rightArrow.case;
@@ -467,9 +469,9 @@ sub blackSquare by blackSquare.case;
 sub whiteSquare by whiteSquare.case;
 sub at by at.case;
 sub paragraph by paragraph.case;
+sub section by section.case;
 sub copyright by copyright.case;
 sub registered by registered.case;
-sub section by section.case;
 sub dotaccentcomb by dotaccentcomb.case;
 sub gravecomb by gravecomb.case;
 sub acutecomb by acutecomb.case;
@@ -634,10 +636,10 @@ lookup ClipAscenders {
 	sub [dcaron lcaron] @LeftAscender' by @ClippedAscender;
 } ClipAscenders;
 
-lookup jacute {
-	sub iacute j.loclNLD' by j.acute;
-	sub Iacute J.loclNLD' by J.acute;
-} jacute;
+#lookup jacute {
+#	sub iacute j.loclNLD' by j.acute;
+#	sub Iacute J.loclNLD' by J.acute;
+#} jacute;
 } calt;
 
 feature dlig {
@@ -666,10 +668,15 @@ sub r t by r_t;
 sub s p by s_p;
 sub s t by s_t;
 sub t t by t_t;
+
 sub I.loclNLD J.loclNLD by I_J.loclNLD.dlig;
 sub i.loclNLD j.loclNLD by i_j.loclNLD.dlig;
-sub iacute j.acute by iacute_j.dlig;
-sub Iacute J.acute by Iacute_J.dlig;
+
+sub iacute j.loclNLD acutecomb by iacute_j_acutecomb;
+sub Iacute J.loclNLD acutecomb by Iacute_J_acutecomb;
+
+sub iacute j acutecomb by iacute_j_acutecomb;
+sub Iacute J acutecomb by Iacute_J_acutecomb;
 } dlig;
 
 feature liga {
@@ -745,6 +752,24 @@ sub longs longs j by longs_longs_j.liga;
 sub longs longs k by longs_longs_k.liga;
 sub longs longs l by longs_longs_l.liga;
 sub longs longs thorn by longs_longs_thorn.liga;
+
+sub Aogonek acutecomb by Aogonek_acutecomb.liga;
+sub Eogonek acutecomb by Eogonek_acutecomb.liga;
+sub Iogonek acutecomb by Iogonek_acutecomb.liga;
+sub Oogonek acutecomb by Oogonek_acutecomb.liga;
+sub aogonek acutecomb by aogonek_acutecomb.liga;
+sub eogonek acutecomb by eogonek_acutecomb.liga;
+sub iogonek acutecomb by iogonek_acutecomb.liga;
+sub oogonek acutecomb by oogonek_acutecomb.liga;
+
+sub ij acutecomb by ij_acutecomb.liga;
+sub IJ acutecomb by IJ_acutecomb.liga;
+
+sub j.loclNLD acutecomb by j_acutecomb.liga;
+sub J.loclNLD acutecomb by J_acutecomb.liga;
+
+sub j acutecomb by j_acutecomb.liga;
+sub J acutecomb by J_acutecomb.liga;
 } liga;
 
 feature zero {
@@ -881,6 +906,7 @@ sub aacute.loclHUN by aacute.loclHUN.ss07;
 sub f_f.a.liga by f_f.a.liga.ss07;
 sub f_f_t.a.liga by f_f_t.a.liga.ss07;
 sub f_t.a.liga by f_t.a.liga.ss07;
+sub aogonek_acutecomb.liga by aogonek_acutecomb.liga.ss07;
 } ss07;
 
 feature ss08 {
@@ -967,7 +993,14 @@ sub uacute.loclHUN by uacute.loclHUN.ss13;
 sub ohungarumlaut by ohungarumlaut.ss13;
 sub aacute.loclHUN.ss07 by aacute.loclHUN.ss07.ss13;
 sub uhungarumlaut by uhungarumlaut.ss13;
+sub Iacute_J_acutecomb by Iacute_J_acutecomb.ss13;
 sub Iacute_J.dlig by Iacute_J.dlig.ss13;
+sub Aogonek_acutecomb.liga by Aogonek_acutecomb.liga.ss13;
+sub Eogonek_acutecomb.liga by Eogonek_acutecomb.liga.ss13;
+sub IJ_acutecomb.liga by IJ_acutecomb.liga.ss13;
+sub Iogonek_acutecomb.liga by Iogonek_acutecomb.liga.ss13;
+sub J_acutecomb.liga by J_acutecomb.liga.ss13;
+sub Oogonek_acutecomb.liga by Oogonek_acutecomb.liga.ss13;
 sub gravecomb.case by gravecomb.case.ss13;
 sub acutecomb.case by acutecomb.case.ss13;
 sub circumflexcomb.case by circumflexcomb.case.ss13;

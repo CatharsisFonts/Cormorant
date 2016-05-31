@@ -4,6 +4,12 @@
   <outline>
     <component base="j.sc"/>
     <component base="acute.sc" xOffset="14" yOffset="70"/>
+    <contour>
+      <point x="114" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="114" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

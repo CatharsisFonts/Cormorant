@@ -33,6 +33,8 @@
 			<integer>80</integer>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>noodleThickness</key>
@@ -40,10 +42,16 @@
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>4F72FD3A-2035-4A0E-9118-392C7E7754E7</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<integer>0</integer>
+	<false/>
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>40</integer>
+	<key>com.typemytype.robofont.layerOrder</key>
+	<array>
+		<string>background</string>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -345,6 +353,11 @@
 		<string>Uogonek.ss03</string>
 		<string>Uring.ss03</string>
 		<string>Utilde.ss03</string>
+		<string>W.ss03</string>
+		<string>Wacute.ss03</string>
+		<string>Wcircumflex.ss03</string>
+		<string>Wdieresis.ss03</string>
+		<string>Wgrave.ss03</string>
 		<string>Uacute.loclHUN.ss03</string>
 		<string>Udieresis.ss04.ss03</string>
 		<string>Adieresis.ss04</string>
@@ -749,6 +762,7 @@
 		<string>uhungarumlaut.ss13</string>
 		<string>e.finalswash</string>
 		<string>t.finalswash</string>
+		<string>Iacute_J_acutecomb</string>
 		<string>c_t</string>
 		<string>fi</string>
 		<string>fl</string>
@@ -771,6 +785,7 @@
 		<string>g_utilde</string>
 		<string>gbreve_u</string>
 		<string>gbreve_udieresis</string>
+		<string>iacute_j_acutecomb</string>
 		<string>longs_t</string>
 		<string>r_t</string>
 		<string>s_p</string>
@@ -857,12 +872,32 @@
 		<string>f_f.a.liga.ss07</string>
 		<string>f_f_t.a.liga.ss07</string>
 		<string>f_t.a.liga.ss07</string>
+		<string>Iacute_J_acutecomb.ss13</string>
 		<string>Iacute_J.dlig.ss13</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>G_tildecomb</string>
 		<string>g_tildecomb</string>
 		<string>nmod</string>
+		<string>Aogonek_acutecomb.liga</string>
+		<string>Eogonek_acutecomb.liga</string>
+		<string>IJ_acutecomb.liga</string>
+		<string>Iogonek_acutecomb.liga</string>
+		<string>J_acutecomb.liga</string>
+		<string>Oogonek_acutecomb.liga</string>
+		<string>aogonek_acutecomb.liga</string>
+		<string>eogonek_acutecomb.liga</string>
+		<string>ij_acutecomb.liga</string>
+		<string>iogonek_acutecomb.liga</string>
+		<string>j_acutecomb.liga</string>
+		<string>oogonek_acutecomb.liga</string>
+		<string>aogonek_acutecomb.liga.ss07</string>
+		<string>Aogonek_acutecomb.liga.ss13</string>
+		<string>Eogonek_acutecomb.liga.ss13</string>
+		<string>IJ_acutecomb.liga.ss13</string>
+		<string>Iogonek_acutecomb.liga.ss13</string>
+		<string>J_acutecomb.liga.ss13</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>A-cy</string>
 		<string>Be-cy</string>
 		<string>Ve-cy</string>
@@ -927,10 +962,24 @@
 		<string>Imacron-cy</string>
 		<string>Obarred-cy</string>
 		<string>Umacron-cy</string>
+		<string>De-cy.loclBGR</string>
+		<string>Ii-cy.loclBGR</string>
+		<string>Iishort-cy.loclBGR</string>
 		<string>El-cy.loclBGR</string>
 		<string>Ef-cy.loclBGR</string>
+		<string>Imacron-cy.loclBGR</string>
+		<string>De-cy.ss02</string>
+		<string>Ii-cy.ss02</string>
+		<string>Iishort-cy.ss02</string>
+		<string>El-cy.ss02</string>
+		<string>Lje-cy.ss02</string>
+		<string>Imacron-cy.ss02</string>
+		<string>De-cy.ss10</string>
+		<string>Ii-cy.ss10</string>
+		<string>Iishort-cy.ss10</string>
 		<string>El-cy.ss10</string>
 		<string>Ef-cy.ss10</string>
+		<string>Imacron-cy.ss10</string>
 		<string>a-cy</string>
 		<string>be-cy</string>
 		<string>ve-cy</string>
@@ -999,6 +1048,7 @@
 		<string>ve-cy.loclBGR</string>
 		<string>de-cy.loclBGR</string>
 		<string>zhe-cy.loclBGR</string>
+		<string>ze-cy.loclBGR</string>
 		<string>ka-cy.loclBGR</string>
 		<string>iu-cy.loclBGR</string>
 		<string>be-cy.loclMKD</string>
@@ -1022,6 +1072,7 @@
 		<string>ve-cy.ss10</string>
 		<string>de-cy.ss10</string>
 		<string>zhe-cy.ss10</string>
+		<string>ze-cy.ss10</string>
 		<string>ka-cy.ss10</string>
 		<string>iu-cy.ss10</string>
 		<string>de-cy.ss11</string>
@@ -1084,14 +1135,16 @@
 		<string>zero.lf.zero</string>
 		<string>zero.tf.zero</string>
 		<string>zero.tosf.zero</string>
-		<string>fraction</string>
-		<string>onehalf</string>
-		<string>onequarter</string>
-		<string>threequarters</string>
-		<string>oneeighth</string>
-		<string>threeeighths</string>
-		<string>fiveeighths</string>
-		<string>seveneighths</string>
+		<string>zeroinferior</string>
+		<string>oneinferior</string>
+		<string>twoinferior</string>
+		<string>threeinferior</string>
+		<string>fourinferior</string>
+		<string>fiveinferior</string>
+		<string>sixinferior</string>
+		<string>seveninferior</string>
+		<string>eightinferior</string>
+		<string>nineinferior</string>
 		<string>zero.dnom</string>
 		<string>one.dnom</string>
 		<string>two.dnom</string>
@@ -1112,16 +1165,6 @@
 		<string>seven.numr</string>
 		<string>eight.numr</string>
 		<string>nine.numr</string>
-		<string>zeroinferior</string>
-		<string>oneinferior</string>
-		<string>twoinferior</string>
-		<string>threeinferior</string>
-		<string>fourinferior</string>
-		<string>fiveinferior</string>
-		<string>sixinferior</string>
-		<string>seveninferior</string>
-		<string>eightinferior</string>
-		<string>nineinferior</string>
 		<string>zerosuperior</string>
 		<string>onesuperior</string>
 		<string>twosuperior</string>
@@ -1142,6 +1185,14 @@
 		<string>seven.sups</string>
 		<string>eight.sups</string>
 		<string>nine.sups</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
+		<string>seveneighths</string>
 		<string>asterisk</string>
 		<string>asterism</string>
 		<string>backslash</string>
@@ -1169,17 +1220,9 @@
 		<string>questiondown.case</string>
 		<string>slash.case</string>
 		<string>colon.tf</string>
-		<string>comma.tf</string>
-		<string>numbersign.tf</string>
 		<string>period.tf</string>
-		<string>quotedbl.tf</string>
-		<string>quotesingle.tf</string>
 		<string>colon.tosf</string>
-		<string>comma.tosf</string>
-		<string>numbersign.tosf</string>
 		<string>period.tosf</string>
-		<string>quotedbl.tosf</string>
-		<string>quotesingle.tosf</string>
 		<string>parenleftinferior</string>
 		<string>parenrightinferior</string>
 		<string>braceleft</string>
@@ -1222,8 +1265,6 @@
 		<string>quotedblright.case</string>
 		<string>quoteleft.case</string>
 		<string>quoteright.case</string>
-		<string>quoteright.tf</string>
-		<string>quoteright.tosf</string>
 		<string>mediumspace-math</string>
 		<string>emspace</string>
 		<string>enspace</string>
@@ -1238,8 +1279,6 @@
 		<string>thinspace</string>
 		<string>threeperemspace</string>
 		<string>zerowidthspace</string>
-		<string>space.tf</string>
-		<string>space.tosf</string>
 		<string>zerowidthnonjoiner</string>
 		<string>.notdef</string>
 		<string>cedi</string>
@@ -1276,44 +1315,44 @@
 		<string>rupeeIndian.lf</string>
 		<string>sterling.lf</string>
 		<string>yen.lf</string>
-		<string>approxequal</string>
-		<string>asciitilde</string>
-		<string>divide</string>
-		<string>emptyset</string>
-		<string>equal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>infinity</string>
-		<string>integral</string>
-		<string>less</string>
-		<string>lessequal</string>
-		<string>logicalnot</string>
+		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>divide</string>
+		<string>equal</string>
 		<string>notequal</string>
+		<string>greater</string>
+		<string>less</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
+		<string>plusminus</string>
+		<string>approxequal</string>
+		<string>asciitilde</string>
+		<string>logicalnot</string>
+		<string>emptyset</string>
+		<string>infinity</string>
+		<string>integral</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>radical</string>
 		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
-		<string>plus</string>
-		<string>plusminus</string>
-		<string>product</string>
-		<string>radical</string>
-		<string>summation</string>
-		<string>asciitilde.case</string>
-		<string>divide.case</string>
-		<string>equal.case</string>
-		<string>greater.case</string>
-		<string>greaterequal.case</string>
-		<string>less.case</string>
-		<string>lessequal.case</string>
-		<string>logicalnot.case</string>
+		<string>plus.case</string>
 		<string>minus.case</string>
 		<string>multiply.case</string>
+		<string>divide.case</string>
+		<string>equal.case</string>
 		<string>notequal.case</string>
+		<string>greater.case</string>
+		<string>less.case</string>
+		<string>greaterequal.case</string>
+		<string>lessequal.case</string>
+		<string>plusminus.case</string>
+		<string>asciitilde.case</string>
+		<string>logicalnot.case</string>
 		<string>percent.case</string>
 		<string>perthousand.case</string>
-		<string>plus.case</string>
-		<string>plusminus.case</string>
 		<string>upArrow</string>
 		<string>northEastArrow</string>
 		<string>rightArrow</string>
@@ -1333,6 +1372,7 @@
 		<string>leftArrow.case</string>
 		<string>northWestArrow.case</string>
 		<string>leftRightArrow.case</string>
+		<string>upDownArrow.case</string>
 		<string>blackCircle</string>
 		<string>whiteCircle</string>
 		<string>whiteBullet</string>
@@ -1360,39 +1400,41 @@
 		<string>leftWhiteIndex</string>
 		<string>rightWhiteIndex</string>
 		<string>floralHeart</string>
-		<string>bar</string>
-		<string>brokenbar</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
+		<string>section</string>
 		<string>copyright</string>
 		<string>registered</string>
 		<string>published</string>
-		<string>section</string>
 		<string>trademark</string>
 		<string>degree</string>
-		<string>estimated</string>
+		<string>bar</string>
+		<string>brokenbar</string>
 		<string>literSign</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>estimated</string>
 		<string>numero</string>
 		<string>asciicircum</string>
 		<string>blackLargeSquare</string>
-		<string>dagger</string>
-		<string>daggerdbl</string>
 		<string>minute</string>
 		<string>second</string>
 		<string>servicemark</string>
 		<string>whiteLargeSquare</string>
 		<string>at.case</string>
 		<string>paragraph.case</string>
+		<string>section.case</string>
 		<string>copyright.case</string>
 		<string>registered.case</string>
-		<string>section.case</string>
 		<string>numero.lf</string>
 		<string>floralHeart.ss03</string>
 		<string>dagger.ss03</string>
 		<string>daggerdbl.ss03</string>
 		<string>minute.tf</string>
 		<string>second.tf</string>
+		<string>minute.tosf</string>
+		<string>second.tosf</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
@@ -1470,6 +1512,7 @@
 		<string>dieresis.case.ss04</string>
 		<string>dieresis.ss04</string>
 		<string>brevecomb-cy</string>
+		<string>brevecomb-cy.case</string>
 		<string>brevecomb_acutecomb</string>
 		<string>brevecomb_gravecomb</string>
 		<string>brevecomb_hookabovecomb</string>

@@ -18,6 +18,12 @@
     </contour>
     <component base="ffxmaker"/>
     <component base="fl.liga" xOffset="251"/>
+    <contour>
+      <point x="245" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="491" y="0" type="move" name="caret_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek.sc.ss05" format="1">
-  <advance width="398"/>
+  <advance width="411"/>
   <outline>
     <component base="a.sc.ss05"/>
-    <component base="ogonek.u" xOffset="132" yOffset="-5"/>
+    <component base="ogonek.u" xOffset="145" yOffset="-5"/>
     <contour>
       <point x="320" y="10" type="move" name="ogonek"/>
     </contour>
@@ -674,7 +674,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>398</integer>
+          <integer>411</integer>
         </dict>
       </dict>
     </dict>

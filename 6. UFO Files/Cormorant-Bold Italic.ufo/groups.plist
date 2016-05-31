@@ -35,8 +35,14 @@
 		<string>Acircumflexdotbelow.ss13</string>
 		<string>Agrave.ss13</string>
 		<string>Aacute.loclHUN.ss13</string>
+		<string>Aogonek_acutecomb.liga</string>
+		<string>Aogonek_acutecomb.liga.ss13</string>
 		<string>A-cy</string>
+		<string>De-cy.loclBGR</string>
 		<string>El-cy.loclBGR</string>
+		<string>De-cy.ss02</string>
+		<string>El-cy.ss02</string>
+		<string>De-cy.ss10</string>
 		<string>El-cy.ss10</string>
 		<string>Delta</string>
 	</array>
@@ -66,6 +72,8 @@
 		<string>J</string>
 		<string>Jcircumflex</string>
 		<string>J.loclNLD</string>
+		<string>J_acutecomb.liga</string>
+		<string>J_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_L_K</key>
 	<array>
@@ -153,6 +161,8 @@
 		<string>Oslashacute.ss13</string>
 		<string>Oacute.loclHUN.ss13</string>
 		<string>Oacute.loclPLK.ss13</string>
+		<string>Oogonek_acutecomb.liga</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>O-cy</string>
 		<string>Ef-cy</string>
 		<string>Ereversed-cy</string>
@@ -166,6 +176,7 @@
 	<key>@MMK_L_P</key>
 	<array>
 		<string>P</string>
+		<string>Er-cy</string>
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
@@ -211,9 +222,13 @@
 		<string>Ugrave.ss13</string>
 		<string>Uhungarumlaut.ss13</string>
 		<string>Uacute.loclHUN.ss13</string>
+		<string>Iacute_J_acutecomb</string>
 		<string>Iacute_J.dlig</string>
 		<string>I_J.loclNLD.dlig</string>
+		<string>Iacute_J_acutecomb.ss13</string>
 		<string>Iacute_J.dlig.ss13</string>
+		<string>IJ_acutecomb.liga</string>
+		<string>IJ_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_L_U.ss02</key>
 	<array>
@@ -252,13 +267,15 @@
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
 		<string>Wgrave</string>
+		<string>W.ss03</string>
+		<string>Wacute.ss03</string>
+		<string>Wcircumflex.ss03</string>
+		<string>Wdieresis.ss03</string>
+		<string>Wgrave.ss03</string>
 		<string>Wacute.ss13</string>
 		<string>Wcircumflex.ss13</string>
 		<string>Wgrave.ss13</string>
-		<string>U-cy</string>
-		<string>Ushort-cy</string>
 		<string>Izhitsa-cy</string>
-		<string>Umacron-cy</string>
 	</array>
 	<key>@MMK_L_X</key>
 	<array>
@@ -291,8 +308,11 @@
 		<string>Yacute.ss13</string>
 		<string>Ycircumflex.ss13</string>
 		<string>Ygrave.ss13</string>
+		<string>U-cy</string>
+		<string>Ushort-cy</string>
 		<string>Ustrait-cy</string>
 		<string>Ustraitstroke-cy</string>
+		<string>Umacron-cy</string>
 	</array>
 	<key>@MMK_L_Z</key>
 	<array>
@@ -307,6 +327,7 @@
 		<string>a</string>
 		<string>adotbelow</string>
 		<string>alpha-latin</string>
+		<string>aogonek</string>
 		<string>u</string>
 		<string>uogonek</string>
 		<string>a.ss07</string>
@@ -372,7 +393,6 @@
 		<string>agrave</string>
 		<string>ahookabove</string>
 		<string>amacron</string>
-		<string>aogonek</string>
 		<string>aring</string>
 		<string>aringacute</string>
 		<string>atilde</string>
@@ -418,6 +438,8 @@
 		<string>aacute.loclHUN.ss07</string>
 		<string>aacute.loclHUN.ss13</string>
 		<string>aacute.loclHUN.ss07.ss13</string>
+		<string>aogonek_acutecomb.liga</string>
+		<string>aogonek_acutecomb.liga.ss07</string>
 		<string>iishort-cy</string>
 	</array>
 	<key>@MMK_L_c</key>
@@ -468,6 +490,7 @@
 		<string>etilde</string>
 		<string>eacute.loclHUN</string>
 		<string>eacute.loclHUN.ss13</string>
+		<string>eogonek_acutecomb.liga</string>
 		<string>io-cy</string>
 	</array>
 	<key>@MMK_L_comma</key>
@@ -476,6 +499,8 @@
 		<string>ellipsis</string>
 		<string>period</string>
 		<string>underscore</string>
+		<string>period.tf</string>
+		<string>period.tosf</string>
 		<string>quotedblbase</string>
 		<string>quotesinglbase</string>
 	</array>
@@ -676,6 +701,7 @@
 		<string>Nje-cy</string>
 		<string>Dje-cy</string>
 		<string>Yat-cy</string>
+		<string>Lje-cy.ss02</string>
 		<string>o-cy</string>
 		<string>er-cy</string>
 		<string>ef-cy</string>
@@ -712,6 +738,7 @@
 		<string>odieresis.ss04</string>
 		<string>oacute.loclHUN.ss13</string>
 		<string>ohungarumlaut.ss13</string>
+		<string>oogonek_acutecomb.liga</string>
 		<string>be-cy</string>
 		<string>ve-cy.loclBGR</string>
 		<string>be-cy.loclMKD</string>
@@ -756,6 +783,11 @@
 		<string>daggerdbl</string>
 		<string>minute</string>
 		<string>second</string>
+		<string>minute.tf</string>
+		<string>second.tf</string>
+		<string>minute.tosf</string>
+		<string>second.tosf</string>
+		<string>apostrophemod</string>
 	</array>
 	<key>@MMK_L_r</key>
 	<array>
@@ -865,9 +897,16 @@
 		<string>Agrave.ss13</string>
 		<string>AEacute.ss13</string>
 		<string>Aacute.loclHUN.ss13</string>
+		<string>Aogonek_acutecomb.liga</string>
+		<string>Aogonek_acutecomb.liga.ss13</string>
 		<string>A-cy</string>
 		<string>Ia-cy</string>
+		<string>De-cy.loclBGR</string>
 		<string>El-cy.loclBGR</string>
+		<string>De-cy.ss02</string>
+		<string>El-cy.ss02</string>
+		<string>Lje-cy.ss02</string>
+		<string>De-cy.ss10</string>
 		<string>El-cy.ss10</string>
 		<string>Delta</string>
 	</array>
@@ -953,6 +992,8 @@
 		<string>Oacute.loclHUN.ss13</string>
 		<string>Cacute.loclPLK.ss13</string>
 		<string>Oacute.loclPLK.ss13</string>
+		<string>Oogonek_acutecomb.liga</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>O-cy</string>
 		<string>Es-cy</string>
 		<string>Ef-cy</string>
@@ -1100,9 +1141,13 @@
 		<string>Uhorngrave.ss03.ss13</string>
 		<string>Uhungarumlaut.ss03.ss13</string>
 		<string>Uacute.loclHUN.ss03.ss13</string>
+		<string>Iacute_J_acutecomb</string>
 		<string>Iacute_J.dlig</string>
 		<string>I_J.loclNLD.dlig</string>
+		<string>Iacute_J_acutecomb.ss13</string>
 		<string>Iacute_J.dlig.ss13</string>
+		<string>IJ_acutecomb.liga</string>
+		<string>IJ_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_R_V</key>
 	<array>
@@ -1112,6 +1157,11 @@
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
 		<string>Wgrave</string>
+		<string>W.ss03</string>
+		<string>Wacute.ss03</string>
+		<string>Wcircumflex.ss03</string>
+		<string>Wdieresis.ss03</string>
+		<string>Wgrave.ss03</string>
 		<string>Wacute.ss13</string>
 		<string>Wcircumflex.ss13</string>
 		<string>Wgrave.ss13</string>
@@ -1119,6 +1169,7 @@
 	</array>
 	<key>@MMK_R_X</key>
 	<array>
+		<string>X</string>
 		<string>Ha-cy</string>
 		<string>Zhedescender-cy</string>
 		<string>Hadescender-cy</string>
@@ -1173,6 +1224,7 @@
 		<string>a</string>
 		<string>adotbelow</string>
 		<string>alpha-latin</string>
+		<string>aogonek</string>
 		<string>ae</string>
 		<string>aeacute</string>
 		<string>aemacron</string>
@@ -1229,7 +1281,6 @@
 		<string>agrave</string>
 		<string>ahookabove</string>
 		<string>amacron</string>
-		<string>aogonek</string>
 		<string>aring</string>
 		<string>aringacute</string>
 		<string>atilde</string>
@@ -1244,6 +1295,8 @@
 		<string>aacute.loclHUN.ss13</string>
 		<string>gbreve_u.ss03</string>
 		<string>gbreve_udieresis.ss03</string>
+		<string>aogonek_acutecomb.liga</string>
+		<string>aogonek_acutecomb.liga.ss07</string>
 	</array>
 	<key>@MMK_R_ampersand</key>
 	<array>
@@ -1254,11 +1307,14 @@
 		<string>che-cy</string>
 		<string>hardsign-cy</string>
 		<string>chedescender-cy</string>
+		<string>ze-cy.loclBGR</string>
 	</array>
 	<key>@MMK_R_colon</key>
 	<array>
 		<string>colon</string>
 		<string>semicolon</string>
+		<string>colon.tf</string>
+		<string>colon.tosf</string>
 	</array>
 	<key>@MMK_R_comma</key>
 	<array>
@@ -1266,6 +1322,8 @@
 		<string>ellipsis</string>
 		<string>period</string>
 		<string>underscore</string>
+		<string>period.tf</string>
+		<string>period.tosf</string>
 		<string>quotedblbase</string>
 		<string>quotesinglbase</string>
 	</array>
@@ -1508,6 +1566,7 @@
 		<string>t_z.hlig</string>
 		<string>ve-cy</string>
 		<string>gheupturn-cy</string>
+		<string>zhe-cy</string>
 		<string>ii-cy</string>
 		<string>ka-cy</string>
 		<string>kje-cy</string>
@@ -1562,14 +1621,15 @@
 		<string>aogonek.ss07</string>
 		<string>e.finalswash</string>
 		<string>c_t</string>
+		<string>de-cy</string>
 		<string>ie-cy</string>
 		<string>o-cy</string>
 		<string>es-cy</string>
 		<string>ef-cy</string>
 		<string>e-cy</string>
+		<string>ereversed-cy</string>
 		<string>fita-cy</string>
 		<string>obarred-cy</string>
-		<string>de-cy.Ge</string>
 	</array>
 	<key>@MMK_R_oaccent</key>
 	<array>
@@ -1644,7 +1704,8 @@
 		<string>oacute.loclHUN.ss13</string>
 		<string>ohungarumlaut.ss13</string>
 		<string>aacute.loclHUN.ss07.ss13</string>
-		<string>de-cy</string>
+		<string>eogonek_acutecomb.liga</string>
+		<string>oogonek_acutecomb.liga</string>
 		<string>io-cy</string>
 		<string>de-cy.ss11</string>
 	</array>
@@ -1682,6 +1743,11 @@
 		<string>daggerdbl</string>
 		<string>minute</string>
 		<string>second</string>
+		<string>minute.tf</string>
+		<string>second.tf</string>
+		<string>minute.tosf</string>
+		<string>second.tosf</string>
+		<string>apostrophemod</string>
 	</array>
 	<key>@MMK_R_s</key>
 	<array>
@@ -1713,6 +1779,7 @@
 		<string>izhitsa-cy</string>
 		<string>ustraitstroke-cy</string>
 		<string>umacron-cy</string>
+		<string>ze-cy.ss10</string>
 	</array>
 	<key>@MMK_R_vaccent</key>
 	<array>
@@ -1741,8 +1808,6 @@
 	</array>
 	<key>@MMK_R_zhe-cy</key>
 	<array>
-		<string>zhe-cy</string>
-		<string>ereversed-cy</string>
 		<string>zhedescender-cy</string>
 		<string>zhe-cy.loclBGR</string>
 		<string>zhe-cy.ss10</string>

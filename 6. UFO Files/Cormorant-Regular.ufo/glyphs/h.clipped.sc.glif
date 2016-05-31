@@ -89,13 +89,16 @@
       <point x="98" y="69" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="202" y="165" type="move" name="center"/>
-    </contour>
-    <contour>
       <point x="265" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="267" y="400" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="20" y="400" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="202" y="165" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

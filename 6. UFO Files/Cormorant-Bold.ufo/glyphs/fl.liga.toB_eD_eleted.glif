@@ -90,13 +90,16 @@
       <point x="292" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="243" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="374" y="566" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="379" y="0" type="move" name="bottom"/>
+      <point x="461" y="330" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="461" y="330" type="move" name="topright"/>
+      <point x="379" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

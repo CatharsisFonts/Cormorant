@@ -49,13 +49,16 @@
       <point x="10" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="185" y="534" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="211" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="185" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="439" y="534" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="229" y="267" type="move" name="center"/>
     </contour>
   </outline>
   <lib>

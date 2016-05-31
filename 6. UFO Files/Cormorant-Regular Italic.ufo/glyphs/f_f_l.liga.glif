@@ -5,6 +5,12 @@
   <outline>
     <component base="ffxmaker"/>
     <component base="fl" xOffset="207"/>
+    <contour>
+      <point x="208" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="417" y="0" type="move" name="caret_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

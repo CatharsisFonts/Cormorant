@@ -72,6 +72,10 @@
 	<string>A_macron.glif</string>
 	<key>Aogonek</key>
 	<string>A_ogonek.glif</string>
+	<key>Aogonek_acutecomb.liga</key>
+	<string>A_ogonek_acutecomb.liga.glif</string>
+	<key>Aogonek_acutecomb.liga.ss13</key>
+	<string>A_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Aring</key>
 	<string>A_ring.glif</string>
 	<key>Aringacute</key>
@@ -166,6 +170,10 @@
 	<string>E_ng.glif</string>
 	<key>Eogonek</key>
 	<string>E_ogonek.glif</string>
+	<key>Eogonek_acutecomb.liga</key>
+	<string>E_ogonek_acutecomb.liga.glif</string>
+	<key>Eogonek_acutecomb.liga.ss13</key>
+	<string>E_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
 	<key>Etilde</key>
@@ -214,6 +222,10 @@
 	<string>I_.loclN_L_D_.glif</string>
 	<key>IJ</key>
 	<string>I_J_.glif</string>
+	<key>IJ_acutecomb.liga</key>
+	<string>I_J__acutecomb.liga.glif</string>
+	<key>IJ_acutecomb.liga.ss13</key>
+	<string>I_J__acutecomb.liga.ss13.glif</string>
 	<key>I_J.loclNLD.dlig</key>
 	<string>I__J_.loclN_L_D_.dlig.glif</string>
 	<key>Iacute</key>
@@ -228,6 +240,10 @@
 	<string>I_acute_J_.dlig.glif</string>
 	<key>Iacute_J.dlig.ss13</key>
 	<string>I_acute_J_.dlig.ss13.glif</string>
+	<key>Iacute_J_acutecomb</key>
+	<string>I_acute_J__acutecomb.glif</string>
+	<key>Iacute_J_acutecomb.ss13</key>
+	<string>I_acute_J__acutecomb.ss13.glif</string>
 	<key>Ibreve</key>
 	<string>I_breve.glif</string>
 	<key>Icaron</key>
@@ -254,6 +270,10 @@
 	<string>I_macron.glif</string>
 	<key>Iogonek</key>
 	<string>I_ogonek.glif</string>
+	<key>Iogonek_acutecomb.liga</key>
+	<string>I_ogonek_acutecomb.liga.glif</string>
+	<key>Iogonek_acutecomb.liga.ss13</key>
+	<string>I_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Itilde</key>
 	<string>I_tilde.glif</string>
 	<key>J</key>
@@ -262,6 +282,10 @@
 	<string>J_.acute.glif</string>
 	<key>J.loclNLD</key>
 	<string>J_.loclN_L_D_.glif</string>
+	<key>J_acutecomb.liga</key>
+	<string>J__acutecomb.liga.glif</string>
+	<key>J_acutecomb.liga.ss13</key>
+	<string>J__acutecomb.liga.ss13.glif</string>
 	<key>Jcircumflex</key>
 	<string>J_circumflex.glif</string>
 	<key>Jcircumflex.ss13</key>
@@ -404,6 +428,10 @@
 	<string>O_mega.glif</string>
 	<key>Oogonek</key>
 	<string>O_ogonek.glif</string>
+	<key>Oogonek_acutecomb.liga</key>
+	<string>O_ogonek_acutecomb.liga.glif</string>
+	<key>Oogonek_acutecomb.liga.ss13</key>
+	<string>O_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
 	<key>Oslashacute</key>
@@ -794,6 +822,10 @@
 	<string>aogonek.glif</string>
 	<key>aogonek.ss07</key>
 	<string>aogonek.ss07.glif</string>
+	<key>aogonek_acutecomb.liga</key>
+	<string>aogonek_acutecomb.liga.glif</string>
+	<key>aogonek_acutecomb.liga.ss07</key>
+	<string>aogonek_acutecomb.liga.ss07.glif</string>
 	<key>apostrophemod</key>
 	<string>apostrophemod.glif</string>
 	<key>approxequal</key>
@@ -972,10 +1004,6 @@
 	<string>colonsign.lf.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
-	<key>comma.tf</key>
-	<string>comma.tf.glif</string>
-	<key>comma.tosf</key>
-	<string>comma.tosf.glif</string>
 	<key>commaaccentcomb</key>
 	<string>commaaccentcomb.glif</string>
 	<key>commaturnedmod</key>
@@ -1122,6 +1150,8 @@
 	<string>enspace.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
+	<key>eogonek_acutecomb.liga</key>
+	<string>eogonek_acutecomb.liga.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>equal.case</key>
@@ -1500,6 +1530,8 @@
 	<string>iacute.loclH_U_N_.ss13.glif</string>
 	<key>iacute_j.dlig</key>
 	<string>iacute_j.dlig.glif</string>
+	<key>iacute_j_acutecomb</key>
+	<string>iacute_j_acutecomb.glif</string>
 	<key>ibreve</key>
 	<string>ibreve.glif</string>
 	<key>icaron</key>
@@ -1520,6 +1552,8 @@
 	<string>ihookabove.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
+	<key>ij_acutecomb.liga</key>
+	<string>ij_acutecomb.liga.glif</string>
 	<key>imacron</key>
 	<string>imacron.glif</string>
 	<key>infinity</key>
@@ -1528,6 +1562,8 @@
 	<string>integral.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
+	<key>iogonek_acutecomb.liga</key>
+	<string>iogonek_acutecomb.liga.glif</string>
 	<key>itilde</key>
 	<string>itilde.glif</string>
 	<key>j</key>
@@ -1536,6 +1572,8 @@
 	<string>j.acute.glif</string>
 	<key>j.loclNLD</key>
 	<string>j.loclN_L_D_.glif</string>
+	<key>j_acutecomb.liga</key>
+	<string>j_acutecomb.liga.glif</string>
 	<key>jcircumflex</key>
 	<string>jcircumflex.glif</string>
 	<key>jdotless</key>
@@ -1696,6 +1734,8 @@
 	<string>minute.glif</string>
 	<key>minute.tf</key>
 	<string>minute.tf.glif</string>
+	<key>minute.tosf</key>
+	<string>minute.tosf.glif</string>
 	<key>mu</key>
 	<string>mu.glif</string>
 	<key>multiply</key>
@@ -1766,10 +1806,6 @@
 	<string>numbersign.glif</string>
 	<key>numbersign.case</key>
 	<string>numbersign.case.glif</string>
-	<key>numbersign.tf</key>
-	<string>numbersign.tf.glif</string>
-	<key>numbersign.tosf</key>
-	<string>numbersign.tosf.glif</string>
 	<key>numero</key>
 	<string>numero.glif</string>
 	<key>numero.lf</key>
@@ -1862,6 +1898,8 @@
 	<string>onesuperior.glif</string>
 	<key>oogonek</key>
 	<string>oogonek.glif</string>
+	<key>oogonek_acutecomb.liga</key>
+	<string>oogonek_acutecomb.liga.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
 	<key>ordmasculine</key>
@@ -1948,10 +1986,6 @@
 	<string>questiondown.case.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
-	<key>quotedbl.tf</key>
-	<string>quotedbl.tf.glif</string>
-	<key>quotedbl.tosf</key>
-	<string>quotedbl.tosf.glif</string>
 	<key>quotedblbase</key>
 	<string>quotedblbase.glif</string>
 	<key>quotedblleft</key>
@@ -1970,18 +2004,10 @@
 	<string>quoteright.glif</string>
 	<key>quoteright.case</key>
 	<string>quoteright.case.glif</string>
-	<key>quoteright.tf</key>
-	<string>quoteright.tf.glif</string>
-	<key>quoteright.tosf</key>
-	<string>quoteright.tosf.glif</string>
 	<key>quotesinglbase</key>
 	<string>quotesinglbase.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
-	<key>quotesingle.tf</key>
-	<string>quotesingle.tf.glif</string>
-	<key>quotesingle.tosf</key>
-	<string>quotesingle.tosf.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>r_t</key>
@@ -2058,6 +2084,8 @@
 	<string>second.glif</string>
 	<key>second.tf</key>
 	<string>second.tf.glif</string>
+	<key>second.tosf</key>
+	<string>second.tosf.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>section.case</key>
@@ -2126,10 +2154,6 @@
 	<string>southW_estA_rrow.case.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
-	<key>space.tf</key>
-	<string>space.tf.glif</string>
-	<key>space.tosf</key>
-	<string>space.tosf.glif</string>
 	<key>ssxmaker</key>
 	<string>ssxmaker.glif</string>
 	<key>sterling</key>
@@ -2292,6 +2316,8 @@
 	<string>upB_lackT_riangle.glif</string>
 	<key>upDownArrow</key>
 	<string>upD_ownA_rrow.glif</string>
+	<key>upDownArrow.case</key>
+	<string>upD_ownA_rrow.case.glif</string>
 	<key>upWhiteTriangle</key>
 	<string>upW_hiteT_riangle.glif</string>
 	<key>uring</key>

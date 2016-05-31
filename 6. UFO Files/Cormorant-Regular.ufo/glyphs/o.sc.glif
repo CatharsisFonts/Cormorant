@@ -34,10 +34,16 @@
       <point x="248" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="343" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="246" y="400" type="move" name="top"/>
     </contour>
     <contour>
       <point x="395" y="340" type="move" name="topright"/>
+    </contour>
+    <contour>
+      <point x="20" y="400" type="move" name="topleft"/>
     </contour>
     <contour>
       <point x="248" y="165" type="move" name="center"/>

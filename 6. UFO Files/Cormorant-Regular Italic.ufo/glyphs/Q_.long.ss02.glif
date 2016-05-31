@@ -21,6 +21,12 @@
       <point x="883" y="-162" type="curve" smooth="yes"/>
     </contour>
     <component base="O"/>
+    <contour>
+      <point x="343" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="249" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

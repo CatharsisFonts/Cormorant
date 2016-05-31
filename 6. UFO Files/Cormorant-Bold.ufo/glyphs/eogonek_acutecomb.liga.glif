@@ -3,6 +3,9 @@
   <advance width="357"/>
   <outline>
     <component base="eogonek"/>
-    <component base="acutecomb" xOffset="140"/>
+    <component base="acutecomb" xOffset="118"/>
+    <contour>
+      <point x="179" y="330" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

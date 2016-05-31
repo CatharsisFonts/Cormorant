@@ -4,6 +4,21 @@
   <outline>
     <component base="ssxmaker"/>
     <component base="longs" xOffset="238"/>
+    <contour>
+      <point x="223" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="82" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="140" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="363" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="305" y="0" type="move" name="bottom_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

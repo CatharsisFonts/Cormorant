@@ -3,6 +3,30 @@
   <advance width="705"/>
   <outline>
     <component base="f_f_t.liga"/>
+    <contour>
+      <point x="89" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="382" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="470" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="235" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="559" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="147" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="324" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="617" y="330" type="move" name="top_3"/>
+    </contour>
   </outline>
   <lib>
     <dict>

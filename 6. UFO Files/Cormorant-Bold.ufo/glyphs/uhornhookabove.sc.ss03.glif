@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhornhookabove.sc.ss03" format="1">
-  <advance width="530"/>
+  <advance width="522"/>
   <outline>
     <component base="uhorn.sc.ss01"/>
-    <component base="hookabovecomb.sc" xOffset="117" yOffset="70"/>
+    <component base="hookabovecomb.sc" xOffset="118" yOffset="70"/>
   </outline>
   <lib>
     <dict>

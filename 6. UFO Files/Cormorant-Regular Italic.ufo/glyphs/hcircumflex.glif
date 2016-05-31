@@ -6,4 +6,19 @@
     <component base="h"/>
     <component base="circumflex.case" xOffset="39" yOffset="227"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflex.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

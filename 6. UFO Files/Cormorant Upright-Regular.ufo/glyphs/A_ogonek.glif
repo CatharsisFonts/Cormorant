@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aogonek" format="1">
-  <advance width="553"/>
+  <advance width="554"/>
   <unicode hex="0104"/>
   <outline>
     <contour>
@@ -1123,7 +1123,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>553</integer>
+          <integer>554</integer>
         </dict>
       </dict>
       <key>public.markColor</key>

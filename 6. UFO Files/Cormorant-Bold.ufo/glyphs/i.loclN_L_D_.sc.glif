@@ -3,6 +3,15 @@
   <advance width="259"/>
   <outline>
     <component base="i.sc"/>
+    <contour>
+      <point x="233" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="130" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="130" y="400" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

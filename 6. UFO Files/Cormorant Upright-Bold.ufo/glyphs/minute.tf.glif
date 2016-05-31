@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="minute.tf" format="1">
-  <advance width="210"/>
+  <advance width="128"/>
   <outline>
     <contour>
-      <point x="69" y="259"/>
-      <point x="81" y="260"/>
-      <point x="82" y="263" type="curve" smooth="yes"/>
-      <point x="156" y="540" type="line" smooth="yes"/>
-      <point x="161" y="559"/>
-      <point x="62" y="538"/>
-      <point x="64" y="518" type="curve" smooth="yes"/>
-      <point x="69" y="262" type="line" smooth="yes"/>
+      <point x="29" y="259"/>
+      <point x="41" y="260"/>
+      <point x="42" y="263" type="curve" smooth="yes"/>
+      <point x="116" y="540" type="line" smooth="yes"/>
+      <point x="121" y="559"/>
+      <point x="22" y="538"/>
+      <point x="24" y="518" type="curve" smooth="yes"/>
+      <point x="29" y="262" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -114,7 +114,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>210</integer>
+          <integer>128</integer>
         </dict>
       </dict>
     </dict>

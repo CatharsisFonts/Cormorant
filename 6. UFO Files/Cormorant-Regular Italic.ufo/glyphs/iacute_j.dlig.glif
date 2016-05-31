@@ -65,6 +65,9 @@
     </contour>
     <component base="acute" xOffset="20"/>
     <component base="acute" xOffset="220"/>
+    <contour>
+      <point x="192" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
   <lib>
     <dict>

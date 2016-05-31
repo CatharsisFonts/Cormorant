@@ -5,6 +5,9 @@
     <component base="g_u"/>
     <component base="breve" xOffset="41"/>
     <contour>
+      <point x="354" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="568" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
@@ -59,6 +62,17 @@
           <integer>707</integer>
         </dict>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>breve</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

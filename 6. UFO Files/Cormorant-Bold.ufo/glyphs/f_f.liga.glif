@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f.liga" format="1">
   <advance width="517"/>
-  <unicode hex="FB00"/>
   <outline>
     <component base="ffxmaker"/>
     <component base="f" xOffset="256"/>
+    <contour>
+      <point x="259" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
   <lib>
     <dict>

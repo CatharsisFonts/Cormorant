@@ -28,6 +28,9 @@
       <point x="229" y="-235" type="curve" smooth="yes"/>
     </contour>
     <component base="o"/>
+    <contour>
+      <point x="209" y="330" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

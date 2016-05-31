@@ -5,10 +5,25 @@
     <component base="g.ss03"/>
     <component base="y.ss03" xOffset="346"/>
     <contour>
+      <point x="331" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="150" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="565" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="358" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="563" y="330" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="331" y="0" type="move" name="bottom"/>
+      <point x="208" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="507" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

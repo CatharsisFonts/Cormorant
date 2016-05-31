@@ -4,6 +4,30 @@
   <outline>
     <component base="ffxmaker"/>
     <component base="f_thorn.liga" xOffset="229"/>
+    <contour>
+      <point x="108" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="440" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="547" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="274" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="655" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="166" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="382" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="713" y="330" type="move" name="top_3"/>
+    </contour>
   </outline>
   <lib>
     <dict>

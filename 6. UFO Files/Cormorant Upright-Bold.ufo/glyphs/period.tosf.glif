@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period.tosf" format="1">
-  <advance width="210"/>
+  <advance width="177"/>
   <outline>
-    <component base="period" xOffset="15"/>
+    <contour>
+      <point x="122" y="-9"/>
+      <point x="140" y="10"/>
+      <point x="140" y="43" type="curve" smooth="yes"/>
+      <point x="140" y="73"/>
+      <point x="122" y="92"/>
+      <point x="90" y="92" type="curve" smooth="yes"/>
+      <point x="58" y="92"/>
+      <point x="38" y="73"/>
+      <point x="38" y="43" type="curve" smooth="yes"/>
+      <point x="38" y="10"/>
+      <point x="58" y="-9"/>
+      <point x="90" y="-9" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -268,7 +281,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>210</integer>
+          <integer>177</integer>
         </dict>
       </dict>
     </dict>

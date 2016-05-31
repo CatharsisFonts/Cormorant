@@ -2,12 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Disable Last Change</key>
+	<true/>
 	<key>ascender</key>
 	<integer>620</integer>
 	<key>capHeight</key>
 	<integer>534</integer>
 	<key>copyright</key>
-	<string>Created by Christian Thalmann with Glyphs in 2014–2015. </string>
+	<string>Copyright (c) 2015, Christian Thalmann and the Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)</string>
 	<key>descender</key>
 	<integer>-235</integer>
 	<key>familyName</key>
@@ -15,11 +17,11 @@
 	<key>italicAngle</key>
 	<real>-10</real>
 	<key>license</key>
-	<string>Copyright (c) 2015, Christian Thalmann (christian.d.thalmann@gmail.com), OFL (SIL Open Font License)</string>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/11/17 18:08:38</string>
+	<string>2016/05/31 14:52:33</string>
 	<key>openTypeNameDesigner</key>
 	<string>Christian Thalmann (Catharsis Fonts)</string>
 	<key>openTypeNameDesignerURL</key>
@@ -27,9 +29,12 @@
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Cormorant</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Light Italic</string>
+	<string>Bold Italic</string>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
 	<key>openTypeOS2WeightClass</key>
-	<integer>300</integer>
+	<integer>700</integer>
 	<key>openTypeOS2WidthClass</key>
 	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
@@ -47,6 +52,8 @@
 		<integer>620</integer>
 		<integer>636</integer>
 	</array>
+	<key>postscriptFontName</key>
+	<string>Cormorant-BoldItalic</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-241</integer>
@@ -62,16 +69,14 @@
 		<integer>72</integer>
 		<integer>85</integer>
 	</array>
-	<key>styleMapFamilyName</key>
-	<string>Cormorant Light</string>
 	<key>styleMapStyleName</key>
-	<string>italic</string>
+	<string>bold italic</string>
 	<key>styleName</key>
-	<string>Light Italic</string>
+	<string>Bold Italic</string>
 	<key>unitsPerEm</key>
 	<integer>855</integer>
 	<key>versionMajor</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>

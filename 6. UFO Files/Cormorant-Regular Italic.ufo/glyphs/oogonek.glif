@@ -4,6 +4,9 @@
   <unicode hex="01EB"/>
   <outline>
     <component base="o"/>
-    <component base="ogonek" xOffset="84"/>
+    <component base="ogonekcomb" xOffset="81"/>
+    <contour>
+      <point x="199" y="330" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

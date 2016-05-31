@@ -5,5 +5,23 @@
     <component base="g_u"/>
     <component base="dieresis" xOffset="381"/>
     <component base="breve" xOffset="41"/>
+    <contour>
+      <point x="354" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>breve</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

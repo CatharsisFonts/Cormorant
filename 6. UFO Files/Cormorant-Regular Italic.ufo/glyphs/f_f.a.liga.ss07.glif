@@ -3,6 +3,9 @@
   <advance width="429"/>
   <outline>
     <component base="f_f.liga"/>
+    <contour>
+      <point x="215" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
   <lib>
     <dict>

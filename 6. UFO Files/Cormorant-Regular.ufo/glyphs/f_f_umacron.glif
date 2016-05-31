@@ -6,16 +6,40 @@
     <component base="f_u" xOffset="252"/>
     <component base="macroncomb" xOffset="564"/>
     <contour>
-      <point x="677" y="41" type="move" name="ogonek"/>
+      <point x="621" y="0" type="move" name="caret_2"/>
     </contour>
     <contour>
-      <point x="460" y="330" type="move" name="top"/>
+      <point x="466" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="777" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="777" y="330" type="move" name="top_3"/>
     </contour>
     <contour>
       <point x="660" y="330" type="move" name="topright"/>
     </contour>
     <contour>
+      <point x="155" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="677" y="41" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="311" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="471" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="466" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="155" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="460" y="330" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

@@ -102,6 +102,18 @@
     <contour>
       <point x="299" y="0" type="move" name="caret_1"/>
     </contour>
+    <contour>
+      <point x="120" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="178" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="477" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="419" y="0" type="move" name="bottom_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

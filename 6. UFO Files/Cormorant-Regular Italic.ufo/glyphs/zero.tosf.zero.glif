@@ -5,4 +5,19 @@
     <component base="zero" xOffset="6"/>
     <component base="period" xOffset="139" yOffset="143"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>zero</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -3,6 +3,12 @@
   <advance width="367"/>
   <outline>
     <component base="f.sc"/>
+    <contour>
+      <point x="184" y="400" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="184" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

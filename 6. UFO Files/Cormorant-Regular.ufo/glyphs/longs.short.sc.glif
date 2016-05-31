@@ -3,6 +3,12 @@
   <advance width="256"/>
   <outline>
     <component base="longs.sc"/>
+    <contour>
+      <point x="128" y="400" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="128" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sha-cy.loclSRB" format="1">
-  <advance width="589"/>
+  <advance width="586"/>
   <outline>
     <contour>
       <point x="76" y="-127"/>
@@ -28,7 +28,7 @@
       <point x="51" y="-144"/>
       <point x="53" y="-142" type="curve" smooth="yes"/>
     </contour>
-    <component base="m" xOffset="589" yOffset="330" xScale="-1" yScale="-1"/>
+    <component base="m" xOffset="586" yOffset="330" xScale="-1" yScale="-1"/>
   </outline>
   <lib>
     <dict>

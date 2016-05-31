@@ -2,7 +2,57 @@
 <glyph name="ge-cy.ss10" format="1">
   <advance width="278"/>
   <outline>
-    <component base="ge-cy.loclBGR"/>
+    <contour>
+      <point x="181" y="322"/>
+      <point x="199" y="301"/>
+      <point x="199" y="263" type="curve" smooth="yes"/>
+      <point x="199" y="206"/>
+      <point x="157" y="184"/>
+      <point x="116" y="162" type="curve" smooth="yes"/>
+      <point x="77" y="142"/>
+      <point x="39" y="122"/>
+      <point x="39" y="72" type="curve" smooth="yes"/>
+      <point x="39" y="13"/>
+      <point x="92" y="-8"/>
+      <point x="138" y="-8" type="curve" smooth="yes"/>
+      <point x="189" y="-8"/>
+      <point x="236" y="17"/>
+      <point x="266" y="67" type="curve" smooth="yes"/>
+      <point x="269" y="71"/>
+      <point x="262" y="78"/>
+      <point x="258" y="73" type="curve" smooth="yes"/>
+      <point x="234" y="33"/>
+      <point x="199" y="15"/>
+      <point x="165" y="15" type="curve" smooth="yes"/>
+      <point x="121" y="15"/>
+      <point x="83" y="45"/>
+      <point x="83" y="88" type="curve" smooth="yes"/>
+      <point x="83" y="131"/>
+      <point x="120" y="150"/>
+      <point x="160" y="171" type="curve" smooth="yes"/>
+      <point x="202" y="194"/>
+      <point x="247" y="218"/>
+      <point x="247" y="273" type="curve" smooth="yes"/>
+      <point x="247" y="314"/>
+      <point x="222" y="341"/>
+      <point x="174" y="341" type="curve" smooth="yes"/>
+      <point x="132" y="341"/>
+      <point x="107" y="321"/>
+      <point x="90" y="321" type="curve" smooth="yes"/>
+      <point x="82" y="321"/>
+      <point x="73" y="327"/>
+      <point x="77" y="346" type="curve" smooth="yes"/>
+      <point x="78" y="349"/>
+      <point x="68" y="351"/>
+      <point x="67" y="348" type="curve" smooth="yes"/>
+      <point x="40" y="234" type="line" smooth="yes"/>
+      <point x="39" y="231"/>
+      <point x="49" y="229"/>
+      <point x="50" y="232" type="curve" smooth="yes"/>
+      <point x="68" y="298"/>
+      <point x="108" y="322"/>
+      <point x="146" y="322" type="curve" smooth="yes"/>
+    </contour>
     <contour>
       <point x="139" y="330" type="move" name="top"/>
     </contour>

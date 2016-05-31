@@ -2,7 +2,7 @@
 <glyph name="iishort-cy.loclBGR" format="1">
   <advance width="432"/>
   <outline>
-    <component base="ii-cy.loclBGR"/>
-    <component base="brevecomb" xOffset="101"/>
+    <component base="ii-cy.ss10"/>
+    <component base="brevecomb-cy" xOffset="91"/>
   </outline>
 </glyph>

@@ -4,6 +4,21 @@
   <outline>
     <component base="longs.short"/>
     <component base="longs.short" xOffset="241"/>
+    <contour>
+      <point x="261" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="131" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="131" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="392" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="392" y="0" type="move" name="bottom_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -17,6 +32,17 @@
       <string>longs.short</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>longs.short</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

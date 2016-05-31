@@ -5,10 +5,25 @@
     <component base="g_y.liga"/>
     <component base="macron" xOffset="338"/>
     <contour>
+      <point x="141" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="140" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="537" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="339" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="571" y="330" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="141" y="0" type="move" name="bottom"/>
+      <point x="198" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="479" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

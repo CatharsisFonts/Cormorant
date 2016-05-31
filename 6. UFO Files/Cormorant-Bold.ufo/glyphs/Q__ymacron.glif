@@ -5,7 +5,22 @@
     <component base="Q_y"/>
     <component base="macron" xOffset="744"/>
     <contour>
+      <point x="533" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="266" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
       <point x="844" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="266" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="799" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="799" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

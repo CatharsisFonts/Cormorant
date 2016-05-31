@@ -4,5 +4,8 @@
   <outline>
     <component base="ogonek" xOffset="141"/>
     <component base="e.sc.ss12"/>
+    <contour>
+      <point x="199" y="400" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

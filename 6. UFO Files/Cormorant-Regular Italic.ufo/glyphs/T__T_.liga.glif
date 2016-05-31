@@ -121,13 +121,34 @@
       <point x="128" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="686" y="267" type="move" name="center"/>
-    </contour>
-    <contour>
       <point x="601" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="189" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="686" y="267" type="move" name="center"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="center_2"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="move" name="center_1"/>
+    </contour>
+    <contour>
+      <point x="684" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="437" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="776" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="247" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="626" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

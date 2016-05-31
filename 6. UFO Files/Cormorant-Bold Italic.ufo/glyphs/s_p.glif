@@ -77,6 +77,21 @@
       <point x="393" y="-1" type="curve" smooth="yes"/>
     </contour>
     <component base="s"/>
+    <contour>
+      <point x="308" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="183" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="490" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="432" y="0" type="move" name="bottom_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

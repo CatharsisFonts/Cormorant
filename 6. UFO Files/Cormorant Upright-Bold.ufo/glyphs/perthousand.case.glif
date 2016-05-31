@@ -2,7 +2,7 @@
 <glyph name="perthousand.case" format="1">
   <advance width="841"/>
   <outline>
-    <component base="zero.numr" xOffset="10"/>
+    <component base="zero.numr"/>
     <component base="fraction" xOffset="254"/>
     <component base="zero.dnom" xOffset="327"/>
     <component base="zero.dnom" xOffset="577"/>
@@ -12,6 +12,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-05-31 14:36:21 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -255,6 +257,17 @@
           <integer>841</integer>
         </dict>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

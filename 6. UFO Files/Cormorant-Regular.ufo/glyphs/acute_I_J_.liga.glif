@@ -2,7 +2,7 @@
 <glyph name="acute_IJ.liga" format="1">
   <advance width="588"/>
   <outline>
-    <component base="Iacute_J.dlig"/>
+    <component base="Iacute_J_acutecomb"/>
   </outline>
   <lib>
     <dict>

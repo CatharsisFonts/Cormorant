@@ -3,5 +3,11 @@
   <advance width="604"/>
   <outline>
     <component base="Germandbls"/>
+    <contour>
+      <point x="302" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="302" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

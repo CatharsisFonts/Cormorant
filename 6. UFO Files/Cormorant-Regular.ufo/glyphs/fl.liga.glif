@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fl.liga" format="1">
   <advance width="485"/>
-  <unicode hex="FB02"/>
   <outline>
     <contour>
       <point x="50" y="0"/>
@@ -91,13 +90,16 @@
       <point x="306" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
+      <point x="243" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="368" y="566" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="373" y="0" type="move" name="bottom"/>
+      <point x="455" y="330" type="move" name="topright"/>
     </contour>
     <contour>
-      <point x="455" y="330" type="move" name="topright"/>
+      <point x="373" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

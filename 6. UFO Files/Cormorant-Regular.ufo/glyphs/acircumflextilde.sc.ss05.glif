@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflextilde.sc.ss05" format="1">
-  <advance width="388"/>
+  <advance width="408"/>
   <outline>
     <component base="a.sc.ss05"/>
-    <component base="circumflexcomb_tildecomb" xOffset="48" yOffset="70"/>
+    <component base="circumflexcomb_tildecomb" xOffset="68" yOffset="70"/>
   </outline>
   <lib>
     <dict>

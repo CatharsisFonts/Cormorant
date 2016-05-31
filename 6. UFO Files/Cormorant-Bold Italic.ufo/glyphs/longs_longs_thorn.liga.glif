@@ -4,6 +4,30 @@
   <outline>
     <component base="ssxmaker"/>
     <component base="longs_thorn.liga" xOffset="229"/>
+    <contour>
+      <point x="110" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="446" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="555" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="278" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="665" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="168" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="388" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="723" y="330" type="move" name="top_3"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -2,9 +2,36 @@
 <glyph name="plusminus.case" format="1">
   <advance width="390"/>
   <outline>
-    <component base="endash.case" yOffset="30"/>
-    <component base="endash.case" xOffset="473" yOffset="113" xScale="0" yScale="0" xyScale="1" yxScale="-1"/>
-    <component base="endash.case" yOffset="-200"/>
+    <contour>
+      <point x="361" y="292" type="line" smooth="yes"/>
+      <point x="366" y="292"/>
+      <point x="366" y="324"/>
+      <point x="361" y="324" type="curve" smooth="yes"/>
+      <point x="28" y="324" type="line" smooth="yes"/>
+      <point x="24" y="324"/>
+      <point x="24" y="292"/>
+      <point x="29" y="292" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="211" y="474" type="line" smooth="yes"/>
+      <point x="211" y="479"/>
+      <point x="179" y="479"/>
+      <point x="179" y="474" type="curve" smooth="yes"/>
+      <point x="179" y="141" type="line" smooth="yes"/>
+      <point x="179" y="137"/>
+      <point x="211" y="137"/>
+      <point x="211" y="142" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="361" y="62" type="line" smooth="yes"/>
+      <point x="366" y="62"/>
+      <point x="366" y="94"/>
+      <point x="361" y="94" type="curve" smooth="yes"/>
+      <point x="28" y="94" type="line" smooth="yes"/>
+      <point x="24" y="94"/>
+      <point x="24" y="62"/>
+      <point x="29" y="62" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

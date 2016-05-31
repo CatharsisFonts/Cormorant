@@ -4,6 +4,30 @@
   <outline>
     <component base="ssxmaker"/>
     <component base="longs_b.liga" xOffset="244"/>
+    <contour>
+      <point x="157" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="471" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="627" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="314" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="784" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="157" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="471" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="784" y="330" type="move" name="top_3"/>
+    </contour>
   </outline>
   <lib>
     <dict>

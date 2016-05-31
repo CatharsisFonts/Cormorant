@@ -4,6 +4,9 @@
   <outline>
     <component base="ffxmaker"/>
     <component base="f.short" xOffset="207"/>
+    <contour>
+      <point x="220" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
   <lib>
     <dict>

@@ -5,5 +5,8 @@
   <outline>
     <component base="E"/>
     <component base="ogonek" xOffset="229"/>
+    <contour>
+      <point x="292" y="534" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

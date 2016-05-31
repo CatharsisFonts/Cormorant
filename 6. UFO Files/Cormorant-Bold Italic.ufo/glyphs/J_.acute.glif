@@ -3,7 +3,13 @@
   <advance width="271"/>
   <outline>
     <component base="J"/>
-    <component base="acute.case" xOffset="89" yOffset="204"/>
+    <component base="acute.case" xOffset="96" yOffset="204"/>
+    <contour>
+      <point x="201" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="107" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

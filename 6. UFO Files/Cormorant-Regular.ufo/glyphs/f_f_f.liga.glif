@@ -65,6 +65,30 @@
     </contour>
     <component base="ffxmaker"/>
     <component base="f" xOffset="503"/>
+    <contour>
+      <point x="127" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="382" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="509" y="0" type="move" name="caret_2"/>
+    </contour>
+    <contour>
+      <point x="255" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="637" y="0" type="move" name="bottom_3"/>
+    </contour>
+    <contour>
+      <point x="127" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="382" y="0" type="move" name="bottom_2"/>
+    </contour>
+    <contour>
+      <point x="637" y="330" type="move" name="top_3"/>
+    </contour>
   </outline>
   <lib>
     <dict>

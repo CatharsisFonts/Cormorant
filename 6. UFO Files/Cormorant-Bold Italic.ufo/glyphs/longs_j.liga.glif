@@ -38,13 +38,28 @@
     </contour>
     <component base="jdotless" xOffset="222"/>
     <contour>
-      <point x="291" y="10" type="move" name="ogonek"/>
-    </contour>
-    <contour>
       <point x="188" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
+      <point x="80" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="291" y="10" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="355" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
       <point x="312" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="138" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="297" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

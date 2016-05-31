@@ -65,6 +65,9 @@
     </contour>
     <component base="acute" xOffset="19"/>
     <component base="acute" xOffset="229"/>
+    <contour>
+      <point x="193" y="0" type="move" name="caret_1"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -74,6 +77,17 @@
       <string>i</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>acute</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

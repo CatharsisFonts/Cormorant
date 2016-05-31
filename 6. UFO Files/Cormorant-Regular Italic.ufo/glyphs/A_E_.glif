@@ -107,6 +107,9 @@
       <point x="151" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
+      <point x="300" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="510" y="534" type="move" name="top"/>
     </contour>
   </outline>

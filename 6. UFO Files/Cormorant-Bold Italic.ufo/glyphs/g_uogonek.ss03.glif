@@ -4,6 +4,21 @@
   <outline>
     <component base="g.ss03"/>
     <component base="uogonek" xOffset="363"/>
+    <contour>
+      <point x="385" y="0" type="move" name="caret_1"/>
+    </contour>
+    <contour>
+      <point x="164" y="0" type="move" name="bottom_1"/>
+    </contour>
+    <contour>
+      <point x="222" y="330" type="move" name="top_1"/>
+    </contour>
+    <contour>
+      <point x="607" y="330" type="move" name="top_2"/>
+    </contour>
+    <contour>
+      <point x="549" y="0" type="move" name="bottom_2"/>
+    </contour>
   </outline>
   <lib>
     <dict>

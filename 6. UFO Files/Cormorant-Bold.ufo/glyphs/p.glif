@@ -69,11 +69,15 @@
       <point x="179" y="-11"/>
       <point x="223" y="-11" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="220" y="330" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="220" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>=|d</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Bold Feb 1 15, 01:04</key>

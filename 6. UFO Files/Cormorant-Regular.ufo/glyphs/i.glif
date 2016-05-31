@@ -5,5 +5,8 @@
   <outline>
     <component base="idotless"/>
     <component base="dotaccent" xOffset="55"/>
+    <contour>
+      <point x="126" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

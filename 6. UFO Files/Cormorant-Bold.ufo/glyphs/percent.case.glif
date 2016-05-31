@@ -2,7 +2,7 @@
 <glyph name="percent.case" format="1">
   <advance width="591"/>
   <outline>
-    <component base="zero.numr" xOffset="10"/>
+    <component base="zero.numr"/>
     <component base="fraction" xOffset="254"/>
     <component base="zero.dnom" xOffset="327"/>
   </outline>
@@ -546,6 +546,25 @@
           <integer>591</integer>
         </dict>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>zero.dnom</string>
+        </dict>
+      </array>
     </dict>
   </lib>
 </glyph>

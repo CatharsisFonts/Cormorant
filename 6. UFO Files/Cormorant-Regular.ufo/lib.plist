@@ -37,6 +37,8 @@
 			<integer>45</integer>
 		</dict>
 	</dict>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>noodleThickness</key>
@@ -44,10 +46,16 @@
 	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>4F72FD3A-2035-4A0E-9118-392C7E7754E7</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
-	<integer>0</integer>
+	<false/>
 	<key>com.schriftgestaltung.weightValue</key>
 	<integer>40</integer>
+	<key>com.typemytype.robofont.layerOrder</key>
+	<array>
+		<string>background</string>
+	</array>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -218,6 +226,7 @@
 		<string>Tlinebelow</string>
 		<string>U</string>
 		<string>Uacute</string>
+		<string>Ubreve</string>
 		<string>Ucaron</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
@@ -238,6 +247,7 @@
 		<string>Umacron</string>
 		<string>Uogonek</string>
 		<string>Uring</string>
+		<string>Utilde</string>
 		<string>V</string>
 		<string>W</string>
 		<string>Wacute</string>
@@ -390,8 +400,12 @@
 		<string>Uogonek.ss03</string>
 		<string>Uring.ss03</string>
 		<string>Utilde.ss03</string>
+		<string>W.ss03</string>
+		<string>Wacute.ss03</string>
+		<string>Wcircumflex.ss03</string>
+		<string>Wdieresis.ss03</string>
+		<string>Wgrave.ss03</string>
 		<string>Uacute.loclHUN.ss03</string>
-		<string>Udieresis.ss04.ss03</string>
 		<string>Adieresis.ss04</string>
 		<string>Odieresis.ss04</string>
 		<string>Udieresis.ss04</string>
@@ -494,6 +508,9 @@
 		<string>Uhornacute.ss03.ss13</string>
 		<string>Uhorngrave.ss03.ss13</string>
 		<string>Uhungarumlaut.ss03.ss13</string>
+		<string>Wacute.ss03.ss13</string>
+		<string>Wcircumflex.ss03.ss13</string>
+		<string>Wgrave.ss03.ss13</string>
 		<string>Uacute.loclHUN.ss03.ss13</string>
 		<string>a</string>
 		<string>aacute</string>
@@ -850,7 +867,11 @@
 		<string>gdotaccent.ss03</string>
 		<string>gmacron.ss03</string>
 		<string>aacute.loclHUN.ss03</string>
-		<string>adieresis.ss04.ss03</string>
+		<string>w.ss03</string>
+		<string>wacute.ss03</string>
+		<string>wcircumflex.ss03</string>
+		<string>wdieresis.ss03</string>
+		<string>wgrave.ss03</string>
 		<string>y.ss03</string>
 		<string>yacute.ss03</string>
 		<string>ycircumflex.ss03</string>
@@ -876,6 +897,7 @@
 		<string>uhungarumlaut.ss13</string>
 		<string>e.finalswash</string>
 		<string>t.finalswash</string>
+		<string>Iacute_J_acutecomb</string>
 		<string>Q_y</string>
 		<string>Q_ymacron</string>
 		<string>c_t</string>
@@ -883,13 +905,12 @@
 		<string>f_f_umacron</string>
 		<string>f_u</string>
 		<string>f_umacron</string>
+		<string>iacute_j_acutecomb</string>
 		<string>longs_t</string>
 		<string>r_t</string>
 		<string>s_p</string>
 		<string>s_t</string>
 		<string>t_t</string>
-		<string>Iacute_J.dlig</string>
-		<string>iacute_j.dlig</string>
 		<string>I_J.loclNLD.dlig</string>
 		<string>i_j.loclNLD.dlig</string>
 		<string>t_z.hlig</string>
@@ -950,6 +971,7 @@
 		<string>longs_longs_l.liga.ss02</string>
 		<string>longs_longs_thorn.liga.ss02</string>
 		<string>g_g.liga.ss03</string>
+		<string>Iacute_J_acutecomb.liga.ss13</string>
 		<string>T_h.liga.toBeDeleted</string>
 		<string>f_b.liga.toBeDeleted</string>
 		<string>f_f.liga.toBeDeleted</string>
@@ -989,6 +1011,11 @@
 		<string>longs_longs_thorn.liga.toBeDeleted</string>
 		<string>iacute_j.sc.dlig</string>
 		<string>i_j.loclNLD.sc.dlig</string>
+		<string>aogonek_acutecomb.sc.liga</string>
+		<string>eogonek_acutecomb.sc.liga</string>
+		<string>ij_acutecomb.sc.liga</string>
+		<string>iogonek_acutecomb.sc.liga</string>
+		<string>oogonek_acutecomb.sc.liga</string>
 		<string>a.sc</string>
 		<string>aacute.sc</string>
 		<string>abreve.sc</string>
@@ -1089,6 +1116,7 @@
 		<string>i.sc</string>
 		<string>idotless.sc</string>
 		<string>iacute.sc</string>
+		<string>iacute_j_acutecomb.sc</string>
 		<string>ibreve.sc</string>
 		<string>icaron.sc</string>
 		<string>icircumflex.sc</string>
@@ -1115,14 +1143,20 @@
 		<string>ldot.sc</string>
 		<string>ldotbelow.sc</string>
 		<string>ldotbelowmacron.sc</string>
+		<string>j_acutecomb.liga.sc</string>
 		<string>llinebelow.sc</string>
 		<string>aacute.loclHUN.sc</string>
 		<string>eacute.loclHUN.sc</string>
 		<string>iacute.loclHUN.sc</string>
 		<string>oacute.loclHUN.sc</string>
 		<string>uacute.loclHUN.sc</string>
-		<string>i.loclNLD.sc</string>
 		<string>j.loclNLD.sc</string>
+		<string>i.loclNLD.sc</string>
+		<string>cacute.loclPLK.sc</string>
+		<string>nacute.loclPLK.sc</string>
+		<string>oacute.loclPLK.sc</string>
+		<string>sacute.loclPLK.sc</string>
+		<string>zacute.loclPLK.sc</string>
 		<string>q.long.sc</string>
 		<string>lslash.sc</string>
 		<string>m.sc</string>
@@ -1244,9 +1278,6 @@
 		<string>ucircumflex.ss13.sc</string>
 		<string>ugrave.ss13.sc</string>
 		<string>uhungarumlaut.ss13.sc</string>
-		<string>wacute.ss13.sc</string>
-		<string>wcircumflex.ss13.sc</string>
-		<string>wgrave.ss13.sc</string>
 		<string>yacute.ss13.sc</string>
 		<string>ycircumflex.ss13.sc</string>
 		<string>ygrave.ss13.sc</string>
@@ -1265,6 +1296,7 @@
 		<string>tz.sc</string>
 		<string>u.sc</string>
 		<string>uacute.sc</string>
+		<string>ubreve.sc</string>
 		<string>ucaron.sc</string>
 		<string>ucircumflex.sc</string>
 		<string>udieresis.sc</string>
@@ -1277,6 +1309,7 @@
 		<string>umacron.sc</string>
 		<string>uogonek.sc</string>
 		<string>uring.sc</string>
+		<string>utilde.sc</string>
 		<string>v.sc</string>
 		<string>w.sc</string>
 		<string>wacute.sc</string>
@@ -1368,7 +1401,11 @@
 		<string>uogonek.sc.ss03</string>
 		<string>uring.sc.ss03</string>
 		<string>utilde.sc.ss03</string>
-		<string>udieresis.sc.ss04.ss03</string>
+		<string>w.sc.ss03</string>
+		<string>wacute.sc.ss03</string>
+		<string>wcircumflex.sc.ss03</string>
+		<string>wdieresis.sc.ss03</string>
+		<string>wgrave.sc.ss03</string>
 		<string>adieresis.sc.ss04</string>
 		<string>odieresis.sc.ss04</string>
 		<string>udieresis.sc.ss04</string>
@@ -1378,6 +1415,8 @@
 		<string>adieresis.sc.ss05.ss04</string>
 		<string>odieresis.sc.ss05.ss04</string>
 		<string>adieresis.sc.ss01.ss05.ss04</string>
+		<string>aogonek_acutecomb.sc.liga.ss05</string>
+		<string>eogonek_acutecomb.sc.liga.ss05</string>
 		<string>a.sc.ss05</string>
 		<string>aacute.sc.ss05</string>
 		<string>abreve.sc.ss05</string>
@@ -1426,6 +1465,7 @@
 		<string>etilde.sc.ss05</string>
 		<string>aacute.loclHUN.sc.ss05</string>
 		<string>eacute.loclHUN.sc.ss05</string>
+		<string>uacute.loclHUN.sc.ss05</string>
 		<string>m.sc.ss05</string>
 		<string>n.sc.ss05</string>
 		<string>nacute.sc.ss05</string>
@@ -1461,6 +1501,30 @@
 		<string>tcaron.sc.ss05</string>
 		<string>tcedilla.sc.ss05</string>
 		<string>tcommaaccent.sc.ss05</string>
+		<string>u.sc.ss05</string>
+		<string>uacute.sc.ss05</string>
+		<string>ubreve.sc.ss05</string>
+		<string>ucaron.sc.ss05</string>
+		<string>ucircumflex.sc.ss05</string>
+		<string>udieresis.sc.ss05</string>
+		<string>udieresisacute.sc.ss05</string>
+		<string>udieresiscaron.sc.ss05</string>
+		<string>udieresisgrave.sc.ss05</string>
+		<string>udieresismacron.sc.ss05</string>
+		<string>udotbelow.sc.ss05</string>
+		<string>ugrave.sc.ss05</string>
+		<string>uhookabove.sc.ss05</string>
+		<string>uhorn.sc.ss05</string>
+		<string>uhornacute.sc.ss05</string>
+		<string>uhorndotbelow.sc.ss05</string>
+		<string>uhorngrave.sc.ss05</string>
+		<string>uhornhookabove.sc.ss05</string>
+		<string>uhorntilde.sc.ss05</string>
+		<string>uhungarumlaut.sc.ss05</string>
+		<string>umacron.sc.ss05</string>
+		<string>uogonek.sc.ss05</string>
+		<string>uring.sc.ss05</string>
+		<string>utilde.sc.ss05</string>
 		<string>y.sc.ss05</string>
 		<string>yacute.sc.ss05</string>
 		<string>ycircumflex.sc.ss05</string>
@@ -1474,9 +1538,11 @@
 		<string>udieresis.sc.ss04.ss05</string>
 		<string>udieresis.sc.ss01.ss04.ss05</string>
 		<string>udieresis.sc.ss03.ss04.ss05</string>
+		<string>udieresis.sc.ss05.ss04.ss05</string>
 		<string>i.sc.ss06</string>
 		<string>ij.sc.ss06</string>
 		<string>j.sc.ss06</string>
+		<string>eogonek_acutecomb.sc.liga.ss12</string>
 		<string>ae.sc.ss12</string>
 		<string>aeacute.sc.ss12</string>
 		<string>aemacron.sc.ss12</string>
@@ -1502,6 +1568,11 @@
 		<string>oe.sc.ss12</string>
 		<string>f.short.sc.ss12</string>
 		<string>iacute_j.sc.dlig.ss13</string>
+		<string>aogonek_acutecomb.sc.liga.ss13</string>
+		<string>eogonek_acutecomb.sc.liga.ss13</string>
+		<string>ij_acutecomb.sc.liga.ss13</string>
+		<string>iogonek_acutecomb.sc.liga.ss13</string>
+		<string>oogonek_acutecomb.sc.liga.ss13</string>
 		<string>aacute.sc.ss13</string>
 		<string>acaron.sc.ss13</string>
 		<string>acircumflex.sc.ss13</string>
@@ -1526,6 +1597,7 @@
 		<string>gcircumflex.sc.ss13</string>
 		<string>hcircumflex.sc.ss13</string>
 		<string>iacute.sc.ss13</string>
+		<string>iacute_j_acutecomb.sc.ss13</string>
 		<string>icaron.sc.ss13</string>
 		<string>icircumflex.sc.ss13</string>
 		<string>igrave.sc.ss13</string>
@@ -1533,6 +1605,7 @@
 		<string>kacute.sc.ss13</string>
 		<string>kcaron.sc.ss13</string>
 		<string>lacute.sc.ss13</string>
+		<string>j_acutecomb.liga.sc.ss13</string>
 		<string>aacute.loclHUN.sc.ss13</string>
 		<string>eacute.loclHUN.sc.ss13</string>
 		<string>iacute.loclHUN.sc.ss13</string>
@@ -1587,6 +1660,11 @@
 		<string>uhornacute.sc.ss03.ss13</string>
 		<string>uhorngrave.sc.ss03.ss13</string>
 		<string>uhungarumlaut.sc.ss03.ss13</string>
+		<string>wacute.sc.ss03.ss13</string>
+		<string>wcircumflex.sc.ss03.ss13</string>
+		<string>wgrave.sc.ss03.ss13</string>
+		<string>aogonek_acutecomb.sc.liga.ss05.ss13</string>
+		<string>eogonek_acutecomb.sc.liga.ss05.ss13</string>
 		<string>aacute.sc.ss05.ss13</string>
 		<string>acaron.sc.ss05.ss13</string>
 		<string>acircumflex.sc.ss05.ss13</string>
@@ -1599,11 +1677,20 @@
 		<string>egrave.sc.ss05.ss13</string>
 		<string>aacute.loclHUN.sc.ss05.ss13</string>
 		<string>eacute.loclHUN.sc.ss05.ss13</string>
+		<string>uacute.loclHUN.sc.ss05.ss13</string>
 		<string>nacute.sc.ss05.ss13</string>
 		<string>ncaron.sc.ss05.ss13</string>
+		<string>uacute.sc.ss05.ss13</string>
+		<string>ucaron.sc.ss05.ss13</string>
+		<string>ucircumflex.sc.ss05.ss13</string>
+		<string>ugrave.sc.ss05.ss13</string>
+		<string>uhornacute.sc.ss05.ss13</string>
+		<string>uhorngrave.sc.ss05.ss13</string>
+		<string>uhungarumlaut.sc.ss05.ss13</string>
 		<string>yacute.sc.ss05.ss13</string>
 		<string>ycircumflex.sc.ss05.ss13</string>
 		<string>ygrave.sc.ss05.ss13</string>
+		<string>eogonek_acutecomb.sc.liga.ss12.ss13</string>
 		<string>aeacute.sc.ss12.ss13</string>
 		<string>eacute.sc.ss12.ss13</string>
 		<string>ecaron.sc.ss12.ss13</string>
@@ -1616,13 +1703,26 @@
 		<string>nmod</string>
 		<string>Aogonek_acutecomb.liga</string>
 		<string>Eogonek_acutecomb.liga</string>
+		<string>IJ_acutecomb.liga</string>
 		<string>Iogonek_acutecomb.liga</string>
+		<string>J_acutecomb.liga</string>
 		<string>Oogonek_acutecomb.liga</string>
 		<string>aogonek_acutecomb.liga</string>
 		<string>eogonek_acutecomb.liga</string>
+		<string>ij_acutecomb.liga</string>
 		<string>iogonek_acutecomb.liga</string>
+		<string>j_acutecomb.liga</string>
 		<string>oogonek_acutecomb.liga</string>
+		<string>aogonek_acutecomb.liga.ss02</string>
+		<string>eogonek_acutecomb.liga.ss02</string>
+		<string>aogonek_acutecomb.liga.ss03</string>
 		<string>Iacute_Jacute.dlig.ss13</string>
+		<string>Aogonek_acutecomb.liga.ss13</string>
+		<string>Eogonek_acutecomb.liga.ss13</string>
+		<string>IJ_acutecomb.liga.ss13</string>
+		<string>Iogonek_acutecomb.liga.ss13</string>
+		<string>J_acutecomb.liga.ss13</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>A-cy</string>
 		<string>Be-cy</string>
 		<string>Ve-cy</string>
@@ -1687,8 +1787,20 @@
 		<string>Imacron-cy</string>
 		<string>Obarred-cy</string>
 		<string>Umacron-cy</string>
+		<string>De-cy.loclBGR</string>
+		<string>Ii-cy.loclBGR</string>
+		<string>Iishort-cy.loclBGR</string>
 		<string>El-cy.loclBGR</string>
 		<string>Ef-cy.loclBGR</string>
+		<string>De-cy.ss02</string>
+		<string>Ii-cy.ss02</string>
+		<string>Iishort-cy.ss02</string>
+		<string>El-cy.ss02</string>
+		<string>Lje-cy.ss02</string>
+		<string>Imacron-cy.ss02</string>
+		<string>De-cy.ss10</string>
+		<string>Ii-cy.ss10</string>
+		<string>Iishort-cy.ss10</string>
 		<string>El-cy.ss10</string>
 		<string>Ef-cy.ss10</string>
 		<string>a-cy</string>
@@ -1759,33 +1871,64 @@
 		<string>ge-cy.loclBGR</string>
 		<string>de-cy.loclBGR</string>
 		<string>zhe-cy.loclBGR</string>
+		<string>ze-cy.loclBGR</string>
 		<string>ii-cy.loclBGR</string>
 		<string>iishort-cy.loclBGR</string>
 		<string>ka-cy.loclBGR</string>
 		<string>el-cy.loclBGR</string>
+		<string>em-cy.loclBGR</string>
+		<string>en-cy.loclBGR</string>
 		<string>pe-cy.loclBGR</string>
+		<string>er-cy.loclBGR</string>
 		<string>te-cy.loclBGR</string>
 		<string>ef-cy.loclBGR</string>
+		<string>che-cy.loclBGR</string>
 		<string>tse-cy.loclBGR</string>
 		<string>sha-cy.loclBGR</string>
 		<string>shcha-cy.loclBGR</string>
+		<string>softsign-cy.loclBGR</string>
+		<string>hardsign-cy.loclBGR</string>
+		<string>yeru-cy.loclBGR</string>
 		<string>iu-cy.loclBGR</string>
 		<string>be-cy.loclMKD</string>
 		<string>be-cy.loclSRB</string>
+		<string>ia-cy.short</string>
+		<string>a-cy.ss02</string>
+		<string>be-cy.ss02</string>
+		<string>de-cy.ss02</string>
+		<string>ie-cy.ss02</string>
+		<string>io-cy.ss02</string>
+		<string>ii-cy.ss02</string>
+		<string>iishort-cy.ss02</string>
+		<string>el-cy.ss02</string>
+		<string>em-cy.ss02</string>
+		<string>lje-cy.ss02</string>
+		<string>ia-cy.ss02</string>
+		<string>imacron-cy.ss02</string>
+		<string>ia-cy.short.ss02</string>
+		<string>a-cy.ss03</string>
 		<string>be-cy.ss09</string>
 		<string>ve-cy.ss10</string>
 		<string>ge-cy.ss10</string>
 		<string>de-cy.ss10</string>
 		<string>zhe-cy.ss10</string>
+		<string>ze-cy.ss10</string>
 		<string>ii-cy.ss10</string>
 		<string>iishort-cy.ss10</string>
 		<string>ka-cy.ss10</string>
 		<string>el-cy.ss10</string>
+		<string>em-cy.ss10</string>
+		<string>en-cy.ss10</string>
 		<string>pe-cy.ss10</string>
+		<string>er-cy.ss10</string>
 		<string>te-cy.ss10</string>
+		<string>che-cy.ss10</string>
 		<string>tse-cy.ss10</string>
 		<string>sha-cy.ss10</string>
 		<string>shcha-cy.ss10</string>
+		<string>softsign-cy.ss10</string>
+		<string>hardsign-cy.ss10</string>
+		<string>yeru-cy.ss10</string>
 		<string>iu-cy.ss10</string>
 		<string>a-cy.sc</string>
 		<string>be-cy.sc</string>
@@ -1855,19 +1998,36 @@
 		<string>ge-cy.loclBGR.sc</string>
 		<string>de-cy.loclBGR.sc</string>
 		<string>zhe-cy.loclBGR.sc</string>
+		<string>ze-cy.loclBGR.sc</string>
 		<string>ii-cy.loclBGR.sc</string>
 		<string>iishort-cy.loclBGR.sc</string>
 		<string>ka-cy.loclBGR.sc</string>
 		<string>el-cy.loclBGR.sc</string>
+		<string>em-cy.loclBGR.sc</string>
+		<string>en-cy.loclBGR.sc</string>
 		<string>pe-cy.loclBGR.sc</string>
+		<string>er-cy.loclBGR.sc</string>
 		<string>te-cy.loclBGR.sc</string>
 		<string>ef-cy.loclBGR.sc</string>
+		<string>che-cy.loclBGR.sc</string>
 		<string>tse-cy.loclBGR.sc</string>
 		<string>sha-cy.loclBGR.sc</string>
 		<string>shcha-cy.loclBGR.sc</string>
+		<string>softsign-cy.loclBGR.sc</string>
+		<string>hardsign-cy.loclBGR.sc</string>
+		<string>yeru-cy.loclBGR.sc</string>
 		<string>iu-cy.loclBGR.sc</string>
 		<string>be-cy.loclMKD.sc</string>
 		<string>be-cy.loclSRB.sc</string>
+		<string>de-cy.sc.ss02</string>
+		<string>ii-cy.sc.ss02</string>
+		<string>iishort-cy.sc.ss02</string>
+		<string>el-cy.sc.ss02</string>
+		<string>lje-cy.sc.ss02</string>
+		<string>imacron-cy.sc.ss02</string>
+		<string>de-cy.sc.ss10</string>
+		<string>ii-cy.sc.ss10</string>
+		<string>iishort-cy.sc.ss10</string>
 		<string>el-cy.sc.ss10</string>
 		<string>ef-cy.sc.ss10</string>
 		<string>ie-cy.sc.ss12</string>
@@ -1935,14 +2095,16 @@
 		<string>zero.lf.zero</string>
 		<string>zero.tf.zero</string>
 		<string>zero.tosf.zero</string>
-		<string>fraction</string>
-		<string>onehalf</string>
-		<string>onequarter</string>
-		<string>threequarters</string>
-		<string>oneeighth</string>
-		<string>threeeighths</string>
-		<string>fiveeighths</string>
-		<string>seveneighths</string>
+		<string>zeroinferior</string>
+		<string>oneinferior</string>
+		<string>twoinferior</string>
+		<string>threeinferior</string>
+		<string>fourinferior</string>
+		<string>fiveinferior</string>
+		<string>sixinferior</string>
+		<string>seveninferior</string>
+		<string>eightinferior</string>
+		<string>nineinferior</string>
 		<string>zero.dnom</string>
 		<string>one.dnom</string>
 		<string>two.dnom</string>
@@ -1963,16 +2125,6 @@
 		<string>seven.numr</string>
 		<string>eight.numr</string>
 		<string>nine.numr</string>
-		<string>zeroinferior</string>
-		<string>oneinferior</string>
-		<string>twoinferior</string>
-		<string>threeinferior</string>
-		<string>fourinferior</string>
-		<string>fiveinferior</string>
-		<string>sixinferior</string>
-		<string>seveninferior</string>
-		<string>eightinferior</string>
-		<string>nineinferior</string>
 		<string>zerosuperior</string>
 		<string>onesuperior</string>
 		<string>twosuperior</string>
@@ -1983,6 +2135,24 @@
 		<string>sevensuperior</string>
 		<string>eightsuperior</string>
 		<string>ninesuperior</string>
+		<string>zero.sups</string>
+		<string>one.sups</string>
+		<string>two.sups</string>
+		<string>three.sups</string>
+		<string>four.sups</string>
+		<string>five.sups</string>
+		<string>six.sups</string>
+		<string>seven.sups</string>
+		<string>eight.sups</string>
+		<string>nine.sups</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>oneeighth</string>
+		<string>threeeighths</string>
+		<string>fiveeighths</string>
+		<string>seveneighths</string>
 		<string>zero.sc</string>
 		<string>one.sc</string>
 		<string>two.sc</string>
@@ -1994,16 +2164,6 @@
 		<string>eight.sc</string>
 		<string>nine.sc</string>
 		<string>zero.zero.sc</string>
-		<string>zero.sups</string>
-		<string>one.sups</string>
-		<string>two.sups</string>
-		<string>three.sups</string>
-		<string>four.sups</string>
-		<string>five.sups</string>
-		<string>six.sups</string>
-		<string>seven.sups</string>
-		<string>eight.sups</string>
-		<string>nine.sups</string>
 		<string>zero.sc.zero</string>
 		<string>asterisk</string>
 		<string>asterism</string>
@@ -2040,17 +2200,9 @@
 		<string>questiondown.case</string>
 		<string>slash.case</string>
 		<string>colon.tf</string>
-		<string>comma.tf</string>
-		<string>numbersign.tf</string>
 		<string>period.tf</string>
-		<string>quotedbl.tf</string>
-		<string>quotesingle.tf</string>
 		<string>colon.tosf</string>
-		<string>comma.tosf</string>
-		<string>numbersign.tosf</string>
 		<string>period.tosf</string>
-		<string>quotedbl.tosf</string>
-		<string>quotesingle.tosf</string>
 		<string>parenleftinferior</string>
 		<string>parenrightinferior</string>
 		<string>braceleft</string>
@@ -2100,8 +2252,6 @@
 		<string>quotedblright.case</string>
 		<string>quoteleft.case</string>
 		<string>quoteright.case</string>
-		<string>quoteright.tf</string>
-		<string>quoteright.tosf</string>
 		<string>periodcentered.sc</string>
 		<string>bullet.sc</string>
 		<string>colon.sc</string>
@@ -2127,8 +2277,6 @@
 		<string>thinspace</string>
 		<string>threeperemspace</string>
 		<string>zerowidthspace</string>
-		<string>space.tf</string>
-		<string>space.tosf</string>
 		<string>zerowidthnonjoiner</string>
 		<string>.notdef</string>
 		<string>cedi</string>
@@ -2181,44 +2329,44 @@
 		<string>rupeeIndian.obsolete</string>
 		<string>sterling.obsolete</string>
 		<string>yen.obsolete</string>
-		<string>approxequal</string>
-		<string>asciitilde</string>
-		<string>divide</string>
-		<string>emptyset</string>
-		<string>equal</string>
-		<string>greater</string>
-		<string>greaterequal</string>
-		<string>infinity</string>
-		<string>integral</string>
-		<string>less</string>
-		<string>lessequal</string>
-		<string>logicalnot</string>
+		<string>plus</string>
 		<string>minus</string>
 		<string>multiply</string>
+		<string>divide</string>
+		<string>equal</string>
 		<string>notequal</string>
+		<string>greater</string>
+		<string>less</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
+		<string>plusminus</string>
+		<string>approxequal</string>
+		<string>asciitilde</string>
+		<string>logicalnot</string>
+		<string>emptyset</string>
+		<string>infinity</string>
+		<string>integral</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>radical</string>
 		<string>partialdiff</string>
 		<string>percent</string>
 		<string>perthousand</string>
-		<string>plus</string>
-		<string>plusminus</string>
-		<string>product</string>
-		<string>radical</string>
-		<string>summation</string>
-		<string>asciitilde.case</string>
-		<string>divide.case</string>
-		<string>equal.case</string>
-		<string>greater.case</string>
-		<string>greaterequal.case</string>
-		<string>less.case</string>
-		<string>lessequal.case</string>
-		<string>logicalnot.case</string>
+		<string>plus.case</string>
 		<string>minus.case</string>
 		<string>multiply.case</string>
+		<string>divide.case</string>
+		<string>equal.case</string>
 		<string>notequal.case</string>
+		<string>greater.case</string>
+		<string>less.case</string>
+		<string>greaterequal.case</string>
+		<string>lessequal.case</string>
+		<string>plusminus.case</string>
+		<string>asciitilde.case</string>
+		<string>logicalnot.case</string>
 		<string>percent.case</string>
 		<string>perthousand.case</string>
-		<string>plus.case</string>
-		<string>plusminus.case</string>
 		<string>upArrow</string>
 		<string>northEastArrow</string>
 		<string>rightArrow</string>
@@ -2238,6 +2386,7 @@
 		<string>leftArrow.case</string>
 		<string>northWestArrow.case</string>
 		<string>leftRightArrow.case</string>
+		<string>upDownArrow.case</string>
 		<string>blackCircle</string>
 		<string>whiteCircle</string>
 		<string>whiteBullet</string>
@@ -2265,73 +2414,75 @@
 		<string>leftWhiteIndex</string>
 		<string>rightWhiteIndex</string>
 		<string>floralHeart</string>
-		<string>bar</string>
-		<string>brokenbar</string>
 		<string>at</string>
 		<string>ampersand</string>
 		<string>paragraph</string>
+		<string>section</string>
 		<string>copyright</string>
 		<string>registered</string>
 		<string>published</string>
-		<string>section</string>
 		<string>trademark</string>
 		<string>degree</string>
-		<string>estimated</string>
+		<string>bar</string>
+		<string>brokenbar</string>
 		<string>literSign</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>estimated</string>
 		<string>numero</string>
 		<string>asciicircum</string>
 		<string>blackLargeSquare</string>
-		<string>dagger</string>
-		<string>daggerdbl</string>
 		<string>minute</string>
 		<string>second</string>
 		<string>servicemark</string>
 		<string>whiteLargeSquare</string>
 		<string>at.case</string>
 		<string>paragraph.case</string>
+		<string>section.case</string>
 		<string>copyright.case</string>
 		<string>registered.case</string>
-		<string>section.case</string>
 		<string>numero.lf</string>
 		<string>floralHeart.ss03</string>
 		<string>dagger.ss03</string>
 		<string>daggerdbl.ss03</string>
 		<string>minute.tf</string>
 		<string>second.tf</string>
+		<string>minute.tosf</string>
+		<string>second.tosf</string>
 		<string>whiteBullet.sc</string>
 		<string>blackDiamond.sc</string>
 		<string>whiteDiamond.sc</string>
 		<string>lozenge.sc</string>
 		<string>blackSquare.sc</string>
 		<string>whiteSquare.sc</string>
-		<string>approxequal.sc</string>
-		<string>bar.sc</string>
-		<string>brokenbar.sc</string>
 		<string>at.sc</string>
 		<string>ampersand.sc</string>
 		<string>paragraph.sc</string>
+		<string>section.sc</string>
 		<string>copyright.sc</string>
 		<string>registered.sc</string>
-		<string>section.sc</string>
-		<string>asciicircum.sc</string>
-		<string>asciitilde.sc</string>
+		<string>bar.sc</string>
+		<string>brokenbar.sc</string>
 		<string>dagger.sc</string>
 		<string>daggerdbl.sc</string>
-		<string>divide.sc</string>
-		<string>equal.sc</string>
-		<string>greater.sc</string>
-		<string>greaterequal.sc</string>
-		<string>infinity.sc</string>
-		<string>less.sc</string>
-		<string>lessequal.sc</string>
-		<string>logicalnot.sc</string>
+		<string>asciicircum.sc</string>
+		<string>plus.sc</string>
 		<string>minus.sc</string>
 		<string>multiply.sc</string>
+		<string>divide.sc</string>
+		<string>equal.sc</string>
 		<string>notequal.sc</string>
+		<string>greater.sc</string>
+		<string>less.sc</string>
+		<string>greaterequal.sc</string>
+		<string>lessequal.sc</string>
+		<string>plusminus.sc</string>
+		<string>approxequal.sc</string>
+		<string>asciitilde.sc</string>
+		<string>logicalnot.sc</string>
+		<string>infinity.sc</string>
 		<string>percent.sc</string>
 		<string>perthousand.sc</string>
-		<string>plus.sc</string>
-		<string>plusminus.sc</string>
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
@@ -2433,7 +2584,9 @@
 		<string>hungarumlautcomb.sc.ss13</string>
 		<string>circumflexcomb.sc.ss13</string>
 		<string>caroncomb.sc.ss13</string>
+		<string>acutecomb.loclHUN.sc.ss13</string>
 		<string>brevecomb-cy</string>
+		<string>brevecomb-cy.case</string>
 		<string>brevecomb_acutecomb</string>
 		<string>brevecomb_gravecomb</string>
 		<string>brevecomb_hookabovecomb</string>

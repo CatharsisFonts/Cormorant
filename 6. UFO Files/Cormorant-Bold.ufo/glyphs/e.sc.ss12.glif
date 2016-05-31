@@ -79,10 +79,13 @@
       <point x="345" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="205" y="0" type="move" name="bottom"/>
+      <point x="218" y="400" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="218" y="400" type="move" name="top"/>
+      <point x="20" y="400" type="move" name="topleft"/>
+    </contour>
+    <contour>
+      <point x="205" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

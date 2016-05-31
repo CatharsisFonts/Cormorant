@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek.ss07" format="1">
-  <advance width="369"/>
+  <advance width="332"/>
   <outline>
     <contour>
       <point x="238" y="-233"/>
@@ -34,7 +34,7 @@
       <point x="317" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="233" y="330" type="move" name="top"/>
+      <point x="205" y="330" type="move" name="top"/>
     </contour>
     <contour>
       <point x="110" y="0" type="move" name="bottom"/>
