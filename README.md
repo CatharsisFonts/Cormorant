@@ -1,6 +1,6 @@
 # The Cormorant Typeface Project
 
-**— NEW: The Cormorant font family is now available on [Google Fonts][12]! —**
+**☞ NEW: The Cormorant font family is now available on [Google Fonts][12]! ☜**
 
 Cormorant is a free display type family developed by Christian Thalmann ([Catharsis Fonts][1]).  It comprises a total of 45 font files spanning 9 different styles (Roman, Italic, Infant, Infant Italic, Garamond, Garamond Italic, Upright Cursive, Small Caps, Unicase) and 5 weights (Light, Regular, Medium, Semibold, Bold).  For an illustrated presentation and description of the family, **please visit [its Bēhance page][3]**.
 
