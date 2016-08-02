@@ -22,6 +22,8 @@ allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix)
 renameGlyphs2 = [ "%s=%s" % ( x, x.replace(suffix,".ss12") ) for x in allSuffixedGlyphNames ]
 renameGlyphsParameterKey = "Rename Glyphs"
 
+decomposeGlyphs = [g.name for g in Font.glyphs]
+
 for thisInstance in Font.instances:
 	parameterFamilyName = thisInstance.customValueForKey_("familyName")
 	if parameterFamilyName:
@@ -34,6 +36,9 @@ for thisInstance in Font.instances:
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
+		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
+		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+
 
 
 # Unicase
@@ -53,6 +58,8 @@ renameSS05Glyphs = [ "%s=%s" % ( x, x.replace(".sc.ss05","") ) for x in allSS05G
 renameGlyphs = renameMundaneGlyphs + renameSS05Glyphs
 renameGlyphsParameterKey = "Rename Glyphs"
 
+decomposeGlyphs = [g.name for g in Font.glyphs]
+
 for thisInstance in Font.instances:
 	parameterFamilyName = thisInstance.customValueForKey_("familyName")
 	if parameterFamilyName:
@@ -65,6 +72,8 @@ for thisInstance in Font.instances:
 		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
+		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
+		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
 
 
 
@@ -85,6 +94,7 @@ suffix = ".ss10"
 allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
 renameGlyphs3 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
 
+decomposeGlyphs = [g.name for g in Font.glyphs]
 
 for thisInstance in Font.instances:
 	parameterFamilyName = thisInstance.customValueForKey_("familyName")
@@ -96,6 +106,8 @@ for thisInstance in Font.instances:
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs1 + renameGlyphs2 + renameGlyphs3, renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( ["onum", "ss03"], "Remove Features" )
+		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
+		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
 
 
 # Garamond
@@ -107,6 +119,8 @@ renameGlyphs1 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyp
 renameGlyphsParameterKey = "Rename Glyphs"
 #renameGlyphs2 = ["f_f.liga=uniFB00", "f_i.liga=uniFB01", "f_l.liga=uniFB02", "f_f_i.liga=uniFB03", "f_f_l.liga=uniFB04", "longs_t=uniFB05", "s_t=uniFB06"]
 
+decomposeGlyphs = [g.name for g in Font.glyphs]
+
 for thisInstance in Font.instances:
 	parameterFamilyName = thisInstance.customValueForKey_("familyName")
 	if parameterFamilyName:
@@ -117,3 +131,5 @@ for thisInstance in Font.instances:
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( renameGlyphs1, renameGlyphsParameterKey )
 		thisInstance.setCustomParameter_forKey_( ["ss02"], "Remove Features" )
+		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
+		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
