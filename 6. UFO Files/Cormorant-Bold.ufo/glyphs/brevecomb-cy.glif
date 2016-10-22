@@ -3,30 +3,30 @@
   <advance width="255"/>
   <outline>
     <contour>
-      <point x="89" y="405"/>
-      <point x="84" y="429"/>
-      <point x="80" y="452" type="curve" smooth="yes"/>
-      <point x="75" y="478"/>
-      <point x="72" y="505"/>
-      <point x="38" y="505" type="curve" smooth="yes"/>
-      <point x="14" y="505"/>
-      <point x="1" y="491"/>
-      <point x="1" y="471" type="curve" smooth="yes"/>
-      <point x="1" y="429"/>
-      <point x="61" y="391"/>
-      <point x="128" y="391" type="curve" smooth="yes"/>
-      <point x="194" y="391"/>
-      <point x="255" y="427"/>
-      <point x="255" y="471" type="curve" smooth="yes"/>
-      <point x="255" y="491"/>
-      <point x="242" y="505"/>
-      <point x="219" y="505" type="curve" smooth="yes"/>
-      <point x="188" y="505"/>
-      <point x="184" y="480"/>
-      <point x="179" y="455" type="curve" smooth="yes"/>
-      <point x="174" y="429"/>
-      <point x="165" y="405"/>
-      <point x="127" y="405" type="curve" smooth="yes"/>
+      <point x="89" y="415"/>
+      <point x="84" y="439"/>
+      <point x="80" y="462" type="curve" smooth="yes"/>
+      <point x="75" y="488"/>
+      <point x="72" y="515"/>
+      <point x="38" y="515" type="curve" smooth="yes"/>
+      <point x="14" y="515"/>
+      <point x="1" y="501"/>
+      <point x="1" y="481" type="curve" smooth="yes"/>
+      <point x="1" y="439"/>
+      <point x="61" y="401"/>
+      <point x="128" y="401" type="curve" smooth="yes"/>
+      <point x="194" y="401"/>
+      <point x="255" y="437"/>
+      <point x="255" y="481" type="curve" smooth="yes"/>
+      <point x="255" y="501"/>
+      <point x="242" y="515"/>
+      <point x="219" y="515" type="curve" smooth="yes"/>
+      <point x="188" y="515"/>
+      <point x="184" y="490"/>
+      <point x="179" y="465" type="curve" smooth="yes"/>
+      <point x="174" y="439"/>
+      <point x="165" y="415"/>
+      <point x="127" y="415" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="128" y="330" type="move" name="_top"/>

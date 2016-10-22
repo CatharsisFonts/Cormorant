@@ -115,6 +115,8 @@
 		<integer>-25</integer>
 		<key>@MMK_R_oaccent</key>
 		<integer>-15</integer>
+		<key>@MMK_R_te-cy</key>
+		<integer>-40</integer>
 		<key>@MMK_R_v</key>
 		<integer>-50</integer>
 		<key>@MMK_R_vaccent</key>
@@ -148,6 +150,8 @@
 		<key>@MMK_R_T</key>
 		<integer>-15</integer>
 		<key>@MMK_R_V</key>
+		<integer>-20</integer>
+		<key>@MMK_R_X</key>
 		<integer>-20</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-20</integer>
@@ -288,6 +292,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_v</key>
 		<integer>-70</integer>
+		<key>@MMK_R_vaccent</key>
+		<integer>-20</integer>
 		<key>@MMK_R_y</key>
 		<integer>-70</integer>
 		<key>@MMK_R_zhe-cy</key>
@@ -381,6 +387,8 @@
 	<dict>
 		<key>@MMK_R_Ef-cy</key>
 		<integer>-30</integer>
+		<key>@MMK_R_O</key>
+		<integer>-20</integer>
 		<key>@MMK_R_v</key>
 		<integer>-20</integer>
 		<key>@MMK_R_y</key>
@@ -451,6 +459,8 @@
 	</dict>
 	<key>@MMK_L_a</key>
 	<dict>
+		<key>@MMK_R_elBGR</key>
+		<integer>10</integer>
 		<key>@MMK_R_quote</key>
 		<integer>-30</integer>
 		<key>@MMK_R_v</key>
@@ -559,7 +569,11 @@
 		<key>@MMK_R_te-cy</key>
 		<integer>-40</integer>
 		<key>@MMK_R_v</key>
-		<integer>-45</integer>
+		<integer>-40</integer>
+		<key>ii-cy.ss02</key>
+		<integer>-20</integer>
+		<key>iishort-cy.ss02</key>
+		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_em-cy</key>
 	<dict>
@@ -618,6 +632,8 @@
 		<integer>-20</integer>
 		<key>@MMK_R_o</key>
 		<integer>-15</integer>
+		<key>ze-cy</key>
+		<integer>15</integer>
 	</dict>
 	<key>@MMK_L_k.sc</key>
 	<dict>
@@ -649,6 +665,10 @@
 	<dict>
 		<key>@MMK_R_T</key>
 		<integer>-70</integer>
+		<key>@MMK_R_V</key>
+		<integer>-50</integer>
+		<key>@MMK_R_de-cy</key>
+		<integer>-10</integer>
 		<key>@MMK_R_elBGR</key>
 		<integer>-15</integer>
 		<key>@MMK_R_quote</key>

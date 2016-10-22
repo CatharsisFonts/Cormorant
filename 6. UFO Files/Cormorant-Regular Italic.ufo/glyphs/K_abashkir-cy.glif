@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kabashkir-cy" format="1">
+  <advance width="603"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="120" y="0"/>
+      <point x="152" y="2"/>
+      <point x="186" y="2" type="curve" smooth="yes"/>
+      <point x="220" y="2"/>
+      <point x="250" y="0"/>
+      <point x="275" y="0" type="curve" smooth="yes"/>
+      <point x="279" y="0"/>
+      <point x="279" y="10"/>
+      <point x="275" y="10" type="curve" smooth="yes"/>
+      <point x="216" y="10"/>
+      <point x="209" y="19"/>
+      <point x="218" y="68" type="curve" smooth="yes"/>
+      <point x="287" y="462" type="line" smooth="yes"/>
+      <point x="296" y="511"/>
+      <point x="308" y="524"/>
+      <point x="367" y="524" type="curve" smooth="yes"/>
+      <point x="371" y="524"/>
+      <point x="371" y="534"/>
+      <point x="367" y="534" type="curve" smooth="yes"/>
+      <point x="345" y="534"/>
+      <point x="312" y="532"/>
+      <point x="276" y="532" type="curve" smooth="yes"/>
+      <point x="207" y="532"/>
+      <point x="165" y="532"/>
+      <point x="140" y="533" type="curve" smooth="yes"/>
+      <point x="113" y="534"/>
+      <point x="107" y="543"/>
+      <point x="109" y="553" type="curve" smooth="yes"/>
+      <point x="110" y="558"/>
+      <point x="100" y="559"/>
+      <point x="99" y="554" type="curve" smooth="yes"/>
+      <point x="92" y="517"/>
+      <point x="66" y="427"/>
+      <point x="60" y="402" type="curve" smooth="yes"/>
+      <point x="59" y="398"/>
+      <point x="69" y="396"/>
+      <point x="70" y="400" type="curve" smooth="yes"/>
+      <point x="93" y="492"/>
+      <point x="128" y="521"/>
+      <point x="193" y="521" type="curve" smooth="yes"/>
+      <point x="255" y="521"/>
+      <point x="256" y="521"/>
+      <point x="247" y="466" type="curve" smooth="yes"/>
+      <point x="177" y="70" type="line" smooth="yes"/>
+      <point x="169" y="21"/>
+      <point x="156" y="10"/>
+      <point x="97" y="10" type="curve" smooth="yes"/>
+      <point x="92" y="10"/>
+      <point x="92" y="0"/>
+      <point x="97" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="562" y="0" type="line" smooth="yes"/>
+      <point x="567" y="0"/>
+      <point x="567" y="10"/>
+      <point x="562" y="10" type="curve" smooth="yes"/>
+      <point x="497" y="10"/>
+      <point x="469" y="63"/>
+      <point x="424" y="159" type="curve" smooth="yes"/>
+      <point x="377" y="265"/>
+      <point x="373" y="285"/>
+      <point x="306" y="285" type="curve" smooth="yes"/>
+      <point x="288" y="285"/>
+      <point x="265" y="284"/>
+      <point x="233" y="282" type="curve"/>
+      <point x="231" y="267" type="line"/>
+      <point x="244" y="268"/>
+      <point x="256" y="269"/>
+      <point x="267" y="269" type="curve" smooth="yes"/>
+      <point x="326" y="269"/>
+      <point x="337" y="247"/>
+      <point x="383" y="146" type="curve" smooth="yes"/>
+      <point x="449" y="1"/>
+      <point x="450" y="0"/>
+      <point x="469" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="470" y="427" type="line" smooth="yes"/>
+      <point x="531" y="498"/>
+      <point x="564" y="524"/>
+      <point x="623" y="524" type="curve" smooth="yes"/>
+      <point x="628" y="524"/>
+      <point x="628" y="534"/>
+      <point x="623" y="534" type="curve" smooth="yes"/>
+      <point x="603" y="534"/>
+      <point x="584" y="532"/>
+      <point x="545" y="532" type="curve" smooth="yes"/>
+      <point x="505" y="532"/>
+      <point x="484" y="534"/>
+      <point x="459" y="534" type="curve" smooth="yes"/>
+      <point x="454" y="534"/>
+      <point x="454" y="524"/>
+      <point x="459" y="524" type="curve" smooth="yes"/>
+      <point x="513" y="524"/>
+      <point x="510" y="509"/>
+      <point x="449" y="435" type="curve" smooth="yes"/>
+      <point x="321" y="279" type="line"/>
+      <point x="333" y="271" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Hardsign-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Ka-cy</string>
+    </dict>
+  </lib>
+</glyph>

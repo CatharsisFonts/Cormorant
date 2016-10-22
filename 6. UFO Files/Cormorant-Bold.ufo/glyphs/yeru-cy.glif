@@ -44,6 +44,9 @@
       <point x="387" y="0" type="curve" smooth="yes"/>
     </contour>
     <component base="softsign-cy"/>
+    <contour>
+      <point x="294" y="330" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

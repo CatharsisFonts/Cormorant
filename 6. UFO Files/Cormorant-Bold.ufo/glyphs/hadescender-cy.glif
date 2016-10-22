@@ -52,10 +52,10 @@
     <contour>
       <point x="317" y="0"/>
       <point x="358" y="-56"/>
-      <point x="358" y="-130" type="curve" smooth="yes"/>
-      <point x="358" y="-135"/>
-      <point x="368" y="-135"/>
-      <point x="368" y="-130" type="curve" smooth="yes"/>
+      <point x="358" y="-120" type="curve" smooth="yes"/>
+      <point x="358" y="-125"/>
+      <point x="368" y="-125"/>
+      <point x="368" y="-120" type="curve" smooth="yes"/>
       <point x="368" y="-56"/>
       <point x="376" y="-27"/>
       <point x="376" y="0" type="curve" smooth="yes"/>

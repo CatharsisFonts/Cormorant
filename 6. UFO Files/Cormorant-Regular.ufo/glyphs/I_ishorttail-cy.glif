@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iishorttail-cy" format="1">
+  <advance width="638"/>
+  <unicode hex="048A"/>
+  <outline>
+    <component base="Iitail-cy"/>
+    <component base="brevecomb-cy.case" xOffset="181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Iitail-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

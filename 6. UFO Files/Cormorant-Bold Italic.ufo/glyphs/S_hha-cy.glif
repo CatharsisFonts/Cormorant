@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Shha-cy" format="1">
-  <advance width="546"/>
+  <advance width="504"/>
   <unicode hex="04BA"/>
   <outline>
     <contour>
-      <point x="335" y="0"/>
-      <point x="372" y="2"/>
-      <point x="417" y="2" type="curve" smooth="yes"/>
-      <point x="456" y="2"/>
-      <point x="487" y="0"/>
-      <point x="510" y="0" type="curve" smooth="yes"/>
-      <point x="515" y="0"/>
-      <point x="515" y="10"/>
-      <point x="510" y="10" type="curve" smooth="yes"/>
-      <point x="470" y="10"/>
-      <point x="461" y="18"/>
-      <point x="469" y="66" type="curve" smooth="yes"/>
-      <point x="507" y="280" type="line" smooth="yes"/>
-      <point x="527" y="394"/>
-      <point x="475" y="455"/>
-      <point x="394" y="455" type="curve" smooth="yes"/>
-      <point x="335" y="455"/>
-      <point x="259" y="424"/>
-      <point x="189" y="357" type="curve"/>
-      <point x="192" y="343" type="line"/>
-      <point x="246" y="385"/>
-      <point x="299" y="408"/>
-      <point x="339" y="408" type="curve" smooth="yes"/>
-      <point x="401" y="408"/>
-      <point x="434" y="354"/>
-      <point x="415" y="245" type="curve" smooth="yes"/>
-      <point x="384" y="72" type="line" smooth="yes"/>
-      <point x="376" y="24"/>
-      <point x="361" y="10"/>
-      <point x="312" y="10" type="curve" smooth="yes"/>
-      <point x="308" y="10"/>
-      <point x="308" y="0"/>
-      <point x="312" y="0" type="curve" smooth="yes"/>
+      <point x="296" y="0"/>
+      <point x="333" y="2"/>
+      <point x="378" y="2" type="curve" smooth="yes"/>
+      <point x="417" y="2"/>
+      <point x="448" y="0"/>
+      <point x="471" y="0" type="curve" smooth="yes"/>
+      <point x="476" y="0"/>
+      <point x="476" y="10"/>
+      <point x="471" y="10" type="curve" smooth="yes"/>
+      <point x="431" y="10"/>
+      <point x="422" y="18"/>
+      <point x="430" y="66" type="curve" smooth="yes"/>
+      <point x="455" y="210" type="line" smooth="yes"/>
+      <point x="468" y="286"/>
+      <point x="425" y="325"/>
+      <point x="351" y="325" type="curve" smooth="yes"/>
+      <point x="301" y="325"/>
+      <point x="236" y="300"/>
+      <point x="176" y="247" type="curve"/>
+      <point x="179" y="233" type="line"/>
+      <point x="222" y="262"/>
+      <point x="264" y="278"/>
+      <point x="296" y="278" type="curve" smooth="yes"/>
+      <point x="350" y="278"/>
+      <point x="376" y="247"/>
+      <point x="363" y="175" type="curve" smooth="yes"/>
+      <point x="345" y="72" type="line" smooth="yes"/>
+      <point x="336" y="23"/>
+      <point x="322" y="10"/>
+      <point x="273" y="10" type="curve" smooth="yes"/>
+      <point x="269" y="10"/>
+      <point x="269" y="0"/>
+      <point x="273" y="0" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="37" y="0"/>
@@ -94,15 +94,15 @@
           <array>
             <dict>
               <key>baseGlyph</key>
-              <string>H</string>
+              <string>Che-cy</string>
               <key>transformation</key>
               <array>
-                <integer>1</integer>
+                <integer>-1</integer>
                 <integer>0</integer>
                 <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
+                <integer>-1</integer>
+                <integer>540</integer>
+                <integer>534</integer>
               </array>
             </dict>
           </array>
@@ -118,7 +118,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>546</integer>
+          <integer>504</integer>
         </dict>
       </dict>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="522"/>
+  <advance width="544"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
@@ -129,7 +129,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>522</integer>
+          <integer>544</integer>
         </dict>
       </dict>
     </dict>

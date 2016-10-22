@@ -4,6 +4,9 @@
   <outline>
     <component base="softsign-cy.sc"/>
     <component base="i.sc" xOffset="419"/>
+    <contour>
+      <point x="337" y="400" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

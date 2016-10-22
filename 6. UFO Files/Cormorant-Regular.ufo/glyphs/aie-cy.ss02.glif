@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aie-cy.ss02" format="1">
+  <advance width="507"/>
+  <outline>
+    <component base="ae.ss02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>ae</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>ae</string>
+    </dict>
+  </lib>
+</glyph>

@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Disable Last Change</key>
-	<true/>
 	<key>ascender</key>
 	<integer>620</integer>
 	<key>capHeight</key>
@@ -21,7 +19,7 @@
 	<key>licenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeHeadCreated</key>
-	<string>2016/05/31 14:52:33</string>
+	<string>2016/08/18 21:43:24</string>
 	<key>openTypeNameDesigner</key>
 	<string>Christian Thalmann (Catharsis Fonts)</string>
 	<key>openTypeNameDesignerURL</key>
@@ -78,7 +76,7 @@
 	<key>versionMajor</key>
 	<integer>3</integer>
 	<key>versionMinor</key>
-	<integer>0</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>330</integer>
 </dict>

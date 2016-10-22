@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hastroke-cy" format="1">
+  <advance width="376"/>
+  <unicode hex="04FF"/>
+  <outline>
+    <contour>
+      <point x="192" y="158" type="line"/>
+      <point x="327" y="158" type="line" smooth="yes"/>
+      <point x="337" y="158"/>
+      <point x="337" y="182"/>
+      <point x="327" y="182" type="curve" smooth="yes"/>
+      <point x="192" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="178" type="line"/>
+      <point x="52" y="178" type="line" smooth="yes"/>
+      <point x="43" y="178"/>
+      <point x="43" y="154"/>
+      <point x="52" y="154" type="curve" smooth="yes"/>
+      <point x="192" y="154" type="line"/>
+    </contour>
+    <component base="ha-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

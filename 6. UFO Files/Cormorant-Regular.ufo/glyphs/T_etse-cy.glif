@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tetse-cy" format="1">
+  <advance width="742"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="693" y="-165"/>
+      <point x="703" y="-165"/>
+      <point x="703" y="-160" type="curve" smooth="yes"/>
+      <point x="703" y="-42"/>
+      <point x="705" y="-22"/>
+      <point x="705" y="0" type="curve" smooth="yes"/>
+      <point x="705" y="9"/>
+      <point x="705" y="10"/>
+      <point x="696" y="10" type="curve" smooth="yes"/>
+      <point x="630" y="10"/>
+      <point x="629" y="11"/>
+      <point x="629" y="69" type="curve" smooth="yes"/>
+      <point x="629" y="465" type="line" smooth="yes"/>
+      <point x="629" y="514"/>
+      <point x="641" y="524"/>
+      <point x="706" y="524" type="curve" smooth="yes"/>
+      <point x="709" y="524"/>
+      <point x="709" y="534"/>
+      <point x="706" y="534" type="curve" smooth="yes"/>
+      <point x="679" y="534"/>
+      <point x="644" y="532"/>
+      <point x="607" y="532" type="curve" smooth="yes"/>
+      <point x="576" y="532"/>
+      <point x="550" y="534"/>
+      <point x="528" y="534" type="curve" smooth="yes"/>
+      <point x="525" y="534"/>
+      <point x="525" y="524"/>
+      <point x="528" y="524" type="curve" smooth="yes"/>
+      <point x="577" y="524"/>
+      <point x="584" y="514"/>
+      <point x="584" y="465" type="curve" smooth="yes"/>
+      <point x="584" y="71" type="line" smooth="yes"/>
+      <point x="584" y="19"/>
+      <point x="583" y="18"/>
+      <point x="507" y="18" type="curve" smooth="yes"/>
+      <point x="347" y="18" type="line" smooth="yes"/>
+      <point x="275" y="18"/>
+      <point x="274" y="18"/>
+      <point x="274" y="71" type="curve" smooth="yes"/>
+      <point x="274" y="465" type="line" smooth="yes"/>
+      <point x="274" y="517"/>
+      <point x="286" y="520"/>
+      <point x="368" y="520" type="curve" smooth="yes"/>
+      <point x="407" y="520"/>
+      <point x="432" y="491"/>
+      <point x="432" y="403" type="curve" smooth="yes"/>
+      <point x="432" y="400"/>
+      <point x="442" y="400"/>
+      <point x="442" y="403" type="curve" smooth="yes"/>
+      <point x="442" y="429"/>
+      <point x="450" y="522"/>
+      <point x="450" y="556" type="curve" smooth="yes"/>
+      <point x="450" y="560"/>
+      <point x="441" y="560"/>
+      <point x="440" y="556" type="curve" smooth="yes"/>
+      <point x="435" y="538"/>
+      <point x="414" y="534"/>
+      <point x="376" y="534" type="curve" smooth="yes"/>
+      <point x="343" y="534"/>
+      <point x="312" y="532"/>
+      <point x="251" y="532" type="curve" smooth="yes"/>
+      <point x="194" y="532"/>
+      <point x="142" y="534"/>
+      <point x="99" y="534" type="curve" smooth="yes"/>
+      <point x="83" y="534"/>
+      <point x="54" y="536"/>
+      <point x="54" y="553" type="curve" smooth="yes"/>
+      <point x="54" y="559"/>
+      <point x="44" y="558"/>
+      <point x="44" y="553" type="curve" smooth="yes"/>
+      <point x="44" y="516"/>
+      <point x="32" y="431"/>
+      <point x="32" y="403" type="curve" smooth="yes"/>
+      <point x="32" y="400"/>
+      <point x="42" y="400"/>
+      <point x="42" y="403" type="curve" smooth="yes"/>
+      <point x="42" y="492"/>
+      <point x="82" y="520"/>
+      <point x="124" y="520" type="curve" smooth="yes"/>
+      <point x="212" y="520"/>
+      <point x="229" y="520"/>
+      <point x="229" y="465" type="curve" smooth="yes"/>
+      <point x="229" y="69" type="line" smooth="yes"/>
+      <point x="229" y="20"/>
+      <point x="217" y="10"/>
+      <point x="152" y="10" type="curve" smooth="yes"/>
+      <point x="149" y="10"/>
+      <point x="149" y="0"/>
+      <point x="152" y="0" type="curve" smooth="yes"/>
+      <point x="574" y="0" type="line" smooth="yes"/>
+      <point x="662" y="0"/>
+      <point x="693" y="-41"/>
+      <point x="693" y="-160" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Tse-cy</string>
+    </dict>
+  </lib>
+</glyph>

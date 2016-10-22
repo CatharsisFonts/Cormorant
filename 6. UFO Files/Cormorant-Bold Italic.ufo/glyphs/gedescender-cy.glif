@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gedescender-cy" format="1">
+  <advance width="288"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="descender-cy" xOffset="58" yOffset="-14"/>
+  </outline>
+</glyph>

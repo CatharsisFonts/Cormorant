@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yeru-cy" format="1">
-  <advance width="695"/>
+  <advance width="675"/>
   <unicode hex="042B"/>
   <outline>
     <component base="Softsign-cy"/>
-    <component base="I" xOffset="438"/>
+    <component base="I" xOffset="418"/>
+    <contour>
+      <point x="403" y="534" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

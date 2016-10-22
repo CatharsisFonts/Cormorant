@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cheverticalstroke-cy.sc" format="1">
+  <advance width="457"/>
+  <outline>
+    <contour>
+      <point x="207" y="71"/>
+      <point x="223" y="71"/>
+      <point x="223" y="76" type="curve" smooth="yes"/>
+      <point x="223" y="261" type="line" smooth="yes"/>
+      <point x="223" y="266"/>
+      <point x="207" y="266"/>
+      <point x="207" y="261" type="curve" smooth="yes"/>
+      <point x="207" y="76" type="line" smooth="yes"/>
+    </contour>
+    <component base="che-cy.sc"/>
+  </outline>
+</glyph>

@@ -4,7 +4,7 @@
   <outline>
     <component base="a.sc.ss05"/>
     <component base="ogonek.u" xOffset="156" yOffset="-4"/>
-    <component base="acutecomb.sc.ss13" xOffset="137"/>
+    <component base="acutecomb.sc.ss13" xOffset="146"/>
     <contour>
       <point x="320" y="10" type="move" name="ogonek"/>
     </contour>

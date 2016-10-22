@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis.ss02.ss04" format="1">
+  <advance width="612"/>
+  <outline>
+    <component base="A.ss02"/>
+    <component base="dieresis.case.ss04" xOffset="441"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis.case.ss04</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

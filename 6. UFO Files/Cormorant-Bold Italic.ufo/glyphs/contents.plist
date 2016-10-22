@@ -8,6 +8,10 @@
 	<string>A_.glif</string>
 	<key>A-cy</key>
 	<string>A_-cy.glif</string>
+	<key>A-cy.ss02</key>
+	<string>A_-cy.ss02.glif</string>
+	<key>A.ss02</key>
+	<string>A_.ss02.glif</string>
 	<key>AE</key>
 	<string>A_E_.glif</string>
 	<key>AEacute</key>
@@ -22,66 +26,122 @@
 	<string>A_acute.loclH_U_N_.glif</string>
 	<key>Aacute.loclHUN.ss13</key>
 	<string>A_acute.loclH_U_N_.ss13.glif</string>
+	<key>Aacute.ss02</key>
+	<string>A_acute.ss02.glif</string>
 	<key>Aacute.ss13</key>
 	<string>A_acute.ss13.glif</string>
 	<key>Abreve</key>
 	<string>A_breve.glif</string>
+	<key>Abreve-cy</key>
+	<string>A_breve-cy.glif</string>
+	<key>Abreve-cy.ss02</key>
+	<string>A_breve-cy.ss02.glif</string>
+	<key>Abreve.ss02</key>
+	<string>A_breve.ss02.glif</string>
 	<key>Abreveacute</key>
 	<string>A_breveacute.glif</string>
+	<key>Abreveacute.ss02</key>
+	<string>A_breveacute.ss02.glif</string>
 	<key>Abrevedotbelow</key>
 	<string>A_brevedotbelow.glif</string>
+	<key>Abrevedotbelow.ss02</key>
+	<string>A_brevedotbelow.ss02.glif</string>
 	<key>Abrevegrave</key>
 	<string>A_brevegrave.glif</string>
+	<key>Abrevegrave.ss02</key>
+	<string>A_brevegrave.ss02.glif</string>
 	<key>Abrevehookabove</key>
 	<string>A_brevehookabove.glif</string>
+	<key>Abrevehookabove.ss02</key>
+	<string>A_brevehookabove.ss02.glif</string>
 	<key>Abrevetilde</key>
 	<string>A_brevetilde.glif</string>
+	<key>Abrevetilde.ss02</key>
+	<string>A_brevetilde.ss02.glif</string>
 	<key>Acaron</key>
 	<string>A_caron.glif</string>
+	<key>Acaron.ss02</key>
+	<string>A_caron.ss02.glif</string>
 	<key>Acaron.ss13</key>
 	<string>A_caron.ss13.glif</string>
 	<key>Acircumflex</key>
 	<string>A_circumflex.glif</string>
+	<key>Acircumflex.ss02</key>
+	<string>A_circumflex.ss02.glif</string>
 	<key>Acircumflex.ss13</key>
 	<string>A_circumflex.ss13.glif</string>
 	<key>Acircumflexacute</key>
 	<string>A_circumflexacute.glif</string>
+	<key>Acircumflexacute.ss02</key>
+	<string>A_circumflexacute.ss02.glif</string>
 	<key>Acircumflexdotbelow</key>
 	<string>A_circumflexdotbelow.glif</string>
+	<key>Acircumflexdotbelow.ss02</key>
+	<string>A_circumflexdotbelow.ss02.glif</string>
 	<key>Acircumflexdotbelow.ss13</key>
 	<string>A_circumflexdotbelow.ss13.glif</string>
 	<key>Acircumflexgrave</key>
 	<string>A_circumflexgrave.glif</string>
+	<key>Acircumflexgrave.ss02</key>
+	<string>A_circumflexgrave.ss02.glif</string>
 	<key>Acircumflexhookabove</key>
 	<string>A_circumflexhookabove.glif</string>
+	<key>Acircumflexhookabove.ss02</key>
+	<string>A_circumflexhookabove.ss02.glif</string>
 	<key>Acircumflextilde</key>
 	<string>A_circumflextilde.glif</string>
+	<key>Acircumflextilde.ss02</key>
+	<string>A_circumflextilde.ss02.glif</string>
 	<key>Adieresis</key>
 	<string>A_dieresis.glif</string>
+	<key>Adieresis-cy</key>
+	<string>A_dieresis-cy.glif</string>
+	<key>Adieresis-cy.ss02</key>
+	<string>A_dieresis-cy.ss02.glif</string>
+	<key>Adieresis.ss02</key>
+	<string>A_dieresis.ss02.glif</string>
 	<key>Adieresis.ss04</key>
 	<string>A_dieresis.ss04.glif</string>
 	<key>Adotbelow</key>
 	<string>A_dotbelow.glif</string>
+	<key>Adotbelow.ss02</key>
+	<string>A_dotbelow.ss02.glif</string>
 	<key>Agrave</key>
 	<string>A_grave.glif</string>
+	<key>Agrave.ss02</key>
+	<string>A_grave.ss02.glif</string>
 	<key>Agrave.ss13</key>
 	<string>A_grave.ss13.glif</string>
 	<key>Ahookabove</key>
 	<string>A_hookabove.glif</string>
+	<key>Ahookabove.ss02</key>
+	<string>A_hookabove.ss02.glif</string>
+	<key>Aie-cy</key>
+	<string>A_ie-cy.glif</string>
 	<key>Amacron</key>
 	<string>A_macron.glif</string>
+	<key>Amacron.ss02</key>
+	<string>A_macron.ss02.glif</string>
 	<key>Aogonek</key>
 	<string>A_ogonek.glif</string>
+	<key>Aogonek.ss02</key>
+	<string>A_ogonek.ss02.glif</string>
 	<key>Aogonek_acutecomb.liga</key>
 	<string>A_ogonek_acutecomb.liga.glif</string>
 	<key>Aogonek_acutecomb.liga.ss13</key>
 	<string>A_ogonek_acutecomb.liga.ss13.glif</string>
 	<key>Aring</key>
 	<string>A_ring.glif</string>
+	<key>Aring.ss02</key>
+	<string>A_ring.ss02.glif</string>
 	<key>Aringacute</key>
 	<string>A_ringacute.glif</string>
+	<key>Aringacute.ss02</key>
+	<string>A_ringacute.ss02.glif</string>
 	<key>Atilde</key>
 	<string>A_tilde.glif</string>
+	<key>Atilde.ss02</key>
+	<string>A_tilde.ss02.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>Be-cy</key>
@@ -110,8 +170,18 @@
 	<string>C_dotaccent.glif</string>
 	<key>Che-cy</key>
 	<string>C_he-cy.glif</string>
+	<key>Cheabkhasian-cy</key>
+	<string>C_heabkhasian-cy.glif</string>
 	<key>Chedescender-cy</key>
 	<string>C_hedescender-cy.glif</string>
+	<key>Chedescenderabkhasian-cy</key>
+	<string>C_hedescenderabkhasian-cy.glif</string>
+	<key>Chedieresis-cy</key>
+	<string>C_hedieresis-cy.glif</string>
+	<key>Chekhakassian-cy</key>
+	<string>C_hekhakassian-cy.glif</string>
+	<key>Cheverticalstroke-cy</key>
+	<string>C_heverticalstroke-cy.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>Dcaron</key>
@@ -138,6 +208,8 @@
 	<string>D_linebelow.glif</string>
 	<key>Dze-cy</key>
 	<string>D_ze-cy.glif</string>
+	<key>Dzeabkhasian-cy</key>
+	<string>D_zeabkhasian-cy.glif</string>
 	<key>Dzhe-cy</key>
 	<string>D_zhe-cy.glif</string>
 	<key>E</key>
@@ -176,6 +248,8 @@
 	<string>E_circumflextilde.glif</string>
 	<key>Edieresis</key>
 	<string>E_dieresis.glif</string>
+	<key>Edieresis-cy</key>
+	<string>E_dieresis-cy.glif</string>
 	<key>Edotaccent</key>
 	<string>E_dotaccent.glif</string>
 	<key>Edotbelow</key>
@@ -200,16 +274,38 @@
 	<string>E_l-cy.ss02.glif</string>
 	<key>El-cy.ss10</key>
 	<string>E_l-cy.ss10.glif</string>
+	<key>Eldescender-cy</key>
+	<string>E_ldescender-cy.glif</string>
+	<key>Elhook-cy</key>
+	<string>E_lhook-cy.glif</string>
+	<key>Eltail-cy</key>
+	<string>E_ltail-cy.glif</string>
+	<key>Eltail-cy.loclBGR</key>
+	<string>E_ltail-cy.loclB_G_R_.glif</string>
+	<key>Eltail-cy.ss02</key>
+	<string>E_ltail-cy.ss02.glif</string>
+	<key>Eltail-cy.ss10</key>
+	<string>E_ltail-cy.ss10.glif</string>
 	<key>Em-cy</key>
 	<string>E_m-cy.glif</string>
 	<key>Emacron</key>
 	<string>E_macron.glif</string>
+	<key>Emtail-cy</key>
+	<string>E_mtail-cy.glif</string>
 	<key>En-cy</key>
 	<string>E_n-cy.glif</string>
+	<key>EnLeftHook-cy</key>
+	<string>E_nL_eftH_ook-cy.glif</string>
 	<key>Endescender-cy</key>
 	<string>E_ndescender-cy.glif</string>
 	<key>Eng</key>
 	<string>E_ng.glif</string>
+	<key>Enghe-cy</key>
+	<string>E_nghe-cy.glif</string>
+	<key>Enhook-cy</key>
+	<string>E_nhook-cy.glif</string>
+	<key>Entail-cy</key>
+	<string>E_ntail-cy.glif</string>
 	<key>Eogonek</key>
 	<string>E_ogonek.glif</string>
 	<key>Eogonek_acutecomb.liga</key>
@@ -220,8 +316,16 @@
 	<string>E_r-cy.glif</string>
 	<key>Ereversed-cy</key>
 	<string>E_reversed-cy.glif</string>
+	<key>Ertick-cy</key>
+	<string>E_rtick-cy.glif</string>
 	<key>Es-cy</key>
 	<string>E_s-cy.glif</string>
+	<key>Esdescender-cy</key>
+	<string>E_sdescender-cy.glif</string>
+	<key>Esdescender-cy.loclBSH</key>
+	<string>E_sdescender-cy.loclB_S_H_.glif</string>
+	<key>Esdescender-cy.loclCHU</key>
+	<string>E_sdescender-cy.loclC_H_U_.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
 	<key>Etilde</key>
@@ -252,10 +356,18 @@
 	<string>G_dotaccent.glif</string>
 	<key>Ge-cy</key>
 	<string>G_e-cy.glif</string>
+	<key>Gedescender-cy</key>
+	<string>G_edescender-cy.glif</string>
 	<key>Germandbls</key>
 	<string>G_ermandbls.glif</string>
+	<key>Gestrokehook-cy</key>
+	<string>G_estrokehook-cy.glif</string>
+	<key>Ghemiddlehook-cy</key>
+	<string>G_hemiddlehook-cy.glif</string>
 	<key>Ghestroke-cy</key>
 	<string>G_hestroke-cy.glif</string>
+	<key>Ghestroke-cy.loclBSH</key>
+	<string>G_hestroke-cy.loclB_S_H_.glif</string>
 	<key>Gheupturn-cy</key>
 	<string>G_heupturn-cy.glif</string>
 	<key>Gje-cy</key>
@@ -266,10 +378,16 @@
 	<string>H_.glif</string>
 	<key>Ha-cy</key>
 	<string>H_a-cy.glif</string>
+	<key>Haabkhasian-cy</key>
+	<string>H_aabkhasian-cy.glif</string>
 	<key>Hadescender-cy</key>
 	<string>H_adescender-cy.glif</string>
+	<key>Hahook-cy</key>
+	<string>H_ahook-cy.glif</string>
 	<key>Hardsign-cy</key>
 	<string>H_ardsign-cy.glif</string>
+	<key>Hastroke-cy</key>
+	<string>H_astroke-cy.glif</string>
 	<key>Hbar</key>
 	<string>H_bar.glif</string>
 	<key>Hbrevebelow</key>
@@ -324,12 +442,26 @@
 	<string>I_circumflex.ss13.glif</string>
 	<key>Idieresis</key>
 	<string>I_dieresis.glif</string>
+	<key>Idieresis-cy</key>
+	<string>I_dieresis-cy.glif</string>
+	<key>Idieresis-cy.loclBGR</key>
+	<string>I_dieresis-cy.loclB_G_R_.glif</string>
+	<key>Idieresis-cy.ss02</key>
+	<string>I_dieresis-cy.ss02.glif</string>
+	<key>Idieresis-cy.ss10</key>
+	<string>I_dieresis-cy.ss10.glif</string>
 	<key>Idotaccent</key>
 	<string>I_dotaccent.glif</string>
 	<key>Idotbelow</key>
 	<string>I_dotbelow.glif</string>
 	<key>Ie-cy</key>
 	<string>I_e-cy.glif</string>
+	<key>Iebreve-cy</key>
+	<string>I_ebreve-cy.glif</string>
+	<key>Iegrave-cy</key>
+	<string>I_egrave-cy.glif</string>
+	<key>Iegrave-cy.ss13</key>
+	<string>I_egrave-cy.ss13.glif</string>
 	<key>Igrave</key>
 	<string>I_grave.glif</string>
 	<key>Igrave.ss13</key>
@@ -344,6 +476,16 @@
 	<string>I_i-cy.ss02.glif</string>
 	<key>Ii-cy.ss10</key>
 	<string>I_i-cy.ss10.glif</string>
+	<key>Iigrave-cy</key>
+	<string>I_igrave-cy.glif</string>
+	<key>Iigrave-cy.loclBGR</key>
+	<string>I_igrave-cy.loclB_G_R_.glif</string>
+	<key>Iigrave-cy.ss02</key>
+	<string>I_igrave-cy.ss02.glif</string>
+	<key>Iigrave-cy.ss02.ss13</key>
+	<string>I_igrave-cy.ss02.ss13.glif</string>
+	<key>Iigrave-cy.ss13</key>
+	<string>I_igrave-cy.ss13.glif</string>
 	<key>Iishort-cy</key>
 	<string>I_ishort-cy.glif</string>
 	<key>Iishort-cy.loclBGR</key>
@@ -352,6 +494,18 @@
 	<string>I_ishort-cy.ss02.glif</string>
 	<key>Iishort-cy.ss10</key>
 	<string>I_ishort-cy.ss10.glif</string>
+	<key>Iishorttail-cy</key>
+	<string>I_ishorttail-cy.glif</string>
+	<key>Iishorttail-cy.loclBGR</key>
+	<string>I_ishorttail-cy.loclB_G_R_.glif</string>
+	<key>Iishorttail-cy.ss02</key>
+	<string>I_ishorttail-cy.ss02.glif</string>
+	<key>Iishorttail-cy.ss10</key>
+	<string>I_ishorttail-cy.ss10.glif</string>
+	<key>Iitail-cy</key>
+	<string>I_itail-cy.glif</string>
+	<key>Iitail-cy.loclBGR</key>
+	<string>I_itail-cy.loclB_G_R_.glif</string>
 	<key>Imacron</key>
 	<string>I_macron.glif</string>
 	<key>Imacron-cy</key>
@@ -396,12 +550,20 @@
 	<string>K_.glif</string>
 	<key>Ka-cy</key>
 	<string>K_a-cy.glif</string>
+	<key>Kabashkir-cy</key>
+	<string>K_abashkir-cy.glif</string>
 	<key>Kacute</key>
 	<string>K_acute.glif</string>
 	<key>Kacute.ss13</key>
 	<string>K_acute.ss13.glif</string>
 	<key>Kadescender-cy</key>
 	<string>K_adescender-cy.glif</string>
+	<key>Kahook-cy</key>
+	<string>K_ahook-cy.glif</string>
+	<key>Kastroke-cy</key>
+	<string>K_astroke-cy.glif</string>
+	<key>Kaverticalstroke-cy</key>
+	<string>K_averticalstroke-cy.glif</string>
 	<key>Kcaron</key>
 	<string>K_caron.glif</string>
 	<key>Kcaron.ss13</key>
@@ -486,6 +648,8 @@
 	<string>O_acute.ss13.glif</string>
 	<key>Obarred-cy</key>
 	<string>O_barred-cy.glif</string>
+	<key>Obarreddieresis-cy</key>
+	<string>O_barreddieresis-cy.glif</string>
 	<key>Obreve</key>
 	<string>O_breve.glif</string>
 	<key>Ocaron</key>
@@ -510,6 +674,8 @@
 	<string>O_circumflextilde.glif</string>
 	<key>Odieresis</key>
 	<string>O_dieresis.glif</string>
+	<key>Odieresis-cy</key>
+	<string>O_dieresis-cy.glif</string>
 	<key>Odieresis.ss04</key>
 	<string>O_dieresis.ss04.glif</string>
 	<key>Odotbelow</key>
@@ -564,6 +730,10 @@
 	<string>P_alochka-cy.glif</string>
 	<key>Pe-cy</key>
 	<string>P_e-cy.glif</string>
+	<key>Pedescender-cy</key>
+	<string>P_edescender-cy.glif</string>
+	<key>Pemiddlehook-cy</key>
+	<string>P_emiddlehook-cy.glif</string>
 	<key>Q</key>
 	<string>Q_.glif</string>
 	<key>Q.cv01</key>
@@ -582,6 +752,8 @@
 	<string>Q_.long.ss02.glif</string>
 	<key>Q.long.ss08</key>
 	<string>Q_.long.ss08.glif</string>
+	<key>Qa-cy</key>
+	<string>Q_a-cy.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>R.short</key>
@@ -614,6 +786,8 @@
 	<string>R_dotbelowmacron.glif</string>
 	<key>Rdotbelowmacron.short</key>
 	<string>R_dotbelowmacron.short.glif</string>
+	<key>Reversedze-cy</key>
+	<string>R_eversedze-cy.glif</string>
 	<key>Rlinebelow</key>
 	<string>R_linebelow.glif</string>
 	<key>Rlinebelow.short</key>
@@ -638,6 +812,8 @@
 	<string>S_chwa.glif</string>
 	<key>Schwa-cy</key>
 	<string>S_chwa-cy.glif</string>
+	<key>Schwadieresis-cy</key>
+	<string>S_chwadieresis-cy.glif</string>
 	<key>Scircumflex</key>
 	<string>S_circumflex.glif</string>
 	<key>Scircumflex.ss13</key>
@@ -648,12 +824,16 @@
 	<string>S_dotaccent.glif</string>
 	<key>Sdotbelow</key>
 	<string>S_dotbelow.glif</string>
+	<key>Semisoftsign-cy</key>
+	<string>S_emisoftsign-cy.glif</string>
 	<key>Sha-cy</key>
 	<string>S_ha-cy.glif</string>
 	<key>Shcha-cy</key>
 	<string>S_hcha-cy.glif</string>
 	<key>Shha-cy</key>
 	<string>S_hha-cy.glif</string>
+	<key>Shhadescender-cy</key>
+	<string>S_hhadescender-cy.glif</string>
 	<key>Softsign-cy</key>
 	<string>S_oftsign-cy.glif</string>
 	<key>T</key>
@@ -676,6 +856,10 @@
 	<string>T_dotbelow.glif</string>
 	<key>Te-cy</key>
 	<string>T_e-cy.glif</string>
+	<key>Tedescender-cy</key>
+	<string>T_edescender-cy.glif</string>
+	<key>Tetse-cy</key>
+	<string>T_etse-cy.glif</string>
 	<key>Thorn</key>
 	<string>T_horn.glif</string>
 	<key>Tlinebelow</key>
@@ -688,6 +872,8 @@
 	<string>U_.glif</string>
 	<key>U-cy</key>
 	<string>U_-cy.glif</string>
+	<key>U-cy.ss02</key>
+	<string>U_-cy.ss02.glif</string>
 	<key>U.ss01</key>
 	<string>U_.ss01.glif</string>
 	<key>U.ss03</key>
@@ -748,6 +934,10 @@
 	<string>U_circumflex.ss13.glif</string>
 	<key>Udieresis</key>
 	<string>U_dieresis.glif</string>
+	<key>Udieresis-cy</key>
+	<string>U_dieresis-cy.glif</string>
+	<key>Udieresis-cy.ss02</key>
+	<string>U_dieresis-cy.ss02.glif</string>
 	<key>Udieresis.ss01</key>
 	<string>U_dieresis.ss01.glif</string>
 	<key>Udieresis.ss01.ss04</key>
@@ -856,6 +1046,10 @@
 	<string>U_horntilde.ss03.glif</string>
 	<key>Uhungarumlaut</key>
 	<string>U_hungarumlaut.glif</string>
+	<key>Uhungarumlaut-cy</key>
+	<string>U_hungarumlaut-cy.glif</string>
+	<key>Uhungarumlaut-cy.ss02</key>
+	<string>U_hungarumlaut-cy.ss02.glif</string>
 	<key>Uhungarumlaut.ss01</key>
 	<string>U_hungarumlaut.ss01.glif</string>
 	<key>Uhungarumlaut.ss01.ss13</key>
@@ -870,6 +1064,8 @@
 	<string>U_macron.glif</string>
 	<key>Umacron-cy</key>
 	<string>U_macron-cy.glif</string>
+	<key>Umacron-cy.ss02</key>
+	<string>U_macron-cy.ss02.glif</string>
 	<key>Umacron.ss01</key>
 	<string>U_macron.ss01.glif</string>
 	<key>Umacron.ss03</key>
@@ -888,6 +1084,8 @@
 	<string>U_ring.ss03.glif</string>
 	<key>Ushort-cy</key>
 	<string>U_short-cy.glif</string>
+	<key>Ushort-cy.ss02</key>
+	<string>U_short-cy.ss02.glif</string>
 	<key>Ustrait-cy</key>
 	<string>U_strait-cy.glif</string>
 	<key>Ustraitstroke-cy</key>
@@ -922,6 +1120,8 @@
 	<string>W_dieresis.glif</string>
 	<key>Wdieresis.ss03</key>
 	<string>W_dieresis.ss03.glif</string>
+	<key>We-cy</key>
+	<string>W_e-cy.glif</string>
 	<key>Wgrave</key>
 	<string>W_grave.glif</string>
 	<key>Wgrave.ss03</key>
@@ -962,6 +1162,8 @@
 	<string>Y_dotbelow.ss01.glif</string>
 	<key>Yeru-cy</key>
 	<string>Y_eru-cy.glif</string>
+	<key>Yerudieresis-cy</key>
+	<string>Y_erudieresis-cy.glif</string>
 	<key>Ygrave</key>
 	<string>Y_grave.glif</string>
 	<key>Ygrave.ss01</key>
@@ -982,6 +1184,8 @@
 	<string>Y_tilde.glif</string>
 	<key>Ytilde.ss01</key>
 	<string>Y_tilde.ss01.glif</string>
+	<key>Yusbig-cy</key>
+	<string>Y_usbig-cy.glif</string>
 	<key>Z</key>
 	<string>Z_.glif</string>
 	<key>Zacute</key>
@@ -1002,10 +1206,20 @@
 	<string>Z_dotbelow.glif</string>
 	<key>Ze-cy</key>
 	<string>Z_e-cy.glif</string>
+	<key>Zedescender-cy</key>
+	<string>Z_edescender-cy.glif</string>
+	<key>Zedescender-cy.loclBSH</key>
+	<string>Z_edescender-cy.loclB_S_H_.glif</string>
+	<key>Zedieresis-cy</key>
+	<string>Z_edieresis-cy.glif</string>
 	<key>Zhe-cy</key>
 	<string>Z_he-cy.glif</string>
+	<key>Zhebreve-cy</key>
+	<string>Z_hebreve-cy.glif</string>
 	<key>Zhedescender-cy</key>
 	<string>Z_hedescender-cy.glif</string>
+	<key>Zhedieresis-cy</key>
+	<string>Z_hedieresis-cy.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>a-cy</key>
@@ -1026,6 +1240,8 @@
 	<string>aacute.ss07.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
+	<key>abreve-cy</key>
+	<string>abreve-cy.glif</string>
 	<key>abreve.ss07</key>
 	<string>abreve.ss07.glif</string>
 	<key>abreveacute</key>
@@ -1100,6 +1316,8 @@
 	<string>acutecomb.loclH_U_N_.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
+	<key>adieresis-cy</key>
+	<string>adieresis-cy.glif</string>
 	<key>adieresis.ss04</key>
 	<string>adieresis.ss04.glif</string>
 	<key>adieresis.ss07</key>
@@ -1122,6 +1340,8 @@
 	<string>ahookabove.glif</string>
 	<key>ahookabove.ss07</key>
 	<string>ahookabove.ss07.glif</string>
+	<key>aie-cy</key>
+	<string>aie-cy.glif</string>
 	<key>alpha-latin</key>
 	<string>alpha-latin.glif</string>
 	<key>amacron</key>
@@ -1292,8 +1512,18 @@
 	<string>cent.lf.glif</string>
 	<key>che-cy</key>
 	<string>che-cy.glif</string>
+	<key>cheabkhasian-cy</key>
+	<string>cheabkhasian-cy.glif</string>
 	<key>chedescender-cy</key>
 	<string>chedescender-cy.glif</string>
+	<key>chedescenderabkhasian-cy</key>
+	<string>chedescenderabkhasian-cy.glif</string>
+	<key>chedieresis-cy</key>
+	<string>chedieresis-cy.glif</string>
+	<key>chekhakassian-cy</key>
+	<string>chekhakassian-cy.glif</string>
+	<key>cheverticalstroke-cy</key>
+	<string>cheverticalstroke-cy.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflex.case</key>
@@ -1376,6 +1606,12 @@
 	<string>de-cy.ss11.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>descender-cy</key>
+	<string>descender-cy.glif</string>
+	<key>descender-cy.case</key>
+	<string>descender-cy.case.glif</string>
+	<key>descender-cy.loclBSH</key>
+	<string>descender-cy.loclB_S_H_.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresis.case.ss04</key>
@@ -1424,6 +1660,8 @@
 	<string>downW_hiteT_riangle.glif</string>
 	<key>dze-cy</key>
 	<string>dze-cy.glif</string>
+	<key>dzeabkhasian-cy</key>
+	<string>dzeabkhasian-cy.glif</string>
 	<key>dzhe-cy</key>
 	<string>dzhe-cy.glif</string>
 	<key>e</key>
@@ -1456,6 +1694,8 @@
 	<string>ecircumflextilde.glif</string>
 	<key>edieresis</key>
 	<string>edieresis.glif</string>
+	<key>edieresis-cy</key>
+	<string>edieresis-cy.glif</string>
 	<key>edotaccent</key>
 	<string>edotaccent.glif</string>
 	<key>edotbelow</key>
@@ -1488,8 +1728,14 @@
 	<string>eightsuperior.glif</string>
 	<key>el-cy</key>
 	<string>el-cy.glif</string>
+	<key>eldescender-cy</key>
+	<string>eldescender-cy.glif</string>
+	<key>elhook-cy</key>
+	<string>elhook-cy.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
+	<key>eltail-cy</key>
+	<string>eltail-cy.glif</string>
 	<key>em-cy</key>
 	<string>em-cy.glif</string>
 	<key>emacron</key>
@@ -1502,6 +1748,8 @@
 	<string>emptyset.glif</string>
 	<key>emspace</key>
 	<string>emspace.glif</string>
+	<key>emtail-cy</key>
+	<string>emtail-cy.glif</string>
 	<key>en-cy</key>
 	<string>en-cy.glif</string>
 	<key>endash</key>
@@ -1512,8 +1760,16 @@
 	<string>endescender-cy.glif</string>
 	<key>eng</key>
 	<string>eng.glif</string>
+	<key>enghe-cy</key>
+	<string>enghe-cy.glif</string>
+	<key>enhook-cy</key>
+	<string>enhook-cy.glif</string>
+	<key>enlefthook-cy</key>
+	<string>enlefthook-cy.glif</string>
 	<key>enspace</key>
 	<string>enspace.glif</string>
+	<key>entail-cy</key>
+	<string>entail-cy.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
 	<key>eogonek_acutecomb.liga</key>
@@ -1526,8 +1782,16 @@
 	<string>er-cy.glif</string>
 	<key>ereversed-cy</key>
 	<string>ereversed-cy.glif</string>
+	<key>ertick-cy</key>
+	<string>ertick-cy.glif</string>
 	<key>es-cy</key>
 	<string>es-cy.glif</string>
+	<key>esdescender-cy</key>
+	<string>esdescender-cy.glif</string>
+	<key>esdescender-cy.loclBSH</key>
+	<string>esdescender-cy.loclB_S_H_.glif</string>
+	<key>esdescender-cy.loclCHU</key>
+	<string>esdescender-cy.loclC_H_U_.glif</string>
 	<key>estimated</key>
 	<string>estimated.glif</string>
 	<key>eth</key>
@@ -1808,10 +2072,16 @@
 	<string>ge-cy.loclS_R_B_.glif</string>
 	<key>ge-cy.ss09</key>
 	<string>ge-cy.ss09.glif</string>
+	<key>gedescender-cy</key>
+	<string>gedescender-cy.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
 	<key>germandbls.calt</key>
 	<string>germandbls.calt.glif</string>
+	<key>gestrokehook-cy</key>
+	<string>gestrokehook-cy.glif</string>
+	<key>ghemiddlehook-cy</key>
+	<string>ghemiddlehook-cy.glif</string>
 	<key>ghestroke-cy</key>
 	<string>ghestroke-cy.glif</string>
 	<key>gheupturn-cy</key>
@@ -1872,12 +2142,18 @@
 	<string>h.clipped.glif</string>
 	<key>ha-cy</key>
 	<string>ha-cy.glif</string>
+	<key>haabkhasian-cy</key>
+	<string>haabkhasian-cy.glif</string>
 	<key>hadescender-cy</key>
 	<string>hadescender-cy.glif</string>
+	<key>hahook-cy</key>
+	<string>hahook-cy.glif</string>
 	<key>hairspace</key>
 	<string>hairspace.glif</string>
 	<key>hardsign-cy</key>
 	<string>hardsign-cy.glif</string>
+	<key>hastroke-cy</key>
+	<string>hastroke-cy.glif</string>
 	<key>hbar</key>
 	<string>hbar.glif</string>
 	<key>hbar.clipped</key>
@@ -1902,6 +2178,8 @@
 	<string>hookabovecomb.mini.glif</string>
 	<key>horncomb</key>
 	<string>horncomb.glif</string>
+	<key>hryvnia</key>
+	<string>hryvnia.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
 	<key>hungarumlaut.case</key>
@@ -1942,6 +2220,8 @@
 	<string>icircumflex.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
+	<key>idieresis-cy</key>
+	<string>idieresis-cy.glif</string>
 	<key>idotaccent</key>
 	<string>idotaccent.glif</string>
 	<key>idotbelow</key>
@@ -1950,14 +2230,24 @@
 	<string>idotless.glif</string>
 	<key>ie-cy</key>
 	<string>ie-cy.glif</string>
+	<key>iebreve-cy</key>
+	<string>iebreve-cy.glif</string>
+	<key>iegrave-cy</key>
+	<string>iegrave-cy.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
 	<key>ihookabove</key>
 	<string>ihookabove.glif</string>
 	<key>ii-cy</key>
 	<string>ii-cy.glif</string>
+	<key>iigrave-cy</key>
+	<string>iigrave-cy.glif</string>
 	<key>iishort-cy</key>
 	<string>iishort-cy.glif</string>
+	<key>iishorttail-cy</key>
+	<string>iishorttail-cy.glif</string>
+	<key>iitail-cy</key>
+	<string>iitail-cy.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>ij_acutecomb.liga</key>
@@ -2010,12 +2300,20 @@
 	<string>ka-cy.loclB_G_R_.glif</string>
 	<key>ka-cy.ss10</key>
 	<string>ka-cy.ss10.glif</string>
+	<key>kabashkir-cy</key>
+	<string>kabashkir-cy.glif</string>
 	<key>kacute</key>
 	<string>kacute.glif</string>
 	<key>kacute.clipped</key>
 	<string>kacute.clipped.glif</string>
 	<key>kadescender-cy</key>
 	<string>kadescender-cy.glif</string>
+	<key>kahook-cy</key>
+	<string>kahook-cy.glif</string>
+	<key>kastroke-cy</key>
+	<string>kastroke-cy.glif</string>
+	<key>kaverticalstroke-cy</key>
+	<string>kaverticalstroke-cy.glif</string>
 	<key>kcaron</key>
 	<string>kcaron.glif</string>
 	<key>kcaron.clipped</key>
@@ -2258,6 +2556,8 @@
 	<string>oacute.loclH_U_N_.ss13.glif</string>
 	<key>obarred-cy</key>
 	<string>obarred-cy.glif</string>
+	<key>obarreddieresis-cy</key>
+	<string>obarreddieresis-cy.glif</string>
 	<key>obreve</key>
 	<string>obreve.glif</string>
 	<key>ocaron</key>
@@ -2276,6 +2576,8 @@
 	<string>ocircumflextilde.glif</string>
 	<key>odieresis</key>
 	<string>odieresis.glif</string>
+	<key>odieresis-cy</key>
+	<string>odieresis-cy.glif</string>
 	<key>odieresis.ss04</key>
 	<string>odieresis.ss04.glif</string>
 	<key>odotbelow</key>
@@ -2384,6 +2686,10 @@
 	<string>pe-cy.loclS_R_B_.glif</string>
 	<key>pe-cy.ss09</key>
 	<string>pe-cy.ss09.glif</string>
+	<key>pedescender-cy</key>
+	<string>pedescender-cy.glif</string>
+	<key>pemiddlehook-cy</key>
+	<string>pemiddlehook-cy.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>percent.case</key>
@@ -2428,6 +2734,8 @@
 	<string>punctuationspace.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>qa-cy</key>
+	<string>qa-cy.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
 	<key>questiondown</key>
@@ -2478,6 +2786,8 @@
 	<string>registered.glif</string>
 	<key>registered.case</key>
 	<string>registered.case.glif</string>
+	<key>reversedze-cy</key>
+	<string>reversedze-cy.glif</string>
 	<key>rightArrow</key>
 	<string>rightA_rrow.glif</string>
 	<key>rightArrow.case</key>
@@ -2524,6 +2834,8 @@
 	<string>schwa.glif</string>
 	<key>schwa-cy</key>
 	<string>schwa-cy.glif</string>
+	<key>schwadieresis-cy</key>
+	<string>schwadieresis-cy.glif</string>
 	<key>scircumflex</key>
 	<string>scircumflex.glif</string>
 	<key>scommaaccent</key>
@@ -2544,6 +2856,8 @@
 	<string>section.case.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
+	<key>semisoftsign-cy</key>
+	<string>semisoftsign-cy.glif</string>
 	<key>servicemark</key>
 	<string>servicemark.glif</string>
 	<key>seven</key>
@@ -2580,6 +2894,8 @@
 	<string>shcha-cy.glif</string>
 	<key>shha-cy</key>
 	<string>shha-cy.glif</string>
+	<key>shhadescender-cy</key>
+	<string>shhadescender-cy.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
 	<key>six.dnom</key>
@@ -2660,6 +2976,12 @@
 	<string>te-cy.loclS_R_B_.glif</string>
 	<key>te-cy.ss09</key>
 	<string>te-cy.ss09.glif</string>
+	<key>tedescender-cy</key>
+	<string>tedescender-cy.glif</string>
+	<key>tenge</key>
+	<string>tenge.glif</string>
+	<key>tetse-cy</key>
+	<string>tetse-cy.glif</string>
 	<key>thinspace</key>
 	<string>thinspace.glif</string>
 	<key>thorn</key>
@@ -2710,6 +3032,8 @@
 	<string>tse-cy.glif</string>
 	<key>tshe-cy</key>
 	<string>tshe-cy.glif</string>
+	<key>tugrik</key>
+	<string>tugrik.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>two.dnom</key>
@@ -2750,6 +3074,8 @@
 	<string>ucircumflex.glif</string>
 	<key>udieresis</key>
 	<string>udieresis.glif</string>
+	<key>udieresis-cy</key>
+	<string>udieresis-cy.glif</string>
 	<key>udieresis.ss04</key>
 	<string>udieresis.ss04.glif</string>
 	<key>udieresisacute</key>
@@ -2780,6 +3106,8 @@
 	<string>uhorntilde.glif</string>
 	<key>uhungarumlaut</key>
 	<string>uhungarumlaut.glif</string>
+	<key>uhungarumlaut-cy</key>
+	<string>uhungarumlaut-cy.glif</string>
 	<key>uhungarumlaut.ss13</key>
 	<string>uhungarumlaut.ss13.glif</string>
 	<key>umacron</key>
@@ -2820,6 +3148,10 @@
 	<string>ve-cy.loclB_G_R_.glif</string>
 	<key>ve-cy.ss10</key>
 	<string>ve-cy.ss10.glif</string>
+	<key>verticalbar-cy</key>
+	<string>verticalbar-cy.glif</string>
+	<key>verticalbar-cy.case</key>
+	<string>verticalbar-cy.case.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
 	<key>wacute</key>
@@ -2828,6 +3160,8 @@
 	<string>wcircumflex.glif</string>
 	<key>wdieresis</key>
 	<string>wdieresis.glif</string>
+	<key>we-cy</key>
+	<string>we-cy.glif</string>
 	<key>wgrave</key>
 	<string>wgrave.glif</string>
 	<key>whiteBullet</key>
@@ -2880,6 +3214,8 @@
 	<string>yen.lf.glif</string>
 	<key>yeru-cy</key>
 	<string>yeru-cy.glif</string>
+	<key>yerudieresis-cy</key>
+	<string>yerudieresis-cy.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
 	<key>ygrave.ss03</key>
@@ -2898,6 +3234,8 @@
 	<string>ytilde.glif</string>
 	<key>ytilde.ss03</key>
 	<string>ytilde.ss03.glif</string>
+	<key>yusbig-cy</key>
+	<string>yusbig-cy.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
 	<key>zacute</key>
@@ -2914,6 +3252,12 @@
 	<string>ze-cy.loclB_G_R_.glif</string>
 	<key>ze-cy.ss10</key>
 	<string>ze-cy.ss10.glif</string>
+	<key>zedescender-cy</key>
+	<string>zedescender-cy.glif</string>
+	<key>zedescender-cy.loclBSH</key>
+	<string>zedescender-cy.loclB_S_H_.glif</string>
+	<key>zedieresis-cy</key>
+	<string>zedieresis-cy.glif</string>
 	<key>zero</key>
 	<string>zero.glif</string>
 	<key>zero.dnom</key>
@@ -2954,7 +3298,11 @@
 	<string>zhe-cy.loclB_G_R_.glif</string>
 	<key>zhe-cy.ss10</key>
 	<string>zhe-cy.ss10.glif</string>
+	<key>zhebreve-cy</key>
+	<string>zhebreve-cy.glif</string>
 	<key>zhedescender-cy</key>
 	<string>zhedescender-cy.glif</string>
+	<key>zhedieresis-cy</key>
+	<string>zhedieresis-cy.glif</string>
 </dict>
 </plist>

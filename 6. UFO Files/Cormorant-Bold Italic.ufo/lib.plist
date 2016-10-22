@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>GSDimensionPlugin.Dimensions</key>
@@ -35,6 +35,8 @@
 	</dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.disablesLastChange</key>
+	<true/>
 	<key>com.schriftgestaltung.fontMaster.userData</key>
 	<dict>
 		<key>noodleThickness</key>
@@ -116,6 +118,7 @@
 		<string>Etilde</string>
 		<string>F</string>
 		<string>G</string>
+		<string>G_tildecomb</string>
 		<string>Gbreve</string>
 		<string>Gcaron</string>
 		<string>Gcircumflex</string>
@@ -273,6 +276,12 @@
 		<string>Q.cv02</string>
 		<string>Q.cv03</string>
 		<string>Q.cv04</string>
+		<string>Aogonek_acutecomb.liga</string>
+		<string>Eogonek_acutecomb.liga</string>
+		<string>IJ_acutecomb.liga</string>
+		<string>Iogonek_acutecomb.liga</string>
+		<string>J_acutecomb.liga</string>
+		<string>Oogonek_acutecomb.liga</string>
 		<string>Aacute.loclHUN</string>
 		<string>Eacute.loclHUN</string>
 		<string>Iacute.loclHUN</string>
@@ -330,6 +339,30 @@
 		<string>Ytilde.ss01</string>
 		<string>Uacute.loclHUN.ss01</string>
 		<string>Q.long.ss01</string>
+		<string>A.ss02</string>
+		<string>Aacute.ss02</string>
+		<string>Abreve.ss02</string>
+		<string>Abreveacute.ss02</string>
+		<string>Abrevedotbelow.ss02</string>
+		<string>Abrevegrave.ss02</string>
+		<string>Abrevehookabove.ss02</string>
+		<string>Abrevetilde.ss02</string>
+		<string>Acaron.ss02</string>
+		<string>Acircumflex.ss02</string>
+		<string>Acircumflexacute.ss02</string>
+		<string>Acircumflexdotbelow.ss02</string>
+		<string>Acircumflexgrave.ss02</string>
+		<string>Acircumflexhookabove.ss02</string>
+		<string>Acircumflextilde.ss02</string>
+		<string>Adieresis.ss02</string>
+		<string>Adotbelow.ss02</string>
+		<string>Agrave.ss02</string>
+		<string>Ahookabove.ss02</string>
+		<string>Amacron.ss02</string>
+		<string>Aogonek.ss02</string>
+		<string>Aring.ss02</string>
+		<string>Aringacute.ss02</string>
+		<string>Atilde.ss02</string>
 		<string>Q.long.ss02</string>
 		<string>U.ss03</string>
 		<string>Uacute.ss03</string>
@@ -425,6 +458,12 @@
 		<string>Ygrave.ss13</string>
 		<string>Zacute.ss13</string>
 		<string>Zcaron.ss13</string>
+		<string>Aogonek_acutecomb.liga.ss13</string>
+		<string>Eogonek_acutecomb.liga.ss13</string>
+		<string>IJ_acutecomb.liga.ss13</string>
+		<string>Iogonek_acutecomb.liga.ss13</string>
+		<string>J_acutecomb.liga.ss13</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>Aacute.loclHUN.ss13</string>
 		<string>Eacute.loclHUN.ss13</string>
 		<string>Iacute.loclHUN.ss13</string>
@@ -512,8 +551,10 @@
 		<string>emacron</string>
 		<string>eogonek</string>
 		<string>etilde</string>
+		<string>schwa</string>
 		<string>f</string>
 		<string>g</string>
+		<string>g_tildecomb</string>
 		<string>gbreve</string>
 		<string>gcaron</string>
 		<string>gcircumflex</string>
@@ -618,7 +659,6 @@
 		<string>sdotbelow</string>
 		<string>germandbls</string>
 		<string>longs</string>
-		<string>schwa</string>
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
@@ -699,6 +739,12 @@
 		<string>lslash.clipped</string>
 		<string>thorn.clipped</string>
 		<string>f.cv05</string>
+		<string>aogonek_acutecomb.liga</string>
+		<string>eogonek_acutecomb.liga</string>
+		<string>ij_acutecomb.liga</string>
+		<string>iogonek_acutecomb.liga</string>
+		<string>j_acutecomb.liga</string>
+		<string>oogonek_acutecomb.liga</string>
 		<string>aacute.loclHUN</string>
 		<string>eacute.loclHUN</string>
 		<string>iacute.loclHUN</string>
@@ -753,6 +799,7 @@
 		<string>aring.ss07</string>
 		<string>aringacute.ss07</string>
 		<string>atilde.ss07</string>
+		<string>aogonek_acutecomb.liga.ss07</string>
 		<string>aacute.loclHUN.ss07</string>
 		<string>aacute.loclHUN.ss13</string>
 		<string>eacute.loclHUN.ss13</string>
@@ -878,28 +925,9 @@
 		<string>Iacute_J.dlig.ss13</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
-		<string>G_tildecomb</string>
-		<string>g_tildecomb</string>
 		<string>nmod</string>
-		<string>Aogonek_acutecomb.liga</string>
-		<string>Eogonek_acutecomb.liga</string>
-		<string>IJ_acutecomb.liga</string>
-		<string>Iogonek_acutecomb.liga</string>
-		<string>J_acutecomb.liga</string>
-		<string>Oogonek_acutecomb.liga</string>
-		<string>aogonek_acutecomb.liga</string>
-		<string>eogonek_acutecomb.liga</string>
-		<string>ij_acutecomb.liga</string>
-		<string>iogonek_acutecomb.liga</string>
-		<string>j_acutecomb.liga</string>
-		<string>oogonek_acutecomb.liga</string>
-		<string>aogonek_acutecomb.liga.ss07</string>
-		<string>Aogonek_acutecomb.liga.ss13</string>
-		<string>Eogonek_acutecomb.liga.ss13</string>
-		<string>IJ_acutecomb.liga.ss13</string>
-		<string>Iogonek_acutecomb.liga.ss13</string>
-		<string>J_acutecomb.liga.ss13</string>
-		<string>Oogonek_acutecomb.liga.ss13</string>
+		<string>Eldescender-cy</string>
+		<string>EnLeftHook-cy</string>
 		<string>A-cy</string>
 		<string>Be-cy</string>
 		<string>Ve-cy</string>
@@ -908,11 +936,14 @@
 		<string>Gheupturn-cy</string>
 		<string>De-cy</string>
 		<string>Ie-cy</string>
+		<string>Iegrave-cy</string>
 		<string>Io-cy</string>
 		<string>Zhe-cy</string>
 		<string>Ze-cy</string>
 		<string>Ii-cy</string>
 		<string>Iishort-cy</string>
+		<string>Iigrave-cy</string>
+		<string>Iishorttail-cy</string>
 		<string>Ka-cy</string>
 		<string>Kje-cy</string>
 		<string>El-cy</string>
@@ -948,40 +979,113 @@
 		<string>Ia-cy</string>
 		<string>Dje-cy</string>
 		<string>Yat-cy</string>
+		<string>Yusbig-cy</string>
 		<string>Fita-cy</string>
 		<string>Izhitsa-cy</string>
 		<string>Ghestroke-cy</string>
+		<string>Ghemiddlehook-cy</string>
 		<string>Zhedescender-cy</string>
+		<string>Zedescender-cy</string>
 		<string>Kadescender-cy</string>
+		<string>Kaverticalstroke-cy</string>
+		<string>Kastroke-cy</string>
+		<string>Kabashkir-cy</string>
 		<string>Endescender-cy</string>
+		<string>Pemiddlehook-cy</string>
+		<string>Pedescender-cy</string>
+		<string>Haabkhasian-cy</string>
+		<string>Esdescender-cy</string>
+		<string>Tedescender-cy</string>
 		<string>Ustrait-cy</string>
 		<string>Ustraitstroke-cy</string>
 		<string>Hadescender-cy</string>
 		<string>Chedescender-cy</string>
+		<string>Cheverticalstroke-cy</string>
 		<string>Shha-cy</string>
+		<string>Shhadescender-cy</string>
+		<string>Cheabkhasian-cy</string>
+		<string>Chedescenderabkhasian-cy</string>
 		<string>Palochka-cy</string>
+		<string>Zhebreve-cy</string>
+		<string>Kahook-cy</string>
+		<string>Eltail-cy</string>
+		<string>Enhook-cy</string>
+		<string>Entail-cy</string>
+		<string>Chekhakassian-cy</string>
+		<string>Emtail-cy</string>
+		<string>Abreve-cy</string>
+		<string>Adieresis-cy</string>
+		<string>Iebreve-cy</string>
 		<string>Schwa-cy</string>
+		<string>Schwadieresis-cy</string>
+		<string>Zhedieresis-cy</string>
+		<string>Zedieresis-cy</string>
+		<string>Dzeabkhasian-cy</string>
 		<string>Imacron-cy</string>
+		<string>Idieresis-cy</string>
+		<string>Odieresis-cy</string>
 		<string>Obarred-cy</string>
+		<string>Obarreddieresis-cy</string>
+		<string>Edieresis-cy</string>
 		<string>Umacron-cy</string>
+		<string>Udieresis-cy</string>
+		<string>Uhungarumlaut-cy</string>
+		<string>Chedieresis-cy</string>
+		<string>Gedescender-cy</string>
+		<string>Yerudieresis-cy</string>
+		<string>Gestrokehook-cy</string>
+		<string>Hahook-cy</string>
+		<string>Hastroke-cy</string>
+		<string>Reversedze-cy</string>
+		<string>Elhook-cy</string>
+		<string>Qa-cy</string>
+		<string>We-cy</string>
+		<string>Semisoftsign-cy</string>
+		<string>Ertick-cy</string>
 		<string>De-cy.loclBGR</string>
 		<string>Ii-cy.loclBGR</string>
 		<string>Iishort-cy.loclBGR</string>
+		<string>Iishorttail-cy.loclBGR</string>
+		<string>Iigrave-cy.loclBGR</string>
 		<string>El-cy.loclBGR</string>
 		<string>Ef-cy.loclBGR</string>
+		<string>Eltail-cy.loclBGR</string>
 		<string>Imacron-cy.loclBGR</string>
+		<string>Idieresis-cy.loclBGR</string>
+		<string>Ghestroke-cy.loclBSH</string>
+		<string>Zedescender-cy.loclBSH</string>
+		<string>Esdescender-cy.loclBSH</string>
+		<string>Esdescender-cy.loclCHU</string>
+		<string>A-cy.ss02</string>
 		<string>De-cy.ss02</string>
 		<string>Ii-cy.ss02</string>
 		<string>Iishort-cy.ss02</string>
+		<string>Iishorttail-cy.ss02</string>
+		<string>Iigrave-cy.ss02</string>
 		<string>El-cy.ss02</string>
+		<string>U-cy.ss02</string>
+		<string>Ushort-cy.ss02</string>
 		<string>Lje-cy.ss02</string>
+		<string>Eltail-cy.ss02</string>
+		<string>Abreve-cy.ss02</string>
+		<string>Adieresis-cy.ss02</string>
 		<string>Imacron-cy.ss02</string>
+		<string>Idieresis-cy.ss02</string>
+		<string>Umacron-cy.ss02</string>
+		<string>Udieresis-cy.ss02</string>
+		<string>Uhungarumlaut-cy.ss02</string>
 		<string>De-cy.ss10</string>
 		<string>Ii-cy.ss10</string>
 		<string>Iishort-cy.ss10</string>
+		<string>Iishorttail-cy.ss10</string>
 		<string>El-cy.ss10</string>
 		<string>Ef-cy.ss10</string>
+		<string>Eltail-cy.ss10</string>
 		<string>Imacron-cy.ss10</string>
+		<string>Idieresis-cy.ss10</string>
+		<string>Iegrave-cy.ss13</string>
+		<string>Iigrave-cy.ss13</string>
+		<string>Iigrave-cy.ss02.ss13</string>
 		<string>a-cy</string>
 		<string>be-cy</string>
 		<string>ve-cy</string>
@@ -990,11 +1094,14 @@
 		<string>gheupturn-cy</string>
 		<string>de-cy</string>
 		<string>ie-cy</string>
+		<string>iegrave-cy</string>
 		<string>io-cy</string>
 		<string>zhe-cy</string>
 		<string>ze-cy</string>
 		<string>ii-cy</string>
 		<string>iishort-cy</string>
+		<string>iigrave-cy</string>
+		<string>iishorttail-cy</string>
 		<string>ka-cy</string>
 		<string>kje-cy</string>
 		<string>el-cy</string>
@@ -1030,22 +1137,71 @@
 		<string>ia-cy</string>
 		<string>dje-cy</string>
 		<string>yat-cy</string>
+		<string>yusbig-cy</string>
 		<string>fita-cy</string>
 		<string>izhitsa-cy</string>
 		<string>ghestroke-cy</string>
+		<string>ghemiddlehook-cy</string>
 		<string>zhedescender-cy</string>
+		<string>zedescender-cy</string>
 		<string>kadescender-cy</string>
+		<string>kaverticalstroke-cy</string>
+		<string>kastroke-cy</string>
+		<string>kabashkir-cy</string>
 		<string>endescender-cy</string>
+		<string>pedescender-cy</string>
+		<string>pemiddlehook-cy</string>
+		<string>haabkhasian-cy</string>
+		<string>esdescender-cy</string>
+		<string>tedescender-cy</string>
 		<string>ustrait-cy</string>
 		<string>ustraitstroke-cy</string>
 		<string>hadescender-cy</string>
 		<string>chedescender-cy</string>
+		<string>cheverticalstroke-cy</string>
 		<string>shha-cy</string>
+		<string>shhadescender-cy</string>
+		<string>cheabkhasian-cy</string>
+		<string>chedescenderabkhasian-cy</string>
 		<string>palochka-cy</string>
+		<string>zhebreve-cy</string>
+		<string>kahook-cy</string>
+		<string>eltail-cy</string>
+		<string>enhook-cy</string>
+		<string>entail-cy</string>
+		<string>chekhakassian-cy</string>
+		<string>emtail-cy</string>
+		<string>abreve-cy</string>
+		<string>adieresis-cy</string>
+		<string>iebreve-cy</string>
 		<string>schwa-cy</string>
+		<string>schwadieresis-cy</string>
+		<string>zhedieresis-cy</string>
+		<string>zedieresis-cy</string>
+		<string>dzeabkhasian-cy</string>
 		<string>imacron-cy</string>
+		<string>idieresis-cy</string>
+		<string>odieresis-cy</string>
 		<string>obarred-cy</string>
+		<string>obarreddieresis-cy</string>
+		<string>edieresis-cy</string>
 		<string>umacron-cy</string>
+		<string>udieresis-cy</string>
+		<string>uhungarumlaut-cy</string>
+		<string>chedieresis-cy</string>
+		<string>gedescender-cy</string>
+		<string>yerudieresis-cy</string>
+		<string>gestrokehook-cy</string>
+		<string>hahook-cy</string>
+		<string>hastroke-cy</string>
+		<string>reversedze-cy</string>
+		<string>elhook-cy</string>
+		<string>qa-cy</string>
+		<string>we-cy</string>
+		<string>semisoftsign-cy</string>
+		<string>ertick-cy</string>
+		<string>eldescender-cy</string>
+		<string>enlefthook-cy</string>
 		<string>de-cy.Ge</string>
 		<string>ve-cy.loclBGR</string>
 		<string>de-cy.loclBGR</string>
@@ -1053,6 +1209,9 @@
 		<string>ze-cy.loclBGR</string>
 		<string>ka-cy.loclBGR</string>
 		<string>iu-cy.loclBGR</string>
+		<string>zedescender-cy.loclBSH</string>
+		<string>esdescender-cy.loclBSH</string>
+		<string>esdescender-cy.loclCHU</string>
 		<string>be-cy.loclMKD</string>
 		<string>ge-cy.loclMKD</string>
 		<string>de-cy.loclMKD</string>
@@ -1078,6 +1237,12 @@
 		<string>ka-cy.ss10</string>
 		<string>iu-cy.ss10</string>
 		<string>de-cy.ss11</string>
+		<string>Enghe-cy</string>
+		<string>enghe-cy</string>
+		<string>Tetse-cy</string>
+		<string>tetse-cy</string>
+		<string>Aie-cy</string>
+		<string>aie-cy</string>
 		<string>Delta</string>
 		<string>Omega</string>
 		<string>mu</string>
@@ -1292,6 +1457,7 @@
 		<string>euro</string>
 		<string>florin</string>
 		<string>guarani</string>
+		<string>hryvnia</string>
 		<string>lira</string>
 		<string>liraTurkish</string>
 		<string>naira</string>
@@ -1300,6 +1466,8 @@
 		<string>ruble</string>
 		<string>rupeeIndian</string>
 		<string>sterling</string>
+		<string>tenge</string>
+		<string>tugrik</string>
 		<string>yen</string>
 		<string>cedi.lf</string>
 		<string>cent.lf</string>
@@ -1515,6 +1683,9 @@
 		<string>dieresis.ss04</string>
 		<string>brevecomb-cy</string>
 		<string>brevecomb-cy.case</string>
+		<string>descender-cy</string>
+		<string>descender-cy.case</string>
+		<string>descender-cy.loclBSH</string>
 		<string>brevecomb_acutecomb</string>
 		<string>brevecomb_gravecomb</string>
 		<string>brevecomb_hookabovecomb</string>
@@ -1533,6 +1704,11 @@
 		<string>circumflexcomb_tildecomb.case</string>
 		<string>ffxmaker</string>
 		<string>ssxmaker</string>
+		<string>verticalbar-cy</string>
+		<string>verticalbar-cy.case</string>
+		<string>Iitail-cy</string>
+		<string>Iitail-cy.loclBGR</string>
+		<string>iitail-cy</string>
 	</array>
 </dict>
 </plist>

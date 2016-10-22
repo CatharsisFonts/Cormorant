@@ -2,7 +2,7 @@
 <glyph name="Imacron-cy.ss02" format="1">
   <advance width="658"/>
   <outline>
-    <component base="Ii-cy.ss02"/>
-    <component base="macroncomb" xOffset="181" yOffset="204"/>
+    <component base="Ii-cy.loclBGR"/>
+    <component base="macroncomb" xOffset="191" yOffset="204"/>
   </outline>
 </glyph>

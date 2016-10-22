@@ -47,6 +47,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2016-XX-XX: Release v3.3
+Significant overhaul and expansion of the Cyrillic inventory based on reviews by Alexei Vanyashin.  See the Google Fonts forum thread on Cormorant for details.
+
+
 2016-08-03: Release v3.2
 Patched a few glyphs that went missing in the SC and Unicase fonts due to a bug (yes, Georg, it's a bug!) in the behavior of Glyphs when dealing with glyph replacement and components.  I hope it will be updated in Google Fonts soon.
 

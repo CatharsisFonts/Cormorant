@@ -4,7 +4,7 @@
   <outline>
     <component base="a.sc.ss05"/>
     <component base="dotbelowcomb" xOffset="150"/>
-    <component base="circumflex.sc" xOffset="95" yOffset="70"/>
+    <component base="circumflex.sc" xOffset="100" yOffset="70"/>
   </outline>
   <lib>
     <dict>

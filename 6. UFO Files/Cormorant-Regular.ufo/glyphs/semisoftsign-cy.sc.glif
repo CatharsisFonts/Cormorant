@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semisoftsign-cy.sc" format="1">
+  <advance width="420"/>
+  <outline>
+    <contour>
+      <point x="211" y="293" type="line" smooth="yes"/>
+      <point x="216" y="293"/>
+      <point x="216" y="309"/>
+      <point x="211" y="309" type="curve" smooth="yes"/>
+      <point x="36" y="309" type="line" smooth="yes"/>
+      <point x="31" y="309"/>
+      <point x="31" y="293"/>
+      <point x="36" y="293" type="curve" smooth="yes"/>
+    </contour>
+    <component base="softsign-cy.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>softsign-cy.sc</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dzhe-cy" format="1">
-  <advance width="404"/>
+  <advance width="407"/>
   <unicode hex="045F"/>
   <outline>
     <contour>
@@ -29,7 +29,7 @@
       <point x="130" y="-202"/>
       <point x="132" y="-200" type="curve"/>
     </contour>
-    <component base="u" xOffset="-2"/>
+    <component base="u"/>
   </outline>
   <lib>
     <dict>
@@ -72,7 +72,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>404</integer>
+          <integer>407</integer>
         </dict>
       </dict>
     </dict>

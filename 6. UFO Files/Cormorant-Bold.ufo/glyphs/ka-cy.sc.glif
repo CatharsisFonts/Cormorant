@@ -85,10 +85,10 @@
       <point x="258" y="207" type="line"/>
     </contour>
     <contour>
-      <point x="253" y="410" type="move" name="top"/>
+      <point x="256" y="400" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="455" y="0" type="move" name="bottomright"/>
+      <point x="458" y="0" type="move" name="bottomright"/>
     </contour>
   </outline>
   <lib>

@@ -61,7 +61,7 @@
       <point x="161" y="77" type="line"/>
     </contour>
     <contour>
-      <point x="328" y="534" type="move" name="top"/>
+      <point x="338" y="534" type="move" name="top"/>
     </contour>
     <contour>
       <point x="634" y="0" type="move" name="bottomright"/>
@@ -69,6 +69,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Bold Apr 30 16, 16:09</key>
@@ -864,6 +866,8 @@
           <integer>654</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

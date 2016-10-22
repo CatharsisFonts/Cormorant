@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticalbar-cy" format="1">
+  <advance width="66"/>
+  <outline>
+    <contour>
+      <point x="25" y="71"/>
+      <point x="41" y="71"/>
+      <point x="41" y="76" type="curve" smooth="yes"/>
+      <point x="41" y="261" type="line" smooth="yes"/>
+      <point x="41" y="266"/>
+      <point x="25" y="266"/>
+      <point x="25" y="261" type="curve" smooth="yes"/>
+      <point x="25" y="76" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

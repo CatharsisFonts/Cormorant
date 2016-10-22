@@ -3,6 +3,6 @@
   <advance width="577"/>
   <outline>
     <component base="R.ss01"/>
-    <component base="caron.case" xOffset="128" yOffset="204"/>
+    <component base="caron.case" xOffset="128"/>
   </outline>
 </glyph>

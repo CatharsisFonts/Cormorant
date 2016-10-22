@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheverticalstroke-cy" format="1">
+  <advance width="544"/>
+  <unicode hex="04B8"/>
+  <outline>
+    <contour>
+      <point x="390" y="69" type="line" smooth="yes"/>
+      <point x="390" y="20"/>
+      <point x="380" y="10"/>
+      <point x="314" y="10" type="curve" smooth="yes"/>
+      <point x="311" y="10"/>
+      <point x="311" y="0"/>
+      <point x="314" y="0" type="curve" smooth="yes"/>
+      <point x="341" y="0"/>
+      <point x="374" y="2"/>
+      <point x="413" y="2" type="curve" smooth="yes"/>
+      <point x="450" y="2"/>
+      <point x="485" y="0"/>
+      <point x="512" y="0" type="curve" smooth="yes"/>
+      <point x="515" y="0"/>
+      <point x="515" y="10"/>
+      <point x="512" y="10" type="curve" smooth="yes"/>
+      <point x="447" y="10"/>
+      <point x="435" y="20"/>
+      <point x="435" y="69" type="curve" smooth="yes"/>
+      <point x="435" y="465" type="line" smooth="yes"/>
+      <point x="435" y="514"/>
+      <point x="447" y="524"/>
+      <point x="512" y="524" type="curve" smooth="yes"/>
+      <point x="515" y="524"/>
+      <point x="515" y="534"/>
+      <point x="512" y="534" type="curve" smooth="yes"/>
+      <point x="485" y="534"/>
+      <point x="450" y="532"/>
+      <point x="413" y="532" type="curve" smooth="yes"/>
+      <point x="378" y="532"/>
+      <point x="348" y="534"/>
+      <point x="324" y="534" type="curve" smooth="yes"/>
+      <point x="321" y="534"/>
+      <point x="321" y="524"/>
+      <point x="324" y="524" type="curve" smooth="yes"/>
+      <point x="381" y="524"/>
+      <point x="390" y="512"/>
+      <point x="390" y="463" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="402" y="287" type="line"/>
+      <point x="347" y="244"/>
+      <point x="298" y="231"/>
+      <point x="257" y="231" type="curve" smooth="yes"/>
+      <point x="170" y="231"/>
+      <point x="119" y="281"/>
+      <point x="119" y="379" type="curve" smooth="yes"/>
+      <point x="119" y="463" type="line" smooth="yes"/>
+      <point x="119" y="512"/>
+      <point x="129" y="524"/>
+      <point x="185" y="524" type="curve" smooth="yes"/>
+      <point x="188" y="524"/>
+      <point x="188" y="534"/>
+      <point x="185" y="534" type="curve" smooth="yes"/>
+      <point x="162" y="534"/>
+      <point x="131" y="532"/>
+      <point x="96" y="532" type="curve" smooth="yes"/>
+      <point x="59" y="532"/>
+      <point x="25" y="534"/>
+      <point x="-2" y="534" type="curve" smooth="yes"/>
+      <point x="-5" y="534"/>
+      <point x="-5" y="524"/>
+      <point x="-2" y="524" type="curve" smooth="yes"/>
+      <point x="63" y="524"/>
+      <point x="74" y="514"/>
+      <point x="74" y="465" type="curve" smooth="yes"/>
+      <point x="74" y="349" type="line" smooth="yes"/>
+      <point x="74" y="263"/>
+      <point x="139" y="210"/>
+      <point x="237" y="210" type="curve" smooth="yes"/>
+      <point x="293" y="210"/>
+      <point x="349" y="230"/>
+      <point x="409" y="281" type="curve"/>
+    </contour>
+    <contour>
+      <point x="245" y="99"/>
+      <point x="264" y="99"/>
+      <point x="264" y="104" type="curve" smooth="yes"/>
+      <point x="264" y="388" type="line" smooth="yes"/>
+      <point x="264" y="393"/>
+      <point x="245" y="393"/>
+      <point x="245" y="388" type="curve" smooth="yes"/>
+      <point x="245" y="104" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Che-cy</string>
+    </dict>
+  </lib>
+</glyph>

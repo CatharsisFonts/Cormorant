@@ -3,22 +3,22 @@
   <advance width="254"/>
   <outline>
     <contour>
-      <point x="113" y="378"/>
-      <point x="122" y="378"/>
-      <point x="127" y="383" type="curve" smooth="yes"/>
-      <point x="215" y="483" type="line" smooth="yes"/>
-      <point x="217" y="486"/>
-      <point x="213" y="490"/>
-      <point x="210" y="489" type="curve" smooth="yes"/>
-      <point x="118" y="455" type="line"/>
-      <point x="25" y="488" type="line" smooth="yes"/>
-      <point x="23" y="489"/>
-      <point x="17" y="484"/>
-      <point x="20" y="482" type="curve" smooth="yes"/>
-      <point x="108" y="383" type="line" smooth="yes"/>
+      <point x="113" y="582"/>
+      <point x="122" y="582"/>
+      <point x="127" y="587" type="curve" smooth="yes"/>
+      <point x="215" y="687" type="line" smooth="yes"/>
+      <point x="217" y="690"/>
+      <point x="213" y="694"/>
+      <point x="210" y="693" type="curve" smooth="yes"/>
+      <point x="118" y="659" type="line"/>
+      <point x="25" y="692" type="line" smooth="yes"/>
+      <point x="23" y="693"/>
+      <point x="18" y="689"/>
+      <point x="20" y="686" type="curve" smooth="yes"/>
+      <point x="108" y="587" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="118" y="330" type="move" name="_top"/>
+      <point x="118" y="534" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

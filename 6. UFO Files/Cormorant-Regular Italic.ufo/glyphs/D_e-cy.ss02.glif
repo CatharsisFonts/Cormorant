@@ -1,47 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="De-cy.ss02" format="1">
-  <advance width="575"/>
+  <advance width="549"/>
   <outline>
-    <contour>
-      <point x="82" y="0" type="line"/>
-      <point x="354" y="502" type="line"/>
-      <point x="329" y="485" type="line"/>
-      <point x="420" y="0" type="line"/>
-      <point x="464" y="0" type="line"/>
-      <point x="361" y="542" type="line" smooth="yes"/>
-      <point x="361" y="545"/>
-      <point x="354" y="547"/>
-      <point x="353" y="544" type="curve" smooth="yes"/>
-      <point x="58" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="-30" y="-164"/>
-      <point x="-22" y="-166"/>
-      <point x="-21" y="-163" type="curve" smooth="yes"/>
-      <point x="2" y="-30"/>
-      <point x="52" y="0"/>
-      <point x="105" y="0" type="curve" smooth="yes"/>
-      <point x="393" y="0" type="line" smooth="yes"/>
-      <point x="480" y="0"/>
-      <point x="503" y="-41"/>
-      <point x="482" y="-157" type="curve" smooth="yes"/>
-      <point x="481" y="-164"/>
-      <point x="490" y="-166"/>
-      <point x="490" y="-163" type="curve" smooth="yes"/>
-      <point x="512" y="-38"/>
-      <point x="523" y="-17"/>
-      <point x="527" y="4" type="curve" smooth="yes"/>
-      <point x="529" y="16"/>
-      <point x="529" y="17"/>
-      <point x="520" y="17" type="curve"/>
-      <point x="1" y="17" type="line"/>
-      <point x="-6" y="17"/>
-      <point x="-6" y="17"/>
-      <point x="-8" y="10" type="curve" smooth="yes"/>
-      <point x="-14" y="-25"/>
-      <point x="-7" y="-36"/>
-      <point x="-29" y="-157" type="curve" smooth="yes"/>
-    </contour>
+    <component base="De-cy.loclBGR"/>
   </outline>
   <lib>
     <dict>
@@ -4099,7 +4060,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>575</integer>
+          <integer>549</integer>
         </dict>
       </dict>
     </dict>

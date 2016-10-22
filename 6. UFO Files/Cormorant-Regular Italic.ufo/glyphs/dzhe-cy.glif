@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dzhe-cy" format="1">
-  <advance width="393"/>
+  <advance width="395"/>
   <unicode hex="045F"/>
   <outline>
     <contour>
@@ -29,7 +29,7 @@
       <point x="152" y="-202"/>
       <point x="154" y="-200" type="curve" smooth="yes"/>
     </contour>
-    <component base="u" xOffset="2"/>
+    <component base="u"/>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cheabkhasian-cy.sc" format="1">
+  <advance width="493"/>
+  <outline>
+    <contour>
+      <point x="342" y="-10"/>
+      <point x="398" y="4"/>
+      <point x="448" y="58" type="curve" smooth="yes"/>
+      <point x="451" y="61"/>
+      <point x="445" y="68"/>
+      <point x="442" y="66" type="curve" smooth="yes"/>
+      <point x="406" y="38"/>
+      <point x="373" y="27"/>
+      <point x="316" y="27" type="curve" smooth="yes"/>
+      <point x="226" y="27"/>
+      <point x="177" y="108"/>
+      <point x="177" y="215" type="curve" smooth="yes"/>
+      <point x="177" y="322"/>
+      <point x="214" y="391"/>
+      <point x="279" y="391" type="curve" smooth="yes"/>
+      <point x="345" y="391"/>
+      <point x="371" y="325"/>
+      <point x="371" y="199" type="curve"/>
+      <point x="457" y="199" type="line" smooth="yes"/>
+      <point x="465" y="199"/>
+      <point x="467" y="205"/>
+      <point x="467" y="230" type="curve" smooth="yes"/>
+      <point x="467" y="334"/>
+      <point x="419" y="410"/>
+      <point x="305" y="410" type="curve" smooth="yes"/>
+      <point x="173" y="410"/>
+      <point x="84" y="314"/>
+      <point x="84" y="184" type="curve" smooth="yes"/>
+      <point x="84" y="85"/>
+      <point x="151" y="-10"/>
+      <point x="286" y="-10" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="379" y="199" type="line"/>
+      <point x="379" y="221" type="line"/>
+      <point x="124" y="220" type="line" smooth="yes"/>
+      <point x="57" y="220"/>
+      <point x="12" y="252"/>
+      <point x="12" y="346" type="curve" smooth="yes"/>
+      <point x="12" y="349"/>
+      <point x="0" y="348"/>
+      <point x="0" y="345" type="curve" smooth="yes"/>
+      <point x="0" y="278"/>
+      <point x="2" y="262"/>
+      <point x="2" y="243" type="curve" smooth="yes"/>
+      <point x="2" y="206"/>
+      <point x="15" y="199"/>
+      <point x="57" y="199" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o.sc</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>o.sc</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>38</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>cheabkhasian-cy.sc</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>493</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
