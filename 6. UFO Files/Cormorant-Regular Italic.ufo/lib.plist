@@ -549,7 +549,6 @@
 		<string>emacron</string>
 		<string>eogonek</string>
 		<string>etilde</string>
-		<string>schwa</string>
 		<string>f</string>
 		<string>g</string>
 		<string>g_tildecomb</string>
@@ -657,6 +656,7 @@
 		<string>sdotbelow</string>
 		<string>germandbls</string>
 		<string>longs</string>
+		<string>schwa</string>
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
@@ -1210,12 +1210,7 @@
 		<string>zedescender-cy.loclBSH</string>
 		<string>esdescender-cy.loclBSH</string>
 		<string>esdescender-cy.loclCHU</string>
-		<string>be-cy.loclMKD</string>
-		<string>ge-cy.loclMKD</string>
-		<string>de-cy.loclMKD</string>
-		<string>pe-cy.loclMKD</string>
-		<string>te-cy.loclMKD</string>
-		<string>sha-cy.loclMKD</string>
+		<string>gje-cy.loclMKD</string>
 		<string>be-cy.loclSRB</string>
 		<string>ge-cy.loclSRB</string>
 		<string>de-cy.loclSRB</string>
@@ -1235,6 +1230,12 @@
 		<string>ka-cy.ss10</string>
 		<string>iu-cy.ss10</string>
 		<string>de-cy.ss11</string>
+		<string>be-cy.loclMKD</string>
+		<string>ge-cy.loclMKD</string>
+		<string>de-cy.loclMKD</string>
+		<string>pe-cy.loclMKD</string>
+		<string>te-cy.loclMKD</string>
+		<string>sha-cy.loclMKD</string>
 		<string>Enghe-cy</string>
 		<string>enghe-cy</string>
 		<string>Tetse-cy</string>
@@ -1682,7 +1683,9 @@
 		<string>brevecomb-cy</string>
 		<string>brevecomb-cy.case</string>
 		<string>descender-cy</string>
+		<string>verticalbar-cy</string>
 		<string>descender-cy.case</string>
+		<string>verticalbar-cy.case</string>
 		<string>descender-cy.loclBSH</string>
 		<string>brevecomb_acutecomb</string>
 		<string>brevecomb_gravecomb</string>
@@ -1702,8 +1705,6 @@
 		<string>circumflexcomb_tildecomb.case</string>
 		<string>ffxmaker</string>
 		<string>ssxmaker</string>
-		<string>verticalbar-cy</string>
-		<string>verticalbar-cy.case</string>
 		<string>Iitail-cy</string>
 		<string>Iitail-cy.loclBGR</string>
 		<string>iitail-cy</string>

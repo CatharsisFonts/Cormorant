@@ -30,7 +30,7 @@
     </contour>
     <component base="idotless"/>
     <contour>
-      <point x="188" y="330" type="move" name="top"/>
+      <point x="153" y="423" type="move" name="top"/>
     </contour>
     <contour>
       <point x="250" y="0" type="move" name="bottomright"/>
@@ -41,6 +41,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Bold Italic Sep 13 15, 16:36</key>
@@ -842,6 +846,8 @@
           <integer>211</integer>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

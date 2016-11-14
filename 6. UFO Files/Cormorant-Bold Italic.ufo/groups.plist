@@ -446,15 +446,15 @@
 		<string>chedieresis-cy</string>
 		<string>yerudieresis-cy</string>
 		<string>eldescender-cy</string>
-		<string>pe-cy.loclMKD</string>
-		<string>te-cy.loclMKD</string>
-		<string>sha-cy.loclMKD</string>
 		<string>pe-cy.loclSRB</string>
 		<string>te-cy.loclSRB</string>
 		<string>sha-cy.loclSRB</string>
 		<string>pe-cy.ss09</string>
 		<string>te-cy.ss09</string>
 		<string>sha-cy.ss09</string>
+		<string>pe-cy.loclMKD</string>
+		<string>te-cy.loclMKD</string>
+		<string>sha-cy.loclMKD</string>
 		<string>tetse-cy</string>
 		<string>mu</string>
 		<string>iitail-cy</string>
@@ -662,6 +662,8 @@
 	<key>@MMK_L_gheupturn-cy</key>
 	<array>
 		<string>gheupturn-cy</string>
+		<string>izhitsa-cy</string>
+		<string>gestrokehook-cy</string>
 		<string>enghe-cy</string>
 	</array>
 	<key>@MMK_L_idieresis</key>
@@ -760,9 +762,9 @@
 		<string>pe-cy</string>
 		<string>te-cy</string>
 		<string>tshe-cy</string>
-		<string>ge-cy.loclMKD</string>
 		<string>ge-cy.loclSRB</string>
 		<string>ge-cy.ss09</string>
+		<string>ge-cy.loclMKD</string>
 	</array>
 	<key>@MMK_L_nine.lf</key>
 	<array>
@@ -771,13 +773,13 @@
 	<key>@MMK_L_o</key>
 	<array>
 		<string>b</string>
-		<string>schwa</string>
 		<string>o</string>
 		<string>odotbelow</string>
 		<string>oogonek</string>
 		<string>oslash</string>
 		<string>p</string>
 		<string>thorn</string>
+		<string>schwa</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -814,7 +816,6 @@
 		<string>iu-cy</string>
 		<string>dje-cy</string>
 		<string>fita-cy</string>
-		<string>izhitsa-cy</string>
 		<string>haabkhasian-cy</string>
 		<string>ustraitstroke-cy</string>
 		<string>cheabkhasian-cy</string>
@@ -857,10 +858,10 @@
 		<string>obarreddieresis-cy</string>
 		<string>edieresis-cy</string>
 		<string>ve-cy.loclBGR</string>
-		<string>be-cy.loclMKD</string>
 		<string>be-cy.loclSRB</string>
 		<string>be-cy.ss09</string>
 		<string>ve-cy.ss10</string>
+		<string>be-cy.loclMKD</string>
 	</array>
 	<key>@MMK_L_q</key>
 	<array>
@@ -1444,10 +1445,10 @@
 		<string>schwa-cy</string>
 		<string>qa-cy</string>
 		<string>de-cy.loclBGR</string>
-		<string>de-cy.loclMKD</string>
 		<string>de-cy.loclSRB</string>
 		<string>de-cy.ss09</string>
 		<string>de-cy.ss10</string>
+		<string>de-cy.loclMKD</string>
 		<string>aie-cy</string>
 	</array>
 	<key>@MMK_R_aaccent</key>
@@ -1804,10 +1805,6 @@
 		<string>hastroke-cy</string>
 		<string>ertick-cy</string>
 		<string>enlefthook-cy</string>
-		<string>ge-cy.loclMKD</string>
-		<string>pe-cy.loclMKD</string>
-		<string>te-cy.loclMKD</string>
-		<string>sha-cy.loclMKD</string>
 		<string>ge-cy.loclSRB</string>
 		<string>pe-cy.loclSRB</string>
 		<string>te-cy.loclSRB</string>
@@ -1816,6 +1813,10 @@
 		<string>pe-cy.ss09</string>
 		<string>te-cy.ss09</string>
 		<string>sha-cy.ss09</string>
+		<string>ge-cy.loclMKD</string>
+		<string>pe-cy.loclMKD</string>
+		<string>te-cy.loclMKD</string>
+		<string>sha-cy.loclMKD</string>
 		<string>enghe-cy</string>
 		<string>tetse-cy</string>
 		<string>mu</string>
