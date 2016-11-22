@@ -3,7 +3,7 @@
   <advance width="408"/>
   <outline>
     <component base="a.sc.ss05"/>
-    <component base="ogonek.u" xOffset="156" yOffset="-4"/>
+    <component base="ogonek.u" xOffset="166" yOffset="-4"/>
     <component base="acutecomb.case" xOffset="109" yOffset="-134"/>
     <contour>
       <point x="320" y="10" type="move" name="ogonek"/>

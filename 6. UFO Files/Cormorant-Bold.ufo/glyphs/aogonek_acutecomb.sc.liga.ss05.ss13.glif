@@ -3,8 +3,8 @@
   <advance width="411"/>
   <outline>
     <component base="a.sc.ss05"/>
-    <component base="ogonek.u" xOffset="145" yOffset="-5"/>
-    <component base="acutecomb.sc.ss13" xOffset="156"/>
+    <component base="ogonek.u" xOffset="155" yOffset="-5"/>
+    <component base="acutecomb.sc.ss13" xOffset="151"/>
     <contour>
       <point x="320" y="10" type="move" name="ogonek"/>
     </contour>
