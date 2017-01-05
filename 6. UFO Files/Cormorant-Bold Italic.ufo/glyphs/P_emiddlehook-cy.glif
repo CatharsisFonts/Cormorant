@@ -106,6 +106,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>Dje-cy</string>
       <key>com.typemytype.robofont.layerData</key>

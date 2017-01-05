@@ -66,7 +66,6 @@
 		<string>Adieresis-cy</string>
 		<string>De-cy.loclBGR</string>
 		<string>El-cy.loclBGR</string>
-		<string>Eltail-cy.loclBGR</string>
 		<string>A-cy.ss02</string>
 		<string>De-cy.ss02</string>
 		<string>El-cy.ss02</string>
@@ -76,6 +75,7 @@
 		<string>De-cy.ss10</string>
 		<string>El-cy.ss10</string>
 		<string>Eltail-cy.ss10</string>
+		<string>Eltail-cy.loclBGR</string>
 		<string>Delta</string>
 	</array>
 	<key>@MMK_L_C</key>
@@ -264,11 +264,11 @@
 		<string>Gheupturn-cy</string>
 		<string>Te-cy</string>
 		<string>Ghestroke-cy</string>
+		<string>Enghe-cy</string>
 		<string>Tedescender-cy</string>
 		<string>Gedescender-cy</string>
 		<string>Gestrokehook-cy</string>
 		<string>Ghestroke-cy.loclBSH</string>
-		<string>Enghe-cy</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
@@ -431,6 +431,7 @@
 		<string>endescender-cy</string>
 		<string>pedescender-cy</string>
 		<string>tedescender-cy</string>
+		<string>tetse-cy</string>
 		<string>chedescender-cy</string>
 		<string>cheverticalstroke-cy</string>
 		<string>shha-cy</string>
@@ -455,7 +456,6 @@
 		<string>pe-cy.loclMKD</string>
 		<string>te-cy.loclMKD</string>
 		<string>sha-cy.loclMKD</string>
-		<string>tetse-cy</string>
 		<string>mu</string>
 		<string>iitail-cy</string>
 	</array>
@@ -663,8 +663,8 @@
 	<array>
 		<string>gheupturn-cy</string>
 		<string>izhitsa-cy</string>
-		<string>gestrokehook-cy</string>
 		<string>enghe-cy</string>
+		<string>gestrokehook-cy</string>
 	</array>
 	<key>@MMK_L_idieresis</key>
 	<array>
@@ -773,13 +773,13 @@
 	<key>@MMK_L_o</key>
 	<array>
 		<string>b</string>
+		<string>schwa</string>
 		<string>o</string>
 		<string>odotbelow</string>
 		<string>oogonek</string>
 		<string>oslash</string>
 		<string>p</string>
 		<string>thorn</string>
-		<string>schwa</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -804,11 +804,11 @@
 		<string>Dje-cy</string>
 		<string>Yat-cy</string>
 		<string>Ghemiddlehook-cy</string>
-		<string>Pemiddlehook-cy</string>
 		<string>Shha-cy</string>
 		<string>Shhadescender-cy</string>
 		<string>Semisoftsign-cy</string>
 		<string>Lje-cy.ss02</string>
+		<string>Pemiddlehook-cy</string>
 		<string>o-cy</string>
 		<string>er-cy</string>
 		<string>ef-cy</string>
@@ -820,13 +820,13 @@
 		<string>ustraitstroke-cy</string>
 		<string>cheabkhasian-cy</string>
 		<string>chedescenderabkhasian-cy</string>
+		<string>aie-cy</string>
 		<string>schwa-cy</string>
 		<string>obarred-cy</string>
 		<string>we-cy</string>
 		<string>ertick-cy</string>
 		<string>iu-cy.loclBGR</string>
 		<string>iu-cy.ss10</string>
-		<string>aie-cy</string>
 	</array>
 	<key>@MMK_L_oaccent</key>
 	<array>
@@ -937,8 +937,8 @@
 		<string>lje-cy</string>
 		<string>nje-cy</string>
 		<string>yat-cy</string>
-		<string>pemiddlehook-cy</string>
 		<string>semisoftsign-cy</string>
+		<string>pemiddlehook-cy</string>
 	</array>
 	<key>@MMK_L_tz</key>
 	<array>
@@ -1048,9 +1048,9 @@
 		<string>Ia-cy</string>
 		<string>Abreve-cy</string>
 		<string>Adieresis-cy</string>
+		<string>Aie-cy</string>
 		<string>De-cy.loclBGR</string>
 		<string>El-cy.loclBGR</string>
-		<string>Eltail-cy.loclBGR</string>
 		<string>A-cy.ss02</string>
 		<string>De-cy.ss02</string>
 		<string>El-cy.ss02</string>
@@ -1061,7 +1061,7 @@
 		<string>De-cy.ss10</string>
 		<string>El-cy.ss10</string>
 		<string>Eltail-cy.ss10</string>
-		<string>Aie-cy</string>
+		<string>Eltail-cy.loclBGR</string>
 		<string>Delta</string>
 	</array>
 	<key>@MMK_R_Che-cy</key>
@@ -1073,12 +1073,12 @@
 	</array>
 	<key>@MMK_R_De-cy</key>
 	<array>
-		<string>Eldescender-cy</string>
 		<string>De-cy</string>
 		<string>El-cy</string>
 		<string>Lje-cy</string>
 		<string>Eltail-cy</string>
 		<string>Elhook-cy</string>
+		<string>Eldescender-cy</string>
 	</array>
 	<key>@MMK_R_O</key>
 	<array>
@@ -1442,6 +1442,7 @@
 		<string>a-cy</string>
 		<string>abreve-cy</string>
 		<string>adieresis-cy</string>
+		<string>aie-cy</string>
 		<string>schwa-cy</string>
 		<string>qa-cy</string>
 		<string>de-cy.loclBGR</string>
@@ -1449,7 +1450,6 @@
 		<string>de-cy.ss09</string>
 		<string>de-cy.ss10</string>
 		<string>de-cy.loclMKD</string>
-		<string>aie-cy</string>
 	</array>
 	<key>@MMK_R_aaccent</key>
 	<array>
@@ -1791,10 +1791,11 @@
 		<string>kadescender-cy</string>
 		<string>kaverticalstroke-cy</string>
 		<string>endescender-cy</string>
+		<string>enghe-cy</string>
 		<string>pedescender-cy</string>
-		<string>pemiddlehook-cy</string>
 		<string>tedescender-cy</string>
 		<string>hadescender-cy</string>
+		<string>tetse-cy</string>
 		<string>zhebreve-cy</string>
 		<string>kahook-cy</string>
 		<string>enhook-cy</string>
@@ -1813,12 +1814,11 @@
 		<string>pe-cy.ss09</string>
 		<string>te-cy.ss09</string>
 		<string>sha-cy.ss09</string>
+		<string>pemiddlehook-cy</string>
 		<string>ge-cy.loclMKD</string>
 		<string>pe-cy.loclMKD</string>
 		<string>te-cy.loclMKD</string>
 		<string>sha-cy.loclMKD</string>
-		<string>enghe-cy</string>
-		<string>tetse-cy</string>
 		<string>mu</string>
 		<string>iitail-cy</string>
 	</array>

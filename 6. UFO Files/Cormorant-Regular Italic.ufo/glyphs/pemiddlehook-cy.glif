@@ -90,6 +90,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

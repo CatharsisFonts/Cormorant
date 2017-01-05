@@ -5,4 +5,10 @@
     <component base="ii-cy.loclBGR.sc"/>
     <component base="dieresiscomb" xOffset="128" yOffset="70"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
 </glyph>
