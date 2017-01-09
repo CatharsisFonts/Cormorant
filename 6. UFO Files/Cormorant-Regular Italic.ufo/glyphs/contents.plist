@@ -758,40 +758,76 @@
 	<string>R_.glif</string>
 	<key>R.short</key>
 	<string>R_.short.glif</string>
+	<key>R.short.ss02</key>
+	<string>R_.short.ss02.glif</string>
+	<key>R.ss02</key>
+	<string>R_.ss02.glif</string>
 	<key>Racute</key>
 	<string>R_acute.glif</string>
 	<key>Racute.short</key>
 	<string>R_acute.short.glif</string>
+	<key>Racute.short.ss02</key>
+	<string>R_acute.short.ss02.glif</string>
+	<key>Racute.short.ss02.ss13</key>
+	<string>R_acute.short.ss02.ss13.glif</string>
 	<key>Racute.short.ss13</key>
 	<string>R_acute.short.ss13.glif</string>
+	<key>Racute.ss02</key>
+	<string>R_acute.ss02.glif</string>
+	<key>Racute.ss02.ss13</key>
+	<string>R_acute.ss02.ss13.glif</string>
 	<key>Racute.ss13</key>
 	<string>R_acute.ss13.glif</string>
 	<key>Rcaron</key>
 	<string>R_caron.glif</string>
 	<key>Rcaron.short</key>
 	<string>R_caron.short.glif</string>
+	<key>Rcaron.short.ss02</key>
+	<string>R_caron.short.ss02.glif</string>
+	<key>Rcaron.short.ss02.ss13</key>
+	<string>R_caron.short.ss02.ss13.glif</string>
 	<key>Rcaron.short.ss13</key>
 	<string>R_caron.short.ss13.glif</string>
+	<key>Rcaron.ss02</key>
+	<string>R_caron.ss02.glif</string>
+	<key>Rcaron.ss02.ss13</key>
+	<string>R_caron.ss02.ss13.glif</string>
 	<key>Rcaron.ss13</key>
 	<string>R_caron.ss13.glif</string>
 	<key>Rcommaaccent</key>
 	<string>R_commaaccent.glif</string>
 	<key>Rcommaaccent.short</key>
 	<string>R_commaaccent.short.glif</string>
+	<key>Rcommaaccent.short.ss02</key>
+	<string>R_commaaccent.short.ss02.glif</string>
+	<key>Rcommaaccent.ss02</key>
+	<string>R_commaaccent.ss02.glif</string>
 	<key>Rdotbelow</key>
 	<string>R_dotbelow.glif</string>
 	<key>Rdotbelow.short</key>
 	<string>R_dotbelow.short.glif</string>
+	<key>Rdotbelow.short.ss02</key>
+	<string>R_dotbelow.short.ss02.glif</string>
+	<key>Rdotbelow.ss02</key>
+	<string>R_dotbelow.ss02.glif</string>
 	<key>Rdotbelowmacron</key>
 	<string>R_dotbelowmacron.glif</string>
 	<key>Rdotbelowmacron.short</key>
 	<string>R_dotbelowmacron.short.glif</string>
+	<key>Rdotbelowmacron.short.ss02</key>
+	<string>R_dotbelowmacron.short.ss02.glif</string>
+	<key>Rdotbelowmacron.ss02</key>
+	<string>R_dotbelowmacron.ss02.glif</string>
 	<key>Reversedze-cy</key>
 	<string>R_eversedze-cy.glif</string>
 	<key>Rlinebelow</key>
 	<string>R_linebelow.glif</string>
 	<key>Rlinebelow.short</key>
 	<string>R_linebelow.short.glif</string>
+	<key>Rlinebelow.short.ss02</key>
+	<string>R_linebelow.short.ss02.glif</string>
+	<key>Rlinebelow.ss02</key>
+	<string>R_linebelow.ss02.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
 	<key>Sacute</key>

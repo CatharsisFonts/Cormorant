@@ -241,12 +241,25 @@
 		<string>Rdotbelow.short</string>
 		<string>Rdotbelowmacron.short</string>
 		<string>Rlinebelow.short</string>
+		<string>R.ss02</string>
+		<string>Racute.ss02</string>
+		<string>Rcaron.ss02</string>
+		<string>Rcommaaccent.ss02</string>
+		<string>Rdotbelow.ss02</string>
+		<string>Rdotbelowmacron.ss02</string>
+		<string>Rlinebelow.ss02</string>
+		<string>Rdotbelow.short.ss02</string>
+		<string>Rdotbelowmacron.short.ss02</string>
+		<string>Rlinebelow.short.ss02</string>
 		<string>Racute.ss13</string>
 		<string>Rcaron.ss13</string>
+		<string>Racute.ss02.ss13</string>
+		<string>Rcaron.ss02.ss13</string>
 	</array>
 	<key>@MMK_L_R.short</key>
 	<array>
 		<string>R.short</string>
+		<string>R.short.ss02</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>

@@ -361,7 +361,21 @@
 		<string>Aring.ss02</string>
 		<string>Aringacute.ss02</string>
 		<string>Atilde.ss02</string>
+		<string>R.ss02</string>
+		<string>Racute.ss02</string>
+		<string>Rcaron.ss02</string>
+		<string>Rcommaaccent.ss02</string>
+		<string>Rdotbelow.ss02</string>
+		<string>Rdotbelowmacron.ss02</string>
+		<string>Rlinebelow.ss02</string>
 		<string>Q.long.ss02</string>
+		<string>R.short.ss02</string>
+		<string>Racute.short.ss02</string>
+		<string>Rcaron.short.ss02</string>
+		<string>Rcommaaccent.short.ss02</string>
+		<string>Rdotbelow.short.ss02</string>
+		<string>Rdotbelowmacron.short.ss02</string>
+		<string>Rlinebelow.short.ss02</string>
 		<string>U.ss03</string>
 		<string>Uacute.ss03</string>
 		<string>Ubreve.ss03</string>
@@ -482,6 +496,10 @@
 		<string>Uhorngrave.ss01.ss13</string>
 		<string>Uhungarumlaut.ss01.ss13</string>
 		<string>Uacute.loclHUN.ss01.ss13</string>
+		<string>Racute.ss02.ss13</string>
+		<string>Rcaron.ss02.ss13</string>
+		<string>Racute.short.ss02.ss13</string>
+		<string>Rcaron.short.ss02.ss13</string>
 		<string>Uacute.ss03.ss13</string>
 		<string>Ucaron.ss03.ss13</string>
 		<string>Ucircumflex.ss03.ss13</string>
