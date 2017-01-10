@@ -28,16 +28,15 @@
 		<string>Aring</string>
 		<string>Aringacute</string>
 		<string>Atilde</string>
-		<string>Aacute.ss13.001</string>
+		<string>Aogonek_acutecomb.liga</string>
 		<string>Aacute.loclHUN</string>
 		<string>Aacute.ss13</string>
 		<string>Acaron.ss13</string>
 		<string>Acircumflex.ss13</string>
 		<string>Acircumflexdotbelow.ss13</string>
 		<string>Agrave.ss13</string>
-		<string>Aacute.loclHUN.ss13</string>
-		<string>Aogonek_acutecomb.liga</string>
 		<string>Aogonek_acutecomb.liga.ss13</string>
+		<string>Aacute.loclHUN.ss13</string>
 		<string>Delta</string>
 	</array>
 	<key>@MMK_L_C</key>
@@ -63,8 +62,8 @@
 	<array>
 		<string>J</string>
 		<string>Jcircumflex</string>
-		<string>J.loclNLD</string>
 		<string>J_acutecomb.liga</string>
+		<string>J.loclNLD</string>
 		<string>J_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_L_K</key>
@@ -130,6 +129,7 @@
 		<string>Q.cv02</string>
 		<string>Q.cv03</string>
 		<string>Q.cv04</string>
+		<string>Oogonek_acutecomb.liga</string>
 		<string>Oacute.loclHUN</string>
 		<string>Oacute.loclPLK</string>
 		<string>Q.long</string>
@@ -147,10 +147,9 @@
 		<string>Ohorngrave.ss13</string>
 		<string>Ohungarumlaut.ss13</string>
 		<string>Oslashacute.ss13</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>Oacute.loclHUN.ss13</string>
 		<string>Oacute.loclPLK.ss13</string>
-		<string>Oogonek_acutecomb.liga</string>
-		<string>Oogonek_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_L_P</key>
 	<array>
@@ -190,19 +189,19 @@
 	<key>@MMK_L_U</key>
 	<array>
 		<string>IJ</string>
+		<string>IJ_acutecomb.liga</string>
 		<string>Uacute.ss13</string>
 		<string>Ucaron.ss13</string>
 		<string>Ucircumflex.ss13</string>
 		<string>Ugrave.ss13</string>
 		<string>Uhungarumlaut.ss13</string>
+		<string>IJ_acutecomb.liga.ss13</string>
 		<string>Uacute.loclHUN.ss13</string>
 		<string>Iacute_J_acutecomb</string>
 		<string>Iacute_J.dlig</string>
 		<string>I_J.loclNLD.dlig</string>
 		<string>Iacute_J_acutecomb.ss13</string>
 		<string>Iacute_J.dlig.ss13</string>
-		<string>IJ_acutecomb.liga</string>
-		<string>IJ_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_L_V</key>
 	<array>
@@ -320,6 +319,7 @@
 		<string>umacron</string>
 		<string>uring</string>
 		<string>utilde</string>
+		<string>aogonek_acutecomb.liga</string>
 		<string>aacute.loclHUN</string>
 		<string>uacute.loclHUN</string>
 		<string>adieresis.ss04</string>
@@ -345,11 +345,10 @@
 		<string>aring.ss07</string>
 		<string>aringacute.ss07</string>
 		<string>atilde.ss07</string>
+		<string>aogonek_acutecomb.liga.ss07</string>
 		<string>aacute.loclHUN.ss07</string>
 		<string>aacute.loclHUN.ss13</string>
 		<string>aacute.loclHUN.ss07.ss13</string>
-		<string>aogonek_acutecomb.liga</string>
-		<string>aogonek_acutecomb.liga.ss07</string>
 	</array>
 	<key>@MMK_L_c</key>
 	<array>
@@ -385,9 +384,9 @@
 		<string>emacron</string>
 		<string>eogonek</string>
 		<string>etilde</string>
+		<string>eogonek_acutecomb.liga</string>
 		<string>eacute.loclHUN</string>
 		<string>eacute.loclHUN.ss13</string>
-		<string>eogonek_acutecomb.liga</string>
 	</array>
 	<key>@MMK_L_comma</key>
 	<array>
@@ -552,13 +551,13 @@
 	<key>@MMK_L_o</key>
 	<array>
 		<string>b</string>
+		<string>schwa</string>
 		<string>o</string>
 		<string>odotbelow</string>
 		<string>oogonek</string>
 		<string>oslash</string>
 		<string>p</string>
 		<string>thorn</string>
-		<string>schwa</string>
 		<string>v</string>
 		<string>w</string>
 		<string>wacute</string>
@@ -596,11 +595,11 @@
 		<string>omacron</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
+		<string>oogonek_acutecomb.liga</string>
 		<string>oacute.loclHUN</string>
 		<string>odieresis.ss04</string>
 		<string>oacute.loclHUN.ss13</string>
 		<string>ohungarumlaut.ss13</string>
-		<string>oogonek_acutecomb.liga</string>
 	</array>
 	<key>@MMK_L_q</key>
 	<array>
@@ -724,7 +723,7 @@
 		<string>AE</string>
 		<string>AEacute</string>
 		<string>AEmacron</string>
-		<string>Aacute.ss13.001</string>
+		<string>Aogonek_acutecomb.liga</string>
 		<string>Aacute.loclHUN</string>
 		<string>Adieresis.ss04</string>
 		<string>Aacute.ss13</string>
@@ -733,9 +732,8 @@
 		<string>Acircumflexdotbelow.ss13</string>
 		<string>Agrave.ss13</string>
 		<string>AEacute.ss13</string>
-		<string>Aacute.loclHUN.ss13</string>
-		<string>Aogonek_acutecomb.liga</string>
 		<string>Aogonek_acutecomb.liga.ss13</string>
+		<string>Aacute.loclHUN.ss13</string>
 		<string>Delta</string>
 	</array>
 	<key>@MMK_R_O</key>
@@ -785,6 +783,7 @@
 		<string>Q.cv02</string>
 		<string>Q.cv03</string>
 		<string>Q.cv04</string>
+		<string>Oogonek_acutecomb.liga</string>
 		<string>Oacute.loclHUN</string>
 		<string>Cacute.loclPLK</string>
 		<string>Oacute.loclPLK</string>
@@ -807,11 +806,10 @@
 		<string>Ohorngrave.ss13</string>
 		<string>Ohungarumlaut.ss13</string>
 		<string>Oslashacute.ss13</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>Oacute.loclHUN.ss13</string>
 		<string>Cacute.loclPLK.ss13</string>
 		<string>Oacute.loclPLK.ss13</string>
-		<string>Oogonek_acutecomb.liga</string>
-		<string>Oogonek_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_R_S</key>
 	<array>
@@ -867,6 +865,7 @@
 		<string>Uogonek</string>
 		<string>Uring</string>
 		<string>Utilde</string>
+		<string>IJ_acutecomb.liga</string>
 		<string>Uacute.loclHUN</string>
 		<string>Udieresis.ss04</string>
 		<string>Uacute.ss13</string>
@@ -875,14 +874,13 @@
 		<string>Ugrave.ss13</string>
 		<string>Uhorngrave.ss13</string>
 		<string>Uhungarumlaut.ss13</string>
+		<string>IJ_acutecomb.liga.ss13</string>
 		<string>Uacute.loclHUN.ss13</string>
 		<string>Iacute_J_acutecomb</string>
 		<string>Iacute_J.dlig</string>
 		<string>I_J.loclNLD.dlig</string>
 		<string>Iacute_J_acutecomb.ss13</string>
 		<string>Iacute_J.dlig.ss13</string>
-		<string>IJ_acutecomb.liga</string>
-		<string>IJ_acutecomb.liga.ss13</string>
 	</array>
 	<key>@MMK_R_V</key>
 	<array>
@@ -988,13 +986,13 @@
 		<string>gcircumflex</string>
 		<string>gcommaaccent</string>
 		<string>gdotaccent</string>
+		<string>aogonek_acutecomb.liga</string>
 		<string>aacute.loclHUN</string>
 		<string>adieresis.ss04</string>
+		<string>aogonek_acutecomb.liga.ss07</string>
 		<string>aacute.loclHUN.ss13</string>
 		<string>gbreve_u</string>
 		<string>gbreve_udieresis</string>
-		<string>aogonek_acutecomb.liga</string>
-		<string>aogonek_acutecomb.liga.ss07</string>
 	</array>
 	<key>@MMK_R_ampersand</key>
 	<array>
@@ -1306,6 +1304,8 @@
 		<string>omacron</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
+		<string>eogonek_acutecomb.liga</string>
+		<string>oogonek_acutecomb.liga</string>
 		<string>eacute.loclHUN</string>
 		<string>oacute.loclHUN</string>
 		<string>odieresis.ss04</string>
@@ -1335,8 +1335,6 @@
 		<string>oacute.loclHUN.ss13</string>
 		<string>ohungarumlaut.ss13</string>
 		<string>aacute.loclHUN.ss07.ss13</string>
-		<string>eogonek_acutecomb.liga</string>
-		<string>oogonek_acutecomb.liga</string>
 	</array>
 	<key>@MMK_R_p</key>
 	<array>

@@ -118,6 +118,7 @@
 		<string>Etilde</string>
 		<string>F</string>
 		<string>G</string>
+		<string>G_tildecomb</string>
 		<string>Gbreve</string>
 		<string>Gcaron</string>
 		<string>Gcircumflex</string>
@@ -270,12 +271,17 @@
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
 		<string>Zdotbelow</string>
-		<string>Aacute.ss13.001</string>
 		<string>J.acute</string>
 		<string>Q.cv01</string>
 		<string>Q.cv02</string>
 		<string>Q.cv03</string>
 		<string>Q.cv04</string>
+		<string>Aogonek_acutecomb.liga</string>
+		<string>Eogonek_acutecomb.liga</string>
+		<string>IJ_acutecomb.liga</string>
+		<string>Iogonek_acutecomb.liga</string>
+		<string>J_acutecomb.liga</string>
+		<string>Oogonek_acutecomb.liga</string>
 		<string>Aacute.loclHUN</string>
 		<string>Eacute.loclHUN</string>
 		<string>Iacute.loclHUN</string>
@@ -370,6 +376,12 @@
 		<string>Ygrave.ss13</string>
 		<string>Zacute.ss13</string>
 		<string>Zcaron.ss13</string>
+		<string>Aogonek_acutecomb.liga.ss13</string>
+		<string>Eogonek_acutecomb.liga.ss13</string>
+		<string>IJ_acutecomb.liga.ss13</string>
+		<string>Iogonek_acutecomb.liga.ss13</string>
+		<string>J_acutecomb.liga.ss13</string>
+		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>Aacute.loclHUN.ss13</string>
 		<string>Eacute.loclHUN.ss13</string>
 		<string>Iacute.loclHUN.ss13</string>
@@ -441,6 +453,7 @@
 		<string>emacron</string>
 		<string>eogonek</string>
 		<string>etilde</string>
+		<string>schwa</string>
 		<string>f</string>
 		<string>g</string>
 		<string>gbreve</string>
@@ -545,7 +558,6 @@
 		<string>sdotbelow</string>
 		<string>germandbls</string>
 		<string>longs</string>
-		<string>schwa</string>
 		<string>t</string>
 		<string>tbar</string>
 		<string>tcaron</string>
@@ -625,6 +637,12 @@
 		<string>lslash.clipped</string>
 		<string>thorn.clipped</string>
 		<string>f.cv05</string>
+		<string>aogonek_acutecomb.liga</string>
+		<string>eogonek_acutecomb.liga</string>
+		<string>ij_acutecomb.liga</string>
+		<string>iogonek_acutecomb.liga</string>
+		<string>j_acutecomb.liga</string>
+		<string>oogonek_acutecomb.liga</string>
 		<string>aacute.loclHUN</string>
 		<string>eacute.loclHUN</string>
 		<string>iacute.loclHUN</string>
@@ -634,6 +652,7 @@
 		<string>j.loclNLD</string>
 		<string>f.short</string>
 		<string>g.ss02</string>
+		<string>g_tildecomb.ss02</string>
 		<string>gbreve.ss02</string>
 		<string>gcaron.ss02</string>
 		<string>gcircumflex.ss02</string>
@@ -679,6 +698,7 @@
 		<string>aring.ss07</string>
 		<string>aringacute.ss07</string>
 		<string>atilde.ss07</string>
+		<string>aogonek_acutecomb.liga.ss07</string>
 		<string>aacute.loclHUN.ss07</string>
 		<string>aacute.loclHUN.ss13</string>
 		<string>eacute.loclHUN.ss13</string>
@@ -804,28 +824,7 @@
 		<string>Iacute_J.dlig.ss13</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
-		<string>G_tildecomb</string>
 		<string>nmod</string>
-		<string>Aogonek_acutecomb.liga</string>
-		<string>Eogonek_acutecomb.liga</string>
-		<string>IJ_acutecomb.liga</string>
-		<string>Iogonek_acutecomb.liga</string>
-		<string>J_acutecomb.liga</string>
-		<string>Oogonek_acutecomb.liga</string>
-		<string>aogonek_acutecomb.liga</string>
-		<string>eogonek_acutecomb.liga</string>
-		<string>ij_acutecomb.liga</string>
-		<string>iogonek_acutecomb.liga</string>
-		<string>j_acutecomb.liga</string>
-		<string>oogonek_acutecomb.liga</string>
-		<string>g_tildecomb.ss02</string>
-		<string>aogonek_acutecomb.liga.ss07</string>
-		<string>Aogonek_acutecomb.liga.ss13</string>
-		<string>Eogonek_acutecomb.liga.ss13</string>
-		<string>IJ_acutecomb.liga.ss13</string>
-		<string>Iogonek_acutecomb.liga.ss13</string>
-		<string>J_acutecomb.liga.ss13</string>
-		<string>Oogonek_acutecomb.liga.ss13</string>
 		<string>Delta</string>
 		<string>Omega</string>
 		<string>mu</string>
@@ -850,6 +849,7 @@
 		<string>seven.lf</string>
 		<string>eight.lf</string>
 		<string>nine.lf</string>
+		<string>zero.lf.zero</string>
 		<string>zero.sinf</string>
 		<string>one.sinf</string>
 		<string>two.sinf</string>
@@ -870,6 +870,7 @@
 		<string>seven.tf</string>
 		<string>eight.tf</string>
 		<string>nine.tf</string>
+		<string>zero.tf.zero</string>
 		<string>zero.tosf</string>
 		<string>one.tosf</string>
 		<string>two.tosf</string>
@@ -880,10 +881,8 @@
 		<string>seven.tosf</string>
 		<string>eight.tosf</string>
 		<string>nine.tosf</string>
-		<string>zero.zero</string>
-		<string>zero.lf.zero</string>
-		<string>zero.tf.zero</string>
 		<string>zero.tosf.zero</string>
+		<string>zero.zero</string>
 		<string>zeroinferior</string>
 		<string>oneinferior</string>
 		<string>twoinferior</string>

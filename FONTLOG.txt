@@ -47,7 +47,11 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
-2016-XX-XX: Release v3.3
+2017-01-10: Release v3.301
+Fixed two incredibly minor things that came up in Google Fonts QA.  If you just installed v3.3, don't bother with this update, unless you happen to use /three.sups in the Upright cut.  ;o)  Also changed the version numbering scheme for consistence with the Glyphs-internal version numbering.
+
+
+2017-01-05: Release v3.3
 Significant overhaul and expansion of the Cyrillic inventory based on reviews by Alexei Vanyashin.  See the Google Fonts forum threads on Cormorant for details.
 
 

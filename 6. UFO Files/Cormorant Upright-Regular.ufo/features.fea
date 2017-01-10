@@ -1,5 +1,5 @@
 # automatic
-@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kacute Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Llinebelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Aacute.ss13.001 J.acute Q.cv01 Q.cv02 Q.cv03 Q.cv04 Aacute.loclHUN Eacute.loclHUN Iacute.loclHUN Oacute.loclHUN Uacute.loclHUN I.loclNLD J.loclNLD Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Q.long F.short R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short Y.ss01 Yacute.ss01 Ycircumflex.ss01 Ydieresis.ss01 Ydotaccent.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ymacron.ss01 Ytilde.ss01 Q.long.ss01 Q.long.ss03 Adieresis.ss04 Odieresis.ss04 Udieresis.ss04 Q.long.ss08 Aacute.ss13 Acaron.ss13 Acircumflex.ss13 Acircumflexdotbelow.ss13 Agrave.ss13 AEacute.ss13 Cacute.ss13 Ccaron.ss13 Ccircumflex.ss13 Dcaron.ss13 Eacute.ss13 Ecaron.ss13 Ecircumflex.ss13 Ecircumflexdotbelow.ss13 Egrave.ss13 Gcaron.ss13 Gcircumflex.ss13 Hcircumflex.ss13 Iacute.ss13 Icaron.ss13 Icircumflex.ss13 Igrave.ss13 Jcircumflex.ss13 Kacute.ss13 Kcaron.ss13 Lacute.ss13 Nacute.ss13 Ncaron.ss13 Oacute.ss13 Ocaron.ss13 Ocircumflex.ss13 Ocircumflexdotbelow.ss13 Ograve.ss13 Ohornacute.ss13 Ohorngrave.ss13 Ohungarumlaut.ss13 Oslashacute.ss13 Racute.ss13 Rcaron.ss13 Sacute.ss13 Scaron.ss13 Scircumflex.ss13 Tcaron.ss13 Uacute.ss13 Ucaron.ss13 Ucircumflex.ss13 Ugrave.ss13 Uhorngrave.ss13 Uhungarumlaut.ss13 Wacute.ss13 Wcircumflex.ss13 Wgrave.ss13 Yacute.ss13 Ycircumflex.ss13 Ygrave.ss13 Zacute.ss13 Zcaron.ss13 Aacute.loclHUN.ss13 Eacute.loclHUN.ss13 Iacute.loclHUN.ss13 Oacute.loclHUN.ss13 Uacute.loclHUN.ss13 Cacute.loclPLK.ss13 Nacute.loclPLK.ss13 Oacute.loclPLK.ss13 Sacute.loclPLK.ss13 Zacute.loclPLK.ss13 Racute.short.ss13 Rcaron.short.ss13 Delta Omega ];
+@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Aringacute Atilde AE AEacute AEmacron B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat Ddotbelow Dlinebelow E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G G_tildecomb Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kacute Kcaron Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Llinebelow Lslash M Mdotaccent Mdotbelow N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Eng Nlinebelow Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow J.acute Q.cv01 Q.cv02 Q.cv03 Q.cv04 Aogonek_acutecomb.liga Eogonek_acutecomb.liga IJ_acutecomb.liga Iogonek_acutecomb.liga J_acutecomb.liga Oogonek_acutecomb.liga Aacute.loclHUN Eacute.loclHUN Iacute.loclHUN Oacute.loclHUN Uacute.loclHUN I.loclNLD J.loclNLD Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Q.long F.short R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short Y.ss01 Yacute.ss01 Ycircumflex.ss01 Ydieresis.ss01 Ydotaccent.ss01 Ydotbelow.ss01 Ygrave.ss01 Yhookabove.ss01 Ymacron.ss01 Ytilde.ss01 Q.long.ss01 Q.long.ss03 Adieresis.ss04 Odieresis.ss04 Udieresis.ss04 Q.long.ss08 Aacute.ss13 Acaron.ss13 Acircumflex.ss13 Acircumflexdotbelow.ss13 Agrave.ss13 AEacute.ss13 Cacute.ss13 Ccaron.ss13 Ccircumflex.ss13 Dcaron.ss13 Eacute.ss13 Ecaron.ss13 Ecircumflex.ss13 Ecircumflexdotbelow.ss13 Egrave.ss13 Gcaron.ss13 Gcircumflex.ss13 Hcircumflex.ss13 Iacute.ss13 Icaron.ss13 Icircumflex.ss13 Igrave.ss13 Jcircumflex.ss13 Kacute.ss13 Kcaron.ss13 Lacute.ss13 Nacute.ss13 Ncaron.ss13 Oacute.ss13 Ocaron.ss13 Ocircumflex.ss13 Ocircumflexdotbelow.ss13 Ograve.ss13 Ohornacute.ss13 Ohorngrave.ss13 Ohungarumlaut.ss13 Oslashacute.ss13 Racute.ss13 Rcaron.ss13 Sacute.ss13 Scaron.ss13 Scircumflex.ss13 Tcaron.ss13 Uacute.ss13 Ucaron.ss13 Ucircumflex.ss13 Ugrave.ss13 Uhorngrave.ss13 Uhungarumlaut.ss13 Wacute.ss13 Wcircumflex.ss13 Wgrave.ss13 Yacute.ss13 Ycircumflex.ss13 Ygrave.ss13 Zacute.ss13 Zcaron.ss13 Aogonek_acutecomb.liga.ss13 Eogonek_acutecomb.liga.ss13 IJ_acutecomb.liga.ss13 Iogonek_acutecomb.liga.ss13 J_acutecomb.liga.ss13 Oogonek_acutecomb.liga.ss13 Aacute.loclHUN.ss13 Eacute.loclHUN.ss13 Iacute.loclHUN.ss13 Oacute.loclHUN.ss13 Uacute.loclHUN.ss13 Cacute.loclPLK.ss13 Nacute.loclPLK.ss13 Oacute.loclPLK.ss13 Sacute.loclPLK.ss13 Zacute.loclPLK.ss13 Racute.short.ss13 Rcaron.short.ss13 Delta Omega ];
 
 @Tlike = [ T Tbar Tcaron Tcedilla Tcommaaccent 
  ];
@@ -81,8 +81,7 @@ feature ss13;
 
 feature ccmp {
 # automatic
-lookup ccmp_latn_1 {
-	script latn;
+lookup ccmp_Other_1 {
 	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
@@ -91,30 +90,16 @@ lookup ccmp_latn_1 {
 	@MarkscombCase = [dotaccentcomb.case gravecomb.case acutecomb.case circumflexcomb.case brevecomb.case hookabovecomb.case acute.case breve.case caron.case circumflex.case dotaccent.case grave.case hungarumlaut.case tilde.narrow.case ring.case tilde.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
 	sub @Uppercase @Markscomb' by @MarkscombCase;
-} ccmp_latn_1;
+} ccmp_Other_1;
 
-lookup ccmp_latn_2 {
-	script latn;
+lookup ccmp_Other_2 {
 	sub @Markscomb' @MarkscombCase by @MarkscombCase;
 	sub @MarkscombCase @Markscomb' by @MarkscombCase;
-} ccmp_latn_2;
+} ccmp_Other_2;
 
-lookup ccmp_latn_3 {
+lookup ccmp_latn_1 {
 	script latn;
 	lookupflag 0;
-	sub G tildecomb by G_tildecomb;
-	sub Aogonek acutecomb by Aogonek_acutecomb.liga;
-	sub Eogonek acutecomb by Eogonek_acutecomb.liga;
-	sub IJ acutecomb by IJ_acutecomb.liga;
-	sub Iogonek acutecomb by Iogonek_acutecomb.liga;
-	sub J acutecomb by J_acutecomb.liga;
-	sub Oogonek acutecomb by Oogonek_acutecomb.liga;
-	sub aogonek acutecomb by aogonek_acutecomb.liga;
-	sub eogonek acutecomb by eogonek_acutecomb.liga;
-	sub ij acutecomb by ij_acutecomb.liga;
-	sub iogonek acutecomb by iogonek_acutecomb.liga;
-	sub j acutecomb by j_acutecomb.liga;
-	sub oogonek acutecomb by oogonek_acutecomb.liga;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
 	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
@@ -129,7 +114,7 @@ lookup ccmp_latn_3 {
 	sub circumflexcomb.case acutecomb.case by circumflexcomb_acutecomb.case;
 	sub circumflexcomb.case gravecomb.case by circumflexcomb_gravecomb.case;
 	sub circumflexcomb.case hookabovecomb.case by circumflexcomb_hookabovecomb.case;
-} ccmp_latn_3;
+} ccmp_latn_1;
 } ccmp;
 
 feature locl {
@@ -461,6 +446,7 @@ sub southWestArrow by southWestArrow.case;
 sub leftArrow by leftArrow.case;
 sub northWestArrow by northWestArrow.case;
 sub leftRightArrow by leftRightArrow.case;
+sub upDownArrow by upDownArrow.case;
 sub whiteBullet by whiteBullet.case;
 sub blackDiamond by blackDiamond.case;
 sub whiteDiamond by whiteDiamond.case;
@@ -774,10 +760,10 @@ sub J acutecomb by J_acutecomb.liga;
 
 feature zero {
 # automatic
-sub zero by zero.zero;
 sub zero.lf by zero.lf.zero;
 sub zero.tf by zero.tf.zero;
 sub zero.tosf by zero.tosf.zero;
+sub zero by zero.zero;
 } zero;
 
 feature salt {
@@ -902,11 +888,11 @@ sub aogonek by aogonek.ss07;
 sub aring by aring.ss07;
 sub aringacute by aringacute.ss07;
 sub atilde by atilde.ss07;
+sub aogonek_acutecomb.liga by aogonek_acutecomb.liga.ss07;
 sub aacute.loclHUN by aacute.loclHUN.ss07;
 sub f_f.a.liga by f_f.a.liga.ss07;
 sub f_f_t.a.liga by f_f_t.a.liga.ss07;
 sub f_t.a.liga by f_t.a.liga.ss07;
-sub aogonek_acutecomb.liga by aogonek_acutecomb.liga.ss07;
 } ss07;
 
 feature ss08 {
@@ -973,6 +959,12 @@ sub Ycircumflex by Ycircumflex.ss13;
 sub Ygrave by Ygrave.ss13;
 sub Zacute by Zacute.ss13;
 sub Zcaron by Zcaron.ss13;
+sub Aogonek_acutecomb.liga by Aogonek_acutecomb.liga.ss13;
+sub Eogonek_acutecomb.liga by Eogonek_acutecomb.liga.ss13;
+sub IJ_acutecomb.liga by IJ_acutecomb.liga.ss13;
+sub Iogonek_acutecomb.liga by Iogonek_acutecomb.liga.ss13;
+sub J_acutecomb.liga by J_acutecomb.liga.ss13;
+sub Oogonek_acutecomb.liga by Oogonek_acutecomb.liga.ss13;
 sub Aacute.loclHUN by Aacute.loclHUN.ss13;
 sub Eacute.loclHUN by Eacute.loclHUN.ss13;
 sub Iacute.loclHUN by Iacute.loclHUN.ss13;
@@ -995,12 +987,6 @@ sub aacute.loclHUN.ss07 by aacute.loclHUN.ss07.ss13;
 sub uhungarumlaut by uhungarumlaut.ss13;
 sub Iacute_J_acutecomb by Iacute_J_acutecomb.ss13;
 sub Iacute_J.dlig by Iacute_J.dlig.ss13;
-sub Aogonek_acutecomb.liga by Aogonek_acutecomb.liga.ss13;
-sub Eogonek_acutecomb.liga by Eogonek_acutecomb.liga.ss13;
-sub IJ_acutecomb.liga by IJ_acutecomb.liga.ss13;
-sub Iogonek_acutecomb.liga by Iogonek_acutecomb.liga.ss13;
-sub J_acutecomb.liga by J_acutecomb.liga.ss13;
-sub Oogonek_acutecomb.liga by Oogonek_acutecomb.liga.ss13;
 sub gravecomb.case by gravecomb.case.ss13;
 sub acutecomb.case by acutecomb.case.ss13;
 sub circumflexcomb.case by circumflexcomb.case.ss13;

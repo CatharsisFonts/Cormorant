@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron.short.ss02.ss13" format="1">
+  <advance width="476"/>
+  <outline>
+    <component base="R.short.ss02"/>
+    <component base="caroncomb.case.ss13" xOffset="129"/>
+  </outline>
+</glyph>
