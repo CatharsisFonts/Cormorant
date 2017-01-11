@@ -1,5 +1,5 @@
 {
-.appVersion = "963";
+.appVersion = "947";
 classes = (
 {
 automatic = 1;
@@ -26478,7 +26478,7 @@ name = c;
 },
 {
 name = cedilla;
-transform = "{1, 0, 0, 1, 116, 0}";
+transform = "{1, 0, 0, 1, 109, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -29002,7 +29002,7 @@ name = idotless;
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 49, 56}";
+transform = "{1, 0, 0, 1, 34, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -29285,7 +29285,7 @@ name = idotless;
 },
 {
 name = dieresis.narrow;
-transform = "{1, 0, 0, 1, -6, 56}";
+transform = "{1, 0, 0, 1, -31, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -29857,7 +29857,7 @@ name = jdotless;
 },
 {
 name = dotaccent;
-transform = "{1, 0, 0, 1, 65, 56}";
+transform = "{1, 0, 0, 1, 50, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -32509,7 +32509,7 @@ name = o;
 },
 {
 name = horncomb;
-transform = "{1, 0, 0, 1, 243, 53}";
+transform = "{1, 0, 0, 1, 227, -3}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -32792,7 +32792,7 @@ name = o;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 121, 2}";
+transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -35531,7 +35531,7 @@ name = u;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 112, 56}";
+transform = "{1, 0, 0, 1, 87, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -40630,7 +40630,7 @@ name = g.ss03;
 },
 {
 name = breve;
-transform = "{1, 0, 0, 1, 135, 56}";
+transform = "{1, 0, 0, 1, 112, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -41003,7 +41003,7 @@ name = y.ss03;
 },
 {
 name = acute;
-transform = "{1, 0, 0, 1, 166, 56}";
+transform = "{1, 0, 0, 1, 150, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -41036,7 +41036,7 @@ name = y.ss03;
 },
 {
 name = circumflex;
-transform = "{1, 0, 0, 1, 128, 56}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -41069,7 +41069,7 @@ name = y.ss03;
 },
 {
 name = dieresis;
-transform = "{1, 0, 0, 1, 116, 56}";
+transform = "{1, 0, 0, 1, 91, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -41169,7 +41169,7 @@ name = y.ss03;
 },
 {
 name = grave;
-transform = "{1, 0, 0, 1, 130, 56}";
+transform = "{1, 0, 0, 1, 108, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -41235,7 +41235,7 @@ name = y.ss03;
 },
 {
 name = macron;
-transform = "{1, 0, 0, 1, 95, 56}";
+transform = "{1, 0, 0, 1, 67, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -41268,7 +41268,7 @@ name = y.ss03;
 },
 {
 name = tilde;
-transform = "{1, 0, 0, 1, 116, 56}";
+transform = "{1, 0, 0, 1, 91, 0}";
 }
 );
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
@@ -129271,7 +129271,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -129392,6 +129406,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -130617,7 +130635,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -131087,7 +131107,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -131208,6 +131242,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -132433,7 +132471,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -132902,7 +132942,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -133023,6 +133077,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -134248,7 +134306,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -134719,7 +134779,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -134840,6 +134914,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -136065,7 +136143,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -136536,7 +136616,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -136657,6 +136751,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -137882,7 +137980,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -137934,7 +138034,21 @@ value = (
 "Aring.ss02=Aring",
 "Aringacute.ss02=Aringacute",
 "Atilde.ss02=Atilde",
+"R.ss02=R",
+"Racute.ss02=Racute",
+"Rcaron.ss02=Rcaron",
+"Rcommaaccent.ss02=Rcommaaccent",
+"Rdotbelow.ss02=Rdotbelow",
+"Rdotbelowmacron.ss02=Rdotbelowmacron",
+"Rlinebelow.ss02=Rlinebelow",
 "Q.long.ss02=Q.long",
+"R.short.ss02=R.short",
+"Racute.short.ss02=Racute.short",
+"Rcaron.short.ss02=Rcaron.short",
+"Rcommaaccent.short.ss02=Rcommaaccent.short",
+"Rdotbelow.short.ss02=Rdotbelow.short",
+"Rdotbelowmacron.short.ss02=Rdotbelowmacron.short",
+"Rlinebelow.short.ss02=Rlinebelow.short",
 "A-cy.ss02=A-cy",
 "De-cy.ss02=De-cy",
 "Ii-cy.ss02=Ii-cy",
@@ -138263,7 +138377,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -138384,6 +138512,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -139609,7 +139741,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -139661,7 +139795,21 @@ value = (
 "Aring.ss02=Aring",
 "Aringacute.ss02=Aringacute",
 "Atilde.ss02=Atilde",
+"R.ss02=R",
+"Racute.ss02=Racute",
+"Rcaron.ss02=Rcaron",
+"Rcommaaccent.ss02=Rcommaaccent",
+"Rdotbelow.ss02=Rdotbelow",
+"Rdotbelowmacron.ss02=Rdotbelowmacron",
+"Rlinebelow.ss02=Rlinebelow",
 "Q.long.ss02=Q.long",
+"R.short.ss02=R.short",
+"Racute.short.ss02=Racute.short",
+"Rcaron.short.ss02=Rcaron.short",
+"Rcommaaccent.short.ss02=Rcommaaccent.short",
+"Rdotbelow.short.ss02=Rdotbelow.short",
+"Rdotbelowmacron.short.ss02=Rdotbelowmacron.short",
+"Rlinebelow.short.ss02=Rlinebelow.short",
 "A-cy.ss02=A-cy",
 "De-cy.ss02=De-cy",
 "Ii-cy.ss02=Ii-cy",
@@ -139990,7 +140138,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -140111,6 +140273,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -141336,7 +141502,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -141387,7 +141555,21 @@ value = (
 "Aring.ss02=Aring",
 "Aringacute.ss02=Aringacute",
 "Atilde.ss02=Atilde",
+"R.ss02=R",
+"Racute.ss02=Racute",
+"Rcaron.ss02=Rcaron",
+"Rcommaaccent.ss02=Rcommaaccent",
+"Rdotbelow.ss02=Rdotbelow",
+"Rdotbelowmacron.ss02=Rdotbelowmacron",
+"Rlinebelow.ss02=Rlinebelow",
 "Q.long.ss02=Q.long",
+"R.short.ss02=R.short",
+"Racute.short.ss02=Racute.short",
+"Rcaron.short.ss02=Rcaron.short",
+"Rcommaaccent.short.ss02=Rcommaaccent.short",
+"Rdotbelow.short.ss02=Rdotbelow.short",
+"Rdotbelowmacron.short.ss02=Rdotbelowmacron.short",
+"Rlinebelow.short.ss02=Rlinebelow.short",
 "A-cy.ss02=A-cy",
 "De-cy.ss02=De-cy",
 "Ii-cy.ss02=Ii-cy",
@@ -141716,7 +141898,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -141837,6 +142033,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -143062,7 +143262,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -143115,7 +143317,21 @@ value = (
 "Aring.ss02=Aring",
 "Aringacute.ss02=Aringacute",
 "Atilde.ss02=Atilde",
+"R.ss02=R",
+"Racute.ss02=Racute",
+"Rcaron.ss02=Rcaron",
+"Rcommaaccent.ss02=Rcommaaccent",
+"Rdotbelow.ss02=Rdotbelow",
+"Rdotbelowmacron.ss02=Rdotbelowmacron",
+"Rlinebelow.ss02=Rlinebelow",
 "Q.long.ss02=Q.long",
+"R.short.ss02=R.short",
+"Racute.short.ss02=Racute.short",
+"Rcaron.short.ss02=Rcaron.short",
+"Rcommaaccent.short.ss02=Rcommaaccent.short",
+"Rdotbelow.short.ss02=Rdotbelow.short",
+"Rdotbelowmacron.short.ss02=Rdotbelowmacron.short",
+"Rlinebelow.short.ss02=Rlinebelow.short",
 "A-cy.ss02=A-cy",
 "De-cy.ss02=De-cy",
 "Ii-cy.ss02=Ii-cy",
@@ -143444,7 +143660,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -143565,6 +143795,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -144790,7 +145024,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
@@ -144843,7 +145079,21 @@ value = (
 "Aring.ss02=Aring",
 "Aringacute.ss02=Aringacute",
 "Atilde.ss02=Atilde",
+"R.ss02=R",
+"Racute.ss02=Racute",
+"Rcaron.ss02=Rcaron",
+"Rcommaaccent.ss02=Rcommaaccent",
+"Rdotbelow.ss02=Rdotbelow",
+"Rdotbelowmacron.ss02=Rdotbelowmacron",
+"Rlinebelow.ss02=Rlinebelow",
 "Q.long.ss02=Q.long",
+"R.short.ss02=R.short",
+"Racute.short.ss02=Racute.short",
+"Rcaron.short.ss02=Rcaron.short",
+"Rcommaaccent.short.ss02=Rcommaaccent.short",
+"Rdotbelow.short.ss02=Rdotbelow.short",
+"Rdotbelowmacron.short.ss02=Rdotbelowmacron.short",
+"Rlinebelow.short.ss02=Rlinebelow.short",
 "A-cy.ss02=A-cy",
 "De-cy.ss02=De-cy",
 "Ii-cy.ss02=Ii-cy",
@@ -145172,7 +145422,21 @@ Aogonek.ss02,
 Aring.ss02,
 Aringacute.ss02,
 Atilde.ss02,
+R.ss02,
+Racute.ss02,
+Rcaron.ss02,
+Rcommaaccent.ss02,
+Rdotbelow.ss02,
+Rdotbelowmacron.ss02,
+Rlinebelow.ss02,
 Q.long.ss02,
+R.short.ss02,
+Racute.short.ss02,
+Rcaron.short.ss02,
+Rcommaaccent.short.ss02,
+Rdotbelow.short.ss02,
+Rdotbelowmacron.short.ss02,
+Rlinebelow.short.ss02,
 U.ss03,
 Uacute.ss03,
 Ubreve.ss03,
@@ -145293,6 +145557,10 @@ Uhornacute.ss01.ss13,
 Uhorngrave.ss01.ss13,
 Uhungarumlaut.ss01.ss13,
 Uacute.loclHUN.ss01.ss13,
+Racute.ss02.ss13,
+Rcaron.ss02.ss13,
+Racute.short.ss02.ss13,
+Rcaron.short.ss02.ss13,
 Uacute.ss03.ss13,
 Ucaron.ss03.ss13,
 Ucircumflex.ss03.ss13,
@@ -146518,7 +146786,9 @@ ffxmaker,
 ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
-"iitail-cy"
+"iitail-cy",
+CR,
+NULL
 );
 }
 );
