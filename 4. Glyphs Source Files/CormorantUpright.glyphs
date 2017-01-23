@@ -1,5 +1,5 @@
 {
-.appVersion = "964";
+.appVersion = "965";
 classes = (
 {
 automatic = 1;
@@ -86632,5 +86632,5 @@ manufacturer = "Catharsis Fonts";
 manufacturerURL = "https://github.com/CatharsisFonts";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 301;
+versionMinor = 302;
 }
