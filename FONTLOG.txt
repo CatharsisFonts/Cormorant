@@ -47,6 +47,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2017-02-04: Release v3.303
+A few grave alignment errors were introduced during Google Fonts mastering due to a short-lived but insidious bug in Glyphs. Fixed some of the errors in 3.302, but missed a few Cyrillic caps.  This version should now be clean again.
+
+
 2017-01-10: Release v3.301
 Fixed two incredibly minor things that came up in Google Fonts QA.  If you just installed v3.3, don't bother with this update, unless you happen to use /three.sups in the Upright cut.  ;o)  Also changed the version numbering scheme for consistence with the Glyphs-internal version numbering.
 
