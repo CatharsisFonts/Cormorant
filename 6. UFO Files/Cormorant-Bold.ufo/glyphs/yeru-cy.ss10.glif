@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeru-cy.ss10" format="1">
-  <advance width="579"/>
+  <advance width="677"/>
   <outline>
     <component base="softsign-cy.loclBGR"/>
-    <component base="idotless" xOffset="346"/>
+    <component base="idotless" xOffset="405"/>
   </outline>
   <lib>
     <dict>

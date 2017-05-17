@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zedescender-cy.loclBSH.sc" format="1">
-  <advance width="365"/>
+  <advance width="427"/>
   <outline>
     <component base="ze-cy.sc"/>
-    <component base="cedillacomb" xOffset="84"/>
+    <component base="cedillacomb" xOffset="98"/>
   </outline>
   <lib>
     <dict>

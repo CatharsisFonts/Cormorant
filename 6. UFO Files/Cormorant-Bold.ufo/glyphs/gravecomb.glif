@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gravecomb" format="1">
-  <advance width="182"/>
+  <advance width="213"/>
   <unicode hex="0300"/>
   <outline>
     <contour>
-      <point x="123" y="405" type="line" smooth="yes"/>
-      <point x="124" y="402"/>
-      <point x="132" y="404"/>
-      <point x="132" y="407" type="curve" smooth="yes"/>
-      <point x="104" y="612" type="line" smooth="yes"/>
-      <point x="103" y="619"/>
-      <point x="16" y="630"/>
-      <point x="20" y="622" type="curve" smooth="yes"/>
+      <point x="144" y="474" type="line" smooth="yes"/>
+      <point x="145" y="470"/>
+      <point x="154" y="473"/>
+      <point x="154" y="476" type="curve" smooth="yes"/>
+      <point x="122" y="716" type="line" smooth="yes"/>
+      <point x="120" y="724"/>
+      <point x="19" y="737"/>
+      <point x="23" y="727" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="78" y="625" type="move" name="top"/>
+      <point x="91" y="731" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="118" y="330" type="move" name="_top"/>
+      <point x="138" y="386" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
@@ -26,108 +26,6 @@
       <string>==|acute</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=|acute</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>123</integer>
-                  <key>y</key>
-                  <integer>405</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>124</integer>
-                  <key>y</key>
-                  <integer>402</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>133</integer>
-                  <key>y</key>
-                  <integer>404</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>132</integer>
-                  <key>y</key>
-                  <integer>407</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>94</integer>
-                  <key>y</key>
-                  <integer>612</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>93</integer>
-                  <key>y</key>
-                  <integer>619</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>47</integer>
-                  <key>y</key>
-                  <integer>630</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>50</integer>
-                  <key>y</key>
-                  <integer>622</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>gravecomb</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>182</integer>
-        </dict>
-      </dict>
     </dict>
   </lib>
 </glyph>

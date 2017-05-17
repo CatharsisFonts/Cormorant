@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresisbelowcomb" format="1">
-  <advance width="274"/>
+  <advance width="320"/>
   <unicode hex="0324"/>
   <outline>
-    <component base="dieresiscomb" yOffset="-570"/>
+    <component base="dieresiscomb" yOffset="-667"/>
     <contour>
-      <point x="138" y="0" type="move" name="_bottom"/>
+      <point x="161" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="140" y="-159" type="move" name="bottom"/>
+      <point x="164" y="-186" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

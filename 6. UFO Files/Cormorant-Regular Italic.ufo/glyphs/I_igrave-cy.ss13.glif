@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iigrave-cy.ss13" format="1">
-  <advance width="593"/>
-  <outline>
-    <component base="Ii-cy"/>
-    <component base="gravecomb.case.ss13" xOffset="190"/>
-  </outline>
-</glyph>

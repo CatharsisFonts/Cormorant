@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohookabove.sc" format="1">
-  <advance width="485"/>
+  <advance width="567"/>
   <outline>
     <component base="o.sc"/>
-    <component base="hookabovecomb.sc" xOffset="110" yOffset="68"/>
+    <component base="hookabovecomb.sc" xOffset="128" yOffset="79"/>
   </outline>
   <lib>
     <dict>

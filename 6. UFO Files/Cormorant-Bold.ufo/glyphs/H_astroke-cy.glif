@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hastroke-cy" format="1">
-  <advance width="553"/>
+  <advance width="647"/>
   <unicode hex="04FE"/>
   <outline>
     <contour>
-      <point x="267" y="267" type="line"/>
-      <point x="440" y="267" type="line" smooth="yes"/>
-      <point x="445" y="267"/>
-      <point x="445" y="291"/>
-      <point x="440" y="291" type="curve" smooth="yes"/>
-      <point x="267" y="291" type="line"/>
+      <point x="312" y="312" type="line"/>
+      <point x="515" y="312" type="line" smooth="yes"/>
+      <point x="520" y="312"/>
+      <point x="520" y="340"/>
+      <point x="515" y="340" type="curve" smooth="yes"/>
+      <point x="312" y="340" type="line"/>
     </contour>
     <contour>
-      <point x="267" y="285" type="line"/>
-      <point x="106" y="285" type="line" smooth="yes"/>
-      <point x="101" y="285"/>
-      <point x="101" y="261"/>
-      <point x="106" y="261" type="curve" smooth="yes"/>
-      <point x="267" y="261" type="line"/>
+      <point x="312" y="333" type="line"/>
+      <point x="124" y="333" type="line" smooth="yes"/>
+      <point x="118" y="333"/>
+      <point x="118" y="305"/>
+      <point x="124" y="305" type="curve" smooth="yes"/>
+      <point x="312" y="305" type="line"/>
     </contour>
     <component base="Ha-cy"/>
   </outline>

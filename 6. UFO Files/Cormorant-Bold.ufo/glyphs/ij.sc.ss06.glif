@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ij.sc.ss06" format="1">
-  <advance width="505"/>
+  <advance width="591"/>
   <outline>
     <component base="ij.sc"/>
-    <component base="dotaccent.sc" xOffset="50" yOffset="70"/>
-    <component base="dotaccent.sc" xOffset="329" yOffset="70"/>
+    <component base="dotaccent.sc" xOffset="58" yOffset="82"/>
+    <component base="dotaccent.sc" xOffset="385" yOffset="82"/>
     <contour>
-      <point x="165" y="10" type="move" name="ogonek"/>
+      <point x="193" y="12" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iishorttail-cy.ss02" format="1">
-  <advance width="457"/>
+  <advance width="535"/>
   <outline>
     <component base="iitail-cy.ss02"/>
-    <component base="brevecomb-cy" xOffset="101"/>
+    <component base="brevecomb-cy" xOffset="118"/>
   </outline>
   <lib>
     <dict>

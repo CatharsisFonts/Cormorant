@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iishorttail-cy" format="1">
-  <advance width="407"/>
+  <advance width="476"/>
   <unicode hex="048B"/>
   <outline>
     <component base="iitail-cy"/>
-    <component base="brevecomb-cy" xOffset="102"/>
+    <component base="brevecomb-cy" xOffset="119"/>
   </outline>
   <lib>
     <dict>

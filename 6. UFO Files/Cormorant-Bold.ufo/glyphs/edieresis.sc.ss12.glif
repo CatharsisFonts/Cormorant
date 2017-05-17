@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis.sc.ss12" format="1">
-  <advance width="397"/>
+  <advance width="464"/>
   <outline>
-    <component base="dieresis" xOffset="80" yOffset="70"/>
+    <component base="dieresis" xOffset="94" yOffset="82"/>
     <component base="e.sc.ss12"/>
   </outline>
 </glyph>

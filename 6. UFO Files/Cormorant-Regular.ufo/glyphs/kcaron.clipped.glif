@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kcaron.clipped" format="1">
-  <advance width="420"/>
-  <outline>
-    <component base="k.clipped"/>
-    <component base="caron.case" xOffset="-17" yOffset="63"/>
-  </outline>
-</glyph>

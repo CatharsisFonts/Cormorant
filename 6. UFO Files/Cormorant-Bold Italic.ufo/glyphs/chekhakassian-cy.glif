@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chekhakassian-cy" format="1">
-  <advance width="376"/>
+  <advance width="440"/>
   <unicode hex="04CC"/>
   <outline>
     <component base="che-cy"/>
-    <component base="descender-cy" xOffset="146"/>
+    <component base="descender-cy" xOffset="171"/>
   </outline>
   <lib>
     <dict>

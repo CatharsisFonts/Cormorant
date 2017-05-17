@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Abreve.ss02" format="1">
-  <advance width="512"/>
-  <outline>
-    <component base="A.ss02"/>
-    <component base="breve.case" xOffset="204" yOffset="204"/>
-  </outline>
-</glyph>

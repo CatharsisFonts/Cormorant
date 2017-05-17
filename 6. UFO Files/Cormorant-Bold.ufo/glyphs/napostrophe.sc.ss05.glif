@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="napostrophe.sc.ss05" format="1">
-  <advance width="515"/>
+  <advance width="602"/>
   <outline>
     <component base="n.sc.ss05"/>
-    <component base="apostrophemod" xOffset="21" yOffset="129"/>
+    <component base="apostrophemod" xOffset="25" yOffset="151"/>
   </outline>
   <lib>
     <dict>

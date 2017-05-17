@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_b.liga.toBeDeleted" format="1">
-  <advance width="966"/>
+  <advance width="1130"/>
   <outline>
     <component base="ffxmaker"/>
-    <component base="f_b.liga" xOffset="256"/>
+    <component base="f_b.liga" xOffset="299"/>
     <contour>
-      <point x="161" y="0" type="move" name="bottom_1"/>
+      <point x="188" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="483" y="330" type="move" name="top_2"/>
+      <point x="565" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="644" y="0" type="move" name="caret_2"/>
+      <point x="753" y="0" type="move" name="caret_2"/>
     </contour>
     <contour>
-      <point x="322" y="0" type="move" name="caret_1"/>
+      <point x="377" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="805" y="0" type="move" name="bottom_3"/>
+      <point x="942" y="0" type="move" name="bottom_3"/>
     </contour>
     <contour>
-      <point x="161" y="330" type="move" name="top_1"/>
+      <point x="188" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="483" y="0" type="move" name="bottom_2"/>
+      <point x="565" y="0" type="move" name="bottom_2"/>
     </contour>
     <contour>
-      <point x="805" y="330" type="move" name="top_3"/>
+      <point x="942" y="386" type="move" name="top_3"/>
     </contour>
   </outline>
   <lib>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="udieresisacute" format="1">
-  <advance width="395"/>
-  <unicode hex="01D8"/>
-  <outline>
-    <component base="u"/>
-    <component base="acute.case.dieresis" xOffset="55"/>
-  </outline>
-</glyph>

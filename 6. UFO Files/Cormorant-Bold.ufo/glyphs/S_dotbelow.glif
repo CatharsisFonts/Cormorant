@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sdotbelow" format="1">
-  <advance width="440"/>
+  <advance width="515"/>
   <unicode hex="1E62"/>
   <outline>
     <component base="S"/>
-    <component base="dotbelowcomb" xOffset="173"/>
+    <component base="dotbelowcomb" xOffset="202"/>
   </outline>
   <lib>
     <dict>

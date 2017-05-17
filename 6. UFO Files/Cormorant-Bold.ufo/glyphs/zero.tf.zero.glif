@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.tf.zero" format="1">
-  <advance width="420"/>
+  <advance width="491"/>
   <outline>
-    <component base="zero.lf" xOffset="-4"/>
-    <component base="period" xOffset="121" yOffset="225"/>
+    <component base="zero.lf" xOffset="-5"/>
+    <component base="period" xOffset="142" yOffset="263"/>
   </outline>
   <lib>
     <dict>

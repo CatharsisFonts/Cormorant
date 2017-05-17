@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_acutecomb.obsolete" format="1">
-  <advance width="301"/>
+  <advance width="352"/>
   <outline>
-    <component base="circumflexcomb" xOffset="-20" yOffset="-30"/>
-    <component base="acutecomb" xOffset="109" yOffset="80"/>
+    <component base="circumflexcomb" xOffset="-23" yOffset="-35"/>
+    <component base="acutecomb" xOffset="127" yOffset="94"/>
     <contour>
-      <point x="153" y="705" type="move" name="top"/>
+      <point x="179" y="825" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="98" y="330" type="move" name="_top"/>
+      <point x="115" y="386" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

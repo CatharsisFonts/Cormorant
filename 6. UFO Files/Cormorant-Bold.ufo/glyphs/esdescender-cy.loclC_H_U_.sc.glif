@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="esdescender-cy.loclCHU.sc" format="1">
-  <advance width="453"/>
+  <advance width="530"/>
   <outline>
     <component base="es-cy.sc"/>
-    <component base="cedillacomb" xOffset="164"/>
+    <component base="cedillacomb" xOffset="192"/>
   </outline>
   <lib>
     <dict>

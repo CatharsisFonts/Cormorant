@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute_J_acutecomb.ss13" format="1">
-  <advance width="529"/>
+  <advance width="619"/>
   <outline>
     <component base="IJ"/>
-    <component base="acutecomb.case.ss13" xOffset="372"/>
-    <component base="acutecomb.case.ss13" xOffset="70"/>
+    <component base="acutecomb.case.ss13" xOffset="435"/>
+    <component base="acutecomb.case.ss13" xOffset="82"/>
     <contour>
-      <point x="294" y="0" type="move" name="caret_1"/>
+      <point x="344" y="0" type="move" name="caret_1"/>
     </contour>
   </outline>
   <lib>

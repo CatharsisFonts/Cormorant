@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hcircumflex.clipped" format="1">
-  <advance width="409"/>
+  <advance width="478"/>
   <outline>
     <component base="h.clipped"/>
-    <component base="circumflexcomb.case" xOffset="39" yOffset="46"/>
+    <component base="circumflexcomb.case" xOffset="46" yOffset="54"/>
   </outline>
   <lib>
     <dict>

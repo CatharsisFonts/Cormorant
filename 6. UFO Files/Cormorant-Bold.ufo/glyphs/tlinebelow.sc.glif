@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tlinebelow.sc" format="1">
-  <advance width="429"/>
+  <advance width="502"/>
   <outline>
     <component base="t.sc"/>
-    <component base="macronbelowcomb" xOffset="74"/>
+    <component base="macronbelowcomb" xOffset="87"/>
   </outline>
   <lib>
     <dict>

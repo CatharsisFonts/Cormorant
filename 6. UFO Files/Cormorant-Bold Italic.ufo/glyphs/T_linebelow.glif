@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tlinebelow" format="1">
-  <advance width="473"/>
+  <advance width="553"/>
   <unicode hex="1E6E"/>
   <outline>
     <component base="T"/>
-    <component base="macronbelowcomb" xOffset="98"/>
+    <component base="macronbelowcomb" xOffset="115"/>
   </outline>
   <lib>
     <dict>

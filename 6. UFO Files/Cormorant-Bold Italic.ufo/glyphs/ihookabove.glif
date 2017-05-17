@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ihookabove" format="1">
-  <advance width="211"/>
+  <advance width="247"/>
   <unicode hex="1EC9"/>
   <outline>
     <component base="idotless"/>
-    <component base="hookabovecomb" xOffset="-37"/>
+    <component base="hookabovecomb" xOffset="-44"/>
   </outline>
   <lib>
     <dict>

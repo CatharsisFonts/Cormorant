@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ymacron.ss03" format="1">
-  <advance width="369"/>
-  <outline>
-    <component base="y.ss03"/>
-    <component base="macron" xOffset="42"/>
-  </outline>
-</glyph>

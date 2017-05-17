@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookabovecomb.sc" format="1">
-  <advance width="259"/>
+  <advance width="303"/>
   <outline>
     <contour>
-      <point x="135" y="406"/>
-      <point x="217" y="442"/>
-      <point x="217" y="492" type="curve" smooth="yes"/>
-      <point x="217" y="520"/>
-      <point x="193" y="537"/>
-      <point x="157" y="537" type="curve" smooth="yes"/>
-      <point x="132" y="537"/>
-      <point x="107" y="529"/>
-      <point x="87" y="513" type="curve" smooth="yes"/>
-      <point x="84" y="510"/>
-      <point x="90" y="504"/>
-      <point x="93" y="506" type="curve" smooth="yes"/>
-      <point x="104" y="511"/>
-      <point x="115" y="514"/>
-      <point x="124" y="514" type="curve" smooth="yes"/>
-      <point x="140" y="514"/>
-      <point x="148" y="505"/>
-      <point x="148" y="484" type="curve" smooth="yes"/>
-      <point x="148" y="443"/>
-      <point x="116" y="418"/>
-      <point x="126" y="366" type="curve" smooth="yes"/>
-      <point x="127" y="363"/>
-      <point x="136" y="364"/>
-      <point x="136" y="366" type="curve" smooth="yes"/>
+      <point x="158" y="475"/>
+      <point x="254" y="517"/>
+      <point x="254" y="575" type="curve" smooth="yes"/>
+      <point x="254" y="608"/>
+      <point x="226" y="628"/>
+      <point x="184" y="628" type="curve" smooth="yes"/>
+      <point x="154" y="628"/>
+      <point x="125" y="619"/>
+      <point x="102" y="600" type="curve" smooth="yes"/>
+      <point x="98" y="596"/>
+      <point x="105" y="589"/>
+      <point x="109" y="592" type="curve" smooth="yes"/>
+      <point x="122" y="598"/>
+      <point x="135" y="601"/>
+      <point x="145" y="601" type="curve" smooth="yes"/>
+      <point x="164" y="601"/>
+      <point x="173" y="591"/>
+      <point x="173" y="566" type="curve" smooth="yes"/>
+      <point x="173" y="518"/>
+      <point x="136" y="489"/>
+      <point x="147" y="428" type="curve" smooth="yes"/>
+      <point x="149" y="425"/>
+      <point x="159" y="426"/>
+      <point x="159" y="428" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="135" y="571" type="move" name="top"/>
+      <point x="158" y="668" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="133" y="330" type="move" name="_top"/>
+      <point x="156" y="386" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obarred-cy" format="1">
-  <advance width="560"/>
+  <advance width="655"/>
   <unicode hex="04E8"/>
   <outline>
     <contour>
-      <point x="508" y="263" type="line"/>
-      <point x="508" y="287" type="line"/>
-      <point x="78" y="287" type="line"/>
-      <point x="78" y="263" type="line"/>
+      <point x="594" y="308" type="line"/>
+      <point x="594" y="336" type="line"/>
+      <point x="91" y="336" type="line"/>
+      <point x="91" y="308" type="line"/>
     </contour>
     <component base="O"/>
   </outline>

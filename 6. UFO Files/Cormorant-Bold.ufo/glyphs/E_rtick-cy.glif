@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ertick-cy" format="1">
-  <advance width="473"/>
+  <advance width="553"/>
   <unicode hex="048E"/>
   <outline>
     <contour>
-      <point x="345" y="133" type="line" smooth="yes"/>
-      <point x="348" y="128"/>
-      <point x="370" y="141"/>
-      <point x="368" y="145" type="curve" smooth="yes"/>
-      <point x="251" y="347" type="line" smooth="yes"/>
-      <point x="248" y="352"/>
-      <point x="225" y="340"/>
-      <point x="228" y="335" type="curve" smooth="yes"/>
+      <point x="404" y="156" type="line" smooth="yes"/>
+      <point x="407" y="150"/>
+      <point x="433" y="165"/>
+      <point x="430" y="170" type="curve" smooth="yes"/>
+      <point x="294" y="406" type="line" smooth="yes"/>
+      <point x="290" y="412"/>
+      <point x="263" y="398"/>
+      <point x="267" y="392" type="curve" smooth="yes"/>
     </contour>
     <component base="Er-cy"/>
   </outline>

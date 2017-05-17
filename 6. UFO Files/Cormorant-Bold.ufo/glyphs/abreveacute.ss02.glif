@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreveacute.ss02" format="1">
-  <advance width="360"/>
+  <advance width="421"/>
   <outline>
     <component base="a.ss02"/>
-    <component base="brevecomb_acutecomb" xOffset="65"/>
+    <component base="brevecomb_acutecomb" xOffset="76"/>
   </outline>
   <lib>
     <dict>

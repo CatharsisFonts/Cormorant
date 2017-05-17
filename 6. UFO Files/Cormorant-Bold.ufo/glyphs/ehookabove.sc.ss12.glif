@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ehookabove.sc.ss12" format="1">
-  <advance width="397"/>
+  <advance width="464"/>
   <outline>
-    <component base="hookabovecomb.sc" xOffset="65" yOffset="70"/>
+    <component base="hookabovecomb.sc" xOffset="76" yOffset="82"/>
     <component base="e.sc.ss12"/>
   </outline>
   <lib>

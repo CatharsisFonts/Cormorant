@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs.short.liga" format="1">
-  <advance width="522"/>
+  <advance width="611"/>
   <outline>
     <component base="longs.short"/>
-    <component base="longs.short" xOffset="241"/>
+    <component base="longs.short" xOffset="282"/>
     <contour>
-      <point x="261" y="0" type="move" name="caret_1"/>
+      <point x="305" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="131" y="0" type="move" name="bottom_1"/>
+      <point x="153" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="131" y="330" type="move" name="top_1"/>
+      <point x="153" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="392" y="330" type="move" name="top_2"/>
+      <point x="458" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="392" y="0" type="move" name="bottom_2"/>
+      <point x="458" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

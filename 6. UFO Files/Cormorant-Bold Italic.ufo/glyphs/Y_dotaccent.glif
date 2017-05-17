@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ydotaccent" format="1">
-  <advance width="457"/>
+  <advance width="535"/>
   <unicode hex="1E8E"/>
   <outline>
     <component base="Y"/>
-    <component base="dotaccentcomb.case" xOffset="171"/>
+    <component base="dotaccentcomb.case" xOffset="200"/>
   </outline>
   <lib>
     <dict>

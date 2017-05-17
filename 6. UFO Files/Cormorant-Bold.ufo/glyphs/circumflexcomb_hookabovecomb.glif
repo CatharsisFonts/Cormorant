@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_hookabovecomb" format="1">
-  <advance width="303"/>
+  <advance width="354"/>
   <outline>
-    <component base="circumflexcomb.case" xOffset="11" yOffset="-174"/>
-    <component base="hookabovecomb.mini" xOffset="108" yOffset="-85"/>
+    <component base="circumflexcomb.case" xOffset="13" yOffset="-204"/>
+    <component base="hookabovecomb.mini" xOffset="126" yOffset="-99"/>
     <contour>
-      <point x="153" y="530" type="move" name="top"/>
+      <point x="179" y="620" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="129" y="330" type="move" name="_top"/>
+      <point x="151" y="386" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

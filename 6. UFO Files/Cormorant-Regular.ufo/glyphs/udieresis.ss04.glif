@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="udieresis.ss04" format="1">
-  <advance width="419"/>
-  <outline>
-    <component base="u"/>
-    <component base="dieresis.ss04" xOffset="113"/>
-  </outline>
-</glyph>

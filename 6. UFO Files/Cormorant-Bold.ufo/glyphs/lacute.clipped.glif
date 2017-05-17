@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute.clipped" format="1">
-  <advance width="224"/>
+  <advance width="262"/>
   <outline>
     <component base="l.clipped"/>
-    <component base="acutecomb.case" xOffset="5" yOffset="22"/>
+    <component base="acutecomb.case" xOffset="6" yOffset="26"/>
   </outline>
   <lib>
     <dict>

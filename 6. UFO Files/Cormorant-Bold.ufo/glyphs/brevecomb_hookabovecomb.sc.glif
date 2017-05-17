@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_hookabovecomb.sc" format="1">
-  <advance width="235"/>
+  <advance width="275"/>
   <outline>
     <component base="brevecomb.case"/>
-    <component base="hookabovecomb.mini" xOffset="21" yOffset="107"/>
+    <component base="hookabovecomb.mini" xOffset="25" yOffset="125"/>
     <contour>
-      <point x="120" y="782" type="move" name="top"/>
+      <point x="140" y="915" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="118" y="534" type="move" name="_top"/>
+      <point x="138" y="625" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

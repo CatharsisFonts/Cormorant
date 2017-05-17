@@ -1,86 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.numr" format="1">
-  <advance width="207"/>
+  <advance width="242"/>
   <outline>
-    <component base="one.sinf" xOffset="67" yOffset="384"/>
+    <component base="one.sinf" xOffset="78" yOffset="449"/>
     <contour>
-      <point x="112" y="830" type="move" name="top"/>
+      <point x="131" y="971" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="117" y="264" type="move" name="bottom"/>
+      <point x="137" y="309" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="199" y="594" type="move" name="topright"/>
+      <point x="233" y="695" type="move" name="topright"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>move</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>2</integer>
-                  <key>y</key>
-                  <integer>276</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>-3</integer>
-                  <key>y</key>
-                  <integer>274</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>2</integer>
-                  <key>y</key>
-                  <integer>265</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>7</integer>
-                  <key>y</key>
-                  <integer>267</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>one.numr</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>207</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

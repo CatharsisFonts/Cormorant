@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevetilde" format="1">
-  <advance width="360"/>
+  <advance width="421"/>
   <unicode hex="1EB5"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb_tildecomb" xOffset="41"/>
+    <component base="brevecomb_tildecomb" xOffset="48"/>
   </outline>
   <lib>
     <dict>

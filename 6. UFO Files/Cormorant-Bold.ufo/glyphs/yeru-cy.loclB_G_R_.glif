@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yeru-cy.loclBGR" format="1">
-  <advance width="579"/>
+  <advance width="677"/>
   <outline>
     <component base="softsign-cy.loclBGR"/>
-    <component base="idotless" xOffset="346"/>
+    <component base="idotless" xOffset="405"/>
     <contour>
-      <point x="290" y="330" type="move" name="top"/>
+      <point x="339" y="386" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

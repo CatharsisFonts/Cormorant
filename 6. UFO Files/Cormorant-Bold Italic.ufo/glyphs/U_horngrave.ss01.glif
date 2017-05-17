@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uhorngrave.ss01" format="1">
-  <advance width="612"/>
+  <advance width="716"/>
   <outline>
     <component base="Uhorn.ss01"/>
-    <component base="gravecomb.case" xOffset="245" yOffset="204"/>
+    <component base="gravecomb.case" xOffset="287" yOffset="239"/>
   </outline>
   <lib>
     <dict>

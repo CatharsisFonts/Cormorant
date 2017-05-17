@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kcaron.sc.ss01.ss13" format="1">
-  <advance width="459"/>
-  <outline>
-    <component base="k.sc.ss01"/>
-    <component base="caroncomb.sc.ss13" xOffset="125"/>
-  </outline>
-</glyph>

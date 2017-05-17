@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_i.liga" format="1">
-  <advance width="640"/>
+  <advance width="749"/>
   <unicode hex="FB03"/>
   <outline>
     <component base="ffxmaker"/>
-    <component base="fi" xOffset="229"/>
+    <component base="fi" xOffset="268"/>
     <contour>
-      <point x="213" y="0" type="move" name="caret_1"/>
+      <point x="249" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="427" y="0" type="move" name="caret_2"/>
+      <point x="499" y="0" type="move" name="caret_2"/>
     </contour>
   </outline>
   <lib>

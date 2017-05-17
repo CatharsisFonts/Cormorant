@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.loclNLD" format="1">
-  <advance width="225"/>
+  <advance width="263"/>
   <outline>
     <component base="i"/>
     <contour>
-      <point x="113" y="0" type="move" name="bottom"/>
+      <point x="132" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

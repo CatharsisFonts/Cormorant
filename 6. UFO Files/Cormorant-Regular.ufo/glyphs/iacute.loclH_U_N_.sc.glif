@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iacute.loclHUN.sc" format="1">
-  <advance width="249"/>
-  <outline>
-    <component base="i.sc"/>
-    <component base="acutecomb.case.loclHUN" xOffset="60" yOffset="70"/>
-  </outline>
-</glyph>

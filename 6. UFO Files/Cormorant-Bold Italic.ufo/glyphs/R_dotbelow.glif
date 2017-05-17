@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rdotbelow" format="1">
-  <advance width="543"/>
+  <advance width="635"/>
   <unicode hex="1E5A"/>
   <outline>
     <component base="R"/>
-    <component base="dotbelowcomb" xOffset="261"/>
+    <component base="dotbelowcomb" xOffset="306"/>
   </outline>
   <lib>
     <dict>

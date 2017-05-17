@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ehookabove.ss02" format="1">
-  <advance width="357"/>
+  <advance width="418"/>
   <outline>
     <component base="e.ss02"/>
-    <component base="hookabovecomb" xOffset="68"/>
+    <component base="hookabovecomb" xOffset="79"/>
   </outline>
   <lib>
     <dict>

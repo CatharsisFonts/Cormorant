@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Amacron.ss02" format="1">
-  <advance width="597"/>
-  <outline>
-    <component base="A.ss02"/>
-    <component base="macroncomb" xOffset="141" yOffset="204"/>
-  </outline>
-</glyph>

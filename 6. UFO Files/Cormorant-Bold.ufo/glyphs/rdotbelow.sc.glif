@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rdotbelow.sc" format="1">
-  <advance width="468"/>
+  <advance width="547"/>
   <outline>
     <component base="r.sc"/>
-    <component base="dotbelowcomb" xOffset="185"/>
+    <component base="dotbelowcomb" xOffset="216"/>
   </outline>
   <lib>
     <dict>

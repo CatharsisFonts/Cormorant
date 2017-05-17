@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zdotbelow.sc" format="1">
-  <advance width="386"/>
+  <advance width="451"/>
   <outline>
     <component base="z.sc"/>
-    <component base="dotbelowcomb" xOffset="131"/>
+    <component base="dotbelowcomb" xOffset="153"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbrevebelow.clipped" format="1">
-  <advance width="435"/>
+  <advance width="509"/>
   <outline>
     <component base="h.clipped"/>
-    <component base="brevebelowcomb" xOffset="100"/>
+    <component base="brevebelowcomb" xOffset="117"/>
   </outline>
   <lib>
     <dict>

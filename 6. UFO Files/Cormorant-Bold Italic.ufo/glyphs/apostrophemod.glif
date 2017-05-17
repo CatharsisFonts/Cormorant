@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="apostrophemod" format="1">
-  <advance width="138"/>
+  <advance width="161"/>
   <unicode hex="02BC"/>
   <outline>
-    <component base="quoteright" xOffset="5"/>
+    <component base="quoteright" xOffset="6"/>
   </outline>
   <lib>
     <dict>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs_l.liga.toBeDeleted" format="1">
-  <advance width="717"/>
+  <advance width="839"/>
   <outline>
     <component base="ssxmaker"/>
-    <component base="longs_l.liga" xOffset="245"/>
+    <component base="longs_l.liga" xOffset="287"/>
     <contour>
-      <point x="120" y="0" type="move" name="bottom_1"/>
+      <point x="140" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="359" y="330" type="move" name="top_2"/>
+      <point x="420" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="478" y="0" type="move" name="caret_2"/>
+      <point x="559" y="0" type="move" name="caret_2"/>
     </contour>
     <contour>
-      <point x="239" y="0" type="move" name="caret_1"/>
+      <point x="280" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="598" y="0" type="move" name="bottom_3"/>
+      <point x="699" y="0" type="move" name="bottom_3"/>
     </contour>
     <contour>
-      <point x="120" y="330" type="move" name="top_1"/>
+      <point x="140" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="359" y="0" type="move" name="bottom_2"/>
+      <point x="420" y="0" type="move" name="bottom_2"/>
     </contour>
     <contour>
-      <point x="598" y="330" type="move" name="top_3"/>
+      <point x="699" y="386" type="move" name="top_3"/>
     </contour>
   </outline>
   <lib>

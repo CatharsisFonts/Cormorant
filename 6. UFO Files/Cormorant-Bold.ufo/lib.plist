@@ -2,52 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>GSDimensionPlugin.Dimensions</key>
-	<dict>
-		<key>4F72FD3A-2035-4A0E-9118-392C7E7754E7</key>
-		<dict>
-			<key>HH</key>
-			<integer>16</integer>
-			<key>HV</key>
-			<integer>95</integer>
-			<key>OV</key>
-			<integer>55</integer>
-			<key>nV</key>
-			<integer>40</integer>
-			<key>nd</key>
-			<integer>10</integer>
-			<key>oH</key>
-			<integer>10</integer>
-			<key>oV</key>
-			<integer>51</integer>
-		</dict>
-		<key>894ACB46-AC6D-425B-AC8D-0A8BA8B88571</key>
-		<dict>
-			<key>HH</key>
-			<integer>24</integer>
-			<key>HV</key>
-			<integer>95</integer>
-			<key>OV</key>
-			<integer>106</integer>
-			<key>nV</key>
-			<integer>80</integer>
-			<key>oV</key>
-			<integer>95</integer>
-			<key>tH</key>
-			<integer>45</integer>
-		</dict>
-	</dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.disablesLastChange</key>
 	<true/>
-	<key>com.schriftgestaltung.fontMaster.userData</key>
-	<dict>
-		<key>noodleThickness</key>
-		<integer>15</integer>
-	</dict>
 	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>894ACB46-AC6D-425B-AC8D-0A8BA8B88571</string>
+	<string>54DBAB32-430E-4550-BB6B-C94C4509351E</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
 	<false/>
 	<key>com.schriftgestaltung.useNiceNames</key>
@@ -214,6 +174,7 @@
 		<string>Rlinebelow</string>
 		<string>S</string>
 		<string>Sacute</string>
+		<string>Saltillo</string>
 		<string>Scaron</string>
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
@@ -740,6 +701,7 @@
 		<string>rlinebelow</string>
 		<string>s</string>
 		<string>sacute</string>
+		<string>saltillo</string>
 		<string>scaron</string>
 		<string>scedilla</string>
 		<string>scircumflex</string>
@@ -2490,6 +2452,7 @@
 		<string>ellipsis</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
+		<string>hyphenbullet</string>
 		<string>numbersign</string>
 		<string>period</string>
 		<string>question</string>

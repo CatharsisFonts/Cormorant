@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rlinebelow.short" format="1">
-  <advance width="468"/>
+  <advance width="547"/>
   <outline>
     <component base="R.short"/>
-    <component base="macronbelowcomb" xOffset="131"/>
+    <component base="macronbelowcomb" xOffset="153"/>
   </outline>
   <lib>
     <dict>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g_umacron.ss03" format="1">
-  <advance width="770"/>
+  <advance width="901"/>
   <outline>
     <component base="g_u.ss03"/>
-    <component base="macron" xOffset="415"/>
+    <component base="macron" xOffset="486"/>
     <contour>
-      <point x="385" y="0" type="move" name="caret_1"/>
+      <point x="450" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="164" y="0" type="move" name="bottom_1"/>
+      <point x="192" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="222" y="330" type="move" name="top_1"/>
+      <point x="260" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="607" y="330" type="move" name="top_2"/>
+      <point x="710" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="549" y="0" type="move" name="bottom_2"/>
+      <point x="642" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
 </glyph>

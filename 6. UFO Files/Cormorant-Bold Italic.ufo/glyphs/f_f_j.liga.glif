@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_j.liga" format="1">
-  <advance width="650"/>
+  <advance width="760"/>
   <outline>
     <component base="ffxmaker"/>
-    <component base="f_j.liga" xOffset="229"/>
+    <component base="f_j.liga" xOffset="268"/>
     <contour>
-      <point x="79" y="0" type="move" name="bottom_1"/>
+      <point x="92" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="354" y="330" type="move" name="top_2"/>
+      <point x="414" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="433" y="0" type="move" name="caret_2"/>
+      <point x="506" y="0" type="move" name="caret_2"/>
     </contour>
     <contour>
-      <point x="217" y="0" type="move" name="caret_1"/>
+      <point x="254" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="513" y="0" type="move" name="bottom_3"/>
+      <point x="600" y="0" type="move" name="bottom_3"/>
     </contour>
     <contour>
-      <point x="137" y="330" type="move" name="top_1"/>
+      <point x="160" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="296" y="0" type="move" name="bottom_2"/>
+      <point x="346" y="0" type="move" name="bottom_2"/>
     </contour>
     <contour>
-      <point x="571" y="330" type="move" name="top_3"/>
+      <point x="668" y="386" type="move" name="top_3"/>
     </contour>
   </outline>
   <lib>

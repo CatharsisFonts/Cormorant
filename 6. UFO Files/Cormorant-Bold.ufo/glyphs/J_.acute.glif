@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J.acute" format="1">
-  <advance width="286"/>
+  <advance width="335"/>
   <outline>
     <component base="J.case"/>
-    <component base="acutecomb.case" xOffset="39"/>
+    <component base="acutecomb.case" xOffset="46"/>
     <contour>
-      <point x="143" y="534" type="move" name="top"/>
+      <point x="167" y="625" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="143" y="0" type="move" name="bottom"/>
+      <point x="167" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

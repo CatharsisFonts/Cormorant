@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="chedieresis-cy.ss10" format="1">
-  <advance width="373"/>
-  <outline>
-    <component base="che-cy.loclBGR"/>
-    <component base="dieresiscomb" xOffset="39"/>
-  </outline>
-</glyph>

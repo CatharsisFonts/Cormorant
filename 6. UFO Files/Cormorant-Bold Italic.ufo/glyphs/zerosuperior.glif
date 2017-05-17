@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zerosuperior" format="1">
-  <advance width="239"/>
+  <advance width="280"/>
   <unicode hex="2070"/>
   <outline>
-    <component base="zero.sinf" xOffset="82" yOffset="464"/>
+    <component base="zero.sinf" xOffset="96" yOffset="543"/>
     <contour>
-      <point x="127" y="674" type="move" name="top"/>
+      <point x="149" y="788" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar.sc" format="1">
-  <advance width="144"/>
+  <advance width="168"/>
   <outline>
     <contour>
-      <point x="53" y="-130"/>
-      <point x="93" y="-130"/>
-      <point x="93" y="-122" type="curve" smooth="yes"/>
-      <point x="93" y="535" type="line" smooth="yes"/>
-      <point x="93" y="543"/>
-      <point x="53" y="543"/>
-      <point x="53" y="535" type="curve" smooth="yes"/>
-      <point x="53" y="-122" type="line" smooth="yes"/>
+      <point x="62" y="-152"/>
+      <point x="109" y="-152"/>
+      <point x="109" y="-143" type="curve" smooth="yes"/>
+      <point x="109" y="626" type="line" smooth="yes"/>
+      <point x="109" y="635"/>
+      <point x="62" y="635"/>
+      <point x="62" y="626" type="curve" smooth="yes"/>
+      <point x="62" y="-143" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

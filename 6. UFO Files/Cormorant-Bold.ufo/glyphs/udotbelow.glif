@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="udotbelow" format="1">
-  <advance width="432"/>
+  <advance width="505"/>
   <unicode hex="1EE5"/>
   <outline>
     <component base="u"/>
-    <component base="dotbelowcomb" xOffset="154"/>
+    <component base="dotbelowcomb" xOffset="180"/>
   </outline>
   <lib>
     <dict>

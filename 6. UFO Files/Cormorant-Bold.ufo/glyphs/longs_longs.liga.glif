@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs.liga" format="1">
-  <advance width="462"/>
+  <advance width="540"/>
   <outline>
     <component base="ssxmaker"/>
-    <component base="longs" xOffset="240"/>
+    <component base="longs" xOffset="281"/>
     <contour>
-      <point x="231" y="0" type="move" name="caret_1"/>
+      <point x="270" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="116" y="0" type="move" name="bottom_1"/>
+      <point x="136" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="116" y="330" type="move" name="top_1"/>
+      <point x="136" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="347" y="330" type="move" name="top_2"/>
+      <point x="406" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="347" y="0" type="move" name="bottom_2"/>
+      <point x="406" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>

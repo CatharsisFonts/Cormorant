@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflexacute.sc" format="1">
-  <advance width="485"/>
+  <advance width="567"/>
   <outline>
     <component base="o.sc"/>
-    <component base="circumflexcomb_acutecomb.sc" xOffset="114" yOffset="-136"/>
+    <component base="circumflexcomb_acutecomb.sc" xOffset="133" yOffset="-160"/>
   </outline>
   <lib>
     <dict>

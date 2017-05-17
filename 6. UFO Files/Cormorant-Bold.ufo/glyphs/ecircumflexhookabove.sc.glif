@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflexhookabove.sc" format="1">
-  <advance width="397"/>
+  <advance width="464"/>
   <outline>
     <component base="e.sc"/>
-    <component base="circumflexcomb_hookabovecomb.sc" xOffset="89" yOffset="-134"/>
+    <component base="circumflexcomb_hookabovecomb.sc" xOffset="104" yOffset="-157"/>
   </outline>
   <lib>
     <dict>

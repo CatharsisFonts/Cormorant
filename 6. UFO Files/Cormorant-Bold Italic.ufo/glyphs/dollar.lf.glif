@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar.lf" format="1">
-  <advance width="393"/>
+  <advance width="460"/>
   <outline>
     <contour>
-      <point x="300" y="614" type="line" smooth="yes"/>
-      <point x="302" y="622"/>
-      <point x="278" y="625"/>
-      <point x="276" y="617" type="curve" smooth="yes"/>
-      <point x="152" y="-90" type="line" smooth="yes"/>
-      <point x="151" y="-98"/>
-      <point x="174" y="-101"/>
-      <point x="176" y="-93" type="curve" smooth="yes"/>
+      <point x="351" y="718" type="line" smooth="yes"/>
+      <point x="353" y="727"/>
+      <point x="325" y="731"/>
+      <point x="323" y="722" type="curve" smooth="yes"/>
+      <point x="178" y="-105" type="line" smooth="yes"/>
+      <point x="177" y="-115"/>
+      <point x="204" y="-118"/>
+      <point x="206" y="-109" type="curve" smooth="yes"/>
     </contour>
     <component base="S"/>
   </outline>

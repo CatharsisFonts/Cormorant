@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcaron" format="1">
-  <advance width="352"/>
+  <advance width="412"/>
   <unicode hex="01E9"/>
   <outline>
     <component base="k"/>
-    <component base="caron.case" xOffset="33" yOffset="264"/>
+    <component base="caron.case" xOffset="39" yOffset="309"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gmacron.ss01" format="1">
-  <advance width="366"/>
+  <advance width="428"/>
   <outline>
     <component base="g.ss01"/>
-    <component base="macroncomb" xOffset="24"/>
+    <component base="macroncomb" xOffset="28"/>
   </outline>
   <lib>
     <dict>

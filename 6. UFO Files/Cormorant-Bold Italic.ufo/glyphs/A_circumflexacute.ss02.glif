@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexacute.ss02" format="1">
-  <advance width="517"/>
+  <advance width="605"/>
   <outline>
     <component base="A.ss02"/>
-    <component base="circumflexcomb_acutecomb.case" xOffset="128"/>
+    <component base="circumflexcomb_acutecomb.case" xOffset="150"/>
   </outline>
   <lib>
     <dict>

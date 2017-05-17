@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Acircumflexhookabove.ss02" format="1">
-  <advance width="612"/>
+  <advance width="716"/>
   <outline>
     <component base="A.ss02"/>
-    <component base="circumflexcomb_hookabovecomb.case" xOffset="174"/>
+    <component base="circumflexcomb_hookabovecomb.case" xOffset="203"/>
   </outline>
   <lib>
     <dict>

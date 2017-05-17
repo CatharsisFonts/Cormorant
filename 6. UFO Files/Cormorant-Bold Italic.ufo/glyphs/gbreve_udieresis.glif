@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gbreve_udieresis" format="1">
-  <advance width="707"/>
+  <advance width="827"/>
   <outline>
     <component base="g_u"/>
-    <component base="dieresis" xOffset="381"/>
-    <component base="breve" xOffset="41"/>
+    <component base="dieresis" xOffset="446"/>
+    <component base="breve" xOffset="48"/>
     <contour>
-      <point x="354" y="0" type="move" name="caret_1"/>
+      <point x="414" y="0" type="move" name="caret_1"/>
     </contour>
   </outline>
   <lib>

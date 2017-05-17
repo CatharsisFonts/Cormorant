@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alpha-latin" format="1">
-  <advance width="380"/>
+  <advance width="444"/>
   <unicode hex="0251"/>
   <outline>
     <component base="a"/>
     <contour>
-      <point x="219" y="330" type="move" name="top"/>
+      <point x="256" y="386" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="161" y="0" type="move" name="bottom"/>
+      <point x="188" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

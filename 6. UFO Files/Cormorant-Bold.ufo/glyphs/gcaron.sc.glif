@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcaron.sc" format="1">
-  <advance width="471"/>
+  <advance width="551"/>
   <outline>
     <component base="g.sc"/>
-    <component base="caron.case" xOffset="137" yOffset="-134"/>
+    <component base="caron.case" xOffset="160" yOffset="-157"/>
   </outline>
   <lib>
     <dict>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex.case" format="1">
-  <advance width="224"/>
+  <advance width="262"/>
   <outline>
     <contour>
-      <point x="17" y="394"/>
-      <point x="23" y="389"/>
-      <point x="25" y="390" type="curve" smooth="yes"/>
-      <point x="118" y="423" type="line"/>
-      <point x="210" y="390" type="line" smooth="yes"/>
-      <point x="213" y="388"/>
-      <point x="218" y="394"/>
-      <point x="215" y="396" type="curve" smooth="yes"/>
-      <point x="127" y="495" type="line" smooth="yes"/>
-      <point x="122" y="500"/>
-      <point x="113" y="500"/>
-      <point x="108" y="495" type="curve" smooth="yes"/>
-      <point x="20" y="396" type="line" smooth="yes"/>
+      <point x="20" y="461"/>
+      <point x="27" y="455"/>
+      <point x="29" y="456" type="curve" smooth="yes"/>
+      <point x="138" y="495" type="line"/>
+      <point x="246" y="456" type="line" smooth="yes"/>
+      <point x="249" y="454"/>
+      <point x="255" y="461"/>
+      <point x="251" y="463" type="curve" smooth="yes"/>
+      <point x="149" y="579" type="line" smooth="yes"/>
+      <point x="143" y="585"/>
+      <point x="132" y="585"/>
+      <point x="126" y="579" type="curve" smooth="yes"/>
+      <point x="23" y="463" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="117" y="330" type="move" name="_top"/>
+      <point x="137" y="386" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

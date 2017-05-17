@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numero" format="1">
-  <advance width="736"/>
+  <advance width="861"/>
   <unicode hex="2116"/>
   <outline>
     <component base="n.sc"/>
-    <component base="ordmasculine" xOffset="458" yOffset="-204"/>
+    <component base="ordmasculine" xOffset="536" yOffset="-239"/>
   </outline>
   <lib>
     <dict>

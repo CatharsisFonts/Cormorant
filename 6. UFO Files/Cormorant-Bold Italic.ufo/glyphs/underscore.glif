@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="underscore" format="1">
-  <advance width="310"/>
+  <advance width="363"/>
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="266" y="-68" type="line" smooth="yes"/>
-      <point x="271" y="-68"/>
-      <point x="271" y="-28"/>
-      <point x="266" y="-28" type="curve" smooth="yes"/>
-      <point x="-7" y="-28" type="line" smooth="yes"/>
-      <point x="-11" y="-28"/>
-      <point x="-11" y="-68"/>
-      <point x="-6" y="-68" type="curve" smooth="yes"/>
+      <point x="311" y="-80" type="line" smooth="yes"/>
+      <point x="317" y="-80"/>
+      <point x="317" y="-33"/>
+      <point x="311" y="-33" type="curve" smooth="yes"/>
+      <point x="-8" y="-33" type="line" smooth="yes"/>
+      <point x="-13" y="-33"/>
+      <point x="-13" y="-80"/>
+      <point x="-7" y="-80" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>

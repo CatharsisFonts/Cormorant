@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f.short.sc" format="1">
-  <advance width="360"/>
+  <advance width="421"/>
   <outline>
     <component base="f.sc"/>
     <contour>
-      <point x="180" y="400" type="move" name="top"/>
+      <point x="211" y="468" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="180" y="0" type="move" name="bottom"/>
+      <point x="211" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
 </glyph>

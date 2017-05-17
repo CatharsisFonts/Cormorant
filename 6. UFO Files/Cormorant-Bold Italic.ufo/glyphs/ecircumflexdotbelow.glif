@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecircumflexdotbelow" format="1">
-  <advance width="305"/>
+  <advance width="357"/>
   <unicode hex="1EC7"/>
   <outline>
     <component base="e"/>
-    <component base="dotbelowcomb" xOffset="134"/>
-    <component base="circumflexcomb" xOffset="66"/>
+    <component base="dotbelowcomb" xOffset="157"/>
+    <component base="circumflexcomb" xOffset="77"/>
   </outline>
   <lib>
     <dict>

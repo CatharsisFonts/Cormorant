@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abrevedotbelow.sc" format="1">
-  <advance width="475"/>
+  <advance width="556"/>
   <outline>
     <component base="a.sc"/>
-    <component base="dotbelowcomb" xOffset="166"/>
-    <component base="breve.sc" xOffset="115" yOffset="70"/>
+    <component base="dotbelowcomb" xOffset="194"/>
+    <component base="breve.sc" xOffset="135" yOffset="82"/>
   </outline>
   <lib>
     <dict>

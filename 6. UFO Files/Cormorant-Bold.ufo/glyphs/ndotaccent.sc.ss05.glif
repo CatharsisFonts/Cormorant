@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ndotaccent.sc.ss05" format="1">
-  <advance width="507"/>
+  <advance width="593"/>
   <outline>
     <component base="n.sc.ss05"/>
-    <component base="dotaccentcomb" xOffset="203" yOffset="70"/>
+    <component base="dotaccentcomb" xOffset="237" yOffset="82"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute.sc.ss05" format="1">
-  <advance width="411"/>
+  <advance width="481"/>
   <outline>
     <component base="a.sc.ss05"/>
-    <component base="acute.ring" xOffset="80" yOffset="70"/>
+    <component base="acute.ring" xOffset="94" yOffset="82"/>
   </outline>
   <lib>
     <dict>

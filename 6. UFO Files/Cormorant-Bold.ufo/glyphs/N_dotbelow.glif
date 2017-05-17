@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ndotbelow" format="1">
-  <advance width="628"/>
+  <advance width="735"/>
   <unicode hex="1E46"/>
   <outline>
     <component base="N"/>
-    <component base="dotbelowcomb" xOffset="258"/>
+    <component base="dotbelowcomb" xOffset="301"/>
   </outline>
   <lib>
     <dict>

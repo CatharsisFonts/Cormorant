@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_t" format="1">
-  <advance width="464"/>
+  <advance width="543"/>
   <unicode hex="FB05"/>
   <outline>
     <component base="longs"/>
-    <component base="t" xOffset="207"/>
+    <component base="t" xOffset="242"/>
     <contour>
-      <point x="232" y="0" type="move" name="caret_1"/>
+      <point x="271" y="0" type="move" name="caret_1"/>
     </contour>
   </outline>
   <lib>

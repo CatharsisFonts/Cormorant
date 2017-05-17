@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohornacute.sc" format="1">
-  <advance width="485"/>
+  <advance width="567"/>
   <outline>
     <component base="ohorn.sc"/>
-    <component base="acute.case" xOffset="136" yOffset="70"/>
+    <component base="acute.case" xOffset="159" yOffset="82"/>
   </outline>
   <lib>
     <dict>

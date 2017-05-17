@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.loclNLD.sc" format="1">
-  <advance width="259"/>
+  <advance width="303"/>
   <outline>
     <component base="i.sc"/>
     <contour>
-      <point x="233" y="10" type="move" name="ogonek"/>
+      <point x="273" y="12" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="130" y="0" type="move" name="bottom"/>
+      <point x="152" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="130" y="400" type="move" name="top"/>
+      <point x="152" y="468" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

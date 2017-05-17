@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eogonek" format="1">
-  <advance width="454"/>
+  <advance width="531"/>
   <unicode hex="0118"/>
   <outline>
     <component base="E"/>
-    <component base="ogonek" xOffset="229"/>
+    <component base="ogonek" xOffset="268"/>
     <contour>
-      <point x="292" y="534" type="move" name="top"/>
+      <point x="342" y="625" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

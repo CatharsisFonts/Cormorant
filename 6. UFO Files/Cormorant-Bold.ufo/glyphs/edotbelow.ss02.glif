@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edotbelow.ss02" format="1">
-  <advance width="357"/>
+  <advance width="418"/>
   <outline>
     <component base="e.ss02"/>
-    <component base="dotbelowcomb" xOffset="142"/>
+    <component base="dotbelowcomb" xOffset="166"/>
   </outline>
   <lib>
     <dict>

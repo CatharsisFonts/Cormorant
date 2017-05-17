@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ldotbelowmacron.sc" format="1">
-  <advance width="400"/>
+  <advance width="468"/>
   <outline>
     <component base="l.sc"/>
-    <component base="dotbelowcomb" xOffset="170"/>
-    <component base="macroncomb" xOffset="-3" yOffset="70"/>
+    <component base="dotbelowcomb" xOffset="198"/>
+    <component base="macroncomb" xOffset="-3" yOffset="82"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="colon.tosf" format="1">
-  <advance width="177"/>
+  <advance width="207"/>
   <outline>
     <component base="period"/>
-    <component base="period" yOffset="240"/>
+    <component base="period" yOffset="281"/>
   </outline>
   <lib>
     <dict>

@@ -1,133 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute.loclPLK" format="1">
-  <advance width="192"/>
+  <advance width="225"/>
   <outline>
     <contour>
-      <point x="164" y="700" type="line" smooth="yes"/>
-      <point x="174" y="714"/>
-      <point x="69" y="703"/>
-      <point x="68" y="696" type="curve" smooth="yes"/>
-      <point x="60" y="591" type="line" smooth="yes"/>
-      <point x="59" y="584"/>
-      <point x="84" y="582"/>
-      <point x="89" y="589" type="curve" smooth="yes"/>
+      <point x="192" y="819" type="line" smooth="yes"/>
+      <point x="204" y="835"/>
+      <point x="81" y="822"/>
+      <point x="80" y="814" type="curve" smooth="yes"/>
+      <point x="70" y="691" type="line" smooth="yes"/>
+      <point x="69" y="683"/>
+      <point x="98" y="681"/>
+      <point x="104" y="689" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="71" y="534" type="move" name="_top"/>
+      <point x="83" y="625" type="move" name="_top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>Dec 28 16, 23:33</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-            <dict>
-              <key>name</key>
-              <string>_top</string>
-              <key>x</key>
-              <integer>71</integer>
-              <key>y</key>
-              <integer>534</integer>
-            </dict>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>154</integer>
-                  <key>y</key>
-                  <integer>700</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>163</integer>
-                  <key>y</key>
-                  <integer>715</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>58</integer>
-                  <key>y</key>
-                  <integer>703</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>58</integer>
-                  <key>y</key>
-                  <integer>696</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>60</integer>
-                  <key>y</key>
-                  <integer>591</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>60</integer>
-                  <key>y</key>
-                  <integer>584</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>85</integer>
-                  <key>y</key>
-                  <integer>582</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>89</integer>
-                  <key>y</key>
-                  <integer>589</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>acute.loclPLK</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>192</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

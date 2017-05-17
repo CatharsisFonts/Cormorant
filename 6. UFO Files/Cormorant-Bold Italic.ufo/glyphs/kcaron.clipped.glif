@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kcaron.clipped" format="1">
-  <advance width="372"/>
+  <advance width="435"/>
   <outline>
     <component base="k.clipped"/>
-    <component base="caron.case" xOffset="35" yOffset="253"/>
+    <component base="caron.case" xOffset="41" yOffset="296"/>
   </outline>
   <lib>
     <dict>

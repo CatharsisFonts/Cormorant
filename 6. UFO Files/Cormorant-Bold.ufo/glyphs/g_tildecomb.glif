@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g_tildecomb" format="1">
-  <advance width="386"/>
+  <advance width="451"/>
   <outline>
     <component base="g"/>
-    <component base="tildecomb" xOffset="21"/>
+    <component base="tildecomb" xOffset="30"/>
     <contour>
-      <point x="193" y="330" type="move" name="top"/>
+      <point x="226" y="386" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="193" y="0" type="move" name="bottom"/>
+      <point x="226" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

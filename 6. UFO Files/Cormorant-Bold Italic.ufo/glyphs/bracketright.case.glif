@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright.case" format="1">
-  <advance width="215"/>
+  <advance width="251"/>
   <outline>
-    <component base="bracketleft.case" xOffset="249" yOffset="520" xScale="-1" yScale="-1"/>
+    <component base="bracketleft.case" xOffset="291" yOffset="608" xScale="-1" yScale="-1"/>
     <contour>
-      <point x="1" y="10" type="move" name="ogonek"/>
+      <point x="1" y="12" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="88" y="534" type="move" name="top"/>
+      <point x="103" y="625" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

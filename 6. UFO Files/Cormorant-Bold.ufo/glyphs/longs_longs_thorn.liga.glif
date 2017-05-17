@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs_thorn.liga" format="1">
-  <advance width="939"/>
+  <advance width="1098"/>
   <outline>
     <component base="ssxmaker"/>
-    <component base="longs_thorn.liga" xOffset="245"/>
+    <component base="longs_thorn.liga" xOffset="287"/>
     <contour>
-      <point x="157" y="0" type="move" name="bottom_1"/>
+      <point x="184" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="470" y="330" type="move" name="top_2"/>
+      <point x="550" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="626" y="0" type="move" name="caret_2"/>
+      <point x="732" y="0" type="move" name="caret_2"/>
     </contour>
     <contour>
-      <point x="313" y="0" type="move" name="caret_1"/>
+      <point x="366" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="783" y="0" type="move" name="bottom_3"/>
+      <point x="916" y="0" type="move" name="bottom_3"/>
     </contour>
     <contour>
-      <point x="157" y="330" type="move" name="top_1"/>
+      <point x="184" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="470" y="0" type="move" name="bottom_2"/>
+      <point x="550" y="0" type="move" name="bottom_2"/>
     </contour>
     <contour>
-      <point x="783" y="330" type="move" name="top_3"/>
+      <point x="916" y="386" type="move" name="top_3"/>
     </contour>
   </outline>
   <lib>

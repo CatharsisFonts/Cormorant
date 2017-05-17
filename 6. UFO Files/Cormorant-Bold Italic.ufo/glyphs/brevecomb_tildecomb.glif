@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_tildecomb" format="1">
-  <advance width="288"/>
+  <advance width="337"/>
   <outline>
-    <component base="breve.case" xOffset="46" yOffset="23"/>
-    <component base="tildecomb" xOffset="55" yOffset="113"/>
+    <component base="breve.case" xOffset="54" yOffset="27"/>
+    <component base="tildecomb" xOffset="64" yOffset="132"/>
     <contour>
-      <point x="168" y="577" type="move" name="top"/>
+      <point x="196" y="675" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="174" y="330" type="move" name="_top"/>
+      <point x="204" y="386" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

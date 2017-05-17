@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="j_acutecomb.liga" format="1">
-  <advance width="203"/>
-  <outline>
-    <component base="jdotless"/>
-    <component base="acute" xOffset="32"/>
-  </outline>
-</glyph>

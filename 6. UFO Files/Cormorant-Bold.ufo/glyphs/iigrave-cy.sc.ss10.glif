@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iigrave-cy.sc.ss10" format="1">
-  <advance width="532"/>
+  <advance width="622"/>
   <outline>
     <component base="ii-cy.loclBGR.sc"/>
-    <component base="gravecomb.case" xOffset="140" yOffset="70"/>
+    <component base="gravecomb.case" xOffset="164" yOffset="82"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_gravecomb.case" format="1">
-  <advance width="338"/>
+  <advance width="395"/>
   <outline>
-    <component base="circumflexcomb.case" xOffset="51"/>
-    <component base="grave.mini" xOffset="176" yOffset="256"/>
+    <component base="circumflexcomb.case" xOffset="60"/>
+    <component base="grave.mini" xOffset="206" yOffset="299"/>
     <contour>
-      <point x="211" y="712" type="move" name="top"/>
+      <point x="247" y="833" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="203" y="534" type="move" name="_top"/>
+      <point x="237" y="625" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

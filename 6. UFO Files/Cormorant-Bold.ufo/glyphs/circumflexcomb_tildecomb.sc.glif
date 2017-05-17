@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb_tildecomb.sc" format="1">
-  <advance width="288"/>
+  <advance width="337"/>
   <outline>
-    <component base="circumflexcomb.case" xOffset="19" yOffset="10"/>
-    <component base="tildecomb" xOffset="-21" yOffset="284"/>
+    <component base="circumflexcomb.case" xOffset="22" yOffset="12"/>
+    <component base="tildecomb" xOffset="-25" yOffset="332"/>
     <contour>
-      <point x="146" y="763" type="move" name="top"/>
+      <point x="171" y="892" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="137" y="534" type="move" name="_top"/>
+      <point x="160" y="625" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g_ymacron.liga" format="1">
-  <advance width="688"/>
+  <advance width="805"/>
   <outline>
     <component base="g_y.liga"/>
-    <component base="macron" xOffset="323"/>
+    <component base="macron" xOffset="378"/>
     <contour>
-      <point x="141" y="0" type="move" name="bottom"/>
+      <point x="165" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="143" y="0" type="move" name="bottom_1"/>
+      <point x="167" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="545" y="330" type="move" name="top_2"/>
+      <point x="637" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="344" y="0" type="move" name="caret_1"/>
+      <point x="402" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="571" y="330" type="move" name="top"/>
+      <point x="668" y="386" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="201" y="330" type="move" name="top_1"/>
+      <point x="235" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="487" y="0" type="move" name="bottom_2"/>
+      <point x="570" y="0" type="move" name="bottom_2"/>
     </contour>
   </outline>
   <lib>
@@ -32,124 +32,6 @@
       <string>g</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>y</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-            <dict>
-              <key>points</key>
-              <array>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>334</integer>
-                  <key>y</key>
-                  <integer>296</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>343</integer>
-                  <key>y</key>
-                  <integer>336</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>338</integer>
-                  <key>y</key>
-                  <integer>336</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>305</integer>
-                  <key>y</key>
-                  <integer>336</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>264</integer>
-                  <key>y</key>
-                  <integer>322</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>230</integer>
-                  <key>y</key>
-                  <integer>302</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>line</string>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>231</integer>
-                  <key>y</key>
-                  <integer>296</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>264</integer>
-                  <key>y</key>
-                  <integer>307</integer>
-                </dict>
-                <dict>
-                  <key>smooth</key>
-                  <false/>
-                  <key>x</key>
-                  <integer>304</integer>
-                  <key>y</key>
-                  <integer>311</integer>
-                </dict>
-                <dict>
-                  <key>segmentType</key>
-                  <string>curve</string>
-                  <key>smooth</key>
-                  <true/>
-                  <key>x</key>
-                  <integer>331</integer>
-                  <key>y</key>
-                  <integer>298</integer>
-                </dict>
-              </array>
-            </dict>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>g_ymacron.liga</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>688</integer>
-        </dict>
-      </dict>
     </dict>
   </lib>
 </glyph>

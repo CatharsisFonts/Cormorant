@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adieresis.sc.ss04" format="1">
-  <advance width="475"/>
+  <advance width="556"/>
   <outline>
     <component base="a.sc"/>
-    <component base="dieresis.case.ss04" xOffset="173" yOffset="73"/>
+    <component base="dieresis.case.ss04" xOffset="202" yOffset="85"/>
   </outline>
   <lib>
     <dict>

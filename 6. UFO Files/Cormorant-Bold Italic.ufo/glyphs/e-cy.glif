@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e-cy" format="1">
-  <advance width="297"/>
+  <advance width="347"/>
   <unicode hex="0454"/>
   <outline>
     <contour>
-      <point x="229" y="140"/>
-      <point x="237" y="150"/>
-      <point x="239" y="160" type="curve" smooth="yes"/>
-      <point x="241" y="173"/>
-      <point x="235" y="187"/>
-      <point x="218" y="187" type="curve" smooth="yes"/>
-      <point x="195" y="187"/>
-      <point x="168" y="175"/>
-      <point x="59" y="175" type="curve"/>
-      <point x="59" y="155" type="line"/>
-      <point x="168" y="155"/>
-      <point x="192" y="140"/>
-      <point x="216" y="140" type="curve" smooth="yes"/>
+      <point x="268" y="164"/>
+      <point x="277" y="175"/>
+      <point x="280" y="187" type="curve" smooth="yes"/>
+      <point x="282" y="202"/>
+      <point x="275" y="219"/>
+      <point x="255" y="219" type="curve" smooth="yes"/>
+      <point x="228" y="219"/>
+      <point x="196" y="205"/>
+      <point x="69" y="205" type="curve"/>
+      <point x="69" y="181" type="line"/>
+      <point x="196" y="181"/>
+      <point x="225" y="164"/>
+      <point x="253" y="164" type="curve" smooth="yes"/>
     </contour>
     <component base="c"/>
     <contour>
-      <point x="212" y="330" type="move" name="top"/>
+      <point x="248" y="386" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="195" y="0" type="move" name="bottom"/>
+      <point x="228" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

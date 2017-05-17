@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorntilde.sc.ss01" format="1">
-  <advance width="522"/>
+  <advance width="611"/>
   <outline>
     <component base="uhorn.sc.ss01"/>
-    <component base="tildecomb" xOffset="86" yOffset="70"/>
+    <component base="tildecomb" xOffset="101" yOffset="82"/>
   </outline>
   <lib>
     <dict>

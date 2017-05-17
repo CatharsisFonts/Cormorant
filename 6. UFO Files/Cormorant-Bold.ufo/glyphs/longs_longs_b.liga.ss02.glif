@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs_longs_b.liga.ss02" format="1">
-  <advance width="945"/>
+  <advance width="1105"/>
   <outline>
     <component base="ssxmaker.ss02"/>
-    <component base="longs_b.liga.ss02" xOffset="245"/>
+    <component base="longs_b.liga.ss02" xOffset="287"/>
     <contour>
-      <point x="158" y="0" type="move" name="bottom_1"/>
+      <point x="185" y="0" type="move" name="bottom_1"/>
     </contour>
     <contour>
-      <point x="473" y="330" type="move" name="top_2"/>
+      <point x="553" y="386" type="move" name="top_2"/>
     </contour>
     <contour>
-      <point x="630" y="0" type="move" name="caret_2"/>
+      <point x="737" y="0" type="move" name="caret_2"/>
     </contour>
     <contour>
-      <point x="315" y="0" type="move" name="caret_1"/>
+      <point x="368" y="0" type="move" name="caret_1"/>
     </contour>
     <contour>
-      <point x="788" y="0" type="move" name="bottom_3"/>
+      <point x="922" y="0" type="move" name="bottom_3"/>
     </contour>
     <contour>
-      <point x="158" y="330" type="move" name="top_1"/>
+      <point x="185" y="386" type="move" name="top_1"/>
     </contour>
     <contour>
-      <point x="473" y="0" type="move" name="bottom_2"/>
+      <point x="553" y="0" type="move" name="bottom_2"/>
     </contour>
     <contour>
-      <point x="788" y="330" type="move" name="top_3"/>
+      <point x="922" y="386" type="move" name="top_3"/>
     </contour>
   </outline>
   <lib>
@@ -39,44 +39,6 @@
       <string>longs</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>b</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>longs_b.liga</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>longs_longs_b.liga.ss02</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>945</integer>
-        </dict>
-      </dict>
     </dict>
   </lib>
 </glyph>

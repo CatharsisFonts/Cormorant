@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="abreveacute" format="1">
-  <advance width="380"/>
+  <advance width="444"/>
   <unicode hex="1EAF"/>
   <outline>
     <component base="a"/>
-    <component base="brevecomb_acutecomb" xOffset="116"/>
+    <component base="brevecomb_acutecomb" xOffset="136"/>
   </outline>
   <lib>
     <dict>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rdotbelowmacron" format="1">
-  <advance width="543"/>
+  <advance width="635"/>
   <unicode hex="1E5C"/>
   <outline>
     <component base="R"/>
-    <component base="dotbelowcomb" xOffset="261"/>
-    <component base="macroncomb" xOffset="145" yOffset="204"/>
+    <component base="dotbelowcomb" xOffset="306"/>
+    <component base="macroncomb" xOffset="170" yOffset="239"/>
   </outline>
   <lib>
     <dict>

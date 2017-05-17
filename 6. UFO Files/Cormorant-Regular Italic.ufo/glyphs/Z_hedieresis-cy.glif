@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Zhedieresis-cy" format="1">
-  <advance width="760"/>
-  <unicode hex="04DC"/>
-  <outline>
-    <component base="Zhe-cy"/>
-    <component base="dieresiscomb" xOffset="278" yOffset="204"/>
-  </outline>
-</glyph>

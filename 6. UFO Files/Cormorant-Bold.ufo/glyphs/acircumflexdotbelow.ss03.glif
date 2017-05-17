@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflexdotbelow.ss03" format="1">
-  <advance width="419"/>
+  <advance width="490"/>
   <outline>
     <component base="a.ss03"/>
-    <component base="dotbelowcomb" xOffset="159"/>
-    <component base="circumflexcomb" xOffset="104"/>
+    <component base="dotbelowcomb" xOffset="185"/>
+    <component base="circumflexcomb" xOffset="121"/>
   </outline>
   <lib>
     <dict>

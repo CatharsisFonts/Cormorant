@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero.zero.lf" format="1">
-  <advance width="405"/>
+  <advance width="474"/>
   <outline>
     <component base="zero.lf"/>
-    <component base="period" xOffset="155" yOffset="234"/>
+    <component base="period" xOffset="181" yOffset="274"/>
     <contour>
-      <point x="214" y="330" type="move" name="top"/>
+      <point x="250" y="386" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

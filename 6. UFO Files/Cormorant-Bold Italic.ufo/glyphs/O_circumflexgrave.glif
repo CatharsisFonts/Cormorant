@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ocircumflexgrave" format="1">
-  <advance width="560"/>
+  <advance width="655"/>
   <unicode hex="1ED2"/>
   <outline>
     <component base="O"/>
-    <component base="circumflexcomb_gravecomb.case" xOffset="138"/>
+    <component base="circumflexcomb_gravecomb.case" xOffset="162"/>
   </outline>
   <lib>
     <dict>

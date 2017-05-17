@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="adotbelow.sc.ss01" format="1">
-  <advance width="481"/>
+  <advance width="563"/>
   <outline>
     <component base="a.sc.ss01"/>
-    <component base="dotbelowcomb" xOffset="179"/>
+    <component base="dotbelowcomb" xOffset="209"/>
   </outline>
   <lib>
     <dict>

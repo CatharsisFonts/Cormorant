@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="aemacron.sc" format="1">
-  <advance width="606"/>
-  <outline>
-    <component base="ae.sc"/>
-    <component base="macron" xOffset="255" yOffset="70"/>
-  </outline>
-</glyph>

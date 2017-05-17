@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotbelow.sc" format="1">
-  <advance width="259"/>
+  <advance width="303"/>
   <outline>
     <component base="i.sc"/>
-    <component base="dotbelowcomb" xOffset="68"/>
+    <component base="dotbelowcomb" xOffset="79"/>
   </outline>
   <lib>
     <dict>

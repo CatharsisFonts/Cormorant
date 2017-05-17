@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="edieresis-cy.sc" format="1">
-  <advance width="462"/>
-  <outline>
-    <component base="ereversed-cy.sc"/>
-    <component base="dieresiscomb" xOffset="93" yOffset="70"/>
-  </outline>
-</glyph>

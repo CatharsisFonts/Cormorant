@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron.clipped" format="1">
-  <advance width="224"/>
+  <advance width="262"/>
   <outline>
     <component base="l.clipped"/>
-    <component base="caron.alt" xOffset="140" yOffset="-17"/>
+    <component base="caron.alt" xOffset="164" yOffset="-20"/>
   </outline>
   <lib>
     <dict>

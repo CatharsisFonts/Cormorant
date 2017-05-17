@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevebelowcomb" format="1">
-  <advance width="235"/>
+  <advance width="275"/>
   <unicode hex="032E"/>
   <outline>
-    <component base="breve" xOffset="-79" yOffset="-574"/>
+    <component base="breve" xOffset="-92" yOffset="-671"/>
     <contour>
-      <point x="98" y="0" type="move" name="_bottom"/>
+      <point x="115" y="0" type="move" name="_bottom"/>
     </contour>
     <contour>
-      <point x="120" y="-194" type="move" name="bottom"/>
+      <point x="140" y="-227" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

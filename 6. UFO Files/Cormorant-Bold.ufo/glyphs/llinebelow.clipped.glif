@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="llinebelow.clipped" format="1">
-  <advance width="224"/>
+  <advance width="262"/>
   <outline>
     <component base="l.clipped"/>
-    <component base="macronbelowcomb" xOffset="-31"/>
+    <component base="macronbelowcomb" xOffset="-36"/>
   </outline>
   <lib>
     <dict>

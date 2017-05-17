@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tdieresis.sc" format="1">
-  <advance width="429"/>
+  <advance width="502"/>
   <outline>
     <component base="t.sc"/>
-    <component base="dieresiscomb" xOffset="82" yOffset="76"/>
+    <component base="dieresiscomb" xOffset="96" yOffset="89"/>
     <contour>
-      <point x="215" y="200" type="move" name="center"/>
+      <point x="251" y="234" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="215" y="0" type="move" name="bottom"/>
+      <point x="251" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="215" y="400" type="move" name="top"/>
+      <point x="251" y="468" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

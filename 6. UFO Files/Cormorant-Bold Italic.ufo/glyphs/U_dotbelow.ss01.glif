@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Udotbelow.ss01" format="1">
-  <advance width="612"/>
+  <advance width="716"/>
   <outline>
     <component base="U.ss01"/>
-    <component base="dotbelowcomb" xOffset="246"/>
+    <component base="dotbelowcomb" xOffset="288"/>
   </outline>
   <lib>
     <dict>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl.c2sc" format="1">
-  <advance width="248"/>
+  <advance width="290"/>
   <outline>
-    <component base="quotedbl" yOffset="-50"/>
+    <component base="quotedbl" yOffset="-58"/>
   </outline>
   <lib>
     <dict>
@@ -10,57 +10,6 @@
       <string>quotesingle</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>quotesingle</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>quotesingle</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>-50</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>quotesingle</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>110</integer>
-                <integer>-50</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quotedbl.c2sc</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>248</integer>
-        </dict>
-      </dict>
     </dict>
   </lib>
 </glyph>

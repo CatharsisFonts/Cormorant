@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="alpha-latin.sc" format="1">
-  <advance width="475"/>
+  <advance width="556"/>
   <outline>
     <component base="a.sc"/>
     <contour>
-      <point x="238" y="400" type="move" name="top"/>
+      <point x="278" y="468" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="238" y="0" type="move" name="bottom"/>
+      <point x="278" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

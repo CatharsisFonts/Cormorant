@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hbrevebelow" format="1">
-  <advance width="435"/>
+  <advance width="509"/>
   <unicode hex="1E2B"/>
   <outline>
     <component base="h"/>
-    <component base="brevebelowcomb" xOffset="100"/>
+    <component base="brevebelowcomb" xOffset="117"/>
   </outline>
   <lib>
     <dict>

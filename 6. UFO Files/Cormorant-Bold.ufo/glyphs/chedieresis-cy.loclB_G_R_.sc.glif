@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chedieresis-cy.loclBGR.sc" format="1">
-  <advance width="492"/>
+  <advance width="575"/>
   <outline>
     <component base="che-cy.sc"/>
-    <component base="dieresiscomb" xOffset="99" yOffset="70"/>
+    <component base="dieresiscomb" xOffset="116" yOffset="82"/>
   </outline>
   <lib>
     <dict>

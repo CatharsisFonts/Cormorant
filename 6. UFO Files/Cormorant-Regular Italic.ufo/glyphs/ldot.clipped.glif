@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ldot.clipped" format="1">
-  <advance width="208"/>
-  <outline>
-    <component base="l.clipped"/>
-    <component base="periodcentered" xOffset="135" yOffset="139"/>
-  </outline>
-</glyph>

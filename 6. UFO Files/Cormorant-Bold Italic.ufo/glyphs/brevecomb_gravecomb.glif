@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brevecomb_gravecomb" format="1">
-  <advance width="235"/>
+  <advance width="275"/>
   <outline>
-    <component base="brevecomb.case" xOffset="-20" yOffset="-174"/>
-    <component base="grave.mini" xOffset="26" yOffset="132"/>
+    <component base="brevecomb.case" xOffset="-23" yOffset="-204"/>
+    <component base="grave.mini" xOffset="30" yOffset="154"/>
     <contour>
-      <point x="100" y="563" type="move" name="top"/>
+      <point x="117" y="658" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="143" y="330" type="move" name="_top"/>
+      <point x="167" y="386" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohorn.sc" format="1">
-  <advance width="485"/>
+  <advance width="567"/>
   <outline>
     <component base="o.sc"/>
-    <component base="horncomb" xOffset="323" yOffset="-3"/>
+    <component base="horncomb" xOffset="378" yOffset="-3"/>
     <contour>
-      <point x="243" y="400" type="move" name="top"/>
+      <point x="284" y="468" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="243" y="0" type="move" name="bottom"/>
+      <point x="284" y="0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
