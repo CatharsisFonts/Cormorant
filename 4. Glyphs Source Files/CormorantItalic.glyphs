@@ -1,8 +1,7 @@
 {
 .appVersion = "976";
 DisplayStrings = (
-"Che/f.short/quoteright s o/quoteright clock l/quoteright \U00E8ve\012\"'/quotedblbase/quotedblleft/quotedblright/quoteleft I/quoteright/quotesinglbase/quotedblleft.case/quotedblright.case/quoteleft.case ,./quoteright.case   don/quoteright t dqaon't\012/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/quotedblleft.case/quotedblright.case/quoteleft.case/quoteright.case ,  [/f.short ]",
-"Florian Leupold"
+"Che/f.short/quoteright s o/quoteright clock l/quoteright \U00E8ve\012\"'/quotedblbase/quotedblleft/quotedblright/quoteleft I/quoteright/quotesinglbase/quotedblleft.case/quotedblright.case/quoteleft.case ,./quoteright.case   don/quoteright t dqaon't\012/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/quotedblleft.case/quotedblright.case/quoteleft.case/quoteright.case ,  [/f.short ]"
 );
 classes = (
 {
@@ -87,7 +86,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2017-03-19 15:38:57 +0000";
+date = "2017-06-01 10:52:51 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts";
 disablesNiceNames = 1;
@@ -143,14 +142,14 @@ feature salt;
 feature ss01;
 feature ss02;
 feature ss03;
+feature ss04;
+feature ss07;
 feature ss08;
 feature ss09;
 feature ss10;
 feature ss11;
 feature ss13;
 feature hlig;
-feature ss04;
-feature ss07;
 ";
 name = aalt;
 },
@@ -806,6 +805,78 @@ name = dlig;
 },
 {
 automatic = 1;
+code = "sub f i by fi;
+sub f l by fl;
+sub Aogonek acutecomb by Aogonek_acutecomb.liga;
+sub Eogonek acutecomb by Eogonek_acutecomb.liga;
+sub IJ acutecomb by IJ_acutecomb.liga;
+sub Iogonek acutecomb by Iogonek_acutecomb.liga;
+sub J acutecomb by J_acutecomb.liga;
+sub Oogonek acutecomb by Oogonek_acutecomb.liga;
+sub aogonek acutecomb by aogonek_acutecomb.liga;
+sub eogonek acutecomb by eogonek_acutecomb.liga;
+sub ij acutecomb by ij_acutecomb.liga;
+sub iogonek acutecomb by iogonek_acutecomb.liga;
+sub j acutecomb by j_acutecomb.liga;
+sub oogonek acutecomb by oogonek_acutecomb.liga;
+sub T T by T_T.liga;
+sub T h by T_h.liga;
+sub f.a f.a by f_f.a.liga;
+sub f.a f.a f.a by f_f_f.a.liga;
+sub f.a f.a t.a by f_f_t.a.liga;
+sub f.a t.a by f_t.a.liga;
+sub f b by f_b.liga;
+sub f f by f_f.liga;
+sub f f b by f_f_b.liga;
+sub f f f by f_f_f.liga;
+sub f f h by f_f_h.liga;
+sub f f i by f_f_i.liga;
+sub f f j by f_f_j.liga;
+sub f f k by f_f_k.liga;
+sub f f l by f_f_l.liga;
+sub f f thorn by f_f_thorn.liga;
+sub f f t by f_f_t.liga;
+sub f h by f_h.liga;
+sub f j by f_j.liga;
+sub f k by f_k.liga;
+sub f thorn by f_thorn.liga;
+sub f t by f_t.liga;
+sub g g by g_g.liga;
+sub g y by g_y.liga;
+sub g yacute by g_yacute.liga;
+sub g ycircumflex by g_ycircumflex.liga;
+sub g ydieresis by g_ydieresis.liga;
+sub g ygrave by g_ygrave.liga;
+sub g ymacron by g_ymacron.liga;
+sub g ytilde by g_ytilde.liga;
+sub f.short f.short by f_f.short.liga;
+sub longs b by longs_b.liga;
+sub longs h by longs_h.liga;
+sub longs i by longs_i.liga;
+sub longs j by longs_j.liga;
+sub longs k by longs_k.liga;
+sub longs l by longs_l.liga;
+sub longs thorn by longs_thorn.liga;
+sub longs longs by longs_longs.liga;
+sub longs longs b by longs_longs_b.liga;
+sub longs longs h by longs_longs_h.liga;
+sub longs longs i by longs_longs_i.liga;
+sub longs longs j by longs_longs_j.liga;
+sub longs longs k by longs_longs_k.liga;
+sub longs longs l by longs_longs_l.liga;
+sub longs longs thorn by longs_longs_thorn.liga;
+";
+name = liga;
+},
+{
+automatic = 1;
+code = "sub longs t by longs_t;
+sub t z by t_z.hlig;
+";
+name = hlig;
+},
+{
+automatic = 1;
 code = "sub zero.lf by zero.lf.zero;
 sub zero.tf by zero.tf.zero;
 sub zero.tosf by zero.tosf.zero;
@@ -1135,122 +1206,6 @@ name = ss11;
 },
 {
 automatic = 1;
-code = "sub Aacute by Aacute.ss13;
-sub Acaron by Acaron.ss13;
-sub Acircumflex by Acircumflex.ss13;
-sub Acircumflexdotbelow by Acircumflexdotbelow.ss13;
-sub Agrave by Agrave.ss13;
-sub AEacute by AEacute.ss13;
-sub Cacute by Cacute.ss13;
-sub Ccaron by Ccaron.ss13;
-sub Ccircumflex by Ccircumflex.ss13;
-sub Dcaron by Dcaron.ss13;
-sub Eacute by Eacute.ss13;
-sub Ecaron by Ecaron.ss13;
-sub Ecircumflex by Ecircumflex.ss13;
-sub Ecircumflexdotbelow by Ecircumflexdotbelow.ss13;
-sub Egrave by Egrave.ss13;
-sub Gcaron by Gcaron.ss13;
-sub Gcircumflex by Gcircumflex.ss13;
-sub Hcircumflex by Hcircumflex.ss13;
-sub Iacute by Iacute.ss13;
-sub Icaron by Icaron.ss13;
-sub Icircumflex by Icircumflex.ss13;
-sub Igrave by Igrave.ss13;
-sub Jcircumflex by Jcircumflex.ss13;
-sub Kacute by Kacute.ss13;
-sub Kcaron by Kcaron.ss13;
-sub Lacute by Lacute.ss13;
-sub Nacute by Nacute.ss13;
-sub Ncaron by Ncaron.ss13;
-sub Oacute by Oacute.ss13;
-sub Ocaron by Ocaron.ss13;
-sub Ocircumflex by Ocircumflex.ss13;
-sub Ocircumflexdotbelow by Ocircumflexdotbelow.ss13;
-sub Ograve by Ograve.ss13;
-sub Ohornacute by Ohornacute.ss13;
-sub Ohorngrave by Ohorngrave.ss13;
-sub Ohungarumlaut by Ohungarumlaut.ss13;
-sub Oslashacute by Oslashacute.ss13;
-sub Racute by Racute.ss13;
-sub Rcaron by Rcaron.ss13;
-sub Sacute by Sacute.ss13;
-sub Scaron by Scaron.ss13;
-sub Scircumflex by Scircumflex.ss13;
-sub Tcaron by Tcaron.ss13;
-sub Uacute by Uacute.ss13;
-sub Ucaron by Ucaron.ss13;
-sub Ucircumflex by Ucircumflex.ss13;
-sub Ugrave by Ugrave.ss13;
-sub Uhorngrave by Uhorngrave.ss13;
-sub Uhungarumlaut by Uhungarumlaut.ss13;
-sub Wacute by Wacute.ss13;
-sub Wcircumflex by Wcircumflex.ss13;
-sub Wgrave by Wgrave.ss13;
-sub Yacute by Yacute.ss13;
-sub Ycircumflex by Ycircumflex.ss13;
-sub Ygrave by Ygrave.ss13;
-sub Zacute by Zacute.ss13;
-sub Zcaron by Zcaron.ss13;
-sub Aogonek_acutecomb.liga by Aogonek_acutecomb.liga.ss13;
-sub Eogonek_acutecomb.liga by Eogonek_acutecomb.liga.ss13;
-sub IJ_acutecomb.liga by IJ_acutecomb.liga.ss13;
-sub Iogonek_acutecomb.liga by Iogonek_acutecomb.liga.ss13;
-sub J_acutecomb.liga by J_acutecomb.liga.ss13;
-sub Oogonek_acutecomb.liga by Oogonek_acutecomb.liga.ss13;
-sub Aacute.loclHUN by Aacute.loclHUN.ss13;
-sub Eacute.loclHUN by Eacute.loclHUN.ss13;
-sub Iacute.loclHUN by Iacute.loclHUN.ss13;
-sub Oacute.loclHUN by Oacute.loclHUN.ss13;
-sub Uacute.loclHUN by Uacute.loclHUN.ss13;
-sub Cacute.loclPLK by Cacute.loclPLK.ss13;
-sub Nacute.loclPLK by Nacute.loclPLK.ss13;
-sub Oacute.loclPLK by Oacute.loclPLK.ss13;
-sub Sacute.loclPLK by Sacute.loclPLK.ss13;
-sub Zacute.loclPLK by Zacute.loclPLK.ss13;
-sub Racute.short by Racute.short.ss13;
-sub Rcaron.short by Rcaron.short.ss13;
-sub Uacute.ss01 by Uacute.ss01.ss13;
-sub Ucaron.ss01 by Ucaron.ss01.ss13;
-sub Ucircumflex.ss01 by Ucircumflex.ss01.ss13;
-sub Ugrave.ss01 by Ugrave.ss01.ss13;
-sub Uhornacute.ss01 by Uhornacute.ss01.ss13;
-sub Uhorngrave.ss01 by Uhorngrave.ss01.ss13;
-sub Uhungarumlaut.ss01 by Uhungarumlaut.ss01.ss13;
-sub Uacute.loclHUN.ss01 by Uacute.loclHUN.ss01.ss13;
-sub Racute.ss02 by Racute.ss02.ss13;
-sub Rcaron.ss02 by Rcaron.ss02.ss13;
-sub Racute.short.ss02 by Racute.short.ss02.ss13;
-sub Rcaron.short.ss02 by Rcaron.short.ss02.ss13;
-sub Uacute.ss03 by Uacute.ss03.ss13;
-sub Ucaron.ss03 by Ucaron.ss03.ss13;
-sub Ucircumflex.ss03 by Ucircumflex.ss03.ss13;
-sub Ugrave.ss03 by Ugrave.ss03.ss13;
-sub Uhornacute.ss03 by Uhornacute.ss03.ss13;
-sub Uhorngrave.ss03 by Uhorngrave.ss03.ss13;
-sub Uhungarumlaut.ss03 by Uhungarumlaut.ss03.ss13;
-sub Uacute.loclHUN.ss03 by Uacute.loclHUN.ss03.ss13;
-sub aacute.loclHUN by aacute.loclHUN.ss13;
-sub eacute.loclHUN by eacute.loclHUN.ss13;
-sub iacute.loclHUN by iacute.loclHUN.ss13;
-sub oacute.loclHUN by oacute.loclHUN.ss13;
-sub uacute.loclHUN by uacute.loclHUN.ss13;
-sub ohungarumlaut by ohungarumlaut.ss13;
-sub aacute.loclHUN.ss07 by aacute.loclHUN.ss07.ss13;
-sub uhungarumlaut by uhungarumlaut.ss13;
-sub Iacute_J_acutecomb by Iacute_J_acutecomb.ss13;
-sub Iacute_J.dlig by Iacute_J.dlig.ss13;
-sub Iegrave-cy by Iegrave-cy.ss13;
-sub Iigrave-cy by Iigrave-cy.ss13;
-sub Iigrave-cy.ss02 by Iigrave-cy.ss02.ss13;
-sub gravecomb.case by gravecomb.case.ss13;
-sub acutecomb.case by acutecomb.case.ss13;
-sub circumflexcomb.case by circumflexcomb.case.ss13;
-";
-name = ss13;
-},
-{
-automatic = 1;
 code = "pos @Uppercase <5 0 10 0>;
 ";
 name = cpsp;
@@ -1260,78 +1215,6 @@ code = "pos [f f_f.liga longs longs_longs.liga]' 30 space @Vlike;
 pos [f f_f.liga longs longs_longs.liga]' 10 space @Tlike;
 ";
 name = kern;
-},
-{
-automatic = 1;
-code = "sub longs t by longs_t;
-sub t z by t_z.hlig;
-";
-name = hlig;
-},
-{
-automatic = 1;
-code = "sub f i by fi;
-sub f l by fl;
-sub Aogonek acutecomb by Aogonek_acutecomb.liga;
-sub Eogonek acutecomb by Eogonek_acutecomb.liga;
-sub IJ acutecomb by IJ_acutecomb.liga;
-sub Iogonek acutecomb by Iogonek_acutecomb.liga;
-sub J acutecomb by J_acutecomb.liga;
-sub Oogonek acutecomb by Oogonek_acutecomb.liga;
-sub aogonek acutecomb by aogonek_acutecomb.liga;
-sub eogonek acutecomb by eogonek_acutecomb.liga;
-sub ij acutecomb by ij_acutecomb.liga;
-sub iogonek acutecomb by iogonek_acutecomb.liga;
-sub j acutecomb by j_acutecomb.liga;
-sub oogonek acutecomb by oogonek_acutecomb.liga;
-sub T T by T_T.liga;
-sub T h by T_h.liga;
-sub f.a f.a by f_f.a.liga;
-sub f.a f.a f.a by f_f_f.a.liga;
-sub f.a f.a t.a by f_f_t.a.liga;
-sub f.a t.a by f_t.a.liga;
-sub f b by f_b.liga;
-sub f f by f_f.liga;
-sub f f b by f_f_b.liga;
-sub f f f by f_f_f.liga;
-sub f f h by f_f_h.liga;
-sub f f i by f_f_i.liga;
-sub f f j by f_f_j.liga;
-sub f f k by f_f_k.liga;
-sub f f l by f_f_l.liga;
-sub f f thorn by f_f_thorn.liga;
-sub f f t by f_f_t.liga;
-sub f h by f_h.liga;
-sub f j by f_j.liga;
-sub f k by f_k.liga;
-sub f thorn by f_thorn.liga;
-sub f t by f_t.liga;
-sub g g by g_g.liga;
-sub g y by g_y.liga;
-sub g yacute by g_yacute.liga;
-sub g ycircumflex by g_ycircumflex.liga;
-sub g ydieresis by g_ydieresis.liga;
-sub g ygrave by g_ygrave.liga;
-sub g ymacron by g_ymacron.liga;
-sub g ytilde by g_ytilde.liga;
-sub f.short f.short by f_f.short.liga;
-sub longs b by longs_b.liga;
-sub longs h by longs_h.liga;
-sub longs i by longs_i.liga;
-sub longs j by longs_j.liga;
-sub longs k by longs_k.liga;
-sub longs l by longs_l.liga;
-sub longs thorn by longs_thorn.liga;
-sub longs longs by longs_longs.liga;
-sub longs longs b by longs_longs_b.liga;
-sub longs longs h by longs_longs_h.liga;
-sub longs longs i by longs_longs_i.liga;
-sub longs longs j by longs_longs_j.liga;
-sub longs longs k by longs_longs_k.liga;
-sub longs longs l by longs_longs_l.liga;
-sub longs longs thorn by longs_longs_thorn.liga;
-";
-name = liga;
 }
 );
 fontMaster = (
@@ -129422,6 +129305,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -129881,6 +129765,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -130601,6 +130486,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -130678,6 +130564,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -130940,7 +130827,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -131258,6 +131144,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -131717,6 +131604,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -132437,6 +132325,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -132514,6 +132403,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -132776,7 +132666,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -133093,6 +132982,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -133552,6 +133442,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -134272,6 +134163,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -134349,6 +134241,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -134611,7 +134504,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -134930,6 +134822,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -135389,6 +135282,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -136109,6 +136003,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -136186,6 +136081,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -136448,7 +136344,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -136767,6 +136662,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -137226,6 +137122,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -137946,6 +137843,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -138023,6 +137921,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -138285,7 +138184,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -138528,6 +138426,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -138987,6 +138886,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -139707,6 +139607,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -139784,6 +139685,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -140046,7 +139948,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -140289,6 +140190,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -140748,6 +140650,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -141468,6 +141371,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -141545,6 +141449,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -141807,7 +141712,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -142049,6 +141953,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -142508,6 +142413,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -143228,6 +143134,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -143305,6 +143212,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -143567,7 +143475,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -143811,6 +143718,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -144270,6 +144178,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -144990,6 +144899,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -145067,6 +144977,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -145329,7 +145240,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -145573,6 +145483,7 @@ Rdotbelowmacron,
 Rlinebelow,
 S,
 Sacute,
+Saltillo,
 Scaron,
 Scedilla,
 Scircumflex,
@@ -146032,6 +145943,7 @@ rdotbelowmacron,
 rlinebelow,
 s,
 sacute,
+saltillo,
 scaron,
 scedilla,
 scircumflex,
@@ -146752,6 +146664,7 @@ comma,
 ellipsis,
 exclam,
 exclamdown,
+hyphenbullet,
 numbersign,
 period,
 question,
@@ -146829,6 +146742,7 @@ thinspace,
 threeperemspace,
 zerowidthspace,
 zerowidthnonjoiner,
+CR,
 .notdef,
 cedi,
 cent,
@@ -147091,7 +147005,6 @@ ssxmaker,
 "Iitail-cy",
 "Iitail-cy.loclBGR",
 "iitail-cy",
-CR,
 NULL
 );
 }
@@ -147787,5 +147700,5 @@ manufacturer = "Catharsis Fonts";
 manufacturerURL = "https://github.com/CatharsisFonts";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 304;
+versionMinor = 401;
 }
