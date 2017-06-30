@@ -86,7 +86,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2017-06-29 21:26:56 +0000";
+date = "2017-06-30 18:33:03 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts";
 disablesNiceNames = 1;
@@ -148358,5 +148358,5 @@ manufacturer = "Catharsis Fonts";
 manufacturerURL = "https://github.com/CatharsisFonts";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 501;
+versionMinor = 502;
 }
