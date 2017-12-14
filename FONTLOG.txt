@@ -48,6 +48,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 ChangeLog
 
 
+2017-12-14: Release v3.504
+The /f_f_f ligature was broken; fixed it.
+
+
 2017-06-01: Release v3.500
 Some auto-generated OpenType feature code had gone missing (in particular SS02 in the Roman).  Fixed.  The reason seems to be yet another temporary bug in Glyphs:
 
