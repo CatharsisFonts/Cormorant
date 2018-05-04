@@ -1,5 +1,5 @@
 {
-.appVersion = "965";
+.appVersion = "1134";
 classes = (
 {
 automatic = 1;
@@ -1115,16 +1115,19 @@ customParameters = (
 name = TTFStems;
 value = (
 {
-Name = "Stem:0";
-Width = 10;
+horizontal = 1;
+name = "Stem:0";
+width = 10;
 },
 {
-Name = "Stem:1";
-Width = 16;
+horizontal = 1;
+name = "Stem:1";
+width = 16;
 },
 {
-Name = "Stem:2";
-Width = 32;
+horizontal = 1;
+name = "Stem:2";
+width = 32;
 }
 );
 },
@@ -1190,16 +1193,19 @@ customParameters = (
 name = TTFStems;
 value = (
 {
-Name = "Stem:0";
-Width = 10;
+horizontal = 1;
+name = "Stem:0";
+width = 10;
 },
 {
-Name = "Stem:1";
-Width = 24;
+horizontal = 1;
+name = "Stem:1";
+width = 24;
 },
 {
-Name = "Stem:2";
-Width = 45;
+horizontal = 1;
+name = "Stem:2";
+width = 45;
 }
 );
 },
@@ -7740,11 +7746,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{273, 0}";
+position = "{366, -203}";
 },
 {
 name = top;
-position = "{372, 625}";
+position = "{352, 625}";
 }
 );
 components = (
@@ -7784,11 +7790,11 @@ width = 704;
 anchors = (
 {
 name = bottom;
-position = "{273, 0}";
+position = "{366, -203}";
 },
 {
 name = top;
-position = "{372, 625}";
+position = "{352, 625}";
 }
 );
 components = (
@@ -25374,6 +25380,16 @@ color = 3;
 glyphname = eng;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{275, 0}";
+},
+{
+name = top;
+position = "{242, 386}";
+}
+);
 layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 paths = (
 {
@@ -25446,6 +25462,16 @@ nodes = (
 width = 461;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{281, 0}";
+},
+{
+name = top;
+position = "{249, 386}";
+}
+);
 layerId = "05D38584-429E-4AAF-9BEA-6CB44526FD1C";
 paths = (
 {
@@ -40151,11 +40177,14 @@ rightMetricsKey = h;
 glyphname = f_f.a.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f.a;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -40164,11 +40193,14 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 522;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f.a;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -40365,11 +40397,14 @@ name = topright;
 position = "{678, 386}";
 }
 );
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_t.a.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -40392,11 +40427,14 @@ name = topright;
 position = "{678, 386}";
 }
 );
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_t.a.liga;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -40906,11 +40944,14 @@ rightMetricsKey = b;
 glyphname = f_f.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -40919,11 +40960,14 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 540;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -40942,11 +40986,14 @@ unicode = FB00;
 glyphname = f_f_b.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_b.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -40956,11 +41003,14 @@ rightMetricsKey = "=b";
 width = 1006;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_b.liga;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -41144,11 +41194,14 @@ rightMetricsKey = f;
 glyphname = f_f_h.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_h.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -41158,11 +41211,14 @@ rightMetricsKey = "=h";
 width = 1026;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_h.liga;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -41181,11 +41237,14 @@ rightMetricsKey = h;
 glyphname = f_f_i.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = fi;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -41196,11 +41255,14 @@ rightMetricsKey = "=fi";
 width = 763;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = fi;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -41220,11 +41282,14 @@ unicode = FB03;
 glyphname = f_f_j.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_j.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -41234,11 +41299,14 @@ rightMetricsKey = "=f_j.liga";
 width = 767;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_j.liga;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -41256,11 +41324,14 @@ rightMetricsKey = j;
 glyphname = f_f_k.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_k.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -41270,11 +41341,14 @@ rightMetricsKey = "=k";
 width = 1001;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_k.liga;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -41292,11 +41366,14 @@ rightMetricsKey = k;
 glyphname = f_f_l.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = fl;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -41306,11 +41383,14 @@ rightMetricsKey = "=l";
 width = 793;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = fl;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -41329,11 +41409,14 @@ unicode = FB04;
 glyphname = f_f_thorn.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_thorn.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -41343,11 +41426,14 @@ rightMetricsKey = "=thorn";
 width = 995;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_thorn.liga;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -41366,11 +41452,14 @@ rightMetricsKey = thorn;
 glyphname = f_f_t.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_t.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -41380,11 +41469,14 @@ rightMetricsKey = "=t";
 width = 836;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f_t.liga;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -43153,12 +43245,15 @@ rightMetricsKey = y;
 glyphname = f_f.short.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 transform = "{1, 0, 0, 1, 1, 0}";
 },
 {
+alignment = -1;
 name = f.short;
 transform = "{1, 0, 0, 1, 268, 0}";
 }
@@ -43167,11 +43262,14 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 554;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ffxmaker;
 },
 {
+alignment = -1;
 name = f.short;
 transform = "{1, 0, 0, 1, 295, 0}";
 }
@@ -44550,11 +44648,14 @@ rightMetricsKey = thorn;
 glyphname = longs_longs.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs;
 transform = "{1, 0, 0, 1, 276, 0}";
 }
@@ -44565,11 +44666,14 @@ rightMetricsKey = "=longs";
 width = 518;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs;
 transform = "{1, 0, 0, 1, 313, 0}";
 }
@@ -44588,11 +44692,14 @@ rightMetricsKey = longs;
 glyphname = longs_longs_b.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_b.liga;
 transform = "{1, 0, 0, 1, 264, 0}";
 }
@@ -44602,11 +44709,14 @@ rightMetricsKey = "=b";
 width = 1014;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_b.liga;
 transform = "{1, 0, 0, 1, 288, 0}";
 }
@@ -44625,11 +44735,14 @@ rightMetricsKey = b;
 glyphname = longs_longs_h.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_h.liga;
 transform = "{1, 0, 0, 1, 264, 0}";
 }
@@ -44638,11 +44751,14 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 1027;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_h.liga;
 transform = "{1, 0, 0, 1, 297, 0}";
 }
@@ -44660,11 +44776,14 @@ rightMetricsKey = h;
 glyphname = longs_longs_i.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_i.liga;
 transform = "{1, 0, 0, 1, 276, 0}";
 }
@@ -44674,11 +44793,14 @@ rightMetricsKey = "=longs_i.liga";
 width = 764;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_i.liga;
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -44696,11 +44818,14 @@ rightMetricsKey = i;
 glyphname = longs_longs_j.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_j.liga;
 transform = "{1, 0, 0, 1, 274, 0}";
 }
@@ -44710,11 +44835,14 @@ rightMetricsKey = "=longs_j.liga";
 width = 772;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_j.liga;
 transform = "{1, 0, 0, 1, 306, 0}";
 }
@@ -44732,11 +44860,14 @@ rightMetricsKey = j;
 glyphname = longs_longs_k.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_k.liga;
 transform = "{1, 0, 0, 1, 265, 0}";
 }
@@ -44745,11 +44876,14 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 999;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_k.liga;
 transform = "{1, 0, 0, 1, 291, 0}";
 }
@@ -44779,11 +44913,14 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 792;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_l.liga;
 transform = "{1, 0, 0, 1, 303, 0}";
 }
@@ -44800,11 +44937,14 @@ rightMetricsKey = "=l";
 glyphname = longs_longs_thorn.liga;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_thorn.liga;
 transform = "{1, 0, 0, 1, 267, 0}";
 }
@@ -44813,11 +44953,14 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 1000;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = ssxmaker;
 },
 {
+alignment = -1;
 name = longs_thorn.liga;
 transform = "{1, 0, 0, 1, 303, 0}";
 }
@@ -47378,8 +47521,10 @@ rightMetricsKey = y;
 glyphname = f_f.a.liga.ss07;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = f_f.liga;
 }
 );
@@ -47387,8 +47532,10 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 540;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = f_f.liga;
 }
 );
@@ -47404,8 +47551,10 @@ rightMetricsKey = f.a;
 glyphname = f_f_t.a.liga.ss07;
 layers = (
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = f_f_t.liga;
 }
 );
@@ -47413,8 +47562,10 @@ layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
 width = 836;
 },
 {
+color = 1;
 components = (
 {
+alignment = -1;
 name = f_f_t.liga;
 }
 );
