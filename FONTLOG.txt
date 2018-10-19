@@ -47,6 +47,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2018-10-20: Release v3.600
+Included SS02 features in the Infant fonts.
+Fixed some faulty Cyrillic glyphs.
+Added some space-like and zero-width characters by request.
 
 2017-12-14: Release v3.504
 The /f_f_f ligature was broken; fixed it.

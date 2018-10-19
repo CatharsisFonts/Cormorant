@@ -80,19 +80,20 @@ for thisInstance in Font.instances:
 # Infant
 Font = Glyphs.font
 
-suffix = ".ss03"
-allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
-renameGlyphs1 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
-renameGlyphsParameterKey = "Rename Glyphs"
-#renameGlyphs2 = ["f_f.liga=uniFB00", "f_i.liga=uniFB01", "f_l.liga=uniFB02", "f_f_i.liga=uniFB03", "f_f_l.liga=uniFB04", "longs_t=uniFB05", "s_t=uniFB06"]
+all02names = [ g.name for g in Font.glyphs if (g.name.find(".ss02") > 0) ]
+all03names = [ g.name for g in Font.glyphs if (g.name.find(".ss03") > 0) ]
+all10names = [ g.name for g in Font.glyphs if (g.name.find(".ss10") > 0) ]
+allLFnames = [ g.name for g in Font.glyphs if (g.name.find(".lf") > 0) ]
 
-suffix = ".lf"
-allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
-renameGlyphs2 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
+badones = [ name for name in all02names if ((name.replace(".ss02",".ss03") in all03names) or (name.replace(".ss02",".lf") in allLFnames)) ]
+for b in badones: all02names.remove( b )
 
-suffix = ".ss10"
-allSuffixedGlyphNames = [ g.name for g in Font.glyphs if g.name.endswith(suffix) ]
-renameGlyphs3 = [ "%s=%s" % ( x, x.replace(suffix,"") ) for x in allSuffixedGlyphNames ]
+rename02 = [ "%s=%s" % ( x, x.replace(".ss02","") ) for x in all02names ]
+rename03 = [ "%s=%s" % ( x, x.replace(".ss03","") ) for x in all03names ]
+rename10 = [ "%s=%s" % ( x, x.replace(".ss10","") ) for x in all10names ]
+renameLF = [ "%s=%s" % ( x, x.replace(".lf","") ) for x in allLFnames ]
+
+renameGlyphs = rename02 + rename03 + rename10 + renameLF
 
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
@@ -103,8 +104,8 @@ for thisInstance in Font.instances:
 	else:
 		familyName = Font.familyName
 	if familyName.startswith("Cormorant Infant"):
-		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs1 + renameGlyphs2 + renameGlyphs3, renameGlyphsParameterKey )
+		thisInstance.removeObjectFromCustomParametersForKey_( "Rename Glyphs" )
+		thisInstance.setCustomParameter_forKey_( renameGlyphs, "Rename Glyphs" )
 		thisInstance.setCustomParameter_forKey_( ["onum", "ss03"], "Remove Features" )
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
