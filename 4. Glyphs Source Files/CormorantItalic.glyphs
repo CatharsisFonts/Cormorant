@@ -91,7 +91,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-10-19 21:31:40 +0000";
+date = "2018-11-02 12:08:00 +0000";
 designer = "Christian Thalmann (Catharsis Fonts)";
 designerURL = "https://github.com/CatharsisFonts";
 disablesNiceNames = 1;
@@ -122,8 +122,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature ccmp;
-feature locl;
+code = "feature locl;
 feature subs;
 feature sinf;
 feature sups;
@@ -154,7 +153,6 @@ feature ss09;
 feature ss10;
 feature ss11;
 feature ss13;
-feature hlig;
 ";
 name = aalt;
 },
@@ -177,23 +175,24 @@ lookup ccmp_Other_2 {
 } ccmp_Other_2;
 
 lookup ccmp_latn_1 {
-	script latn;
 	lookupflag 0;
 	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb.case acutecomb.case by brevecomb_acutecomb.case;
 	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb.case gravecomb.case by brevecomb_gravecomb.case;
 	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb.case hookabovecomb.case by brevecomb_hookabovecomb.case;
 	sub brevecomb tildecomb by brevecomb_tildecomb;
 	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
-	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
-	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
-	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
-	sub brevecomb.case acutecomb.case by brevecomb_acutecomb.case;
-	sub brevecomb.case gravecomb.case by brevecomb_gravecomb.case;
-	sub brevecomb.case hookabovecomb.case by brevecomb_hookabovecomb.case;
 	sub circumflexcomb.case acutecomb.case by circumflexcomb_acutecomb.case;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
 	sub circumflexcomb.case gravecomb.case by circumflexcomb_gravecomb.case;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb.case hookabovecomb.case by circumflexcomb_hookabovecomb.case;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_latn_1;
+
+script latn;
 ";
 name = ccmp;
 },
@@ -305,16 +304,18 @@ name = subs;
 },
 {
 automatic = 1;
-code = "sub zero by zero.sinf;
-sub one by one.sinf;
-sub two by two.sinf;
-sub three by three.sinf;
-sub four by four.sinf;
-sub five by five.sinf;
-sub six by six.sinf;
-sub seven by seven.sinf;
-sub eight by eight.sinf;
-sub nine by nine.sinf;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
 ";
 name = sinf;
 },
@@ -367,16 +368,13 @@ name = dnom;
 },
 {
 automatic = 1;
-code = "lookup FRAC {
-	sub slash by fraction;
-} FRAC;
-lookup UP {
-	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
-} UP;
-lookup DOWN {
-	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
-} DOWN;
+code = "sub one slash eight by oneeighth;
+sub one slash four by onequarter;
+sub three slash eight by threeeighths;
+sub one slash two by onehalf;
+sub five slash eight by fiveeighths;
+sub three slash four by threequarters;
+sub seven slash eight by seveneighths;
 ";
 name = frac;
 },
@@ -443,8 +441,8 @@ sub six.tosf by six;
 sub seven.tosf by seven;
 sub eight.tosf by eight;
 sub nine.tosf by nine;
-sub colon.tosf by colon;
 sub period.tosf by period;
+sub colon.tosf by colon;
 sub minute.tosf by minute;
 sub second.tosf by second;
 ";
@@ -472,8 +470,8 @@ sub six by six.tosf;
 sub seven by seven.tosf;
 sub eight by eight.tosf;
 sub nine by nine.tosf;
-sub colon by colon.tosf;
 sub period by period.tosf;
+sub colon by colon.tosf;
 sub minute by minute.tosf;
 sub second by second.tosf;
 ";
@@ -519,8 +517,8 @@ sub six.tf by six.tosf;
 sub seven.tf by seven.tosf;
 sub eight.tf by eight.tosf;
 sub nine.tf by nine.tosf;
-sub colon.tf by colon.tosf;
 sub period.tf by period.tosf;
+sub colon.tf by colon.tosf;
 sub minute.tf by minute.tosf;
 sub second.tf by second.tosf;
 ";
@@ -629,30 +627,30 @@ name = calt;
 },
 {
 automatic = 1;
-code = "sub backslash by backslash.case;
+code = "sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
 sub periodcentered by periodcentered.case;
 sub bullet by bullet.case;
-sub exclamdown by exclamdown.case;
 sub numbersign by numbersign.case;
-sub questiondown by questiondown.case;
 sub slash by slash.case;
+sub backslash by backslash.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
 sub braceleft by braceleft.case;
 sub braceright by braceright.case;
 sub bracketleft by bracketleft.case;
 sub bracketright by bracketright.case;
-sub parenleft by parenleft.case;
-sub parenright by parenright.case;
-sub emdash by emdash.case;
-sub endash by endash.case;
 sub hyphen by hyphen.case;
-sub guillemetleft by guillemetleft.case;
-sub guillemetright by guillemetright.case;
-sub guilsinglleft by guilsinglleft.case;
-sub guilsinglright by guilsinglright.case;
+sub endash by endash.case;
+sub emdash by emdash.case;
 sub quotedblleft by quotedblleft.case;
 sub quotedblright by quotedblright.case;
 sub quoteleft by quoteleft.case;
 sub quoteright by quoteright.case;
+sub guillemetleft by guillemetleft.case;
+sub guillemetright by guillemetright.case;
+sub guilsinglleft by guilsinglleft.case;
+sub guilsinglright by guilsinglright.case;
 sub plus by plus.case;
 sub minus by minus.case;
 sub multiply by multiply.case;
@@ -810,42 +808,51 @@ name = dlig;
 },
 {
 automatic = 1;
-code = "sub f i by fi;
-sub f l by fl;
-sub Aogonek acutecomb by Aogonek_acutecomb.liga;
-sub Eogonek acutecomb by Eogonek_acutecomb.liga;
-sub IJ acutecomb by IJ_acutecomb.liga;
-sub Iogonek acutecomb by Iogonek_acutecomb.liga;
-sub J acutecomb by J_acutecomb.liga;
-sub Oogonek acutecomb by Oogonek_acutecomb.liga;
-sub aogonek acutecomb by aogonek_acutecomb.liga;
-sub eogonek acutecomb by eogonek_acutecomb.liga;
-sub ij acutecomb by ij_acutecomb.liga;
-sub iogonek acutecomb by iogonek_acutecomb.liga;
-sub j acutecomb by j_acutecomb.liga;
-sub oogonek acutecomb by oogonek_acutecomb.liga;
-sub T T by T_T.liga;
-sub T h by T_h.liga;
-sub f.a f.a by f_f.a.liga;
+code = "sub longs t by longs_t;
+sub t z by t_z.hlig;
+";
+name = hlig;
+},
+{
+automatic = 1;
+code = "sub f f b by f_f_b.liga;
 sub f.a f.a f.a by f_f_f.a.liga;
-sub f.a f.a t.a by f_f_t.a.liga;
-sub f.a t.a by f_t.a.liga;
-sub f b by f_b.liga;
-sub f f by f_f.liga;
-sub f f b by f_f_b.liga;
 sub f f f by f_f_f.liga;
 sub f f h by f_f_h.liga;
 sub f f i by f_f_i.liga;
 sub f f j by f_f_j.liga;
 sub f f k by f_f_k.liga;
 sub f f l by f_f_l.liga;
-sub f f thorn by f_f_thorn.liga;
+sub f.a f.a t.a by f_f_t.a.liga;
 sub f f t by f_f_t.liga;
+sub f f thorn by f_f_thorn.liga;
+sub longs longs b by longs_longs_b.liga;
+sub longs longs h by longs_longs_h.liga;
+sub longs longs i by longs_longs_i.liga;
+sub longs longs j by longs_longs_j.liga;
+sub longs longs k by longs_longs_k.liga;
+sub longs longs l by longs_longs_l.liga;
+sub longs longs thorn by longs_longs_thorn.liga;
+sub Aogonek acutecomb by Aogonek_acutecomb.liga;
+sub Eogonek acutecomb by Eogonek_acutecomb.liga;
+sub IJ acutecomb by IJ_acutecomb.liga;
+sub Iogonek acutecomb by Iogonek_acutecomb.liga;
+sub J acutecomb by J_acutecomb.liga;
+sub Oogonek acutecomb by Oogonek_acutecomb.liga;
+sub T T by T_T.liga;
+sub T h by T_h.liga;
+sub aogonek acutecomb by aogonek_acutecomb.liga;
+sub eogonek acutecomb by eogonek_acutecomb.liga;
+sub f b by f_b.liga;
+sub f.a f.a by f_f.a.liga;
+sub f f by f_f.liga;
+sub f.short f.short by f_f.short.liga;
 sub f h by f_h.liga;
 sub f j by f_j.liga;
 sub f k by f_k.liga;
-sub f thorn by f_thorn.liga;
+sub f.a t.a by f_t.a.liga;
 sub f t by f_t.liga;
+sub f thorn by f_thorn.liga;
 sub g g by g_g.liga;
 sub g y by g_y.liga;
 sub g yacute by g_yacute.liga;
@@ -854,31 +861,22 @@ sub g ydieresis by g_ydieresis.liga;
 sub g ygrave by g_ygrave.liga;
 sub g ymacron by g_ymacron.liga;
 sub g ytilde by g_ytilde.liga;
-sub f.short f.short by f_f.short.liga;
+sub ij acutecomb by ij_acutecomb.liga;
+sub iogonek acutecomb by iogonek_acutecomb.liga;
+sub j acutecomb by j_acutecomb.liga;
 sub longs b by longs_b.liga;
 sub longs h by longs_h.liga;
 sub longs i by longs_i.liga;
 sub longs j by longs_j.liga;
 sub longs k by longs_k.liga;
 sub longs l by longs_l.liga;
-sub longs thorn by longs_thorn.liga;
 sub longs longs by longs_longs.liga;
-sub longs longs b by longs_longs_b.liga;
-sub longs longs h by longs_longs_h.liga;
-sub longs longs i by longs_longs_i.liga;
-sub longs longs j by longs_longs_j.liga;
-sub longs longs k by longs_longs_k.liga;
-sub longs longs l by longs_longs_l.liga;
-sub longs longs thorn by longs_longs_thorn.liga;
+sub longs thorn by longs_thorn.liga;
+sub oogonek acutecomb by oogonek_acutecomb.liga;
+sub f i by fi;
+sub f l by fl;
 ";
 name = liga;
-},
-{
-automatic = 1;
-code = "sub longs t by longs_t;
-sub t z by t_z.hlig;
-";
-name = hlig;
 },
 {
 automatic = 1;
@@ -1208,6 +1206,122 @@ automatic = 1;
 code = "sub de-cy by de-cy.ss11;
 ";
 name = ss11;
+},
+{
+automatic = 1;
+code = "sub Aacute by Aacute.ss13;
+sub Acaron by Acaron.ss13;
+sub Acircumflex by Acircumflex.ss13;
+sub Acircumflexdotbelow by Acircumflexdotbelow.ss13;
+sub Agrave by Agrave.ss13;
+sub AEacute by AEacute.ss13;
+sub Cacute by Cacute.ss13;
+sub Ccaron by Ccaron.ss13;
+sub Ccircumflex by Ccircumflex.ss13;
+sub Dcaron by Dcaron.ss13;
+sub Eacute by Eacute.ss13;
+sub Ecaron by Ecaron.ss13;
+sub Ecircumflex by Ecircumflex.ss13;
+sub Ecircumflexdotbelow by Ecircumflexdotbelow.ss13;
+sub Egrave by Egrave.ss13;
+sub Gcaron by Gcaron.ss13;
+sub Gcircumflex by Gcircumflex.ss13;
+sub Hcircumflex by Hcircumflex.ss13;
+sub Iacute by Iacute.ss13;
+sub Icaron by Icaron.ss13;
+sub Icircumflex by Icircumflex.ss13;
+sub Igrave by Igrave.ss13;
+sub Jcircumflex by Jcircumflex.ss13;
+sub Kacute by Kacute.ss13;
+sub Kcaron by Kcaron.ss13;
+sub Lacute by Lacute.ss13;
+sub Nacute by Nacute.ss13;
+sub Ncaron by Ncaron.ss13;
+sub Oacute by Oacute.ss13;
+sub Ocaron by Ocaron.ss13;
+sub Ocircumflex by Ocircumflex.ss13;
+sub Ocircumflexdotbelow by Ocircumflexdotbelow.ss13;
+sub Ograve by Ograve.ss13;
+sub Ohornacute by Ohornacute.ss13;
+sub Ohorngrave by Ohorngrave.ss13;
+sub Ohungarumlaut by Ohungarumlaut.ss13;
+sub Oslashacute by Oslashacute.ss13;
+sub Racute by Racute.ss13;
+sub Rcaron by Rcaron.ss13;
+sub Sacute by Sacute.ss13;
+sub Scaron by Scaron.ss13;
+sub Scircumflex by Scircumflex.ss13;
+sub Tcaron by Tcaron.ss13;
+sub Uacute by Uacute.ss13;
+sub Ucaron by Ucaron.ss13;
+sub Ucircumflex by Ucircumflex.ss13;
+sub Ugrave by Ugrave.ss13;
+sub Uhorngrave by Uhorngrave.ss13;
+sub Uhungarumlaut by Uhungarumlaut.ss13;
+sub Wacute by Wacute.ss13;
+sub Wcircumflex by Wcircumflex.ss13;
+sub Wgrave by Wgrave.ss13;
+sub Yacute by Yacute.ss13;
+sub Ycircumflex by Ycircumflex.ss13;
+sub Ygrave by Ygrave.ss13;
+sub Zacute by Zacute.ss13;
+sub Zcaron by Zcaron.ss13;
+sub Aogonek_acutecomb.liga by Aogonek_acutecomb.liga.ss13;
+sub Eogonek_acutecomb.liga by Eogonek_acutecomb.liga.ss13;
+sub IJ_acutecomb.liga by IJ_acutecomb.liga.ss13;
+sub Iogonek_acutecomb.liga by Iogonek_acutecomb.liga.ss13;
+sub J_acutecomb.liga by J_acutecomb.liga.ss13;
+sub Oogonek_acutecomb.liga by Oogonek_acutecomb.liga.ss13;
+sub Aacute.loclHUN by Aacute.loclHUN.ss13;
+sub Eacute.loclHUN by Eacute.loclHUN.ss13;
+sub Iacute.loclHUN by Iacute.loclHUN.ss13;
+sub Oacute.loclHUN by Oacute.loclHUN.ss13;
+sub Uacute.loclHUN by Uacute.loclHUN.ss13;
+sub Cacute.loclPLK by Cacute.loclPLK.ss13;
+sub Nacute.loclPLK by Nacute.loclPLK.ss13;
+sub Oacute.loclPLK by Oacute.loclPLK.ss13;
+sub Sacute.loclPLK by Sacute.loclPLK.ss13;
+sub Zacute.loclPLK by Zacute.loclPLK.ss13;
+sub Racute.short by Racute.short.ss13;
+sub Rcaron.short by Rcaron.short.ss13;
+sub Uacute.ss01 by Uacute.ss01.ss13;
+sub Ucaron.ss01 by Ucaron.ss01.ss13;
+sub Ucircumflex.ss01 by Ucircumflex.ss01.ss13;
+sub Ugrave.ss01 by Ugrave.ss01.ss13;
+sub Uhornacute.ss01 by Uhornacute.ss01.ss13;
+sub Uhorngrave.ss01 by Uhorngrave.ss01.ss13;
+sub Uhungarumlaut.ss01 by Uhungarumlaut.ss01.ss13;
+sub Uacute.loclHUN.ss01 by Uacute.loclHUN.ss01.ss13;
+sub Racute.ss02 by Racute.ss02.ss13;
+sub Rcaron.ss02 by Rcaron.ss02.ss13;
+sub Racute.short.ss02 by Racute.short.ss02.ss13;
+sub Rcaron.short.ss02 by Rcaron.short.ss02.ss13;
+sub Uacute.ss03 by Uacute.ss03.ss13;
+sub Ucaron.ss03 by Ucaron.ss03.ss13;
+sub Ucircumflex.ss03 by Ucircumflex.ss03.ss13;
+sub Ugrave.ss03 by Ugrave.ss03.ss13;
+sub Uhornacute.ss03 by Uhornacute.ss03.ss13;
+sub Uhorngrave.ss03 by Uhorngrave.ss03.ss13;
+sub Uhungarumlaut.ss03 by Uhungarumlaut.ss03.ss13;
+sub Uacute.loclHUN.ss03 by Uacute.loclHUN.ss03.ss13;
+sub aacute.loclHUN by aacute.loclHUN.ss13;
+sub eacute.loclHUN by eacute.loclHUN.ss13;
+sub iacute.loclHUN by iacute.loclHUN.ss13;
+sub oacute.loclHUN by oacute.loclHUN.ss13;
+sub uacute.loclHUN by uacute.loclHUN.ss13;
+sub ohungarumlaut by ohungarumlaut.ss13;
+sub aacute.loclHUN.ss07 by aacute.loclHUN.ss07.ss13;
+sub uhungarumlaut by uhungarumlaut.ss13;
+sub Iacute_J_acutecomb by Iacute_J_acutecomb.ss13;
+sub Iacute_J.dlig by Iacute_J.dlig.ss13;
+sub Iegrave-cy by Iegrave-cy.ss13;
+sub Iigrave-cy by Iigrave-cy.ss13;
+sub Iigrave-cy.ss02 by Iigrave-cy.ss02.ss13;
+sub gravecomb.case by gravecomb.case.ss13;
+sub acutecomb.case by acutecomb.case.ss13;
+sub circumflexcomb.case by circumflexcomb.case.ss13;
+";
+name = ss13;
 },
 {
 automatic = 1;
@@ -132085,7 +132199,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -134019,7 +134132,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -135952,7 +136064,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -137887,7 +137998,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -139822,7 +139932,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -141608,7 +141717,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -143394,7 +143502,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -145179,7 +145286,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -146966,7 +147072,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -148753,7 +148858,6 @@ bracketleft.case,
 bracketright.case,
 hyphen,
 softhyphen,
-uni00AD,
 endash,
 emdash,
 figuredash,
@@ -149774,5 +149878,5 @@ manufacturer = "Catharsis Fonts";
 manufacturerURL = "https://github.com/CatharsisFonts";
 unitsPerEm = 1000;
 versionMajor = 3;
-versionMinor = 600;
+versionMinor = 601;
 }
