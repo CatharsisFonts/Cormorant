@@ -47,6 +47,10 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2018-11-06: Release v3.601
+Reinstated a few OpenType features that had inexplicably vanished from the source files.
+Fixed broken triangular arrow glyph
+
 2018-10-20: Release v3.600
 Included SS02 features in the Infant fonts.
 Fixed some faulty Cyrillic glyphs.
