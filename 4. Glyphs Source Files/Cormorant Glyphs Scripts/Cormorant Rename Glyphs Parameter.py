@@ -95,6 +95,8 @@ renameLF = [ "%s=%s" % ( x, x.replace(".lf","") ) for x in allLFnames ]
 
 renameGlyphs = rename02 + rename03 + rename10 + renameLF
 
+removeGlyphs = [ g.name for g in Font.glyphs if (g.name.find(".loclBGR") > 0)]
+
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
 for thisInstance in Font.instances:
@@ -109,6 +111,7 @@ for thisInstance in Font.instances:
 		thisInstance.setCustomParameter_forKey_( ["onum", "ss03"], "Remove Features" )
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+		thisInstance.setCustomParameter_forKey_( removeGlyphs, "Remove Glyphs" )
 
 
 # Garamond
