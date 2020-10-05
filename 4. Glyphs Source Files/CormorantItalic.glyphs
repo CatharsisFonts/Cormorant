@@ -1,10 +1,11 @@
 {
-.appVersion = "1300";
+.appVersion = "3024";
 DisplayStrings = (
 "Che/f.short/quoteright s/space o/quoteright clock/space l/quoteright ève\012\"'/quotedblbase/quotedblleft/quotedblright/quoteleft I/quoteright/quotesinglbase/quotedblleft.case/quotedblright.case/quoteleft.case ,./quoteright.case/space/space don/quoteright t/space dqaon't\012/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/quotedblleft.case/quotedblright.case/quoteleft.case/quoteright.case ,/space/space [/f.short ]",
 "/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Iishort-cy/Iigrave-cy/Iishorttail-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Yusbig-cy/Fita-cy/Izhitsa-cy/Ghestroke-cy/Ghemiddlehook-cy/Zhedescender-cy/Zedescender-cy/Kadescender-cy/Kaverticalstroke-cy/Kastroke-cy/Kabashkir-cy/Endescender-cy/Enghe-cy/Pedescender-cy/Haabkhasian-cy/Esdescender-cy/Tedescender-cy/Ustrait-cy/Ustraitstroke-cy/Hadescender-cy/Tetse-cy/Chedescender-cy/Cheverticalstroke-cy/Shha-cy/Shhadescender-cy/Cheabkhasian-cy/Chedescenderabkhasian-cy/Palochka-cy/Zhebreve-cy/Kahook-cy/Eltail-cy/Enhook-cy/Entail-cy/Chekhakassian-cy/Emtail-cy/Abreve-cy/Adieresis-cy/Aie-cy/Iebreve-cy/Schwa-cy/Schwadieresis-cy/Zhedieresis-cy/Zedieresis-cy/Dzeabkhasian-cy/Imacron-cy/Idieresis-cy/Odieresis-cy/Obarred-cy/Obarreddieresis-cy/Edieresis-cy/Umacron-cy/Udieresis-cy/Uhungarumlaut-cy/Chedieresis-cy/Gedescender-cy/Yerudieresis-cy/Gestrokehook-cy/Hahook-cy/Hastroke-cy/Reversedze-cy/Elhook-cy/Qa-cy/We-cy/Semisoftsign-cy/Ertick-cy/EnLeftHook-cy/Eldescender-cy/De-cy.loclBGR/Ii-cy.loclBGR/Iishort-cy.loclBGR/Iigrave-cy.loclBGR/El-cy.loclBGR/Ef-cy.loclBGR/Imacron-cy.loclBGR/Idieresis-cy.loclBGR/Ghestroke-cy.loclBSH/Zedescender-cy.loclBSH/Esdescender-cy.loclBSH/Esdescender-cy.loclCHU/A-cy.ss02/De-cy.ss02/Ii-cy.ss02/Iishort-cy.ss02/Iishorttail-cy.ss02/Iigrave-cy.ss02/El-cy.ss02/U-cy.ss02/Ushort-cy.ss02/Lje-cy.ss02/Eltail-cy.ss02/Abreve-cy.ss02/Adieresis-cy.ss02/Imacron-cy.ss02/Idieresis-cy.ss02/Umacron-cy.ss02/Udieresis-cy.ss02/Uhungarumlaut-cy.ss02/De-cy.ss10/Ii-cy.ss10/Iishort-cy.ss10/Iishorttail-cy.ss10/El-cy.ss10/Ef-cy.ss10/Eltail-cy.ss10/Imacron-cy.ss10/Idieresis-cy.ss10/Iegrave-cy.ss13/Iigrave-cy.ss13/Iigrave-cy.ss02.ss13/Pemiddlehook-cy/Iishorttail-cy.loclBGR/Eltail-cy.loclBGR/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/iishorttail-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/yat-cy/yusbig-cy/fita-cy/izhitsa-cy/ghestroke-cy/ghemiddlehook-cy/zhedescender-cy/zedescender-cy/kadescender-cy/kaverticalstroke-cy/kastroke-cy/kabashkir-cy/endescender-cy/enghe-cy/pedescender-cy/haabkhasian-cy/esdescender-cy/tedescender-cy/ustrait-cy/ustraitstroke-cy/hadescender-cy/tetse-cy/chedescender-cy/cheverticalstroke-cy/shha-cy/shhadescender-cy/cheabkhasian-cy/chedescenderabkhasian-cy/palochka-cy/zhebreve-cy/kahook-cy/eltail-cy/enhook-cy/entail-cy/chekhakassian-cy/emtail-cy/abreve-cy/adieresis-cy/aie-cy/iebreve-cy/schwa-cy/schwadieresis-cy/zhedieresis-cy/zedieresis-cy/dzeabkhasian-cy/imacron-cy/idieresis-cy/odieresis-cy/obarred-cy/obarreddieresis-cy/edieresis-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/chedieresis-cy/gedescender-cy/yerudieresis-cy/gestrokehook-cy/hahook-cy/hastroke-cy/reversedze-cy/elhook-cy/qa-cy/we-cy/semisoftsign-cy/ertick-cy/de-cy.Ge/enlefthook-cy/eldescender-cy/ve-cy.loclBGR/de-cy.loclBGR/zhe-cy.loclBGR/ze-cy.loclBGR/ka-cy.loclBGR/iu-cy.loclBGR/zedescender-cy.loclBSH/esdescender-cy.loclBSH/esdescender-cy.loclCHU/gje-cy.loclMKD/be-cy.loclSRB/ge-cy.loclSRB/de-cy.loclSRB/pe-cy.loclSRB/te-cy.loclSRB/sha-cy.loclSRB/be-cy.ss09/ge-cy.ss09/de-cy.ss09/pe-cy.ss09/te-cy.ss09/sha-cy.ss09/ve-cy.ss10/de-cy.ss10/zhe-cy.ss10/ze-cy.ss10/ka-cy.ss10/iu-cy.ss10/de-cy.ss11/pemiddlehook-cy/be-cy.loclMKD/ge-cy.loclMKD/de-cy.loclMKD/pe-cy.loclMKD/te-cy.loclMKD/sha-cy.loclMKD",
 "/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/iishort-cy/iigrave-cy/iishorttail-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/yat-cy/yusbig-cy/fita-cy/izhitsa-cy/ghestroke-cy/ghemiddlehook-cy/zhedescender-cy/zedescender-cy/kadescender-cy/kaverticalstroke-cy/kastroke-cy/kabashkir-cy/endescender-cy/enghe-cy/pedescender-cy/haabkhasian-cy/esdescender-cy/tedescender-cy/ustrait-cy/ustraitstroke-cy/hadescender-cy/tetse-cy/chedescender-cy/cheverticalstroke-cy/shha-cy/shhadescender-cy/cheabkhasian-cy/chedescenderabkhasian-cy/palochka-cy/zhebreve-cy/kahook-cy/eltail-cy/enhook-cy/entail-cy/chekhakassian-cy/emtail-cy/abreve-cy/adieresis-cy/aie-cy/iebreve-cy/schwa-cy/schwadieresis-cy/zhedieresis-cy/zedieresis-cy/dzeabkhasian-cy/imacron-cy/idieresis-cy/odieresis-cy/obarred-cy/obarreddieresis-cy/edieresis-cy/umacron-cy/udieresis-cy/uhungarumlaut-cy/chedieresis-cy/gedescender-cy/yerudieresis-cy/gestrokehook-cy/hahook-cy/hastroke-cy/reversedze-cy/elhook-cy/qa-cy/we-cy/semisoftsign-cy/ertick-cy/Ge-cy/de-cy.Ge/enlefthook-cy/eldescender-cy/ve-cy.loclBGR/de-cy.loclBGR/zhe-cy.loclBGR/ze-cy.loclBGR/ka-cy.loclBGR/iu-cy.loclBGR/zedescender-cy.loclBSH/esdescender-cy.loclBSH/esdescender-cy.loclCHU \012/gje-cy.loclMKD/be-cy.loclSRB/ge-cy.loclSRB/de-cy.loclSRB/pe-cy.loclSRB/te-cy.loclSRB/sha-cy.loclSRB/be-cy.ss09/ge-cy.ss09/de-cy.ss09/pe-cy.ss09/te-cy.ss09/sha-cy.ss09/ve-cy.ss10/de-cy.ss10/zhe-cy.ss10/ze-cy.ss10/ka-cy.ss10/iu-cy.ss10",
-"/Er-cy/Ghestroke-cy.loclBSH/el-cy/acutecomb mn/eng/Eng/space/enlefthook-cy/enhook-cy"
+"/Er-cy/Ghestroke-cy.loclBSH/el-cy/acutecomb mn/eng/Eng/space/enlefthook-cy/enhook-cy",
+"HH/summation H/product HH"
 );
 classes = (
 {
@@ -64,14 +65,6 @@ name = ClippedAscender;
 copyright = "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)";
 customParameters = (
 {
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
 name = "Disable Last Change";
 value = 1;
 },
@@ -87,6 +80,23 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2020-05-31 20:29:00 +0000";
@@ -111623,146 +111633,284 @@ unicode = 222B;
 glyphname = product;
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"97 0 OFFCURVE",
+"140 2 OFFCURVE",
+"183 2 CURVE SMOOTH",
+"231 2 OFFCURVE",
+"272 0 OFFCURVE",
+"300 0 CURVE SMOOTH",
+"304 0 OFFCURVE",
+"304 12 OFFCURVE",
+"300 12 CURVE SMOOTH",
+"223 12 OFFCURVE",
+"211 23 OFFCURVE",
+"211 81 CURVE SMOOTH",
+"211 588 LINE SMOOTH",
+"211 602 OFFCURVE",
+"215 605 OFFCURVE",
+"234 605 CURVE SMOOTH",
+"505 605 LINE SMOOTH",
+"524 605 OFFCURVE",
+"528 602 OFFCURVE",
+"528 585 CURVE SMOOTH",
+"528 81 LINE SMOOTH",
+"528 23 OFFCURVE",
+"518 12 OFFCURVE",
+"442 12 CURVE SMOOTH",
+"438 12 OFFCURVE",
+"438 0 OFFCURVE",
+"442 0 CURVE SMOOTH",
+"472 0 OFFCURVE",
+"515 2 OFFCURVE",
+"559 2 CURVE SMOOTH",
+"607 2 OFFCURVE",
+"648 0 OFFCURVE",
+"676 0 CURVE SMOOTH",
+"679 0 OFFCURVE",
+"679 12 OFFCURVE",
+"676 12 CURVE SMOOTH",
+"598 12 OFFCURVE",
+"587 23 OFFCURVE",
+"587 81 CURVE SMOOTH",
+"587 574 LINE SMOOTH",
+"587 602 OFFCURVE",
+"589 613 OFFCURVE",
+"672 613 CURVE SMOOTH",
+"676 613 OFFCURVE",
+"676 625 OFFCURVE",
+"672 625 CURVE SMOOTH",
+"66 625 LINE SMOOTH",
+"63 625 OFFCURVE",
+"63 613 OFFCURVE",
+"66 613 CURVE SMOOTH",
+"147 613 OFFCURVE",
+"153 604 OFFCURVE",
+"153 574 CURVE SMOOTH",
+"153 81 LINE SMOOTH",
+"153 23 OFFCURVE",
+"142 12 OFFCURVE",
+"66 12 CURVE SMOOTH",
+"63 12 OFFCURVE",
+"63 0 OFFCURVE",
+"66 0 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 paths = (
 {
 closed = 1;
 nodes = (
-"67 0 OFFCURVE",
-"110 2 OFFCURVE",
-"153 2 CURVE SMOOTH",
-"201 2 OFFCURVE",
-"242 0 OFFCURVE",
-"270 0 CURVE SMOOTH",
-"274 0 OFFCURVE",
-"274 12 OFFCURVE",
-"270 12 CURVE SMOOTH",
-"193 12 OFFCURVE",
-"181 23 OFFCURVE",
-"181 81 CURVE SMOOTH",
-"181 588 LINE SMOOTH",
-"181 602 OFFCURVE",
-"185 605 OFFCURVE",
-"204 605 CURVE SMOOTH",
-"475 605 LINE SMOOTH",
-"494 605 OFFCURVE",
-"498 602 OFFCURVE",
-"498 585 CURVE SMOOTH",
-"498 81 LINE SMOOTH",
-"498 23 OFFCURVE",
-"488 12 OFFCURVE",
-"412 12 CURVE SMOOTH",
-"408 12 OFFCURVE",
-"408 0 OFFCURVE",
-"412 0 CURVE SMOOTH",
-"442 0 OFFCURVE",
-"485 2 OFFCURVE",
-"529 2 CURVE SMOOTH",
-"577 2 OFFCURVE",
-"618 0 OFFCURVE",
-"646 0 CURVE SMOOTH",
-"649 0 OFFCURVE",
-"649 12 OFFCURVE",
-"646 12 CURVE SMOOTH",
-"568 12 OFFCURVE",
-"557 23 OFFCURVE",
-"557 81 CURVE SMOOTH",
-"557 574 LINE SMOOTH",
-"557 602 OFFCURVE",
-"559 613 OFFCURVE",
-"642 613 CURVE SMOOTH",
-"646 613 OFFCURVE",
-"646 625 OFFCURVE",
-"642 625 CURVE SMOOTH",
-"36 625 LINE SMOOTH",
-"33 625 OFFCURVE",
-"33 613 OFFCURVE",
-"36 613 CURVE SMOOTH",
-"117 613 OFFCURVE",
-"123 604 OFFCURVE",
-"123 574 CURVE SMOOTH",
-"123 81 LINE SMOOTH",
-"123 23 OFFCURVE",
-"112 12 OFFCURVE",
-"36 12 CURVE SMOOTH",
-"33 12 OFFCURVE",
-"33 0 OFFCURVE",
-"36 0 CURVE SMOOTH"
+"617 654 LINE SMOOTH",
+"617 682 OFFCURVE",
+"619 693 OFFCURVE",
+"702 693 CURVE SMOOTH",
+"706 693 OFFCURVE",
+"706 705 OFFCURVE",
+"702 705 CURVE SMOOTH",
+"66 705 LINE SMOOTH",
+"63 705 OFFCURVE",
+"63 693 OFFCURVE",
+"66 693 CURVE SMOOTH",
+"147 693 OFFCURVE",
+"153 684 OFFCURVE",
+"153 654 CURVE SMOOTH",
+"153 -69 LINE SMOOTH",
+"153 -127 OFFCURVE",
+"142 -138 OFFCURVE",
+"66 -138 CURVE SMOOTH",
+"63 -138 OFFCURVE",
+"63 -150 OFFCURVE",
+"66 -150 CURVE SMOOTH",
+"97 -150 OFFCURVE",
+"140 -148 OFFCURVE",
+"183 -148 CURVE SMOOTH",
+"231 -148 OFFCURVE",
+"272 -150 OFFCURVE",
+"300 -150 CURVE SMOOTH",
+"304 -150 OFFCURVE",
+"304 -138 OFFCURVE",
+"300 -138 CURVE SMOOTH",
+"223 -138 OFFCURVE",
+"211 -127 OFFCURVE",
+"211 -69 CURVE SMOOTH",
+"211 668 LINE SMOOTH",
+"211 682 OFFCURVE",
+"215 685 OFFCURVE",
+"234 685 CURVE SMOOTH",
+"535 685 LINE SMOOTH",
+"554 685 OFFCURVE",
+"558 682 OFFCURVE",
+"558 665 CURVE SMOOTH",
+"558 -69 LINE SMOOTH",
+"558 -127 OFFCURVE",
+"548 -138 OFFCURVE",
+"472 -138 CURVE SMOOTH",
+"468 -138 OFFCURVE",
+"468 -150 OFFCURVE",
+"472 -150 CURVE SMOOTH",
+"502 -150 OFFCURVE",
+"545 -148 OFFCURVE",
+"589 -148 CURVE SMOOTH",
+"637 -148 OFFCURVE",
+"678 -150 OFFCURVE",
+"706 -150 CURVE SMOOTH",
+"709 -150 OFFCURVE",
+"709 -138 OFFCURVE",
+"706 -138 CURVE SMOOTH",
+"628 -138 OFFCURVE",
+"617 -127 OFFCURVE",
+"617 -69 CURVE SMOOTH"
 );
 }
 );
-width = 683;
+width = 713;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"105 0 OFFCURVE",
+"160 2 OFFCURVE",
+"203 2 CURVE SMOOTH",
+"251 2 OFFCURVE",
+"304 0 OFFCURVE",
+"332 0 CURVE SMOOTH",
+"335 0 OFFCURVE",
+"335 12 OFFCURVE",
+"332 12 CURVE SMOOTH",
+"277 12 OFFCURVE",
+"257 23 OFFCURVE",
+"257 81 CURVE SMOOTH",
+"257 580 LINE SMOOTH",
+"257 594 OFFCURVE",
+"261 596 OFFCURVE",
+"279 596 CURVE SMOOTH",
+"499 596 LINE SMOOTH",
+"518 596 OFFCURVE",
+"523 594 OFFCURVE",
+"523 577 CURVE SMOOTH",
+"523 81 LINE SMOOTH",
+"523 23 OFFCURVE",
+"504 12 OFFCURVE",
+"450 12 CURVE SMOOTH",
+"446 12 OFFCURVE",
+"446 0 OFFCURVE",
+"450 0 CURVE SMOOTH",
+"480 0 OFFCURVE",
+"535 2 OFFCURVE",
+"579 2 CURVE SMOOTH",
+"627 2 OFFCURVE",
+"679 0 OFFCURVE",
+"707 0 CURVE SMOOTH",
+"711 0 OFFCURVE",
+"711 12 OFFCURVE",
+"707 12 CURVE SMOOTH",
+"652 12 OFFCURVE",
+"632 23 OFFCURVE",
+"632 81 CURVE SMOOTH",
+"632 574 LINE SMOOTH",
+"632 602 OFFCURVE",
+"645 613 OFFCURVE",
+"704 613 CURVE SMOOTH",
+"707 613 OFFCURVE",
+"707 625 OFFCURVE",
+"704 625 CURVE SMOOTH",
+"75 625 LINE SMOOTH",
+"71 625 OFFCURVE",
+"71 613 OFFCURVE",
+"75 613 CURVE SMOOTH",
+"131 613 OFFCURVE",
+"147 604 OFFCURVE",
+"147 574 CURVE SMOOTH",
+"147 81 LINE SMOOTH",
+"147 23 OFFCURVE",
+"128 12 OFFCURVE",
+"75 12 CURVE SMOOTH",
+"71 12 OFFCURVE",
+"71 0 OFFCURVE",
+"75 0 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 paths = (
 {
 closed = 1;
 nodes = (
-"55 0 OFFCURVE",
-"110 2 OFFCURVE",
-"153 2 CURVE SMOOTH",
-"201 2 OFFCURVE",
-"254 0 OFFCURVE",
-"282 0 CURVE SMOOTH",
-"285 0 OFFCURVE",
-"285 12 OFFCURVE",
-"282 12 CURVE SMOOTH",
-"227 12 OFFCURVE",
-"207 23 OFFCURVE",
-"207 81 CURVE SMOOTH",
-"207 580 LINE SMOOTH",
-"207 594 OFFCURVE",
-"211 596 OFFCURVE",
-"229 596 CURVE SMOOTH",
-"449 596 LINE SMOOTH",
-"468 596 OFFCURVE",
-"473 594 OFFCURVE",
-"473 577 CURVE SMOOTH",
-"473 81 LINE SMOOTH",
-"473 23 OFFCURVE",
-"454 12 OFFCURVE",
-"400 12 CURVE SMOOTH",
-"396 12 OFFCURVE",
-"396 0 OFFCURVE",
-"400 0 CURVE SMOOTH",
-"430 0 OFFCURVE",
-"485 2 OFFCURVE",
-"529 2 CURVE SMOOTH",
-"577 2 OFFCURVE",
-"629 0 OFFCURVE",
-"657 0 CURVE SMOOTH",
-"661 0 OFFCURVE",
-"661 12 OFFCURVE",
-"657 12 CURVE SMOOTH",
-"602 12 OFFCURVE",
-"582 23 OFFCURVE",
-"582 81 CURVE SMOOTH",
-"582 574 LINE SMOOTH",
-"582 602 OFFCURVE",
-"595 613 OFFCURVE",
-"654 613 CURVE SMOOTH",
-"657 613 OFFCURVE",
-"657 625 OFFCURVE",
-"654 625 CURVE SMOOTH",
-"25 625 LINE SMOOTH",
-"21 625 OFFCURVE",
-"21 613 OFFCURVE",
-"25 613 CURVE SMOOTH",
-"81 613 OFFCURVE",
-"97 604 OFFCURVE",
-"97 574 CURVE SMOOTH",
-"97 81 LINE SMOOTH",
-"97 23 OFFCURVE",
-"78 12 OFFCURVE",
-"25 12 CURVE SMOOTH",
-"21 12 OFFCURVE",
-"21 0 OFFCURVE",
-"25 0 CURVE SMOOTH"
+"648 654 LINE SMOOTH",
+"648 682 OFFCURVE",
+"650 693 OFFCURVE",
+"715 693 CURVE SMOOTH",
+"719 693 OFFCURVE",
+"719 705 OFFCURVE",
+"715 705 CURVE SMOOTH",
+"86 705 LINE SMOOTH",
+"83 705 OFFCURVE",
+"83 693 OFFCURVE",
+"86 693 CURVE SMOOTH",
+"151 693 OFFCURVE",
+"155 684 OFFCURVE",
+"155 654 CURVE SMOOTH",
+"155 -69 LINE SMOOTH",
+"155 -127 OFFCURVE",
+"147 -138 OFFCURVE",
+"86 -138 CURVE SMOOTH",
+"83 -138 OFFCURVE",
+"83 -150 OFFCURVE",
+"86 -150 CURVE SMOOTH",
+"120 -150 OFFCURVE",
+"167 -148 OFFCURVE",
+"215 -148 CURVE SMOOTH",
+"271 -148 OFFCURVE",
+"316 -150 OFFCURVE",
+"347 -150 CURVE SMOOTH",
+"350 -150 OFFCURVE",
+"350 -138 OFFCURVE",
+"347 -138 CURVE SMOOTH",
+"285 -138 OFFCURVE",
+"275 -127 OFFCURVE",
+"275 -69 CURVE SMOOTH",
+"275 659 LINE SMOOTH",
+"275 673 OFFCURVE",
+"279 675 OFFCURVE",
+"297 675 CURVE SMOOTH",
+"505 675 LINE SMOOTH",
+"522 675 OFFCURVE",
+"528 671 OFFCURVE",
+"528 655 CURVE SMOOTH",
+"528 -69 LINE SMOOTH",
+"528 -127 OFFCURVE",
+"520 -138 OFFCURVE",
+"459 -138 CURVE SMOOTH",
+"455 -138 OFFCURVE",
+"455 -150 OFFCURVE",
+"459 -150 CURVE SMOOTH",
+"493 -150 OFFCURVE",
+"539 -148 OFFCURVE",
+"590 -148 CURVE SMOOTH",
+"643 -148 OFFCURVE",
+"689 -150 OFFCURVE",
+"719 -150 CURVE SMOOTH",
+"723 -150 OFFCURVE",
+"723 -138 OFFCURVE",
+"719 -138 CURVE SMOOTH",
+"657 -138 OFFCURVE",
+"648 -127 OFFCURVE",
+"648 -69 CURVE SMOOTH"
 );
 }
 );
-width = 683;
+width = 743;
 }
 );
 unicode = 220F;
@@ -111771,110 +111919,214 @@ unicode = 220F;
 glyphname = summation;
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"501 0 LINE SMOOTH",
+"513 0 OFFCURVE",
+"516 4 OFFCURVE",
+"516 15 CURVE SMOOTH",
+"516 56 OFFCURVE",
+"521 110 OFFCURVE",
+"525 145 CURVE SMOOTH",
+"525 149 OFFCURVE",
+"514 150 OFFCURVE",
+"514 146 CURVE SMOOTH",
+"505 88 OFFCURVE",
+"476 44 OFFCURVE",
+"418 44 CURVE SMOOTH",
+"127 44 LINE",
+"127 19 LINE",
+"342 329 LINE SMOOTH",
+"344 332 OFFCURVE",
+"344 340 OFFCURVE",
+"342 344 CURVE SMOOTH",
+"170 606 LINE",
+"386 606 LINE SMOOTH",
+"456 606 OFFCURVE",
+"490 553 OFFCURVE",
+"501 478 CURVE SMOOTH",
+"501 475 OFFCURVE",
+"513 476 OFFCURVE",
+"513 480 CURVE SMOOTH",
+"508 515 OFFCURVE",
+"503 568 OFFCURVE",
+"503 609 CURVE SMOOTH",
+"503 621 OFFCURVE",
+"500 625 OFFCURVE",
+"488 625 CURVE SMOOTH",
+"104 625 LINE SMOOTH",
+"98 625 OFFCURVE",
+"96 613 OFFCURVE",
+"98 609 CURVE SMOOTH",
+"296 311 LINE",
+"94 15 LINE SMOOTH",
+"91 12 OFFCURVE",
+"95 0 OFFCURVE",
+"100 0 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 paths = (
 {
 closed = 1;
 nodes = (
-"461 0 LINE SMOOTH",
-"473 0 OFFCURVE",
-"476 4 OFFCURVE",
-"476 15 CURVE SMOOTH",
-"476 56 OFFCURVE",
-"481 110 OFFCURVE",
-"485 145 CURVE SMOOTH",
-"485 149 OFFCURVE",
-"474 150 OFFCURVE",
-"474 146 CURVE SMOOTH",
-"465 88 OFFCURVE",
-"436 44 OFFCURVE",
-"378 44 CURVE SMOOTH",
-"87 44 LINE",
-"87 19 LINE",
-"302 329 LINE SMOOTH",
-"304 332 OFFCURVE",
-"304 340 OFFCURVE",
-"302 344 CURVE SMOOTH",
-"130 606 LINE",
-"346 606 LINE SMOOTH",
-"416 606 OFFCURVE",
-"450 553 OFFCURVE",
-"461 478 CURVE SMOOTH",
-"461 475 OFFCURVE",
-"473 476 OFFCURVE",
-"473 480 CURVE SMOOTH",
-"468 515 OFFCURVE",
-"463 568 OFFCURVE",
-"463 609 CURVE SMOOTH",
-"463 621 OFFCURVE",
-"460 625 OFFCURVE",
-"448 625 CURVE SMOOTH",
-"64 625 LINE SMOOTH",
-"58 625 OFFCURVE",
-"56 613 OFFCURVE",
-"58 609 CURVE SMOOTH",
-"256 311 LINE",
-"54 15 LINE SMOOTH",
-"51 12 OFFCURVE",
-"55 0 OFFCURVE",
-"60 0 CURVE SMOOTH"
+"465 686 OFFCURVE",
+"499 633 OFFCURVE",
+"509 558 CURVE SMOOTH",
+"509 555 OFFCURVE",
+"521 556 OFFCURVE",
+"521 560 CURVE SMOOTH",
+"516 595 OFFCURVE",
+"511 648 OFFCURVE",
+"511 689 CURVE SMOOTH",
+"511 701 OFFCURVE",
+"508 705 OFFCURVE",
+"496 705 CURVE SMOOTH",
+"93 705 LINE SMOOTH",
+"87 705 OFFCURVE",
+"85 693 OFFCURVE",
+"87 689 CURVE SMOOTH",
+"313 252 LINE",
+"319 290 LINE",
+"82 -135 LINE SMOOTH",
+"80 -138 OFFCURVE",
+"83 -150 OFFCURVE",
+"88 -150 CURVE SMOOTH",
+"509 -150 LINE SMOOTH",
+"521 -150 OFFCURVE",
+"524 -146 OFFCURVE",
+"524 -135 CURVE SMOOTH",
+"524 -94 OFFCURVE",
+"529 -40 OFFCURVE",
+"534 -5 CURVE SMOOTH",
+"534 -1 OFFCURVE",
+"522 0 OFFCURVE",
+"522 -4 CURVE SMOOTH",
+"514 -62 OFFCURVE",
+"485 -106 OFFCURVE",
+"426 -106 CURVE SMOOTH",
+"115 -106 LINE",
+"115 -131 LINE",
+"352 293 LINE SMOOTH",
+"357 301 OFFCURVE",
+"358 306 OFFCURVE",
+"352 317 CURVE SMOOTH",
+"158 686 LINE",
+"395 686 LINE SMOOTH"
 );
 }
 );
-width = 531;
+width = 591;
 },
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"528 0 LINE SMOOTH",
+"539 0 OFFCURVE",
+"543 4 OFFCURVE",
+"543 15 CURVE SMOOTH",
+"543 98 OFFCURVE",
+"547 152 OFFCURVE",
+"552 187 CURVE SMOOTH",
+"552 191 OFFCURVE",
+"540 192 OFFCURVE",
+"540 188 CURVE SMOOTH",
+"532 130 OFFCURVE",
+"503 87 OFFCURVE",
+"445 87 CURVE SMOOTH",
+"163 87 LINE",
+"137 19 LINE",
+"380 340 LINE SMOOTH",
+"383 344 OFFCURVE",
+"383 352 OFFCURVE",
+"380 356 CURVE SMOOTH",
+"233 596 LINE",
+"386 596 LINE SMOOTH",
+"470 596 OFFCURVE",
+"503 546 OFFCURVE",
+"528 478 CURVE SMOOTH",
+"529 475 OFFCURVE",
+"539 476 OFFCURVE",
+"539 480 CURVE SMOOTH",
+"535 515 OFFCURVE",
+"530 568 OFFCURVE",
+"530 609 CURVE SMOOTH",
+"530 621 OFFCURVE",
+"526 625 OFFCURVE",
+"515 625 CURVE SMOOTH",
+"100 625 LINE SMOOTH",
+"94 625 OFFCURVE",
+"91 613 OFFCURVE",
+"94 609 CURVE SMOOTH",
+"294 283 LINE",
+"95 15 LINE SMOOTH",
+"93 12 OFFCURVE",
+"96 0 OFFCURVE",
+"101 0 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 paths = (
 {
 closed = 1;
 nodes = (
-"508 0 LINE SMOOTH",
-"519 0 OFFCURVE",
-"523 4 OFFCURVE",
-"523 15 CURVE SMOOTH",
-"523 98 OFFCURVE",
-"527 152 OFFCURVE",
-"532 187 CURVE SMOOTH",
-"532 191 OFFCURVE",
-"520 192 OFFCURVE",
-"520 188 CURVE SMOOTH",
-"512 130 OFFCURVE",
-"483 87 OFFCURVE",
-"425 87 CURVE SMOOTH",
-"143 87 LINE",
-"117 19 LINE",
-"360 340 LINE SMOOTH",
-"363 344 OFFCURVE",
-"363 352 OFFCURVE",
-"360 356 CURVE SMOOTH",
-"213 596 LINE",
-"366 596 LINE SMOOTH",
-"450 596 OFFCURVE",
-"483 546 OFFCURVE",
-"508 478 CURVE SMOOTH",
-"509 475 OFFCURVE",
-"519 476 OFFCURVE",
-"519 480 CURVE SMOOTH",
-"515 515 OFFCURVE",
-"510 568 OFFCURVE",
-"510 609 CURVE SMOOTH",
-"510 621 OFFCURVE",
-"506 625 OFFCURVE",
-"495 625 CURVE SMOOTH",
-"80 625 LINE SMOOTH",
-"74 625 OFFCURVE",
-"71 613 OFFCURVE",
-"74 609 CURVE SMOOTH",
-"274 283 LINE",
-"75 15 LINE SMOOTH",
-"73 12 OFFCURVE",
-"76 0 OFFCURVE",
-"81 0 CURVE SMOOTH"
+"465 676 OFFCURVE",
+"494 616 OFFCURVE",
+"523 538 CURVE SMOOTH",
+"524 535 OFFCURVE",
+"534 536 OFFCURVE",
+"534 540 CURVE SMOOTH",
+"529 580 OFFCURVE",
+"525 642 OFFCURVE",
+"525 689 CURVE SMOOTH",
+"525 701 OFFCURVE",
+"521 705 OFFCURVE",
+"510 705 CURVE SMOOTH",
+"94 705 LINE SMOOTH",
+"89 705 OFFCURVE",
+"87 694 OFFCURVE",
+"89 689 CURVE SMOOTH",
+"316 213 LINE",
+"343 291 LINE",
+"80 -135 LINE SMOOTH",
+"78 -139 OFFCURVE",
+"81 -150 OFFCURVE",
+"86 -150 CURVE SMOOTH",
+"523 -150 LINE SMOOTH",
+"534 -150 OFFCURVE",
+"538 -146 OFFCURVE",
+"538 -135 CURVE SMOOTH",
+"538 -38 OFFCURVE",
+"544 26 OFFCURVE",
+"550 67 CURVE SMOOTH",
+"550 71 OFFCURVE",
+"538 72 OFFCURVE",
+"538 68 CURVE SMOOTH",
+"530 10 OFFCURVE",
+"500 -33 OFFCURVE",
+"439 -33 CURVE SMOOTH",
+"148 -33 LINE",
+"123 -131 LINE",
+"395 310 LINE SMOOTH",
+"397 314 OFFCURVE",
+"397 322 OFFCURVE",
+"395 326 CURVE SMOOTH",
+"228 676 LINE",
+"381 676 LINE SMOOTH"
 );
 }
 );
-width = 578;
+width = 608;
 }
 );
 unicode = 2211;
@@ -131672,10 +131924,6 @@ weightClass = Bold;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Infant";
-},
-{
 name = "Replace Feature";
 value = "calt; lookup Qtail { sub Q' [U u] by Q.long; sub Q' [Umacron umacron] by Q.long; sub Q' [Uacute uacute] by Q.long; sub Q' [A a] by Q.long; sub Q' [Amacron amacron] by Q.long; sub Q' [Aacute aacute] by Q.long; sub Q' [E e] by Q.long; sub Q' [Emacron Emacron] by Q.long; sub Q' [Eacute Eacute] by Q.long; sub Q' [O o] by Q.long; sub Q' [Omacron omacron] by Q.long; sub Q' [Oacute oacute] by Q.long; sub Q' [Y] by Q.long; sub Q' [Ymacron] by Q.long; sub Q' [Yacute] by Q.long; sub Q' [W w V v] by Q.long; sub Q' [Wacute wacute] by Q.long; sub Q' [R r] by Q.long; } Qtail; lookup Germandbls { sub @Uppercase germandbls' @Uppercase by Germandbls; sub @Uppercase @Uppercase germandbls' by Germandbls; sub @Uppercase germandbls' space @Uppercase @Uppercase by Germandbls; } Germandbls; lookup UppercaseHyphen { sub @Uppercase hyphen' @Uppercase by hyphen.case; } UppercaseHyphen; lookup aFiller { sub [t f]' @alikeInfant by [t.a f.a]; } aFiller; lookup fShort { sub f' @Stumper by f.short; } fShort; lookup RShort { sub [R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow]' @Kicker by [R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short]; } RShort; lookup ClipAscenders { sub [dcaron lcaron] @LeftAscender' by @ClippedAscender; } ClipAscenders; lookup Gde { sub [Ge-cy Te-cy U-cy Ushort-cy] de-cy' by de-cy.Ge; } Gde; lookup jacute { sub iacute j.loclNLD' by j.acute; sub Iacute J.loclNLD' by J.acute; } jacute;";
 },
@@ -133613,6 +133861,10 @@ value = (
 "iu-cy.loclBGR",
 "Iitail-cy.loclBGR"
 );
+},
+{
+name = familyName;
+value = "Cormorant Infant";
 }
 );
 interpolationWeight = 40;
@@ -133627,10 +133879,6 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Infant";
-},
-{
 name = "Replace Feature";
 value = "calt; lookup Qtail { sub Q' [U u] by Q.long; sub Q' [Umacron umacron] by Q.long; sub Q' [Uacute uacute] by Q.long; sub Q' [A a] by Q.long; sub Q' [Amacron amacron] by Q.long; sub Q' [Aacute aacute] by Q.long; sub Q' [E e] by Q.long; sub Q' [Emacron Emacron] by Q.long; sub Q' [Eacute Eacute] by Q.long; sub Q' [O o] by Q.long; sub Q' [Omacron omacron] by Q.long; sub Q' [Oacute oacute] by Q.long; sub Q' [Y] by Q.long; sub Q' [Ymacron] by Q.long; sub Q' [Yacute] by Q.long; sub Q' [W w V v] by Q.long; sub Q' [Wacute wacute] by Q.long; sub Q' [R r] by Q.long; } Qtail; lookup Germandbls { sub @Uppercase germandbls' @Uppercase by Germandbls; sub @Uppercase @Uppercase germandbls' by Germandbls; sub @Uppercase germandbls' space @Uppercase @Uppercase by Germandbls; } Germandbls; lookup UppercaseHyphen { sub @Uppercase hyphen' @Uppercase by hyphen.case; } UppercaseHyphen; lookup aFiller { sub [t f]' @alikeInfant by [t.a f.a]; } aFiller; lookup fShort { sub f' @Stumper by f.short; } fShort; lookup RShort { sub [R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow]' @Kicker by [R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short]; } RShort; lookup ClipAscenders { sub [dcaron lcaron] @LeftAscender' by @ClippedAscender; } ClipAscenders; lookup Gde { sub [Ge-cy Te-cy U-cy Ushort-cy] de-cy' by de-cy.Ge; } Gde; lookup jacute { sub iacute j.loclNLD' by j.acute; sub Iacute J.loclNLD' by J.acute; } jacute;";
 },
@@ -135568,6 +135816,10 @@ value = (
 "iu-cy.loclBGR",
 "Iitail-cy.loclBGR"
 );
+},
+{
+name = familyName;
+value = "Cormorant Infant";
 }
 );
 interpolationWeight = 48.2;
@@ -135581,10 +135833,6 @@ name = Italic;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Infant";
-},
-{
 name = "Replace Feature";
 value = "calt; lookup Qtail { sub Q' [U u] by Q.long; sub Q' [Umacron umacron] by Q.long; sub Q' [Uacute uacute] by Q.long; sub Q' [A a] by Q.long; sub Q' [Amacron amacron] by Q.long; sub Q' [Aacute aacute] by Q.long; sub Q' [E e] by Q.long; sub Q' [Emacron Emacron] by Q.long; sub Q' [Eacute Eacute] by Q.long; sub Q' [O o] by Q.long; sub Q' [Omacron omacron] by Q.long; sub Q' [Oacute oacute] by Q.long; sub Q' [Y] by Q.long; sub Q' [Ymacron] by Q.long; sub Q' [Yacute] by Q.long; sub Q' [W w V v] by Q.long; sub Q' [Wacute wacute] by Q.long; sub Q' [R r] by Q.long; } Qtail; lookup Germandbls { sub @Uppercase germandbls' @Uppercase by Germandbls; sub @Uppercase @Uppercase germandbls' by Germandbls; sub @Uppercase germandbls' space @Uppercase @Uppercase by Germandbls; } Germandbls; lookup UppercaseHyphen { sub @Uppercase hyphen' @Uppercase by hyphen.case; } UppercaseHyphen; lookup aFiller { sub [t f]' @alikeInfant by [t.a f.a]; } aFiller; lookup fShort { sub f' @Stumper by f.short; } fShort; lookup RShort { sub [R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow]' @Kicker by [R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short]; } RShort; lookup ClipAscenders { sub [dcaron lcaron] @LeftAscender' by @ClippedAscender; } ClipAscenders; lookup Gde { sub [Ge-cy Te-cy U-cy Ushort-cy] de-cy' by de-cy.Ge; } Gde; lookup jacute { sub iacute j.loclNLD' by j.acute; sub Iacute J.loclNLD' by J.acute; } jacute;";
 },
@@ -137522,6 +137770,10 @@ value = (
 "iu-cy.loclBGR",
 "Iitail-cy.loclBGR"
 );
+},
+{
+name = familyName;
+value = "Cormorant Infant";
 }
 );
 interpolationWeight = 58.3;
@@ -137537,10 +137789,6 @@ weightClass = Medium;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Infant";
-},
-{
 name = "Replace Feature";
 value = "calt; lookup Qtail { sub Q' [U u] by Q.long; sub Q' [Umacron umacron] by Q.long; sub Q' [Uacute uacute] by Q.long; sub Q' [A a] by Q.long; sub Q' [Amacron amacron] by Q.long; sub Q' [Aacute aacute] by Q.long; sub Q' [E e] by Q.long; sub Q' [Emacron Emacron] by Q.long; sub Q' [Eacute Eacute] by Q.long; sub Q' [O o] by Q.long; sub Q' [Omacron omacron] by Q.long; sub Q' [Oacute oacute] by Q.long; sub Q' [Y] by Q.long; sub Q' [Ymacron] by Q.long; sub Q' [Yacute] by Q.long; sub Q' [W w V v] by Q.long; sub Q' [Wacute wacute] by Q.long; sub Q' [R r] by Q.long; } Qtail; lookup Germandbls { sub @Uppercase germandbls' @Uppercase by Germandbls; sub @Uppercase @Uppercase germandbls' by Germandbls; sub @Uppercase germandbls' space @Uppercase @Uppercase by Germandbls; } Germandbls; lookup UppercaseHyphen { sub @Uppercase hyphen' @Uppercase by hyphen.case; } UppercaseHyphen; lookup aFiller { sub [t f]' @alikeInfant by [t.a f.a]; } aFiller; lookup fShort { sub f' @Stumper by f.short; } fShort; lookup RShort { sub [R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow]' @Kicker by [R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short]; } RShort; lookup ClipAscenders { sub [dcaron lcaron] @LeftAscender' by @ClippedAscender; } ClipAscenders; lookup Gde { sub [Ge-cy Te-cy U-cy Ushort-cy] de-cy' by de-cy.Ge; } Gde; lookup jacute { sub iacute j.loclNLD' by j.acute; sub Iacute J.loclNLD' by J.acute; } jacute;";
 },
@@ -139478,6 +139726,10 @@ value = (
 "iu-cy.loclBGR",
 "Iitail-cy.loclBGR"
 );
+},
+{
+name = familyName;
+value = "Cormorant Infant";
 }
 );
 interpolationWeight = 69.3;
@@ -139493,10 +139745,6 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Infant";
-},
-{
 name = "Replace Feature";
 value = "calt; lookup Qtail { sub Q' [U u] by Q.long; sub Q' [Umacron umacron] by Q.long; sub Q' [Uacute uacute] by Q.long; sub Q' [A a] by Q.long; sub Q' [Amacron amacron] by Q.long; sub Q' [Aacute aacute] by Q.long; sub Q' [E e] by Q.long; sub Q' [Emacron Emacron] by Q.long; sub Q' [Eacute Eacute] by Q.long; sub Q' [O o] by Q.long; sub Q' [Omacron omacron] by Q.long; sub Q' [Oacute oacute] by Q.long; sub Q' [Y] by Q.long; sub Q' [Ymacron] by Q.long; sub Q' [Yacute] by Q.long; sub Q' [W w V v] by Q.long; sub Q' [Wacute wacute] by Q.long; sub Q' [R r] by Q.long; } Qtail; lookup Germandbls { sub @Uppercase germandbls' @Uppercase by Germandbls; sub @Uppercase @Uppercase germandbls' by Germandbls; sub @Uppercase germandbls' space @Uppercase @Uppercase by Germandbls; } Germandbls; lookup UppercaseHyphen { sub @Uppercase hyphen' @Uppercase by hyphen.case; } UppercaseHyphen; lookup aFiller { sub [t f]' @alikeInfant by [t.a f.a]; } aFiller; lookup fShort { sub f' @Stumper by f.short; } fShort; lookup RShort { sub [R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow]' @Kicker by [R.short Racute.short Rcaron.short Rcommaaccent.short Rdotbelow.short Rdotbelowmacron.short Rlinebelow.short]; } RShort; lookup ClipAscenders { sub [dcaron lcaron] @LeftAscender' by @ClippedAscender; } ClipAscenders; lookup Gde { sub [Ge-cy Te-cy U-cy Ushort-cy] de-cy' by de-cy.Ge; } Gde; lookup jacute { sub iacute j.loclNLD' by j.acute; sub Iacute J.loclNLD' by J.acute; } jacute;";
 },
@@ -141434,6 +141682,10 @@ value = (
 "iu-cy.loclBGR",
 "Iitail-cy.loclBGR"
 );
+},
+{
+name = familyName;
+value = "Cormorant Infant";
 }
 );
 interpolationWeight = 80;
@@ -141448,10 +141700,6 @@ weightClass = Bold;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Garamond";
-},
-{
 name = "Remove Features";
 value = (
 ss02
@@ -143219,6 +143467,10 @@ _cyrillicOvertilde.short,
 _cyrillicOvertilde.supernarrow,
 _EngTail
 );
+},
+{
+name = familyName;
+value = "Cormorant Garamond";
 }
 );
 interpolationWeight = 40;
@@ -143233,10 +143485,6 @@ weightClass = Light;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Garamond";
-},
-{
 name = "Remove Features";
 value = (
 ss02
@@ -145004,6 +145252,10 @@ _cyrillicOvertilde.short,
 _cyrillicOvertilde.supernarrow,
 _EngTail
 );
+},
+{
+name = familyName;
+value = "Cormorant Garamond";
 }
 );
 interpolationWeight = 48.2;
@@ -145017,10 +145269,6 @@ name = Italic;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Garamond";
-},
-{
 name = "Remove Features";
 value = (
 ss02
@@ -146788,6 +147036,10 @@ _cyrillicOvertilde.short,
 _cyrillicOvertilde.supernarrow,
 _EngTail
 );
+},
+{
+name = familyName;
+value = "Cormorant Garamond";
 }
 );
 interpolationWeight = 58.3;
@@ -146803,10 +147055,6 @@ weightClass = Medium;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Garamond";
-},
-{
 name = "Remove Features";
 value = (
 ss02
@@ -148574,6 +148822,10 @@ _cyrillicOvertilde.short,
 _cyrillicOvertilde.supernarrow,
 _EngTail
 );
+},
+{
+name = familyName;
+value = "Cormorant Garamond";
 }
 );
 interpolationWeight = 69.3;
@@ -148589,10 +148841,6 @@ weightClass = SemiBold;
 {
 customParameters = (
 {
-name = familyName;
-value = "Cormorant Garamond";
-},
-{
 name = "Remove Features";
 value = (
 ss02
@@ -150360,6 +150608,10 @@ _cyrillicOvertilde.short,
 _cyrillicOvertilde.supernarrow,
 _EngTail
 );
+},
+{
+name = familyName;
+value = "Cormorant Garamond";
 }
 );
 interpolationWeight = 80;
