@@ -18,6 +18,22 @@ sub f.short f.short l by f_f_l.liga;
 sub f.short f.short thorn by f_f_thorn.liga;
 sub f.short f t by f_f_t.liga;
 
+sub longs longs b by longs_longs_b.liga;
+sub longs longs h by longs_longs_h.liga;
+sub longs longs i by longs_longs_i.liga;
+sub longs longs j by longs_longs_j.liga;
+sub longs longs k by longs_longs_k.liga;
+sub longs longs l by longs_longs_l.liga;
+sub longs longs thorn by longs_longs_thorn.liga;
+
+sub longs.short longs.short b by longs_longs_b.liga;
+sub longs.short longs.short h by longs_longs_h.liga;
+sub longs.short longs.short i by longs_longs_i.liga;
+sub longs.short longs.short j by longs_longs_j.liga;
+sub longs.short longs.short k by longs_longs_k.liga;
+sub longs.short longs.short l by longs_longs_l.liga;
+sub longs.short longs.short thorn by longs_longs_thorn.liga;
+
 sub f b by f_b.liga;
 sub f f by f_f.liga;
 sub f h by f_h.liga;
@@ -53,13 +69,6 @@ sub longs k by longs_k.liga;
 sub longs l by longs_l.liga;
 sub longs thorn by longs_thorn.liga;
 sub longs longs by longs_longs.liga;
-sub longs longs b by longs_longs_b.liga;
-sub longs longs h by longs_longs_h.liga;
-sub longs longs i by longs_longs_i.liga;
-sub longs longs j by longs_longs_j.liga;
-sub longs longs k by longs_longs_k.liga;
-sub longs longs l by longs_longs_l.liga;
-sub longs longs thorn by longs_longs_thorn.liga;
 
 sub longs.short b by longs_b.liga;
 sub longs.short h by longs_h.liga;
@@ -69,13 +78,7 @@ sub longs.short k by longs_k.liga;
 sub longs.short l by longs_l.liga;
 sub longs.short thorn by longs_thorn.liga;
 sub longs.short longs by longs_longs.liga;
-sub longs.short longs.short b by longs_longs_b.liga;
-sub longs.short longs.short h by longs_longs_h.liga;
-sub longs.short longs.short i by longs_longs_i.liga;
-sub longs.short longs.short j by longs_longs_j.liga;
-sub longs.short longs.short k by longs_longs_k.liga;
-sub longs.short longs.short l by longs_longs_l.liga;
-sub longs.short longs.short thorn by longs_longs_thorn.liga;
+
 
 sub Aogonek acutecomb by Aogonek_acutecomb.liga;
 sub Eogonek acutecomb by Eogonek_acutecomb.liga;
