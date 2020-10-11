@@ -1,4 +1,4 @@
-lookupflag IgnoreMarks;
+#lookupflag IgnoreMarks;
 
 sub f f b by f_f_b.liga;
 sub f f f by f_f_f.liga;
@@ -20,12 +20,9 @@ sub f f.short j by f_f_j.liga;
 sub f f.short k by f_f_k.liga;
 sub f f.short l by f_f_l.liga;
 sub f f.short thorn by f_f_thorn.liga;
-sub f f t by f_f_t.liga;
 
 sub f i by fi;
 sub f l by fl;
-sub T T by T_T.liga;
-sub T h by T_h.liga;
 sub f f.a by f_f.a.liga;
 sub f t.a by f_t.a.liga;
 sub f b by f_b.liga;
@@ -196,3 +193,19 @@ sub oogonek acutecomb by oogonek_acutecomb.liga;
 sub u hungarumlautcomb by u_hungarumlautcomb.liga;
 sub u tildecomb by u_tildecomb.liga;
 sub u verticallineabovecomb by u_verticallineabovecomb.liga;
+
+sub Oacute dotaboverightcomb by Oacute_dotaboverightcomb.liga;
+sub Obreve dotaboverightcomb by Obreve_dotaboverightcomb.liga;
+sub Ocaron dotaboverightcomb by Ocaron_dotaboverightcomb.liga;
+sub Ocircumflex dotaboverightcomb by Ocircumflex_dotaboverightcomb.liga;
+sub Ograve dotaboverightcomb by Ograve_dotaboverightcomb.liga;
+sub Ohungarumlaut dotaboverightcomb by Ohungarumlaut_dotaboverightcomb.liga;
+sub Omacron dotaboverightcomb by Omacron_dotaboverightcomb.liga;
+
+sub oacute dotaboverightcomb by oacute_dotaboverightcomb.liga;
+sub obreve dotaboverightcomb by obreve_dotaboverightcomb.liga;
+sub ocaron dotaboverightcomb by ocaron_dotaboverightcomb.liga;
+sub ocircumflex dotaboverightcomb by ocircumflex_dotaboverightcomb.liga;
+sub ograve dotaboverightcomb by ograve_dotaboverightcomb.liga;
+sub ohungarumlaut dotaboverightcomb by ohungarumlaut_dotaboverightcomb.liga;
+sub omacron dotaboverightcomb by omacron_dotaboverightcomb.liga;
