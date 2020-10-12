@@ -47,6 +47,12 @@ To contribute to the project, contact Christian Thalmann (see below).
 
 ChangeLog
 
+2020-10-13: Release v3.609
+Added support for Pe̍h-ōe-jī (POJ) as requested.
+Fixed an issue with Italic ligatures. Some ligatures had been previously deactivated when the manually written LIGA code was replaced by an auto-generated version. Not quite sure how that happened.
+Rebalanced some accent design and placement. 
+Touched up a few things here and there.
+
 2018-11-06: Release v3.601
 Reinstated a few OpenType features that had inexplicably vanished from the source files.
 Fixed broken triangular arrow glyph
