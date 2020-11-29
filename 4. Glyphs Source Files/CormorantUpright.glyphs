@@ -1,5 +1,8 @@
 {
-.appVersion = "1134";
+.appVersion = "3039";
+DisplayStrings = (
+"h/hcircumflex/zero.lf.zero/zero.lf.zero"
+);
 classes = (
 {
 automatic = 1;
@@ -52,14 +55,6 @@ name = ClippedAscender;
 copyright = "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)";
 customParameters = (
 {
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
-},
-{
 name = "Disable Last Change";
 value = 1;
 },
@@ -75,6 +70,23 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2017-01-04 19:59:26 +0000";
@@ -22710,7 +22722,7 @@ transform = "{1, 0, 0, 1, 19, 267}";
 }
 );
 layerId = "05D38584-429E-4AAF-9BEA-6CB44526FD1C";
-width = 455;
+width = 489;
 }
 );
 leftKerningGroup = l;
@@ -51131,7 +51143,7 @@ transform = "{1, 0, 0, 1, 154, 280}";
 }
 );
 layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
-width = 497;
+width = 501;
 },
 {
 anchors = (
@@ -51150,7 +51162,7 @@ transform = "{1, 0, 0, 1, 146, 263}";
 }
 );
 layerId = "05D38584-429E-4AAF-9BEA-6CB44526FD1C";
-width = 510;
+width = 501;
 }
 );
 },
