@@ -31,11 +31,11 @@ for fileName in fileNames:
 		font = GSFont(os.path.join(fileFolder, fileName))
 		print(font.familyName)
 		for instance in font.instances:
-			print("== Exporting OTF ==")
+			print("== Exporting OTF ==", instance)
 			print(instance.generate(Format = "OTF", FontPath = os.path.expanduser(otf_path), AutoHint = OTF_AutoHint, RemoveOverlap = RemoveOverlap, UseSubroutines = UseSubroutines, UseProductionNames = UseProductionNames))
 		print()
 		for instance in font.instances:
-			print("== Exporting TTF ==")
+			print("== Exporting TTF ==", instance)
 			print(instance.generate(Format = "TTF", FontPath = os.path.expanduser(ttf_path), AutoHint = TTF_AutoHint, RemoveOverlap = RemoveOverlap, UseProductionNames = UseProductionNames))
 		print()
 		#for instance in font.instances:
