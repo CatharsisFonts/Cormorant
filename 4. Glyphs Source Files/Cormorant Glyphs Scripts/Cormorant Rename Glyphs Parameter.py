@@ -25,19 +25,14 @@ renameGlyphsParameterKey = "Rename Glyphs"
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
 for thisInstance in Font.instances:
-	parameterFamilyName = thisInstance.customValueForKey_("familyName")
-	if parameterFamilyName:
-		familyName = parameterFamilyName
-	else:
-		familyName = Font.familyName
-	if familyName.startswith("Cormorant SC"):
+	if thisInstance.familyName.startswith("Cormorant SC"):
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
-		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
+		thisInstance.setCustomValue_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+		thisInstance.setCustomValue_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
+		thisInstance.setCustomValue_forKey_( renameGlyphs1+renameGlyphs2, renameGlyphsParameterKey )
+		thisInstance.setCustomValue_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
 
 
 
@@ -62,19 +57,14 @@ renameGlyphsParameterKey = "Rename Glyphs"
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
 for thisInstance in Font.instances:
-	parameterFamilyName = thisInstance.customValueForKey_("familyName")
-	if parameterFamilyName:
-		familyName = parameterFamilyName
-	else:
-		familyName = Font.familyName
-	if familyName.startswith("Cormorant Unicase"):
+	if thisInstance.familyName.startswith("Cormorant Unicase"):
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
-		thisInstance.setCustomParameter_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
+		thisInstance.setCustomValue_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+		thisInstance.setCustomValue_forKey_( removeGlyphs1+removeGlyphs2, removeGlyphsParameterKey )
+		thisInstance.setCustomValue_forKey_( renameGlyphs, renameGlyphsParameterKey )
+		thisInstance.setCustomValue_forKey_( ["sc", "c2sc", "ss01", "ss02", "ss03", "ss04", "ss05", "ss06", "ss09", "ss10", "ss11", "dlig", "liga", "hlig", "onum"], "Remove Features" )
 
 
 
@@ -101,18 +91,13 @@ removeGlyphs = [ g.name for g in Font.glyphs if (g.name.find(".loclBGR") > 0)]
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
 for thisInstance in Font.instances:
-	parameterFamilyName = thisInstance.customValueForKey_("familyName")
-	if parameterFamilyName:
-		familyName = parameterFamilyName
-	else:
-		familyName = Font.familyName
-	if familyName.startswith("Cormorant Infant"):
+	if thisInstance.familyName.startswith("Cormorant Infant"):
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
-		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+		thisInstance.setCustomValue_forKey_( decomposeGlyphs, "Decompose Glyphs" )
 		thisInstance.removeObjectFromCustomParametersForKey_( "Rename Glyphs" )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs, "Rename Glyphs" )
-		thisInstance.setCustomParameter_forKey_( ["onum", "ss03"], "Remove Features" )
-		thisInstance.setCustomParameter_forKey_( removeGlyphs, "Remove Glyphs" )
+		thisInstance.setCustomValue_forKey_( renameGlyphs, "Rename Glyphs" )
+		thisInstance.setCustomValue_forKey_( ["onum", "lnum", "ss02", "ss03", "loclBGR"], "Remove Features" )
+		thisInstance.setCustomValue_forKey_( removeGlyphs, "Remove Glyphs" )
 
 
 # Garamond
@@ -127,14 +112,9 @@ renameGlyphsParameterKey = "Rename Glyphs"
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
 for thisInstance in Font.instances:
-	parameterFamilyName = thisInstance.customValueForKey_("familyName")
-	if parameterFamilyName:
-		familyName = parameterFamilyName
-	else:
-		familyName = Font.familyName
-	if familyName.startswith("Cormorant Garamond"):
+	if thisInstance.familyName.startswith("Cormorant Garamond"):
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs1, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["ss02"], "Remove Features" )
+		thisInstance.setCustomValue_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+		thisInstance.setCustomValue_forKey_( renameGlyphs1, renameGlyphsParameterKey )
+		thisInstance.setCustomValue_forKey_( ["ss02"], "Remove Features" )

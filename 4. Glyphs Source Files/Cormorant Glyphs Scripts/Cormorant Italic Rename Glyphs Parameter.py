@@ -4,6 +4,8 @@
 
 import GlyphsApp
 
+print("Start Script")
+
 # Infant
 Font = Glyphs.font
 
@@ -27,18 +29,14 @@ decomposeGlyphs = [g.name for g in Font.glyphs]
 #removeGlyphs = [ g.name for g in Font.glyphs if (g.name.find(".loclBGR") > 0)]
 
 for thisInstance in Font.instances:
-	parameterFamilyName = thisInstance.customValueForKey_("familyName")
-	if parameterFamilyName:
-		familyName = parameterFamilyName
-	else:
-		familyName = Font.familyName
-	if familyName.startswith("Cormorant Infant"):
+	print(thisInstance.familyName)
+	if thisInstance.familyName.startswith("Cormorant Infant"):
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.removeObjectFromCustomParametersForKey_( "Rename Glyphs" )
-		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs, "Rename Glyphs" )
-		thisInstance.setCustomParameter_forKey_( ["onum", "ss02", "ss03"], "Remove Features" )
-#		thisInstance.setCustomParameter_forKey_( removeGlyphs, "Remove Glyphs" )
+		thisInstance.setCustomValue_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+		thisInstance.setCustomValue_forKey_( renameGlyphs, "Rename Glyphs" )
+		thisInstance.setCustomValue_forKey_( ["onum", "ss02", "ss03", "lnum"], "Remove Features" )
+#		thisInstance.setCustomValue_forKey_( removeGlyphs, "Remove Glyphs" )
 
 
 # Garamond
@@ -52,16 +50,11 @@ renameGlyphsParameterKey = "Rename Glyphs"
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
 for thisInstance in Font.instances:
-	parameterFamilyName = thisInstance.customValueForKey_("familyName")
-	if parameterFamilyName:
-		familyName = parameterFamilyName
-	else:
-		familyName = Font.familyName
-	if familyName.startswith("Cormorant Garamond"):
+	if thisInstance.familyName.startswith("Cormorant Garamond"):
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.removeObjectFromCustomParametersForKey_( renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( decomposeGlyphs, "Decompose Glyphs" )
-		thisInstance.setCustomParameter_forKey_( renameGlyphs1, renameGlyphsParameterKey )
-		thisInstance.setCustomParameter_forKey_( ["ss02"], "Remove Features" )
+		thisInstance.setCustomValue_forKey_( decomposeGlyphs, "Decompose Glyphs" )
+		thisInstance.setCustomValue_forKey_( renameGlyphs1, renameGlyphsParameterKey )
+		thisInstance.setCustomValue_forKey_( ["ss02", "loclBGR"], "Remove Features" )
 
 
