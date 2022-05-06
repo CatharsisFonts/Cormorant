@@ -24,6 +24,52 @@ The Cormorant typeface and all its associated font files are free software under
 2. you do not redistribute this software without this license information; and 
 3. you do not redistribute the fonts by themselves for a fee (though you are allowed to sell them as part of a bundle containing other items.)
 
+### Building fonts
+
+The variable fonts are built using the [gftools builder](https://github.com/googlefonts/gftools). To install gftools you will need to have Python3.7+. Once you have Python installed you will need to use the command line and enter the following commands from the repo's current working directory:
+
+```
+pwd # this command will return our current working directory. Make sure it's the project's main directory!
+python3 -m venv venv
+```
+
+We then need to activate this virtual environment
+
+```
+source venv/bin/activate
+```
+
+We are now ready to install gftools. Enter the following command:
+
+```
+pip install -r requirements.txt
+```
+
+This will install all the dependencies needed in order to build the fonts.
+
+We can now build the variable fonts by entering the commands:
+
+```
+cd sources/
+gftools builder build.yaml
+```
+
+We now need to generate the static fonts. Due to the complexity of renaming/swapping glyphs etc for the static fonts, we need to use Glyphsapp because the gftools builder currently doesn't support these features.
+
+Inside glyphsapp, load the glyphs source files found in sources/ then hit command+e and generate the static ttfs to sources/ttf and static otfs to sources/otf.
+
+We now need to post process the static fonts so they pass our internal QA tools. Please run the following command:
+
+```
+sh fix_statics.sh
+```
+
+The final step is to generate the webfonts. This can be done by running the command:
+
+```
+sh gen_webfonts.sh
+```
+
 ### Acknowledgements
  
 Cormorant was conceived, drawn, spaced, kerned, programmed, interpolated, and produced in its entirety by myself (Christian Thalmann, [Catharsis Fonts][1]). I did all the work with [Glyphs][2], which I consider the world's best font editing software. It's not free, but it's worth every penny ten times over; I cannot recommend it enough. I used the public beta version of the RMX Harmonizer plug-in to ensure curve quality.
