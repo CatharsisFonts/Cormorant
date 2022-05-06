@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aogonek_acutecomb.liga.ss13" format="1">
-  <advance width="559"/>
-  <outline>
-    <component base="Aogonek"/>
-    <component base="acutecomb.case.ss13" xOffset="246"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zdotaccent.sc" format="1">
-  <advance width="453"/>
-  <outline>
-    <component base="z.sc"/>
-    <component base="dotaccent.sc" xOffset="161" yOffset="82"/>
-  </outline>
-</glyph>

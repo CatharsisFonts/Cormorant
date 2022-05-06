@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="j_acutecomb.liga.sc" format="1">
-  <advance width="267"/>
-  <outline>
-    <component base="j.sc"/>
-    <component base="acute.sc" xOffset="17" yOffset="82"/>
-  </outline>
-</glyph>

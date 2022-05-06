@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gbreve.sc" format="1">
-  <advance width="558"/>
-  <outline>
-    <component base="g.sc"/>
-    <component base="breve.sc" xOffset="161" yOffset="82"/>
-  </outline>
-</glyph>

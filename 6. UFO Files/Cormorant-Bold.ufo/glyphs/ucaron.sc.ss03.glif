@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ucaron.sc.ss03" format="1">
-  <advance width="599"/>
-  <outline>
-    <component base="u.sc.ss01"/>
-    <component base="caron.sc" xOffset="161" yOffset="82"/>
-  </outline>
-</glyph>

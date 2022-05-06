@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Oslashacute.ss13" format="1">
-  <advance width="628"/>
-  <outline>
-    <component base="Oslash"/>
-    <component base="acutecomb.case.ss13" xOffset="255"/>
-  </outline>
-</glyph>

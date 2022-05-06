@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ebreve.sc.ss05" format="1">
-  <advance width="436"/>
-  <outline>
-    <component base="e.sc.ss05"/>
-    <component base="breve.sc" xOffset="116" yOffset="82"/>
-  </outline>
-</glyph>

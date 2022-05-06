@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gbreve_udieresis" format="1">
-  <advance width="827"/>
-  <outline>
-    <component base="gbreve"/>
-    <component base="udieresis" xOffset="389"/>
-  </outline>
-</glyph>

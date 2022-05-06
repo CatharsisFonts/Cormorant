@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Udieresisgrave.ss01" format="1">
-  <advance width="716"/>
-  <outline>
-    <component base="U.ss01"/>
-    <component base="grave.case.dieresis" xOffset="250" yOffset="239"/>
-  </outline>
-</glyph>

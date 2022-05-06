@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zedieresis-cy.sc" format="1">
-  <advance width="427"/>
-  <outline>
-    <component base="ze-cy.sc"/>
-    <component base="dieresiscomb" xOffset="53" yOffset="82"/>
-  </outline>
-</glyph>

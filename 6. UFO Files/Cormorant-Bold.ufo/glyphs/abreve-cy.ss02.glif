@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="abreve-cy.ss02" format="1">
-  <advance width="421"/>
-  <outline>
-    <component base="a-cy.ss02"/>
-    <component base="brevecomb-cy" xOffset="64"/>
-  </outline>
-</glyph>

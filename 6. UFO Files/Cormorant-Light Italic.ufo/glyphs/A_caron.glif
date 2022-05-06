@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Acaron" format="1">
-  <advance width="599"/>
-  <unicode hex="01CD"/>
-  <outline>
-    <component base="A"/>
-    <component base="caron.case" xOffset="238" yOffset="239"/>
-  </outline>
-</glyph>

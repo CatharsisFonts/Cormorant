@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kcommaaccent.clipped" format="1">
-  <advance width="435"/>
-  <outline>
-    <component base="k.clipped"/>
-    <component base="commaaccentcomb" xOffset="120"/>
-  </outline>
-</glyph>
