@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="g_umacron" format="1">
-  <advance width="796"/>
-  <outline>
-    <component base="g_u"/>
-    <component base="macron" xOffset="442"/>
-  </outline>
-</glyph>

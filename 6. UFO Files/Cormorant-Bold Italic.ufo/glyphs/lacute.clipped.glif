@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lacute.clipped" format="1">
-  <advance width="258"/>
-  <outline>
-    <component base="l.clipped"/>
-    <component base="acutecomb.case" xOffset="105" yOffset="37"/>
-  </outline>
-</glyph>

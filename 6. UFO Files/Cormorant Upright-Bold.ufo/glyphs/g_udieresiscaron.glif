@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="g_udieresiscaron" format="1">
-  <advance width="827"/>
-  <outline>
-    <component base="g_u"/>
-    <component base="caron.case.dieresis" xOffset="484"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Idieresis-cy.ss10" format="1">
-  <advance width="770"/>
-  <outline>
-    <component base="Ii-cy.loclBGR"/>
-    <component base="dieresiscomb" xOffset="235" yOffset="239"/>
-  </outline>
-</glyph>

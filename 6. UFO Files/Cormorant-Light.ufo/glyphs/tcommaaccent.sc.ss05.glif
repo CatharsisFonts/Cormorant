@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcommaaccent.sc.ss05" format="1">
-  <advance width="374"/>
-  <outline>
-    <component base="t.sc.ss05"/>
-    <component base="commaaccentcomb" xOffset="122"/>
-  </outline>
-</glyph>

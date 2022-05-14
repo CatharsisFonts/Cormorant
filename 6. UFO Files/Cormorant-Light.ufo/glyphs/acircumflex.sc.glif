@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acircumflex.sc" format="1">
-  <advance width="560"/>
-  <outline>
-    <component base="a.sc"/>
-    <component base="circumflex.sc" xOffset="134" yOffset="82"/>
-  </outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="iogonek_acutecomb.sc.liga" format="1">
-  <advance width="303"/>
-  <outline>
-    <component base="i.sc"/>
-    <component base="ogonek.narrow" xOffset="-7"/>
-    <component base="acutecomb.case" xOffset="29" yOffset="-157"/>
-  </outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iigrave-cy.loclBGR" format="1">
-  <advance width="692"/>
-  <outline>
-    <component base="Ii-cy.loclBGR"/>
-    <component base="gravecomb.case" xOffset="275" yOffset="239"/>
-  </outline>
-</glyph>

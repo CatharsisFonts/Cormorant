@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zhebreve-cy.sc" format="1">
-  <advance width="780"/>
-  <outline>
-    <component base="zhe-cy.sc"/>
-    <component base="brevecomb-cy" xOffset="241" yOffset="82"/>
-  </outline>
-</glyph>

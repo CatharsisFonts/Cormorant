@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="wacute.sc" format="1">
-  <advance width="743"/>
-  <outline>
-    <component base="w.sc"/>
-    <component base="acute.sc" xOffset="268" yOffset="82"/>
-  </outline>
-</glyph>

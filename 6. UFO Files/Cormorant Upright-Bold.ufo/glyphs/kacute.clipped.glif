@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="kacute.clipped" format="1">
-  <advance width="407"/>
-  <outline>
-    <component base="k.clipped"/>
-    <component base="acute.case" xOffset="25" yOffset="224"/>
-  </outline>
-</glyph>
