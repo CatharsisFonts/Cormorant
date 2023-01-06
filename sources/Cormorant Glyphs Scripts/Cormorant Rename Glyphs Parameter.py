@@ -24,7 +24,10 @@ renameGlyphsParameterKey = "Rename Glyphs"
 
 decomposeGlyphs = [g.name for g in Font.glyphs]
 
+print(Font.instances)
+
 for thisInstance in Font.instances:
+	print(thisInstance.name)
 	if thisInstance.familyName.startswith("Cormorant SC"):
 		thisInstance.removeObjectFromCustomParametersForKey_( "Decompose Glyphs" )
 		thisInstance.removeObjectFromCustomParametersForKey_( removeGlyphsParameterKey )
