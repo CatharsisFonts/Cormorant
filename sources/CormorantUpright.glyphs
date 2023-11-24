@@ -1,7 +1,8 @@
 {
-.appVersion = "3039";
+.appVersion = "3150";
 DisplayStrings = (
-"h/hcircumflex/zero.lf.zero/zero.lf.zero"
+"h/hcircumflex/zero.lf.zero/zero.lf.zero",
+"/Oogonek/Oogonek/Oogonek/Oogonek/Oogonek_acutecomb.liga/Oogonek_acutecomb.liga/Oogonek_acutecomb.liga.ss13/Oogonek_acutecomb.liga.ss13/oogonek/oogonek/oogonek/oogonek/oogonek_acutecomb.liga/oogonek_acutecomb.liga/macroncomb/dotbelowcomb/dotbelowcomb/brevebelowcomb/brevebelowcomb/brevebelowcomb/brevebelowcomb/macronbelowcomb/macronbelowcomb/macronbelowcomb/macronbelowcomb/brevecomb.case/brevecomb.case/brevecomb.case/circumflex/circumflex/circumflex/circumflex/breve.case/breve.case/acute.case.dieresis/acute.case.dieresis/acute.case.dieresis/acute.case.dieresis/caron.case.dieresis/caron.case.dieresis/caron.case.dieresis/caron.case.dieresis/grave.case.dieresis/grave.case.dieresis/grave.case.dieresis/grave.case.dieresis/macron.dieresis/macron.dieresis/macron.dieresis/macron.dieresis"
 );
 classes = (
 {
@@ -8790,9 +8791,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 285, 0}";
 }
@@ -8803,9 +8806,11 @@ width = 730;
 {
 components = (
 {
+alignment = -1;
 name = O;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 296, 0}";
 }
@@ -14435,9 +14440,11 @@ position = "{384, 386}";
 );
 components = (
 {
+alignment = -1;
 name = Oogonek;
 },
 {
+alignment = -1;
 name = acute.case;
 transform = "{1, 0, 0, 1, 272, 239}";
 }
@@ -14454,9 +14461,11 @@ position = "{384, 386}";
 );
 components = (
 {
+alignment = -1;
 name = Oogonek;
 },
 {
+alignment = -1;
 name = acute.case;
 transform = "{1, 0, 0, 1, 279, 239}";
 }
@@ -18328,9 +18337,11 @@ position = "{384, 386}";
 );
 components = (
 {
+alignment = -1;
 name = Oogonek;
 },
 {
+alignment = -1;
 name = acutecomb.case.ss13;
 transform = "{1, 0, 0, 1, 282, 0}";
 }
@@ -18347,9 +18358,11 @@ position = "{384, 386}";
 );
 components = (
 {
+alignment = -1;
 name = Oogonek;
 },
 {
+alignment = -1;
 name = acutecomb.case.ss13;
 transform = "{1, 0, 0, 1, 302, 0}";
 }
@@ -26498,9 +26511,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 97, 0}";
 }
@@ -26511,9 +26526,11 @@ width = 425;
 {
 components = (
 {
+alignment = -1;
 name = o;
 },
 {
+alignment = -1;
 name = ogonek;
 transform = "{1, 0, 0, 1, 109, 0}";
 }
@@ -33477,9 +33494,11 @@ position = "{239, 386}";
 );
 components = (
 {
+alignment = -1;
 name = oogonek;
 },
 {
+alignment = -1;
 name = acutecomb;
 transform = "{1, 0, 0, 1, 144, 0}";
 }
@@ -33496,9 +33515,11 @@ position = "{244, 386}";
 );
 components = (
 {
+alignment = -1;
 name = oogonek;
 },
 {
+alignment = -1;
 name = acutecomb;
 transform = "{1, 0, 0, 1, 145, 0}";
 }
@@ -80222,6 +80243,7 @@ position = "{171, 506}";
 );
 components = (
 {
+alignment = -1;
 name = macron;
 }
 );
@@ -80445,6 +80467,7 @@ position = "{145, -207}";
 );
 components = (
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, -1, -702}";
 }
@@ -80465,6 +80488,7 @@ position = "{77, -207}";
 );
 components = (
 {
+alignment = -1;
 name = dotaccent;
 transform = "{1, 0, 0, 1, 2, -702}";
 }
@@ -80837,6 +80861,7 @@ position = "{214, -227}";
 );
 components = (
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 15, -669}";
 }
@@ -80857,6 +80882,7 @@ position = "{214, -227}";
 );
 components = (
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 20, -671}";
 }
@@ -80884,6 +80910,7 @@ position = "{146, -117}";
 );
 components = (
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -25, -596}";
 }
@@ -80904,6 +80931,7 @@ position = "{175, -124}";
 );
 components = (
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, 5, -596}";
 }
@@ -81211,6 +81239,7 @@ position = "{149, 697}";
 );
 components = (
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 15, 191}";
 }
@@ -81231,6 +81260,7 @@ position = "{158, 735}";
 );
 components = (
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, 0, 191}";
 }
@@ -82468,6 +82498,7 @@ position = "{122, 386}";
 );
 components = (
 {
+alignment = -1;
 name = caron;
 transform = "{-1, 0, 0, -1, 242, 1204}";
 }
@@ -82484,6 +82515,7 @@ position = "{123, 386}";
 );
 components = (
 {
+alignment = -1;
 name = caron;
 transform = "{-1, 0, 0, -1, 244, 1204}";
 }
@@ -83271,6 +83303,7 @@ position = "{116, 386}";
 );
 components = (
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, -2, -48}";
 }
@@ -83287,6 +83320,7 @@ position = "{116, 386}";
 );
 components = (
 {
+alignment = -1;
 name = breve;
 transform = "{1, 0, 0, 1, -2, -48}";
 }
@@ -83944,10 +83978,12 @@ position = "{152, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 13, -23}";
 },
 {
+alignment = -1;
 name = acute.case;
 transform = "{1, 0, 0, 1, 21, 117}";
 }
@@ -83964,10 +84000,12 @@ position = "{150, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 16, -23}";
 },
 {
+alignment = -1;
 name = acute.case;
 transform = "{1, 0, 0, 1, 23, 129}";
 }
@@ -83989,10 +84027,12 @@ position = "{143, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 4, -23}";
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 23, 117}";
 }
@@ -84009,10 +84049,12 @@ position = "{142, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 4, -23}";
 },
 {
+alignment = -1;
 name = circumflex.case;
 transform = "{1, 0, 0, 1, 23, 117}";
 }
@@ -84034,10 +84076,12 @@ position = "{137, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 1, -23}";
 },
 {
+alignment = -1;
 name = grave.case;
 transform = "{1, 0, 0, 1, 5, 111}";
 }
@@ -84054,10 +84098,12 @@ position = "{137, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 0, -23}";
 },
 {
+alignment = -1;
 name = grave.case;
 transform = "{1, 0, 0, 1, 11, 111}";
 }
@@ -84079,10 +84125,12 @@ position = "{138, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, -2, -23}";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -35, 94}";
 }
@@ -84099,10 +84147,12 @@ position = "{147, 386}";
 );
 components = (
 {
+alignment = -1;
 name = dieresis;
 transform = "{1, 0, 0, 1, 0, -23}";
 },
 {
+alignment = -1;
 name = macron;
 transform = "{1, 0, 0, 1, -35, 117}";
 }

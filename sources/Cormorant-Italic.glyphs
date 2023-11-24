@@ -1,5 +1,5 @@
 {
-.appVersion = "3139";
+.appVersion = "3227";
 .formatVersion = 3;
 DisplayStrings = (
 "Che/f.short ’s o’clock l’ève
@@ -35,8 +35,7 @@ closed/longs_i.liga mple
 
 ",
 "₴",
-"/one.lf/hryvnia.lf/one.lf",
-"฿/baht.lf ₪H₴/hryvnia.lf/sheqel.lf H"
+"/one.lf/hryvnia.lf/one.lf"
 );
 axes = (
 {
@@ -121,11 +120,11 @@ value = 1;
 name = "Axis Mappings";
 value = {
 wght = {
-300 = 40;
-400 = 48;
-500 = 58;
-600 = 69;
-700 = 80;
+40 = 300;
+48 = 400;
+58 = 500;
+69 = 600;
+80 = 700;
 };
 };
 }
@@ -111778,6 +111777,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (261,621);
 ref = exclam;
@@ -111789,6 +111789,7 @@ width = 219;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (261,621);
 ref = exclam;
@@ -111840,6 +111841,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 pos = (56,297);
 ref = period;
 }
@@ -111850,6 +111852,7 @@ width = 195;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (56,297);
 ref = period;
 }
@@ -111868,6 +111871,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 pos = (22,125);
 ref = bullet;
 }
@@ -111878,6 +111882,7 @@ width = 301;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (22,125);
 ref = bullet;
 }
@@ -111895,6 +111900,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 pos = (0,111);
 ref = numbersign;
 }
@@ -111905,6 +111911,7 @@ width = 413;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (0,111);
 ref = numbersign;
 }
@@ -113417,6 +113424,7 @@ metricLeft = "=|parenleft";
 metricRight = "=|parenleft";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (315,609);
 ref = parenleft.case;
@@ -113436,6 +113444,7 @@ metricLeft = "=|parenleft";
 metricRight = "=|parenleft";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (315,609);
 ref = parenleft.case;
@@ -113565,6 +113574,7 @@ metricLeft = "=|braceleft";
 metricRight = "=|braceleft";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (299,608);
 ref = braceleft.case;
@@ -113695,6 +113705,7 @@ metricLeft = "=|bracketleft";
 metricRight = "=|bracketleft";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (285,608);
 ref = bracketleft.case;
@@ -113718,6 +113729,7 @@ metricLeft = "=|bracketleft";
 metricRight = "=|bracketleft";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (291,608);
 ref = bracketleft.case;
@@ -114326,6 +114338,7 @@ width = 323;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (347,455);
 ref = quotedblbase;
@@ -114356,6 +114369,7 @@ width = 323;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (111,531);
 ref = quotedblbase;
 }
@@ -114375,6 +114389,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (212,454);
 ref = comma;
@@ -114386,6 +114401,7 @@ width = 183;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (220,454);
 ref = comma;
@@ -114406,6 +114422,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 pos = (84,571);
 ref = comma;
 }
@@ -114416,6 +114433,7 @@ width = 183;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (75,531);
 ref = comma;
 }
@@ -115152,7 +115170,7 @@ associatedMasterId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 attr = {
 axisRules = (
 {
-min = "120";
+min = 120;
 }
 );
 };
@@ -115229,7 +115247,7 @@ associatedMasterId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 attr = {
 axisRules = (
 {
-min = "120";
+min = 120;
 }
 );
 };
@@ -115306,7 +115324,7 @@ associatedMasterId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 attr = {
 axisRules = (
 {
-min = "120";
+min = 120;
 }
 );
 };
@@ -133050,6 +133068,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 pos = (23,135);
 ref = divide;
 }
@@ -133060,6 +133079,7 @@ width = 398;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (26,135);
 ref = divide;
 }
@@ -133258,6 +133278,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 angle = 180;
 pos = (430,513);
 ref = greater;
@@ -133424,6 +133445,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 pos = (28,164);
 ref = plusminus;
 }
@@ -133434,6 +133456,7 @@ width = 396;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (28,164);
 ref = plusminus;
 }
@@ -141403,6 +141426,7 @@ pos = (124,625);
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
+alignment = -1;
 pos = (35,142);
 ref = dotaccentcomb;
 }
@@ -141419,6 +141443,7 @@ pos = (135,625);
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
+alignment = -1;
 pos = (32,150);
 ref = dotaccentcomb;
 }
@@ -167889,18 +167914,12 @@ value = "Cormorant Garamond";
 weightClass = 700;
 },
 {
-axesValues = (
-0
-);
 customParameters = (
 {
 name = "Variable Font Origin";
 value = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 }
 );
-instanceInterpolations = {
-"2373B5BC-5F65-41C1-A640-5B37284EFBFD" = 1;
-};
 name = Regular;
 type = variable;
 }
@@ -168649,19 +168668,6 @@ key = designerURL;
 value = "https://github.com/CatharsisFonts";
 },
 {
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "Catharsis Fonts";
-}
-);
-},
-{
-key = manufacturerURL;
-value = "https://github.com/CatharsisFonts";
-},
-{
 key = licenses;
 values = (
 {
@@ -168673,6 +168679,19 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 key = licenseURL;
 value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Catharsis Fonts";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://github.com/CatharsisFonts";
 }
 );
 stems = (
