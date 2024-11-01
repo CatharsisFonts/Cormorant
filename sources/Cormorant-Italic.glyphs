@@ -1,5 +1,5 @@
 {
-.appVersion = "3227";
+.appVersion = "3310";
 .formatVersion = 3;
 DisplayStrings = (
 "Che/f.short ’s o’clock l’ève
@@ -167694,7 +167694,27 @@ name = "Variable Font Origin";
 value = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 }
 );
-name = Regular;
+name = Italic;
+properties = (
+{
+key = preferredSubfamilyNames;
+values = (
+{
+language = dflt;
+value = Italic;
+}
+);
+},
+{
+key = styleMapFamilyNames;
+values = (
+{
+language = dflt;
+value = Italic;
+}
+);
+}
+);
 type = variable;
 }
 );
