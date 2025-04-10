@@ -1,5 +1,5 @@
 {
-.appVersion = "3340";
+.appVersion = "3410";
 .formatVersion = 3;
 DisplayStrings = (
 "Che/f.short ’s o’clock l’ève
@@ -129,7 +129,7 @@ wght = {
 };
 }
 );
-date = "2025-01-10 20:21:06 +0000";
+date = "2025-04-10 11:57:28 +0000";
 familyName = Cormorant;
 featurePrefixes = (
 {
