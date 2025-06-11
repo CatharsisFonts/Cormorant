@@ -1,5 +1,5 @@
 {
-.appVersion = "3150";
+.appVersion = "3416";
 DisplayStrings = (
 "h/hcircumflex/zero.lf.zero/zero.lf.zero",
 "/Oogonek/Oogonek/Oogonek/Oogonek/Oogonek_acutecomb.liga/Oogonek_acutecomb.liga/Oogonek_acutecomb.liga.ss13/Oogonek_acutecomb.liga.ss13/oogonek/oogonek/oogonek/oogonek/oogonek_acutecomb.liga/oogonek_acutecomb.liga/macroncomb/dotbelowcomb/dotbelowcomb/brevebelowcomb/brevebelowcomb/brevebelowcomb/brevebelowcomb/macronbelowcomb/macronbelowcomb/macronbelowcomb/macronbelowcomb/brevecomb.case/brevecomb.case/brevecomb.case/circumflex/circumflex/circumflex/circumflex/breve.case/breve.case/acute.case.dieresis/acute.case.dieresis/acute.case.dieresis/acute.case.dieresis/caron.case.dieresis/caron.case.dieresis/caron.case.dieresis/caron.case.dieresis/grave.case.dieresis/grave.case.dieresis/grave.case.dieresis/grave.case.dieresis/macron.dieresis/macron.dieresis/macron.dieresis/macron.dieresis"
@@ -60140,6 +60140,7 @@ width = 195;
 {
 components = (
 {
+alignment = -1;
 name = period;
 transform = "{1, 0, 0, 1, 0, 297}";
 }
@@ -60168,6 +60169,7 @@ width = 301;
 {
 components = (
 {
+alignment = -1;
 name = bullet;
 transform = "{1, 0, 0, 1, 0, 125}";
 }
@@ -60185,6 +60187,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = exclam;
 transform = "{-1, 0, 0, -1, 220, 621}";
 }
@@ -60195,6 +60198,7 @@ width = 220;
 {
 components = (
 {
+alignment = -1;
 name = exclam;
 transform = "{-1, 0, 0, -1, 220, 621}";
 }
@@ -60246,6 +60250,7 @@ width = 327;
 {
 components = (
 {
+alignment = -1;
 name = question;
 transform = "{-1, 0, 0, -1, 327, 619}";
 }
@@ -61370,6 +61375,7 @@ position = "{120, 625}";
 );
 components = (
 {
+alignment = -1;
 name = bracketleft.case;
 transform = "{-1, 0, 0, -1, 274, 608}";
 }
@@ -62732,6 +62738,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = comma;
 transform = "{-1, 0, 0, -1, 189, 474}";
 }
@@ -62742,6 +62749,7 @@ width = 154;
 {
 components = (
 {
+alignment = -1;
 name = comma;
 transform = "{-1, 0, 0, -1, 201, 494}";
 }
@@ -62759,6 +62767,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = comma;
 transform = "{1, 0, 0, 1, -35, 573}";
 }
@@ -62769,6 +62778,7 @@ width = 154;
 {
 components = (
 {
+alignment = -1;
 name = comma;
 transform = "{1, 0, 0, 1, -11, 520}";
 }
@@ -84034,7 +84044,7 @@ transform = "{1, 0, 0, 1, 4, -23}";
 {
 alignment = -1;
 name = circumflex.case;
-transform = "{1, 0, 0, 1, 23, 117}";
+transform = "{1, 0, 0, -1, 23, 1086}";
 }
 );
 layerId = "899E7F5F-806C-4D81-B34A-222CEA57032B";
@@ -84056,7 +84066,7 @@ transform = "{1, 0, 0, 1, 4, -23}";
 {
 alignment = -1;
 name = circumflex.case;
-transform = "{1, 0, 0, 1, 23, 117}";
+transform = "{1, 0, 0, -1, 23, 1132}";
 }
 );
 layerId = "05D38584-429E-4AAF-9BEA-6CB44526FD1C";
