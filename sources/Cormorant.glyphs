@@ -1,5 +1,5 @@
 {
-.appVersion = "3524";
+.appVersion = "3534";
 .formatVersion = 3;
 DisplayStrings = (
 "/one.lf/baht.lf/one.lf/hryvnia.lf/hryvnia.lf/one.lf c/euro.lf/one.lf/dollar.lf/one.lf H/one.lf/sheqel.lf H
@@ -18,7 +18,8 @@ pi⁃pi⁃pi⁃pi",
 Яя́ є́ э́ ы́ і/i-cy.dotless ́   ё́ /dieresiscomb.narrow ї́ Ю/yu-cy.ss10 ю́ Ъъ́ /El-cy.ss02/el-cy.ss02/El-cy.loclBGR/el-cy.loclBGR 
 я̀ є̀ э̀ ы̀ і̀ ё̀ ї̀ ю̀ ъ̀ /hardsign-cy.ss10  ӣ/imacron-cy.loclBGR/imacron-cy.ss10/ii-cy.loclBGR.sc/imacron-cy.loclBGR.sc/imacron-cy.ss10.sc/ii-cy.loclBGR   н/en-cy.loclBGR/en-cy.ss10  /El-cy.ss10/El-cy.ss02/El-cy.loclBGR/el-cy.loclBGR/el-cy.ss02/el-cy.ss10",
 "al-ʿArabī
-Shuʿayb    "
+Shuʿayb    ",
+"uμµa"
 );
 axes = (
 {
@@ -113,7 +114,7 @@ wght = {
 };
 }
 );
-date = "2026-03-16 20:39:05 +0000";
+date = "2026-10-06 18:38:03 +0000";
 familyName = Cormorant;
 featurePrefixes = (
 {
@@ -197171,6 +197172,8 @@ unicode = 937;
 },
 {
 glyphname = mu;
+kernLeft = n;
+kernRight = a;
 layers = (
 {
 anchors = (
@@ -241222,6 +241225,32 @@ width = 526;
 metricLeft = o;
 metricRight = o;
 unicode = 8706;
+},
+{
+glyphname = micro;
+kernLeft = n;
+kernRight = a;
+layers = (
+{
+layerId = "68864C9E-53B8-40CD-B419-4EDDE40154E2";
+shapes = (
+{
+ref = mu;
+}
+);
+width = 503;
+},
+{
+layerId = "54DBAB32-430E-4550-BB6B-C94C4509351E";
+shapes = (
+{
+ref = mu;
+}
+);
+width = 501;
+}
+);
+unicode = 181;
 },
 {
 glyphname = percent;
@@ -341487,5 +341516,5 @@ name = vStem1;
 );
 unitsPerEm = 1000;
 versionMajor = 4;
-versionMinor = 3;
+versionMinor = 4;
 }

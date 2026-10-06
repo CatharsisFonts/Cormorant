@@ -1,5 +1,5 @@
 {
-.appVersion = "3524";
+.appVersion = "3534";
 .formatVersion = 3;
 DisplayStrings = (
 "Che/f.short ’s o’clock l’ève
@@ -44,7 +44,8 @@ closed/longs_i.liga mple
 я̀ є̀ э̀ ы̀ і̀ ё̀ /dieresis.narrow ïї̀ ю̀ ъ̀/El-cy.loclBGR/El-cy.ss02  н 
 ҙӷҷ ҙӷҷҽҿ ",
 "al-ʿArabī
-Shuʿayb    "
+Shuʿayb    ",
+"unμμµ"
 );
 axes = (
 {
@@ -138,7 +139,7 @@ wght = {
 };
 }
 );
-date = "2026-03-16 20:39:19 +0000";
+date = "2026-10-06 18:37:52 +0000";
 familyName = Cormorant;
 featurePrefixes = (
 {
@@ -133553,6 +133554,32 @@ metricRight = o;
 unicode = 8706;
 },
 {
+glyphname = micro;
+kernLeft = u;
+kernRight = a;
+layers = (
+{
+layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
+shapes = (
+{
+ref = mu;
+}
+);
+width = 441;
+},
+{
+layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
+shapes = (
+{
+ref = mu;
+}
+);
+width = 447;
+}
+);
+unicode = 181;
+},
+{
 glyphname = percent;
 layers = (
 {
@@ -134004,7 +134031,7 @@ layers = (
 layerId = "2373B5BC-5F65-41C1-A640-5B37284EFBFD";
 shapes = (
 {
-pos = (45,270);
+pos = (48,270);
 ref = plus;
 }
 );
@@ -134014,7 +134041,7 @@ width = 398;
 layerId = "A1717557-2B81-457C-987E-D55DA76CA63F";
 shapes = (
 {
-pos = (43,270);
+pos = (48,270);
 ref = plus;
 }
 );
@@ -170096,5 +170123,5 @@ name = vStem1;
 );
 unitsPerEm = 1000;
 versionMajor = 4;
-versionMinor = 3;
+versionMinor = 4;
 }
